@@ -5,7 +5,7 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dist=path.join(root,'dist');
 const source=path.join(root,'control-room','public');
 const readJSON=async file=>JSON.parse((await readFile(path.join(root,file),'utf8')).replace(/^\uFEFF/,''));
-const media=(await Promise.all(['radio','print-online','organisations'].map(name=>readJSON(`data/media-${name}.json`)))).flat();
+const media=(await Promise.all(['radio','print-online','organisations','independent','digital-creators','national-podcasts','women','community'].map(name=>readJSON(`data/media-${name}.json`)))).flat();
 if(new Set(media.map(m=>m.id)).size!==media.length)throw new Error('Duplicate media IDs');
 await mkdir(path.join(dist,'assets','data'),{recursive:true});
 await writeFile(path.join(dist,'assets','data','media.json'),JSON.stringify(media,null,2)+'\n');

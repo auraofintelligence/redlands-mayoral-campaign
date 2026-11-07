@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <meta name="theme-color" content="#210b36">
+  <meta name="theme-color" content="#3f0f75">
   <meta name="referrer" content="no-referrer">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; form-action 'self'; base-uri 'self'; object-src 'none'">
   <link rel="canonical" href="https://auraofintelligence.github.io/redlands-mayoral-campaign/">
-  <meta name="description" content="Luke's election explorer for media, commentary, public sources and possibilities he chooses to save.">
-  <title>Election explorer | Luke Hayes</title>
+  <meta name="description" content="Luke's Redlands command centre for source research, outreach, drafts and saved possibilities.">
+  <title>Command centre | Luke Hayes</title>
   <link rel="icon" href="assets/favicon-32.png" type="image/png">
   <link rel="stylesheet" href="control.css">
   <script src="model.js" defer></script>
@@ -19,29 +19,36 @@
   <a class="skip-link" href="#view">Skip to workspace</a>
   <div class="app-shell">
     <aside class="sidebar" id="sidebar" aria-label="Workspace navigation">
-      <a class="workspace-brand" href="index.html" aria-label="Election explorer home">
+      <a class="workspace-brand" href="index.html" aria-label="Command centre home">
         <img src="assets/favicon-32.png" width="42" height="42" alt="">
-        <span><strong>Luke Hayes</strong><small>Election explorer</small></span>
+        <span><strong>Luke Hayes</strong><small>Redlands command centre</small></span>
       </a>
-      <p class="sidebar-caption">Luke + AI companions</p>
+      <p class="sidebar-caption"><span class="workspace-dot" aria-hidden="true"></span> Luke + AI companions</p>
       <nav class="sidebar-nav" aria-label="Choose a view">
         <div class="nav-group">
-          <button type="button" data-view="media"><span class="nav-symbol" aria-hidden="true">◉</span><span>Media and commentators</span></button>
-          <button type="button" data-view="overview" class="active" aria-current="page"><span class="nav-symbol" aria-hidden="true">◇</span><span>Explore the election</span></button>
-          <button type="button" data-view="plan"><span class="nav-symbol" aria-hidden="true">✦</span><span>My possibilities</span></button>
-          <button type="button" data-view="calendar"><span class="nav-symbol" aria-hidden="true">▦</span><span>Dates I choose</span></button>
+          <p class="nav-heading">Explore</p>
+          <button type="button" data-view="overview" class="active" aria-current="page"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-5v-8H9v8H4a1 1 0 0 1-1-1Z"/></svg><span>Command centre</span></button>
+          <button type="button" data-view="new-media"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10v2a7 7 0 0 0 14 0v-2M12 19v3m-4 0h8"/></svg><span>Local podcasts and creators</span></button>
+          <button type="button" data-view="national-podcasts"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a17 17 0 0 1 0 18 17 17 0 0 1 0-18Z"/></svg><span>National political podcasts</span></button>
+          <button type="button" data-view="women-media"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="M3 4h7l2 2 2-2h7v16h-7l-2 2-2-2H3ZM12 6v16M6 8h3m-3 4h3m6-4h3m-3 4h3"/></svg><span>Women-focused media</span></button>
+          <button type="button" data-view="community-networks"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7v11H3ZM9 21v-7h6v7M7 10h2m6 0h2"/></svg><span>Community networks</span></button>
+          <button type="button" data-view="media"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="14" rx="2"/><path d="m7 7 10-5M7 11h10M7 15h4m-4 3h4"/><circle cx="17" cy="17" r="2"/></svg><span>Media and commentators</span></button>
         </div>
         <div class="nav-group">
-          <button type="button" data-view="outreach"><span class="nav-symbol" aria-hidden="true">↗</span><span>Connections</span></button>
-          <button type="button" data-view="publishing"><span class="nav-symbol" aria-hidden="true">▤</span><span>Drafts</span></button>
-          <button type="button" data-view="inbox"><span class="nav-symbol" aria-hidden="true">▱</span><span>Enquiries</span></button>
+          <p class="nav-heading">Your workspace</p>
+          <button type="button" data-view="outreach"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><circle cx="8" cy="7" r="3"/><path d="M2 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6m2 5a5 5 0 0 1 4 5v1"/></svg><span>Outreach desk</span></button>
+          <button type="button" data-view="plan"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="m12 2 2.7 7.3L22 12l-7.3 2.7L12 22l-2.7-7.3L2 12l7.3-2.7Z"/></svg><span>My possibilities</span></button>
+          <button type="button" data-view="calendar"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 2v6m10-6v6M3 11h18m-14 4h3m4 0h3m-10 3h3"/></svg><span>Dates I choose</span></button>
+          <button type="button" data-view="publishing"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="M13 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-8M8 16l1-4L19 2l3 3-10 10-4 1Zm8-11 3 3"/></svg><span>Drafts</span></button>
+          <button type="button" data-view="inbox"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="m3 12 3-8h12l3 8v8H3Zm0 0h5l2 3h4l2-3h5"/></svg><span>Enquiries</span></button>
         </div>
         <div class="nav-group">
-          <button type="button" data-view="projects"><span class="nav-symbol" aria-hidden="true">▧</span><span>Source library</span></button>
-          <button type="button" data-view="agents"><span class="nav-symbol" aria-hidden="true">✧</span><span>Explore with AI</span></button>
-          <button type="button" data-view="budget"><span class="nav-symbol" aria-hidden="true">◈</span><span>Resources</span></button>
-          <button type="button" data-view="activity"><span class="nav-symbol" aria-hidden="true">↝</span><span>My trail</span></button>
-          <button type="button" data-view="settings"><span class="nav-symbol" aria-hidden="true">⌘</span><span>Storage</span></button>
+          <p class="nav-heading">Library &amp; tools</p>
+          <button type="button" data-view="projects"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="M3 4h5v17H3Zm7 0h4v17h-4Zm6 1 4-1 4 16-4 1Z"/></svg><span>Source library</span></button>
+          <button type="button" data-view="agents"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="m10 3 2 6 6 2-6 2-2 6-2-6-6-2 6-2Zm9 12 1 3 3 1-3 1-1 3-1-3-3-1 3-1Z"/></svg><span>Explore with AI</span></button>
+          <button type="button" data-view="budget"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 9h18M7 2v3m10-3v3m-1 9h3m-3 3h3M7 13v5m-2-2h4"/></svg><span>Resources</span></button>
+          <button type="button" data-view="activity"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-7L3 8m0-6v6h6m3-2v6l4 2"/></svg><span>My trail</span></button>
+          <button type="button" data-view="settings"><svg class="nav-symbol" aria-hidden="true" viewBox="0 0 24 24"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v7c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12v7c0 1.7 3.6 3 8 3s8-1.3 8-3v-7"/></svg><span>Storage</span></button>
         </div>
       </nav>
       <div class="sidebar-footer">
@@ -49,17 +56,18 @@
         <a href="campaign.html">Public campaign preview <span aria-hidden="true">↗</span></a>
         <a href="https://github.com/auraofintelligence/redlands-mayoral-campaign" target="_blank" rel="noopener noreferrer">Source repository <span aria-hidden="true">↗</span></a>
         <a href="https://github.com/auraofintelligence/redlands-mayoral-campaign/blob/main/LICENCE.md" target="_blank" rel="noopener noreferrer">Strange But True licence</a>
+        <a href="privacy.html">Privacy</a>
       </div>
     </aside>
     <div class="workspace">
       <header class="topbar">
         <div class="topbar-heading">
-          <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open workspace navigation" aria-controls="sidebar" aria-expanded="false"><span aria-hidden="true">☰</span></button>
-          <h1 id="screen-title">Explore the election</h1>
+          <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open workspace navigation" aria-controls="sidebar" aria-expanded="false"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+          <h1 id="screen-title">Command centre</h1>
         </div>
         <div class="topbar-actions">
           <span id="storage-status" class="storage-status" role="status">Checking storage</span>
-          <button id="quick-add" type="button" class="button"><span aria-hidden="true">＋</span> Capture a possibility</button>
+          <button id="quick-add" type="button" class="button"><span aria-hidden="true">＋</span> New outreach</button>
         </div>
       </header>
       <main id="view" aria-live="polite" tabindex="-1">

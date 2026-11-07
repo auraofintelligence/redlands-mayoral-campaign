@@ -3,13 +3,13 @@
 var CampaignModel = (function () {
   'use strict';
   var fields = {
-    contacts: {name: 'required', email: 'email', organisation: 'text', channel: ['resident', 'business', 'government', 'traditional-media', 'new-media', 'other'], consent: ['unknown', 'requested', 'granted', 'withdrawn'], consentScope: 'text', consentEvidence: 'text', consentDate: 'date', reviewDate: 'date', notes: 'text'},
+    contacts: {name: 'required', email: 'email', organisation: 'text', channel: ['resident', 'business', 'government', 'traditional-media', 'new-media', 'other'], consent: ['unknown', 'requested', 'granted', 'withdrawn'], consentScope: 'text', consentEvidence: 'text', consentDate: 'date', reviewDate: 'date', notes: 'text', sourceId: 'text', sourceUrl: 'url', contactUrl: 'url', stage: ['exploring', 'drafting', 'contacted', 'replied', 'parked'], subject: 'text', message: 'text', lastContactDate: 'date'},
     enquiries: {title: 'required', contactId: 'text', receivedDate: 'date-required', deadline: 'date', status: ['new', 'acknowledged', 'researching', 'responded', 'closed'], sourceUrl: 'url', notes: 'text'},
     publications: {title: 'required', format: ['web', 'email', 'print', 'audio', 'video', 'social'], status: ['draft', 'review', 'approved', 'published', 'withdrawn'], sourceUrl: 'url', assetPath: 'text', reviewer: 'text', reviewedDate: 'date', authorisation: 'text', publishedUrl: 'url', notes: 'text'},
     tasks: {title: 'required', owner: 'text', dueDate: 'date', status: ['planned', 'active', 'blocked', 'done'], evidenceUrl: 'url', notes: 'text'},
     expenses: {description: 'required', date: 'date-required', amount: 'money', currency: ['AUD'], category: 'required', payee: 'text', receiptReference: 'text', paymentReference: 'text', status: ['planned', 'incurred', 'paid', 'cancelled'], notes: 'text'}
   };
-  var defaults = {contacts: {channel: 'other', consent: 'unknown'}, enquiries: {status: 'new'}, publications: {format: 'web', status: 'draft'}, tasks: {status: 'planned'}, expenses: {currency: 'AUD', status: 'planned'}};
+  var defaults = {contacts: {channel: 'other', consent: 'unknown', stage: 'exploring'}, enquiries: {status: 'new'}, publications: {format: 'web', status: 'draft'}, tasks: {status: 'planned'}, expenses: {currency: 'AUD', status: 'planned'}};
   function fail(message) { throw new Error(message); }
   function fresh() { return {version: 1, revision: 0, contacts: [], enquiries: [], publications: [], tasks: [], expenses: [], suppression: [], audit: []}; }
   function collection(name) { if (!Object.prototype.hasOwnProperty.call(fields, name)) fail('Unknown collection.'); return fields[name]; }
@@ -47,6 +47,7 @@ var CampaignModel = (function () {
     if (id && index < 0) fail('Record not found.');
     var clean = validate(name, input);
     if (name === 'contacts') {
+      if (clean.sourceId && state.contacts.some(function (item) { return item.sourceId === clean.sourceId && item.id !== id; })) fail('Source already has a contact record.');
       if (clean.email && state.contacts.some(function (item) { return item.email === clean.email && item.id !== id; })) fail('Email already has a contact record.');
       if (clean.email && state.suppression.some(function (item) { return item.email === clean.email; }) && clean.consent !== 'withdrawn') fail('This email is suppressed. Keep its consent withdrawn.');
       if (clean.consent === 'withdrawn' && clean.email && !state.suppression.some(function (item) { return item.email === clean.email; })) state.suppression.push({email: clean.email, at: context.now(), reason: 'Consent withdrawn'});

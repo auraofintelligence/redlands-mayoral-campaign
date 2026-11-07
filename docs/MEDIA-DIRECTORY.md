@@ -6,11 +6,29 @@ This is a browsable set of public media options for Luke. It does not prescribe 
 
 ## What is included
 
-The initial directory contains 44 entries across three files: 25 print, television, online and commentary entries; 15 radio entries; and four public organisation, forum or official-source entries. Of the 25 print and online entries, nine are named professional journalists, editors or a podcast host associated with outlets already listed. Those nine are additional ways to understand an outlet's published work, not nine extra media organisations.
+The directory contains 76 entries across eight files: 25 print, television, online and commentary entries; 15 radio entries; four public organisation, forum or official-source entries; ten additional South East Queensland podcasts and digital publishers; seven national political interview shows; five women-focused publications; and ten Redlands community groups. Of the 25 print and online entries, nine are named professional journalists, editors or a podcast host associated with outlets already listed. Those nine are additional ways to understand an outlet's published work, not nine extra media organisations.
 
-The remaining 35 directory entries include outlets, programmes, channels and organisations. They are not 35 independent owners. ABC news and radio services share a broadcaster; SBS News and SBS Audio share a broadcaster. The Redland City Minute's Substack is recorded as a source link on its existing entry, rather than counted as another outlet.
+Entries include outlets, programmes, channels and organisations, not distinct independent owners. ABC news and radio services share a broadcaster; SBS News and SBS Audio share a broadcaster. Radio Reversal and Eco Radio have explicit 4ZZZ affiliations. The Redland City Minute's Substack is recorded as a source link on its existing entry, rather than counted as another outlet.
 
 Local sources cover mainland Redlands, the Bay Islands and Bayside. Broader Queensland and national options are included with their actual area stated. Westender is chiefly a West End publication with historical Redland reporting; it is not presented as a Redland local newspaper.
+
+## Local podcasts and creators
+
+The dedicated `#new-media` view contains 12 local discovery entries. Ten are additional records in `media-independent.json` and `media-digital-creators.json`; The Redland City Minute and Redlands2030 reuse their existing records. Region and format filters work together with text search and the evidence filter. Regions describe production or editorial focus, not listener location or audience demographics.
+
+The set includes Women of Wynnum Manly, Living the Dream, Radio Reversal, Jonathan Sriranganathan's writing, Eco Radio, Glass Media / Just To Be Clear, Ipswich Today, Everyone Has a Story, Is Everybody Here? and Striking Gold. Publisher affiliations and commercial or advocacy contexts are recorded in the notes. National podcasts are not included in this local view merely for discussing Queensland.
+
+Each new record links an example of its published work. These examples establish local subject matter or publishing activity, not coverage of the current Redland mayoral contest. Some feeds are older or intermittent: dates remain visible, and current activity is not inferred from an accessible archive. The directory is a starting set, with regional and platform gaps still to explore.
+
+## National interviews, women-focused media and community networks
+
+The `#national-podcasts` view has seven entries: The Karl Stefanovic Show, Topher Field, Betoota Talks, Guardian Australia's Australian Politics, Democracy Sausage, Politics with Michelle Grattan and Follow the Money. Publisher and guest examples are linked. Topher Field's separate interview feed ends in July 2024 and is explicitly an archive; his current site promotes The Oddcast. A listing does not assert current availability for guests. Karl Stefanovic's management enquiry form is distinguished from a dedicated podcast booking desk.
+
+The `#women-media` view has six entries: five additional publications and the existing Women of Wynnum Manly record. It includes Women's Agenda, Mamamia / The Quicky, Missing Perspectives, Cheek Media and The Australian Women's Weekly. BroadAgenda was not added because its checked domain was parked. Publishing focus is described from public sources, without inferring individual readers or membership.
+
+The `#community-networks` view identifies ten Redlands groups across community centres, neighbourhood associations, a community newsletter, men's and women's groups, service clubs, arts and sport. Public newsletters, calendars, Facebook pages and group links come from each organisation's own site or verified official listing. Organisation type and format are searchable filters. Public channels do not establish group size, activity inside a private group or permission to post. Actual participation rules are retained when published.
+
+Every source can open an outreach record with its public route attached. Contact status, message drafts and notes are Luke's saved work. Copying a draft does not send it or mark a conversation as contacted. Existing source records reopen by source ID rather than creating duplicate contacts.
 
 ## What the evidence labels mean
 

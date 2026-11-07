@@ -21,6 +21,72 @@ test('consent requires evidence and rejects invalid dates and unrecognised profi
   assert.throws(() => model.validate('contacts',{...contact,votingIntention:'unknown'}),/Unknown field/);
 });
 
+test('older contact inputs keep consent and default optional outreach fields without a migration', () => {
+  const validated=model.validate('contacts',contact);
+  assert.equal(validated.stage,'exploring');
+  for (const field of ['sourceId','sourceUrl','contactUrl','subject','message','lastContactDate']) {
+    assert.equal(validated[field],'');
+  }
+  for (const [field,value] of Object.entries(contact)) assert.equal(validated[field],value);
+  const minimal=model.validate('contacts',{name:'Unlinked contact'});
+  assert.equal(minimal.consent,'unknown');
+  assert.equal(minimal.stage,'exploring');
+  assert.equal(model.fresh().version,1);
+});
+
+test('outreach fields reject invalid stages, unsafe URLs and impossible contact dates', () => {
+  assert.throws(() => model.validate('contacts',{name:'Example',stage:'sent'}),/valid stage/);
+  assert.throws(() => model.validate('contacts',{name:'Example',sourceUrl:'javascript:alert(1)'}),/sourceUrl must be an HTTPS URL/);
+  assert.throws(() => model.validate('contacts',{name:'Example',contactUrl:'http://example.org/contact'}),/contactUrl must be an HTTPS URL/);
+  assert.throws(() => model.validate('contacts',{name:'Example',lastContactDate:'2026-02-30'}),/lastContactDate must be YYYY-MM-DD/);
+});
+
+test('source-linked contacts reject duplicate creates and updates while allowing their own updates', () => {
+  const state=model.fresh();
+  const first={name:'First source',sourceId:'source-one'};
+  const second={name:'Second source',sourceId:'source-two'};
+  const savedFirst=model.save(state,'contacts',first,null,context);
+  const savedSecond=model.save(state,'contacts',second,null,context);
+  const before=structuredClone(state);
+  assert.throws(() => model.save(state,'contacts',{name:'Duplicate',sourceId:' source-one ',email:'duplicate@example.org',consent:'withdrawn'},null,context),/Source already has a contact record/);
+  assert.throws(() => model.save(state,'contacts',{...second,sourceId:'source-one'},savedSecond.id,context),/Source already has a contact record/);
+  assert.deepEqual(state,before);
+  const updated=model.save(state,'contacts',{...first,stage:'parked'},savedFirst.id,context);
+  assert.equal(updated.stage,'parked');
+  assert.equal(updated.id,savedFirst.id);
+  model.save(state,'contacts',{name:'Unlinked one'},null,context);
+  model.save(state,'contacts',{name:'Unlinked two',sourceId:''},null,context);
+  assert.equal(state.contacts.length,4);
+});
+
+test('outreach draft and chosen stage persist across reloads without granting consent', async () => {
+  const directory=await temporary();
+  try {
+    const store=new OperationsStore(directory);
+    const draft={name:'Example programme',channel:'new-media',sourceId:'example-programme',sourceUrl:'https://example.org/programme',contactUrl:'https://example.org/contact',stage:'drafting',subject:'Conversation enquiry',message:'Hello,\nI would like to ask about your programme.'};
+    const saved=await store.save('contacts',draft);
+    const reloaded=await new OperationsStore(directory).read();
+    for (const [field,value] of Object.entries(draft)) assert.equal(reloaded.contacts[0][field],value);
+    assert.equal(reloaded.contacts[0].consent,'unknown');
+    assert.equal(reloaded.contacts[0].lastContactDate,'');
+    const edited={...draft,stage:'replied',lastContactDate:'2026-11-08',message:draft.message+'\nDraft retained after a reply.'};
+    await store.save('contacts',edited,saved.id);
+    const after=await new OperationsStore(directory).read();
+    assert.equal(after.contacts.length,1);
+    assert.equal(after.contacts[0].id,saved.id);
+    assert.equal(after.contacts[0].stage,'replied');
+    assert.equal(after.contacts[0].lastContactDate,'2026-11-08');
+    assert.equal(after.contacts[0].message,edited.message);
+    assert.equal(after.contacts[0].consent,'unknown');
+    assert.deepEqual(after.suppression,[]);
+    assert.equal(after.revision,2);
+    assert.ok(after.audit.every(entry=>!JSON.stringify(entry).includes(draft.message)));
+    const beforeDuplicate=await readFile(store.file,'utf8');
+    await assert.rejects(store.save('contacts',{name:'Duplicate programme',sourceId:draft.sourceId}),/Source already has a contact record/);
+    assert.equal(await readFile(store.file,'utf8'),beforeDuplicate);
+  } finally {await cleanup(directory);}
+});
+
 test('suppression survives updates and prevents duplicate re-entry', () => {
   const state=model.fresh();
   const record=model.save(state,'contacts',contact,null,context);

@@ -79,7 +79,13 @@
       "https://redlandcityminute.substack.com/",
       "https://redlandcityminute.substack.com/about"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "new-media",
+    "region": "Redlands",
+    "formats": [
+      "newsletter",
+      "article"
+    ]
   },
   {
     "id": "brisbane-times",
@@ -403,7 +409,12 @@
       "https://redlands2030.net/contact-us/",
       "https://redlands2030.net/category/elections/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "new-media",
+    "region": "Redlands",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "community-leader-redlands",

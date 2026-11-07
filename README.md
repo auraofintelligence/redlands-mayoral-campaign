@@ -1,10 +1,14 @@
-# Luke's election explorer
+# Luke's Redlands command centre
 
-[Open the control room](https://auraofintelligence.github.io/redlands-mayoral-campaign/) or go straight to [media and commentators](https://auraofintelligence.github.io/redlands-mayoral-campaign/#media).
+[Open the command centre](https://auraofintelligence.github.io/redlands-mayoral-campaign/) or go straight to the [Outreach desk](https://auraofintelligence.github.io/redlands-mayoral-campaign/#outreach).
 
 A control room for choosing a direction, discovering Redlands election media and commentary, following public sources, and saving possibilities. Luke Nathan Hayes uses it with AI companions at his own pace. It starts with no assigned work, invented activity or personal schedule.
 
-The primary view is an interactive media directory and personal workspace. Radio, traditional media, new media and public commentators are research routes. A listing does not mean the source has covered this election, endorsed Luke or agreed to receive messages. Coverage evidence and checked dates belong with the relevant entry.
+The primary view connects discovery with a working outreach desk. Each source has a Prepare outreach action. It opens a draft contact record with the verified public route and source attached. Luke can save a subject, message and notes, reopen the same record, copy a draft and record whether he is exploring, drafting, has contacted someone, received a reply or parked the idea. Preparing or copying does not send a message or change the conversation stage.
+
+Direct directories cover [local podcasts and creators](https://auraofintelligence.github.io/redlands-mayoral-campaign/#new-media), [national political podcasts](https://auraofintelligence.github.io/redlands-mayoral-campaign/#national-podcasts), [women-focused media](https://auraofintelligence.github.io/redlands-mayoral-campaign/#women-media), [Redlands community networks](https://auraofintelligence.github.io/redlands-mayoral-campaign/#community-networks) and [all sources](https://auraofintelligence.github.io/redlands-mayoral-campaign/#media). Listings have public channels, evidence and checked dates. A listing does not mean the source has covered this election, endorsed Luke or agreed to receive messages.
+
+The local podcast and creator view focuses on South East Queensland, with region and format filters. National interviews and women-focused publications have separate views. Community networks identify local clubs, associations, centres and groups through their own public channels. Example episodes and articles are labelled separately from verified coverage of the current Redland election.
 
 Luke's approach is relaxed and serendipitous. He can explore, save an idea, draft something, choose a date or leave it open. The earlier mention of **11 November 2026** is retained only as a tentative option. No campaign launch or personal timetable is declared by this repository.
 
@@ -70,7 +74,7 @@ Browser-local storage is not a private account system. Keep sensitive correspond
 
 The [source audit](docs/SOURCE-AUDIT.md) explains the curated project collection and pinned provenance. Original source projects retain their own status. Public proposals, working tools, creative work and prototypes are not automatically campaign policies.
 
-The purple visual system follows P4A's existing patterns. Real Redlands photographs carry photographer, date, source and Creative Commons credits. Original repository material follows [the Strange But True Public Source Licence](LICENCE.md); photographs, fonts and third-party work retain their own terms. This is public source, not an open-source licence.
+The command centre uses [P4A's](https://p4a.xyz/) deep purple, violet, amethyst and gold palette with a full-width Redlands photograph. Luke's [Outreach CMS](https://auraofintelligence.github.io/outreach-cms/) informs usable page content and workflows. Real Redlands photographs carry photographer, date, source and Creative Commons credits. Original repository material follows [the Strange But True Public Source Licence](LICENCE.md); photographs, fonts and third-party work retain their own terms. This is public source, not an open-source licence.
 
 The project `robots.txt` records crawler preferences. Only the shared hostname's root robots file controls crawling on GitHub Pages. [Host-root notes](docs/HOST-ROBOTS.md) describe the scoped update. Crawler signals are not access control.
 

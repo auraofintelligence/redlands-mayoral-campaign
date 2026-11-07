@@ -1,0 +1,195 @@
+[
+  {
+    "kind": "online-media",
+    "area": "Australia",
+    "region": "Australia",
+    "coverageUrl": null,
+    "coverageTitle": null,
+    "coverageDate": null,
+    "verification": "outlet-verified",
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "women-focused",
+    "id": "womens-agenda",
+    "name": "Women's Agenda",
+    "description": "Australian reporting and commentary on politics, work, leadership, health and climate, with newsletters and the Women's Agenda Podcast.",
+    "website": "https://womensagenda.com.au/",
+    "contactUrl": "https://womensagenda.com.au/contact/",
+    "formats": [
+      "article",
+      "newsletter",
+      "podcast"
+    ],
+    "tags": [
+      "women-focused",
+      "public-affairs",
+      "work",
+      "leadership",
+      "podcast"
+    ],
+    "sampleUrl": "https://podcasts.apple.com/au/podcast/ais-gendered-harms-and-case-for-a-feminist-ai-future/id1465210528?i=1000793310073",
+    "sampleTitle": "AI's gendered harms and case for a feminist AI future",
+    "sampleDate": "2026-10-05",
+    "notes": "Published by Agenda Media, which describes itself as women-owned and independently run. The example is Angela Priestley's interview with researcher Elise Stephenson about AI and public life. Its title and 5 October date are listed in the publisher-authored podcast feed; the individual Apple page could not be fetched during checking. No current Redland election coverage was verified.",
+    "sourceUrls": [
+      "https://womensagenda.com.au/",
+      "https://womensagenda.com.au/contact/",
+      "https://womensagenda.com.au/advertising-2/about-us/",
+      "https://podcasts.apple.com/au/podcast/the-womens-agenda-podcast/id1465210528",
+      "https://podcasts.apple.com/au/podcast/ais-gendered-harms-and-case-for-a-feminist-ai-future/id1465210528?i=1000793310073"
+    ]
+  },
+  {
+    "kind": "online-media",
+    "area": "Australia",
+    "region": "Australia",
+    "coverageUrl": null,
+    "coverageTitle": null,
+    "coverageDate": null,
+    "verification": "outlet-verified",
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "women-focused",
+    "id": "mamamia-the-quicky",
+    "name": "Mamamia / The Quicky",
+    "description": "Mamamia publishes news, interviews and commentary alongside its podcast network. The Quicky covers current affairs through news updates, explainers and guest conversations.",
+    "website": "https://www.mamamia.com.au/podcasts/the-quicky/",
+    "contactUrl": "https://help.mamamia.com.au/en-US/contact",
+    "formats": [
+      "podcast",
+      "article",
+      "video",
+      "social"
+    ],
+    "tags": [
+      "women-focused",
+      "current-affairs",
+      "podcast",
+      "interviews"
+    ],
+    "sampleUrl": "https://podcasts.apple.com/au/podcast/nab-to-cut-2500-jobs-did-australian-politics-just-change/id1451469361?i=1000797305811",
+    "sampleTitle": "NAB To Cut 2500 Jobs & Did Australian Politics Just Change Forever?",
+    "sampleDate": null,
+    "notes": "This record combines the women-focused publisher and one named news programme, not two separate media organisations. The example includes Josh Butler discussing political representatives and their communities. The publisher feed uses a relative date and the individual episode page could not be fetched, so an exact publication date is not recorded. The contact link is Mamamia's general enquiry form; programme-specific contact details appear in the show notes. No current Redland election coverage was verified.",
+    "sourceUrls": [
+      "https://www.mamamia.com.au/podcasts/the-quicky/",
+      "https://help-move.mamamia.com.au/en-US",
+      "https://help.mamamia.com.au/en-US/contact",
+      "https://www.mamamia.com.au//news/",
+      "https://podcasts.apple.com/au/podcast/the-quicky/id1451469361",
+      "https://podcasts.apple.com/au/podcast/nab-to-cut-2500-jobs-did-australian-politics-just-change/id1451469361?i=1000797305811"
+    ]
+  },
+  {
+    "kind": "online-media",
+    "area": "Australia",
+    "region": "Australia",
+    "coverageUrl": null,
+    "coverageTitle": null,
+    "coverageDate": null,
+    "verification": "outlet-verified",
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "women-focused",
+    "id": "missing-perspectives",
+    "name": "Missing Perspectives",
+    "description": "Australian digital publication covering public affairs, culture, sport and work, with reporting and commentary about women's experiences and representation.",
+    "website": "https://missingperspectives.com/",
+    "contactUrl": "https://missingperspectives.com/contact/",
+    "formats": [
+      "article",
+      "newsletter",
+      "social"
+    ],
+    "tags": [
+      "women-focused",
+      "public-affairs",
+      "culture",
+      "sport",
+      "work"
+    ],
+    "sampleUrl": "https://missingperspectives.com/posts/2026-27-federal-budget-women-missed-coverage/",
+    "sampleTitle": "What the 2026-27 Federal Budget coverage missed for women",
+    "sampleDate": "2026-05-13",
+    "notes": "The example is Lauren Beckman's commentary on federal budget coverage, not Redland election reporting. The publication's contact page has an enquiry form and a separate submissions route. Its current-affairs pages and contact route were accessible; the homepage timed out during checking. No current Redland election coverage was verified.",
+    "sourceUrls": [
+      "https://missingperspectives.com/desks/news/",
+      "https://missingperspectives.com/contact/",
+      "https://missingperspectives.com/posts/2026-27-federal-budget-women-missed-coverage/"
+    ]
+  },
+  {
+    "kind": "online-media",
+    "area": "Australia",
+    "region": "Australia",
+    "coverageUrl": null,
+    "coverageTitle": null,
+    "coverageDate": null,
+    "verification": "outlet-verified",
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "women-focused",
+    "id": "cheek-media",
+    "name": "Cheek Media",
+    "description": "Independent Australian commentary publication founded by Hannah Ferguson, publishing on political, social and feminist issues through Instagram, Substack articles and newsletters.",
+    "website": "https://www.cheekmedia.co/",
+    "contactUrl": "https://www.cheekmedia.co/contact",
+    "formats": [
+      "social",
+      "newsletter",
+      "article"
+    ],
+    "tags": [
+      "women-focused",
+      "commentary",
+      "feminism",
+      "public-affairs",
+      "newsletter"
+    ],
+    "sampleUrl": "https://cheekmedia.substack.com/p/open-for-a-surprise",
+    "sampleTitle": "Open for a surprise: a new news newsletter",
+    "sampleDate": "2026-10-30",
+    "notes": "Cheek explicitly describes its editorial position as progressive and feminist. The linked newsletter illustrates its political commentary and editorial format. Founder Hannah Ferguson has also disclosed an intention to contest Grayndler as an independent; that personal candidacy is distinct from this publication entry. This is a national source, not a Brisbane local outlet merely because Ferguson studied in Queensland. No current Redland election coverage was verified.",
+    "sourceUrls": [
+      "https://www.cheekmedia.co/",
+      "https://www.cheekmedia.co/about",
+      "https://www.cheekmedia.co/contact",
+      "https://cheekmedia.substack.com/about",
+      "https://cheekmedia.substack.com/p/open-for-a-surprise",
+      "https://cheekmedia.substack.com/p/a-sentimental-saturday-note-i-dont"
+    ]
+  },
+  {
+    "kind": "magazine-and-online",
+    "area": "Australia",
+    "region": "Australia",
+    "coverageUrl": null,
+    "coverageTitle": null,
+    "coverageDate": null,
+    "verification": "outlet-verified",
+    "checkedOn": "2026-11-08",
+    "discoveryGroup": "women-focused",
+    "id": "australian-womens-weekly",
+    "name": "The Australian Women's Weekly",
+    "description": "National magazine and digital publication with interviews, real-life reporting, work, community, health and culture coverage, plus its Love Stories podcast.",
+    "website": "https://www.womensweekly.com.au/",
+    "contactUrl": "https://www.aremedia.com.au/about-us/contact-us/",
+    "formats": [
+      "article",
+      "newsletter",
+      "podcast"
+    ],
+    "tags": [
+      "women-focused",
+      "magazine",
+      "community-stories",
+      "interviews",
+      "work"
+    ],
+    "sampleUrl": "https://www.womensweekly.com.au/news/real-life/narelle-fraser-the-policewoman/",
+    "sampleTitle": "Narelle Fraser spent her life protecting others. Then she had to save herself",
+    "sampleDate": "2026-11-06",
+    "notes": "Published by Are Media. This is an established magazine with digital formats, not an independent creator. The example profiles former detective Narelle Fraser's working life and experience of leaving policing. The contact link is the publisher's general form rather than a verified direct editorial booking route for this title. No current Redland election coverage was verified.",
+    "sourceUrls": [
+      "https://www.womensweekly.com.au/",
+      "https://www.aremedia.com.au/about-us/contact-us/",
+      "https://www.womensweekly.com.au/news/real-life/narelle-fraser-the-policewoman/"
+    ]
+  }
+]
