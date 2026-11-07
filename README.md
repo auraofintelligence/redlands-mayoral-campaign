@@ -1,5 +1,7 @@
 # Luke's election explorer
 
+[Open the control room](https://auraofintelligence.github.io/redlands-mayoral-campaign/) or go straight to [media and commentators](https://auraofintelligence.github.io/redlands-mayoral-campaign/#media).
+
 A control room for choosing a direction, discovering Redlands election media and commentary, following public sources, and saving possibilities. Luke Nathan Hayes uses it with AI companions at his own pace. It starts with no assigned work, invented activity or personal schedule.
 
 The primary view is an interactive media directory and personal workspace. Radio, traditional media, new media and public commentators are research routes. A listing does not mean the source has covered this election, endorsed Luke or agreed to receive messages. Coverage evidence and checked dates belong with the relevant entry.

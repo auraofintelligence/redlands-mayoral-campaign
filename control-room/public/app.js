@@ -33,12 +33,12 @@
     return value;
   }
   function browserState() { const raw = localStorage.getItem(key); return raw ? validateState(JSON.parse(raw)) : M.fresh(); }
-  async function save(collection, record, id) {
+  async function save(collection, record, id, expectedRevision) {
     if (local) { state = (await api(`records/${collection}`, {record,...(id ? {id} : {})})).state; }
     else {
       const write = () => {
         const latest = browserState();
-        if (latest.revision !== state.revision) { state = latest; throw new Error('Another tab changed the workspace. Your form is still open. Review the latest records before saving again.'); }
+        if (latest.revision !== expectedRevision) { state = latest; throw new Error('Another tab changed the workspace. Copy any unsaved notes, then close this form and reopen the latest record before editing.'); }
         const next = structuredClone(state); M.save(next,collection,record,id,context);
         localStorage.setItem(key,JSON.stringify(next)); state = next;
       };
@@ -99,6 +99,7 @@
     $('#sidebar').classList.remove('open');$('#menu-toggle').setAttribute('aria-expanded','false');
   }
   function openEditor(collection, id, preset={}) {
+    const expectedRevision=state.revision;
     const existing=id ? state[collection].find(r=>r.id===id) : null, record={...M.defaults[collection],...existing,...preset};
     $('#editor').innerHTML=`<form id="record-form"><div class="panel-head"><h2>${id ? 'Edit' : 'Capture'} ${collection==='tasks' ? 'a possibility' : 'a record'}</h2>${button('close','Close')}</div><div class="form-grid">${Object.entries(M.fields[collection]).map(([field,type])=>{
       const value=record[field] ?? '', required=['required','date-required','money'].includes(type), label=labels[field] || field;
@@ -112,7 +113,7 @@
     $('#editor').showModal();
     $('#record-form').addEventListener('submit',async event=>{
       event.preventDefault(); const submit=event.target.querySelector('[type="submit"]');submit.disabled=true;
-      try{await save(collection,Object.fromEntries(new FormData(event.target)),id);$('#editor').close();render();toast('Saved to your '+(local ? 'private local records.' : 'browser.'));}
+      try{await save(collection,Object.fromEntries(new FormData(event.target)),id,expectedRevision);$('#editor').close();render();toast('Saved to your '+(local ? 'private local records.' : 'browser.'));}
       catch(error){$('#editor-error').textContent=error.message;}finally{submit.disabled=false;}
     });
   }
