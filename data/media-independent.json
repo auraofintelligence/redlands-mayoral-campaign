@@ -98,7 +98,8 @@
     "formats": [
       "podcast",
       "newsletter",
-      "social"
+      "social",
+      "radio"
     ],
     "sampleUrl": "https://www.radioreversal.org/episode-24-challenging-the-criminalisation-of-homelessness/",
     "sampleTitle": "Episode 24: Challenging the criminalisation of homelessness",
@@ -168,7 +169,8 @@
     "checkedOn": "2026-11-08",
     "discoveryGroup": "new-media",
     "formats": [
-      "podcast"
+      "podcast",
+      "radio"
     ],
     "sampleUrl": "https://4zzz.org.au/program/eco-radio",
     "sampleTitle": "Pacific Climate Warriors w/ Jacynta Fa'amau",

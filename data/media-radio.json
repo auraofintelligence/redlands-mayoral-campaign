@@ -11,10 +11,19 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.bayfm.org.au/contact/"],
-    "tags": ["community radio", "Redlands", "local"],
+    "sourceUrls": [
+      "https://www.bayfm.org.au/contact/"
+    ],
+    "tags": [
+      "community radio",
+      "Redlands",
+      "local"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The station identifies itself as volunteer-run and live from Thornlands. No specific item about the 2026 Redland mayoral by-election was verified in this research pass."
+    "notes": "The station identifies itself as volunteer-run and live from Thornlands. No specific item about the 2026 Redland mayoral by-election was verified in this research pass.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-4bc",
@@ -28,10 +37,19 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.4bc.com.au/contact-us/"],
-    "tags": ["news", "talkback", "commercial radio"],
+    "sourceUrls": [
+      "https://www.4bc.com.au/contact-us/"
+    ],
+    "tags": [
+      "news",
+      "talkback",
+      "commercial radio"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "Use the official page to choose the appropriate route. An open-line number is not evidence of agreement to an interview. Specific current Redland election coverage was not verified."
+    "notes": "Use the official page to choose the appropriate route. An open-line number is not evidence of agreement to an interview. Specific current Redland election coverage was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-abc-brisbane",
@@ -45,10 +63,21 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.abc.net.au/brisbane", "https://www.abc.net.au/listen/programs/brisbane-sundaymorning/contact-us", "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC"],
-    "tags": ["public broadcaster", "local radio", "news"],
+    "sourceUrls": [
+      "https://www.abc.net.au/brisbane",
+      "https://www.abc.net.au/listen/programs/brisbane-sundaymorning/contact-us",
+      "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC"
+    ],
+    "tags": [
+      "public broadcaster",
+      "local radio",
+      "news"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The contact URL sits under a program path but its page identifies ABC Brisbane and includes the station contact form. ABC says it cannot respond individually to all correspondence. No specific current Redland election item is asserted here."
+    "notes": "The contact URL sits under a program path but its page identifies ABC Brisbane and includes the station contact form. ABC says it cannot respond individually to all correspondence. No specific current Redland election item is asserted here.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-4zzz",
@@ -62,10 +91,21 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.4zzz.au/contacts", "https://www.4zzzfm.org.au/news"],
-    "tags": ["community radio", "news", "current affairs", "music"],
+    "sourceUrls": [
+      "https://www.4zzz.au/contacts",
+      "https://www.4zzzfm.org.au/news"
+    ],
+    "tags": [
+      "community radio",
+      "news",
+      "current affairs",
+      "music"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The contact page distinguishes news stories, interview requests, music submissions and community announcements. Specific coverage of the 2026 Redland mayoral by-election was not verified."
+    "notes": "The contact page distinguishes news stories, interview requests, music submissions and community announcements. Specific coverage of the 2026 Redland mayoral by-election was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-4eb",
@@ -79,10 +119,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.4eb.org.au/homepage/", "https://www.4eb.org.au/contact/"],
-    "tags": ["community radio", "news", "digital audio"],
+    "sourceUrls": [
+      "https://www.4eb.org.au/homepage/",
+      "https://www.4eb.org.au/contact/"
+    ],
+    "tags": [
+      "community radio",
+      "news",
+      "digital audio"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "Current official pages were used, not an old presenter or staff directory. No audience profiling or language-specific campaign recommendation is implied. Specific current Redland election coverage was not verified."
+    "notes": "Current official pages were used, not an old presenter or staff directory. No audience profiling or language-specific campaign recommendation is implied. Specific current Redland election coverage was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-triple-a",
@@ -96,10 +146,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://triplea.org.au/about-us/", "https://triplea.org.au/contact/"],
-    "tags": ["community radio", "multimedia", "local"],
+    "sourceUrls": [
+      "https://triplea.org.au/about-us/",
+      "https://triplea.org.au/contact/"
+    ],
+    "tags": [
+      "community radio",
+      "multimedia",
+      "local"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The organisation describes broadcasting across South East Queensland and through streaming. This entry records the outlet, not an endorsement or an audience-targeting suggestion. Current Redland election coverage was not verified."
+    "notes": "The organisation describes broadcasting across South East Queensland and through streaming. This entry records the outlet, not an endorsement or an audience-targeting suggestion. Current Redland election coverage was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-101fm-logan",
@@ -113,10 +173,21 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://101fm.com.au/about/", "https://101fm.com.au/contact-us/", "https://101fm.com.au/community-news/"],
-    "tags": ["community radio", "neighbouring region", "current affairs"],
+    "sourceUrls": [
+      "https://101fm.com.au/about/",
+      "https://101fm.com.au/contact-us/",
+      "https://101fm.com.au/community-news/"
+    ],
+    "tags": [
+      "community radio",
+      "neighbouring region",
+      "current affairs"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "A neighbouring-region option, not a Redlands-based newsroom. The station reports a signal extending to Moreton Bay islands. Its community-announcement route has separate conditions; no election booking or specific current election coverage was verified."
+    "notes": "A neighbouring-region option, not a Redlands-based newsroom. The station reports a signal extending to Moreton Bay islands. Its community-announcement route has separate conditions; no election booking or specific current election coverage was verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-rise-965",
@@ -130,10 +201,21 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://96five.com/", "https://rise965.com/", "https://rise965.com/contact-us/"],
-    "tags": ["community radio", "podcasts", "local"],
+    "sourceUrls": [
+      "https://96five.com/",
+      "https://rise965.com/",
+      "https://rise965.com/contact-us/"
+    ],
+    "tags": [
+      "community radio",
+      "podcasts",
+      "local"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The old 96five domain redirected to Rise 96.5 during verification. Use the current brand and contact route. No specific 2026 Redland mayoral by-election item was verified."
+    "notes": "The old 96five domain redirected to Rise 96.5 during verification. Use the current brand and contact route. No specific 2026 Redland mayoral by-election item was verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-b105",
@@ -147,10 +229,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://hit.listnr.com/brisbane/", "https://hit.listnr.com/contact/"],
-    "tags": ["commercial radio", "entertainment", "Brisbane"],
+    "sourceUrls": [
+      "https://hit.listnr.com/brisbane/",
+      "https://hit.listnr.com/contact/"
+    ],
+    "tags": [
+      "commercial radio",
+      "entertainment",
+      "Brisbane"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The official network contact page was identified, but its interactive controls were not exposed by the text fetch. Open it in a browser to inspect the current route. No submission or specific Redland election coverage was verified."
+    "notes": "The official network contact page was identified, but its interactive controls were not exposed by the text fetch. Open it in a browser to inspect the current route. No submission or specific Redland election coverage was verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-triple-m-brisbane",
@@ -164,10 +256,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://triplem.listnr.com/brisbane/", "https://triplem.listnr.com/contact/"],
-    "tags": ["commercial radio", "sport", "Brisbane"],
+    "sourceUrls": [
+      "https://triplem.listnr.com/brisbane/",
+      "https://triplem.listnr.com/contact/"
+    ],
+    "tags": [
+      "commercial radio",
+      "sport",
+      "Brisbane"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The official contact page was linked by the station, but its interactive controls were not exposed by the text fetch. No contact submission or specific current Redland election item was verified."
+    "notes": "The official contact page was linked by the station, but its interactive controls were not exposed by the text fetch. No contact submission or specific current Redland election item was verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-nova-1069",
@@ -181,10 +283,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.novaentertainment.com.au/nova-brand", "https://www.novaentertainment.com.au/contact-us"],
-    "tags": ["commercial radio", "music", "Brisbane"],
+    "sourceUrls": [
+      "https://www.novaentertainment.com.au/nova-brand",
+      "https://www.novaentertainment.com.au/contact-us"
+    ],
+    "tags": [
+      "commercial radio",
+      "music",
+      "Brisbane"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "Verified through NOVA Entertainment's own pages. A station-specific NovaFM page could not be retrieved in this pass, so the network page is used. No current Redland election commentary is attributed to the station."
+    "notes": "Verified through NOVA Entertainment's own pages. A station-specific NovaFM page could not be retrieved in this pass, so the network page is used. No current Redland election commentary is attributed to the station.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-kiis-973",
@@ -198,10 +310,19 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://kiis973.com.au/about-us/contact-complaints/"],
-    "tags": ["commercial radio", "music", "Brisbane"],
+    "sourceUrls": [
+      "https://kiis973.com.au/about-us/contact-complaints/"
+    ],
+    "tags": [
+      "commercial radio",
+      "music",
+      "Brisbane"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "The listed contact page is general, not proof of a campaign interview route or an accepted booking. Specific current Redland mayoral election coverage was not verified."
+    "notes": "The listed contact page is general, not proof of a campaign interview route or an accepted booking. Specific current Redland mayoral election coverage was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-sbs-audio",
@@ -215,10 +336,21 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.sbs.com.au/audio", "https://www.sbs.com.au/aboutus/contact-us/", "https://www.sbs.com.au/aboutus/contact-us/faqs/"],
-    "tags": ["public broadcaster", "national", "podcasts"],
+    "sourceUrls": [
+      "https://www.sbs.com.au/audio",
+      "https://www.sbs.com.au/aboutus/contact-us/",
+      "https://www.sbs.com.au/aboutus/contact-us/faqs/"
+    ],
+    "tags": [
+      "public broadcaster",
+      "national",
+      "podcasts"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "A national option rather than a verified Redlands election desk. No language or demographic targeting is suggested. Specific current Redland mayoral by-election coverage was not verified."
+    "notes": "A national option rather than a verified Redlands election desk. No language or demographic targeting is suggested. Specific current Redland mayoral by-election coverage was not verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-abc-newsradio",
@@ -232,10 +364,22 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.abc.net.au/listen/programs/abc-newsradio", "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC", "https://www.abc.net.au/news/contact", "https://help.abc.net.au/hc/en-us/articles/4407234265743-What-are-the-different-ways-I-can-listen-to-ABC-Radio"],
-    "tags": ["public broadcaster", "national news", "current affairs"],
+    "sourceUrls": [
+      "https://www.abc.net.au/listen/programs/abc-newsradio",
+      "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC",
+      "https://www.abc.net.au/news/contact",
+      "https://help.abc.net.au/hc/en-us/articles/4407234265743-What-are-the-different-ways-I-can-listen-to-ABC-Radio"
+    ],
+    "tags": [
+      "public broadcaster",
+      "national news",
+      "current affairs"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "This is separate from ABC Radio Brisbane's local program route. No dedicated NewsRadio item about the current Redland mayoral by-election was verified."
+    "notes": "This is separate from ABC Radio Brisbane's local program route. No dedicated NewsRadio item about the current Redland mayoral by-election was verified.",
+    "formats": [
+      "radio"
+    ]
   },
   {
     "id": "radio-4mbs",
@@ -249,9 +393,20 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "sourceUrls": ["https://www.4mbs.com.au/", "https://www.4mbs.com.au/contact-us/", "https://www.4mbs.com.au/programs/4mbs/"],
-    "tags": ["community radio", "arts", "music"],
+    "sourceUrls": [
+      "https://www.4mbs.com.au/",
+      "https://www.4mbs.com.au/contact-us/",
+      "https://www.4mbs.com.au/programs/4mbs/"
+    ],
+    "tags": [
+      "community radio",
+      "arts",
+      "music"
+    ],
     "checkedOn": "2026-11-08",
-    "notes": "An arts and music option, not a verified general political newsroom. The Music Diary has its own scope. No specific current Redland mayoral election coverage was verified."
+    "notes": "An arts and music option, not a verified general political newsroom. The Music Diary has its own scope. No specific current Redland mayoral election coverage was verified.",
+    "formats": [
+      "radio"
+    ]
   }
 ]

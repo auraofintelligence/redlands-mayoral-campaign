@@ -6,7 +6,7 @@ This is a browsable set of public media options for Luke. It does not prescribe 
 
 ## What is included
 
-The directory contains 109 entries across ten files: 25 print, television, online and commentary entries; 15 radio entries; four public organisation, forum or official-source entries; ten additional South East Queensland podcasts and digital publishers; seven national political interview shows; 16 women-focused publications and podcasts; ten Redlands community groups; 12 music shows and publications; and ten university publications or networks. Of the 25 print and online entries, nine are named professional journalists, editors or a podcast host associated with outlets already listed. Those nine are additional ways to understand an outlet's published work, not nine extra media organisations.
+The catalogue contains 134 entries across 11 files: 25 print, television, online and commentary entries; 15 radio entries; four public organisation, forum or official-source entries; ten additional South East Queensland podcasts and digital publishers; seven national political interview shows; 16 women-focused publications and podcasts; 21 community records; 12 music shows and publications; ten university publications or networks; and 14 union records. Of the 25 print and online entries, nine are named professional journalists, editors or a podcast host associated with outlets already listed. Those nine are additional ways to understand an outlet's published work, not nine extra media organisations.
 
 Entries include outlets, programmes, channels and organisations, not distinct independent owners. ABC news and radio services share a broadcaster; SBS News and SBS Audio share a broadcaster. Radio Reversal and Eco Radio have explicit 4ZZZ affiliations. The Redland City Minute's Substack is recorded as a source link on its existing entry, rather than counted as another outlet.
 
@@ -36,9 +36,25 @@ Music cards display the actual submission route and what was established about A
 
 The `#university` view has 11 entries: ten records in `media-university.json` and the existing Glass Media record, reused by its university tag. It covers UQ, QUT, Griffith, UniSC and UniSQ. Publications include Semper Floreat, Glass, Griffitti and ScratchThat; networks include official club directories and QUT Music Society. Each entry states its actual campus or regional scope, public channels and participation context. A club directory is one discovery route, not a count of its clubs or members. Semper's contributor form addresses current UQ students; Griffith Gold Coast's contact form asks for a student number. These conditions are retained, without assuming Luke has student status. Getamungstit's older archive is not presented as a current publication.
 
-The `#community-networks` view identifies ten Redlands groups across community centres, neighbourhood associations, a community newsletter, men's and women's groups, service clubs, arts and sport. Public newsletters, calendars, Facebook pages and group links come from each organisation's own site or verified official listing. Organisation type and format are searchable filters. Public channels do not establish group size, activity inside a private group or permission to post. Actual participation rules are retained when published.
+## Community networks and workers' unions
 
-Every source can open an outreach record with its public route attached. Contact status, message drafts and notes are Luke's saved work. Copying a draft does not send it or mark a conversation as contacted. Existing source records reopen by source ID rather than creating duplicate contacts.
+The `#community-networks` view identifies 22 Redlands organisations across community centres, neighbourhood associations, a community newsletter, men's and women's groups, service clubs, arts, sport, Probus clubs, chambers of commerce and Indigenous organisations. It includes 21 community-file records and the existing Redlands Coast Chamber record, reused without changing its ID. The five Probus clubs are Capalaba, Victoria Point, Redlands-Bayside, North Redlands and Toondah. Straddie Chamber joins the existing Redlands Coast Chamber. Indigenous organisations are QYAC, Minjerribah Moorgumpin Elders-in-Council, Yulu-Burri-Ba, the North Stradbroke Island Aboriginal and Islanders Housing Co-operative, and COOEE. Their distinct roles and participation conditions are retained; none is presented as representing every Indigenous person or organisation.
+
+Public newsletters, calendars, Facebook pages and group links come from each organisation's own site or verified official listing. Organisation type and format are searchable filters. Victoria Point Probus newsletters are member-only and are not linked as public publications. Public channels do not establish group size, access to members or permission to post. Actual participation rules are retained when published.
+
+The `#unions` view has 14 entries: 13 workers' unions plus the Queensland Council of Unions peak body. Entries state sectors, branch or national scope, public publications, contact routes and membership guidance. They cover Together, AWU, UWU, QNMU, QTU, IEU, SDA, ETU, AMWU, MEAA, The Services Union, RTBU and NTEU. A union listing does not imply that Luke is a member or eligible to join. Historical publication archives and members-only content are qualified.
+
+## Directory review and navigation
+
+The 8 November review found no repeated IDs, normalised names or normalised website URLs among the 134 records after merging the additions. The existing Redlands Coast Chamber record was enriched instead of duplicated. Shared publisher and contact domains remain where they represent distinct programmes, journalists or outlets. Glass and Women of Wynnum Manly keep a single record across relevant views.
+
+Luke does not want an All sources page. `#media` remains Media and commentators, with media categories, counts and 12 results per page. Community groups, university records and workers' unions remain in their separate directories. Official sources and the public forum are distinguished as public references. Filtering and page controls do not create outreach records or activity entries.
+
+The review also filled missing format metadata on legacy records, added the verified radio format to Radio Reversal and Eco Radio, and clarified The Quicky as a named Mamamia podcast. Local Government News Roundup and its host retain their podcast context. These changes prevent relevant records disappearing from format filters.
+
+Floating Previous, Top and Next buttons follow the sidebar sequence. Section changes reset scroll and focus to the heading; same-section updates preserve position. Back to top respects reduced-motion preferences. Strange But True and Open Record links appear in the command centre and public preview footers.
+
+Every directory card can open an outreach record with its public route attached. Contact status, message drafts and notes are Luke's saved work. Copying a draft does not send it or mark a conversation as contacted. Existing source records reopen by source ID rather than creating duplicate contacts.
 
 ## What the evidence labels mean
 

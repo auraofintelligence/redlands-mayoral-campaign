@@ -23,7 +23,10 @@
       "https://localnewsgroup.com.au/contact-us/",
       "https://redlandbaysidenews.com.au/five-contenders-emerge-in-redlands/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "andrew-jefferson",
@@ -51,7 +54,10 @@
       "https://redlandbaysidenews.com.au/",
       "https://redlandbaysidenews.com.au/five-contenders-emerge-in-redlands/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "redland-city-minute",
@@ -110,7 +116,10 @@
       "https://www.brisbanetimes.com.au/contact-us",
       "https://www.brisbanetimes.com.au/national/queensland/short-campaign-for-mayor-race-as-byelection-date-set-20261105-p61br3.html"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "julius-dennis",
@@ -134,7 +143,10 @@
       "https://www.brisbanetimes.com.au/national/queensland/mayor-resigns-citing-threats-accusations-and-harassment-20261028-p618zl.html",
       "https://www.brisbanetimes.com.au/contact-us"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "william-davis",
@@ -158,7 +170,10 @@
       "https://www.brisbanetimes.com.au/national/queensland/up-until-two-seconds-ago-i-had-not-had-contact-in-bizarre-presser-council-claims-mayor-had-not-resigned-20261028-p619cg.html",
       "https://www.brisbanetimes.com.au/contact-us"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "abc-news-queensland",
@@ -184,7 +199,10 @@
       "https://www.abc.net.au/news/contact",
       "https://www.abc.net.au/news/2026-10-28/qld-redland-city-mayor-jos-mitchell-steps-down/107317138"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "jessica-black",
@@ -208,7 +226,10 @@
       "https://www.abc.net.au/news/jessica-black/14017854",
       "https://www.abc.net.au/news/2026-10-28/qld-redland-city-mayor-jos-mitchell-steps-down/107317138"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "meghan-dansie",
@@ -233,7 +254,10 @@
       "https://www.abc.net.au/news/contact",
       "https://www.abc.net.au/news/2026-10-28/qld-redland-city-mayor-jos-mitchell-steps-down/107317138"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "7news",
@@ -258,7 +282,10 @@
       "https://7news.com.au/contact-us",
       "https://7news.com.au/politics/redland-city-mayor-jos-mitchell-resigns-after-alleged-threats-vandalised-cars-and-attacks-on-her-family-c-23082483"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "katharina-loesche",
@@ -283,7 +310,10 @@
       "https://7news.com.au/contact-us",
       "https://7news.com.au/politics/redland-city-mayor-jos-mitchell-resigns-after-alleged-threats-vandalised-cars-and-attacks-on-her-family-c-23082483"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "inside-local-government",
@@ -309,7 +339,10 @@
       "https://insidelocalgovernment.com.au/about/",
       "https://insidelocalgovernment.com.au/redland-council-seeks-full-postal-vote-for-mayoral-by-election/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "kelly-nealon",
@@ -331,7 +364,10 @@
     "sourceUrls": [
       "https://insidelocalgovernment.com.au/about/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "local-government-news-roundup",
@@ -357,7 +393,10 @@
       "https://www.lgnewsroundup.com/contact-us/",
       "https://wp.lgnewsroundup.com/historic-mayoral-result-suspension-plea-and-a-call-for-kindness-660/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "podcast"
+    ]
   },
   {
     "id": "chris-eddy",
@@ -383,7 +422,10 @@
       "https://wp.lgnewsroundup.com/historic-mayoral-result-suspension-plea-and-a-call-for-kindness-660/",
       "https://www.lgnewsroundup.com/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "podcast"
+    ]
   },
   {
     "id": "redlands2030",
@@ -439,7 +481,10 @@
       "https://thecommunityleader.com.au/",
       "https://thecommunityleader.com.au/contact/"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "friendly-bay-islander",
@@ -464,7 +509,10 @@
       "https://thefriendlybayislander.com/",
       "https://thefriendlybayislander.com/contact"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "elissa-thompson",
@@ -487,7 +535,10 @@
     "sourceUrls": [
       "https://thefriendlybayislander.com/contact"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "guardian-australia",
@@ -510,7 +561,10 @@
       "https://www.theguardian.com/au",
       "https://www.theguardian.com/info/2013/may/26/contact-guardian-australia"
     ],
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "9news-queensland",
@@ -534,7 +588,10 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "10-news-queensland",
@@ -558,7 +615,10 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "courier-mail",
@@ -583,7 +643,10 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "sbs-news",
@@ -609,7 +672,10 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   },
   {
     "id": "westender",
@@ -635,6 +701,9 @@
     "coverageTitle": null,
     "coverageDate": null,
     "verification": "outlet-verified",
-    "checkedOn": "2026-11-08"
+    "checkedOn": "2026-11-08",
+    "formats": [
+      "article"
+    ]
   }
 ]

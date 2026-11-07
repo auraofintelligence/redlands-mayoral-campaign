@@ -39,7 +39,7 @@
     ]
   },
   {
-    "kind": "online-media",
+    "kind": "podcast",
     "area": "Australia",
     "region": "Australia",
     "coverageUrl": null,
@@ -49,8 +49,8 @@
     "checkedOn": "2026-11-08",
     "discoveryGroup": "women-focused",
     "id": "mamamia-the-quicky",
-    "name": "Mamamia / The Quicky",
-    "description": "Mamamia publishes news, interviews and commentary alongside its podcast network. The Quicky covers current affairs through news updates, explainers and guest conversations.",
+    "name": "The Quicky / Mamamia",
+    "description": "Mamamia current-affairs podcast with news updates, explainers and guest conversations about Australian and international events.",
     "website": "https://www.mamamia.com.au/podcasts/the-quicky/",
     "contactUrl": "https://help.mamamia.com.au/en-US/contact",
     "formats": [
@@ -68,7 +68,7 @@
     "sampleUrl": "https://podcasts.apple.com/au/podcast/nab-to-cut-2500-jobs-did-australian-politics-just-change/id1451469361?i=1000797305811",
     "sampleTitle": "NAB To Cut 2500 Jobs & Did Australian Politics Just Change Forever?",
     "sampleDate": null,
-    "notes": "This record combines the women-focused publisher and one named news programme, not two separate media organisations. The example includes Josh Butler discussing political representatives and their communities. The publisher feed uses a relative date and the individual episode page could not be fetched, so an exact publication date is not recorded. The contact link is Mamamia's general enquiry form; programme-specific contact details appear in the show notes. No current Redland election coverage was verified.",
+    "notes": "This record describes The Quicky, a named programme within Mamamia, rather than the publisher as a separate organisation. The example includes Josh Butler discussing political representatives and their communities. The publisher feed uses a relative date and the individual episode page could not be fetched, so an exact publication date is not recorded. The contact link is Mamamia's general enquiry form; programme-specific contact details appear in the show notes. No current Redland election coverage was verified.",
     "sourceUrls": [
       "https://www.mamamia.com.au/podcasts/the-quicky/",
       "https://help-move.mamamia.com.au/en-US",
