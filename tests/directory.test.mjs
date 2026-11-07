@@ -5,7 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const directory=fileURLToPath(new URL('../data/',import.meta.url));
-const files=(await readdir(directory)).filter(file=>/^media-(?:radio|print-online|organisations|independent|digital-creators|national-podcasts|women|community)\.json$/.test(file)).sort();
+const files=(await readdir(directory)).filter(file=>/^media-(?:radio|print-online|organisations|independent|digital-creators|national-podcasts|women|community|music|university)\.json$/.test(file)).sort();
 const datasets=await Promise.all(files.map(async file=>({file,rows:JSON.parse((await readFile(path.join(directory,file),'utf8')).replace(/^\uFEFF/,''))})));
 const records=datasets.flatMap(({file,rows})=>Array.isArray(rows)?rows.map(row=>({file,row})):[]);
 const fields=['id','name','kind','area','description','website','contactUrl','coverageUrl','coverageTitle','coverageDate','verification','sourceUrls','tags','checkedOn','notes'];
@@ -13,7 +13,7 @@ function validDate(value){return typeof value==='string'&&/^\d{4}-\d{2}-\d{2}$/.
 function publicURL(value,label){assert.equal(typeof value,'string',label);const url=new URL(value);assert.equal(url.protocol,'https:',label);assert.equal(url.username,'',label);assert.equal(url.password,'',label);assert.ok(!['localhost','127.0.0.1'].includes(url.hostname),label);}
 
 test('directory source files use the public options schema and unique identifiers',context=>{
-  for(const required of ['media-radio.json','media-print-online.json','media-organisations.json','media-independent.json','media-digital-creators.json','media-national-podcasts.json','media-women.json','media-community.json'])assert.ok(files.includes(required),`${required} must exist.`);
+  for(const required of ['media-radio.json','media-print-online.json','media-organisations.json','media-independent.json','media-digital-creators.json','media-national-podcasts.json','media-women.json','media-community.json','media-music.json','media-university.json'])assert.ok(files.includes(required),`${required} must exist.`);
   context.diagnostic(`Validated source files: ${files.join(', ')}`);
   const ids=new Set();
   for(const {file,rows} of datasets){assert.ok(Array.isArray(rows),`${file} must contain an array.`);assert.ok(rows.length,`${file} must not be empty.`);}
@@ -104,5 +104,30 @@ test('community groups expose public channels with local category and source con
     for(const channel of row.publicChannels){assert.ok(channel.label,`${row.id}: channel label`);publicURL(channel.url,`${row.id}: public channel`);}
     if(row.sampleUrl){publicURL(row.sampleUrl,`${row.id}: sample`);assert.ok(row.sourceUrls.includes(row.sampleUrl),`${row.id}: sample source`);}
     assert.ok(row.sampleDate===null||validDate(row.sampleDate),`${row.id}: date`);
+  }
+});
+
+test('music and university sources keep submission and participation context with traceable examples',()=>{
+  for(const group of ['music','university']){
+    const entries=records.filter(({row})=>row.discoveryGroup===group);
+    assert.ok(entries.length>0,`${group}: records required`);
+    for(const {row} of entries){
+      assert.ok(row.region,`${row.id}: region required`);
+      assert.ok(Array.isArray(row.formats)&&row.formats.length>0,`${row.id}: formats required`);
+      assert.ok(row.formats.every(format=>['radio','podcast','video','social','newsletter','article'].includes(format)),`${row.id}: format supported`);
+      publicURL(row.sampleUrl,`${row.id}: example work`);
+      assert.ok(row.sampleTitle&&row.sourceUrls.includes(row.sampleUrl),`${row.id}: traceable sample`);
+      assert.ok(row.sampleDate===null||validDate(row.sampleDate),`${row.id}: sample date`);
+      if(row.sampleDate)assert.ok(row.sampleDate<=row.checkedOn,`${row.id}: future sample`);
+      else assert.match(row.notes,/date|day|undated/i,`${row.id}: explain missing date`);
+      if(group==='music'){
+        assert.ok(row.submissionNotes&&row.aiPolicy,`${row.id}: submission route and AI policy context required`);
+      }else{
+        assert.ok(row.institution&&row.participationNotes,`${row.id}: institution and participation context required`);
+      }
+      for(const channel of row.publicChannels||[]){
+        assert.ok(channel.label,`${row.id}: public channel label`);publicURL(channel.url,`${row.id}: channel`);
+      }
+    }
   }
 });

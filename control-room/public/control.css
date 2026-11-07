@@ -163,6 +163,13 @@ td .button{font-size:12px;padding:6px 10px}
 .hero-actions{margin-top:18px}
 .dashboard-hero .hero-actions .button{margin-top:0}
 .media-toolbar{align-items:end;margin-top:24px}
+.music-project{margin-bottom:24px}
+.music-project h3{margin:0 0 12px;font-size:24px}
+.music-project p:last-child{margin-bottom:0}
+.music-submissions{margin:18px 0;padding:16px 0;border-top:1px solid var(--line)}
+.music-submissions h4{margin:0 0 7px;font-size:13px}
+.music-submissions p{font-size:13px;line-height:1.65;margin:0 0 14px}
+.music-submissions p:last-child{margin-bottom:0}
 .media-card ul{padding-left:20px;overflow-wrap:anywhere}
 .toolbar .field{margin:0;flex:1;min-width:180px}
 .toolbar .field select,.toolbar .field input{width:100%;max-width:none}
