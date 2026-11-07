@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#210b36">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; form-action 'self'; base-uri 'self'; object-src 'none'">
+  <link rel="canonical" href="https://auraofintelligence.github.io/redlands-mayoral-campaign/">
+  <meta name="description" content="Luke's election explorer for media, commentary, public sources and possibilities he chooses to save.">
+  <title>Election explorer | Luke Hayes</title>
+  <link rel="icon" href="assets/favicon-32.png" type="image/png">
+  <link rel="stylesheet" href="control.css">
+  <script src="model.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to workspace</a>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Workspace navigation">
+      <a class="workspace-brand" href="index.html" aria-label="Election explorer home">
+        <img src="assets/favicon-32.png" width="42" height="42" alt="">
+        <span><strong>Luke Hayes</strong><small>Election explorer</small></span>
+      </a>
+      <p class="sidebar-caption">Luke + AI companions</p>
+      <nav class="sidebar-nav" aria-label="Choose a view">
+        <div class="nav-group">
+          <button type="button" data-view="media"><span class="nav-symbol" aria-hidden="true">◉</span><span>Media and commentators</span></button>
+          <button type="button" data-view="overview" class="active" aria-current="page"><span class="nav-symbol" aria-hidden="true">◇</span><span>Explore the election</span></button>
+          <button type="button" data-view="plan"><span class="nav-symbol" aria-hidden="true">✦</span><span>My possibilities</span></button>
+          <button type="button" data-view="calendar"><span class="nav-symbol" aria-hidden="true">▦</span><span>Dates I choose</span></button>
+        </div>
+        <div class="nav-group">
+          <button type="button" data-view="outreach"><span class="nav-symbol" aria-hidden="true">↗</span><span>Connections</span></button>
+          <button type="button" data-view="publishing"><span class="nav-symbol" aria-hidden="true">▤</span><span>Drafts</span></button>
+          <button type="button" data-view="inbox"><span class="nav-symbol" aria-hidden="true">▱</span><span>Enquiries</span></button>
+        </div>
+        <div class="nav-group">
+          <button type="button" data-view="projects"><span class="nav-symbol" aria-hidden="true">▧</span><span>Source library</span></button>
+          <button type="button" data-view="agents"><span class="nav-symbol" aria-hidden="true">✧</span><span>Explore with AI</span></button>
+          <button type="button" data-view="budget"><span class="nav-symbol" aria-hidden="true">◈</span><span>Resources</span></button>
+          <button type="button" data-view="activity"><span class="nav-symbol" aria-hidden="true">↝</span><span>My trail</span></button>
+          <button type="button" data-view="settings"><span class="nav-symbol" aria-hidden="true">⌘</span><span>Storage</span></button>
+        </div>
+      </nav>
+      <div class="sidebar-footer">
+        <p>Explore what interests you.<br>Choose what happens next.</p>
+        <a href="campaign.html">Public campaign preview <span aria-hidden="true">↗</span></a>
+        <a href="https://github.com/auraofintelligence/redlands-mayoral-campaign" target="_blank" rel="noopener noreferrer">Source repository <span aria-hidden="true">↗</span></a>
+        <a href="https://github.com/auraofintelligence/redlands-mayoral-campaign/blob/main/LICENCE.md" target="_blank" rel="noopener noreferrer">Strange But True licence</a>
+      </div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar">
+        <div class="topbar-heading">
+          <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open workspace navigation" aria-controls="sidebar" aria-expanded="false"><span aria-hidden="true">☰</span></button>
+          <h1 id="screen-title">Explore the election</h1>
+        </div>
+        <div class="topbar-actions">
+          <span id="storage-status" class="storage-status" role="status">Checking storage</span>
+          <button id="quick-add" type="button" class="button"><span aria-hidden="true">＋</span> Capture a possibility</button>
+        </div>
+      </header>
+      <main id="view" aria-live="polite" tabindex="-1">
+        <div class="content"><div class="empty-state loading-state"><span class="loading-dot" aria-hidden="true"></span><p>Opening your workspace.</p></div></div>
+      </main>
+      <noscript><div class="content"><div class="notice">This workspace needs JavaScript to open and edit your records. The <a href="campaign.html">public campaign preview</a> remains available.</div></div></noscript>
+    </div>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="editor" aria-label="Edit a workspace record"></dialog>
+</body>
+</html>

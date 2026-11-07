@@ -1,0 +1,9 @@
+import {readFile} from 'node:fs/promises';
+const c=JSON.parse(await readFile(new URL('../data/campaign.json',import.meta.url),'utf8'));
+const missing=[];
+if(!c.authorisation.name.trim()) missing.push('Authoriser name');
+if(!c.authorisation.address.trim()) missing.push('Contactable public authoriser address, omitted at owner request');
+if(c.authorisation.status!=='complete') missing.push('Authorisation marked complete after owner review');
+if(!c.contactFormUrl) missing.push('Deployed contact form URL and verified private-storage receipt');
+if(missing.length){console.error(`Release requirements outstanding:\n${missing.map(v=>`- ${v}`).join('\n')}\nA public preview label does not replace statutory authorisation.`);process.exitCode=1;}
+else console.log('Configured publication authorisation complete. Recheck the ECQ requirements before distribution.');

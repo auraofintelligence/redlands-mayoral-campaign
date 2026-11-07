@@ -1,0 +1,23 @@
+name: Public source correction
+description: Report a public factual or website error. Do not submit personal case details.
+title: 'Correction: '
+body:
+  - type: markdown
+    attributes:
+      value: 'This issue is public. Use the website contact form for private enquiries.'
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Wording and proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Public supporting source

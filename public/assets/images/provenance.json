@@ -1,0 +1,27 @@
+{
+  "art_direction": "Existing raster favicon provenance. Website hero photos are recorded separately.",
+  "rights": "Strange But True Public Source Licence; original prompts and checksums retained.",
+  "assets": [
+    {
+      "path": "assets/favicon-32.png",
+      "source_repository": "https://github.com/auraofintelligence/infinity-creative-workshop",
+      "description": "Existing raster project favicon reused from Infinity Creative Workshop.",
+      "reused_on": "2026-11-08",
+      "sha256": "e56b4d38c63db5d40abf736044d39e3ad306fa9e41cf152461275305f55a61e2"
+    },
+    {
+      "path": "assets/favicon-512.png",
+      "source_repository": "https://github.com/auraofintelligence/infinity-creative-workshop",
+      "description": "Existing raster project favicon reused from Infinity Creative Workshop.",
+      "reused_on": "2026-11-08",
+      "sha256": "18cb5ae3951d1fc99b372fe44ca5bddb3c00dc4d28771fd1c36353f2faa84b77"
+    },
+    {
+      "path": "favicon.ico",
+      "source_repository": "https://github.com/auraofintelligence/infinity-creative-workshop",
+      "description": "Existing raster project favicon reused from Infinity Creative Workshop.",
+      "reused_on": "2026-11-08",
+      "sha256": "add8f6505ced121dfbc749584f6face5eb0774f9d9f2cf6ebb9b6536cbea8dfc"
+    }
+  ]
+}
