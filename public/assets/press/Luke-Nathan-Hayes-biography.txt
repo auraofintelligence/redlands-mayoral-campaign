@@ -2,11 +2,11 @@ Luke Nathan Hayes
 
 Luke Nathan Hayes is based at Amity on Minjerribah / North Stradbroke Island. His public collection brings together practical technology, personal intelligence, community systems, public submissions, music and ideas about long-term civilisation planning.
 
-His working history spans retail, automotive servicing and wheel alignment, festival and event work, railway training, airport services, mine shutdowns, driving and web work. His illustrated World of Work links individual records to the underlying work, education and volunteering history.
+Luke worked as an apprentice traction powerlinesman with Queensland Rail, maintaining the City Rail Electrification Network. His published World of Work links to individual jobs, employers and tasks. See Luke-Nathan-Hayes-work-history.txt in this kit for the full list of work roles and direct record links.
 
 Strange But True is a doorway into his practical and creative work. Project Atlas helps readers explore the wider public collection, while the Open Record connects life history, original documents and project sources.
 
-Luke writes the lyrics for i C. infinity and uses generative AI to create the music. He has four completed albums. His latest, A Protopian Gambit, mixes EDM and house, pop, rock, cultural, reggae and coastal styles. He does not currently perform the music live.
+As i C. infinity, Luke writes his lyrics and creates his music using generative AI. He has four completed albums. His latest, A Protopian Gambit, mixes EDM and house, pop, rock, cultural, reggae and coastal styles. He does not currently perform the music live.
 
 Sources and further reading
 Open Record: https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md
@@ -15,4 +15,4 @@ Project Atlas: https://auraofintelligence.github.io/project-atlas/
 Strange But True: https://auraofintelligence.github.io/strange-but-true/
 Music Universe: https://auraofintelligence.github.io/i-C-infinity-music-universe/
 
-Prepared 9 November 2026.
+Prepared 9 November 2026. Work-history and music wording corrected 10 November 2026.

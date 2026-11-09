@@ -4,7 +4,7 @@ Initial source review: 8 November 2026, Australia/Brisbane. Publication context 
 
 This document records the initial source review. Its original directory had 33 entries; the retained pinned register in `data/projects.json` now has 32. The current website uses the separately reviewed `data/visual-content.json`, containing 113 selected projects across 23 subjects. The pinned register is retained as source history, rather than published as a second project catalogue. A linked proposal does not become an adopted campaign policy or an operating service by appearing here.
 
-Luke is the sole human operator, assisted by AI companions. The public site introduces his work, music, ideas and source material. Private planning and outreach are maintained separately. His approach remains relaxed and self-directed. References to teams, membership, organisations or programme staff inside linked source projects describe those projects. They do not establish campaign staff or delegated authority.
+Luke is the sole human operator, assisted by an AI team. The public site introduces his work, music, ideas and source material. Private planning and outreach are maintained separately. His approach remains relaxed and self-directed. References to teams, membership, organisations or programme staff inside linked source projects describe those projects. They do not establish campaign staff or delegated authority.
 
 ## Source records
 

@@ -11,7 +11,7 @@ const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
+ const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','interview.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
  for(const name of await readdir(dist)) assert.ok(allowed.has(name),`Unexpected public file: ${name}`);
  assert.ok(!(await readdir(dist)).includes('data'),'Obsolete project register was published alongside the current catalogue');
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
@@ -179,7 +179,7 @@ test('volunteering, donation enquiries and reporting are public pages with no pa
  const donations=await read('dist/donations.html');
  assert.match(donations,/Payment collection is not/);assert.match(donations,/every accepted donation/);
  assert.doesNotMatch(donations,/<form|paypal|stripe|bank account number|BSB|mailto:/i);
- assert.equal((await read('dist/volunteer.html')).match(/>Offer to help/g).length,6);
+ assert.equal((await read('dist/volunteer.html')).match(/>Offer to help/g).length,7);
  const reporting=await read('dist/reporting.html');assert.match(reporting,/No financial total is asserted/);assert.match(reporting,/campaign-contributions.csv/);
 });
 

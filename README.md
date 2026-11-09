@@ -6,7 +6,7 @@ Projects, music, public information and options for Redlands by Luke Nathan Haye
 
 **[Open the website](https://auraofintelligence.github.io/redlands-mayoral-campaign/)** · [Explore the projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
-Luke is exploring a possible Redlands mayoral campaign as one person supported by AI companions. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
+Luke is exploring a possible Redlands mayoral campaign as one person supported by an AI team. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
 
 ## Explore the site
 
@@ -17,8 +17,9 @@ Luke is exploring a possible Redlands mayoral campaign as one person supported b
 | [Redlands ideas](https://auraofintelligence.github.io/redlands-mayoral-campaign/ideas.html) | 52 open questions across 11 topics, searchable introductions, project imagery, Wiki detail and invitations to add questions or experience |
 | [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) | 52 introduced ideas, a first-visit guide, words and names, practical examples, council responsibilities, related projects and source references |
 | [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) | Background and links to the Open Record, work history, Project Atlas and Strange But True |
+| [Interview](https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html) | Full conversation about music, self-reflection, Community Hours, GAJRA Earth and the mayoral role |
 | [Music](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) | A Protopian Gambit: 22 songs, topic summaries, project connections, landscape and portrait players, and lyrics |
-| [Volunteer](https://auraofintelligence.github.io/redlands-mayoral-campaign/volunteer.html) | Six optional ways to offer time, skills, questions or practical help |
+| [Volunteer](https://auraofintelligence.github.io/redlands-mayoral-campaign/volunteer.html) | Seven practical ways to share music, hold conversations, create or distribute material, make introductions or offer support |
 | [Donations](https://auraofintelligence.github.io/redlands-mayoral-campaign/donations.html) | Enquiries and the all-named donation policy; payment collection is not open |
 | [Reporting](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | Reviewed contributions, budget and expenses, kept separate from private records |
 | [Media](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) | Downloadable media kit, portrait, factual biographies, press notes and interview topics |

@@ -1,6 +1,6 @@
 Luke Nathan Hayes
 
-Luke Nathan Hayes is based at Amity on Minjerribah / North Stradbroke Island. His work connects practical technology, personal intelligence, community systems, public submissions and creative production. He writes lyrics and uses generative AI to create music as i C. infinity.
+Luke Nathan Hayes is based at Amity on Minjerribah / North Stradbroke Island. His work connects practical technology, personal intelligence, community systems, public submissions and creative production. As i C. infinity, he writes his lyrics and creates his music using generative AI.
 
 Sources and further reading
 Open Record: https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md
@@ -8,4 +8,4 @@ Work history: https://auraofintelligence.github.io/Lukes-world-of-work-experienc
 Project Atlas: https://auraofintelligence.github.io/project-atlas/
 Strange But True: https://auraofintelligence.github.io/strange-but-true/
 
-Prepared 9 November 2026.
+Prepared 9 November 2026. Music wording updated 10 November 2026.

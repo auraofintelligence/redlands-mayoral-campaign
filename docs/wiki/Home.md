@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Luke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. He develops digital tools, community proposals, public submissions and music. Strange But True is his sole-trader business and a public doorway into that work. He is exploring a possible Redlands mayoral campaign as one person supported by AI companions.
+Luke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. He develops digital tools, community proposals, public submissions and music. Strange But True is his sole-trader business and a public doorway into that work. He is exploring a possible Redlands mayoral campaign as one person supported by an AI team.
 
 [About Luke and the original records](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) · [Explore the project collection](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [Ask a question or suggest a correction](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)
 

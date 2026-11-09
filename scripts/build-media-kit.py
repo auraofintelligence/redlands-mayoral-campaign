@@ -7,7 +7,7 @@ root = Path(__file__).resolve().parent.parent
 press = root / 'public' / 'assets' / 'press'
 names = [
     'Luke-Nathan-Hayes-short-bio.txt', 'Luke-Nathan-Hayes-biography.txt',
-    'Luke-Nathan-Hayes-media-facts.txt', 'Luke-Nathan-Hayes-music-during-campaign.txt',
+    'Luke-Nathan-Hayes-work-history.txt', 'Luke-Nathan-Hayes-media-facts.txt', 'Luke-Nathan-Hayes-music-during-campaign.txt',
     'airplay-log-template.csv', 'README.txt', 'luke-hayes-published-portrait.webp',
 ]
 sources = {name: press / name for name in names}

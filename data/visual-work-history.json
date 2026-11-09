@@ -1,0 +1,176 @@
+{
+  "source": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/content/resume.json",
+  "page": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/",
+  "checkedOn": "2026-11-10",
+  "records": [
+    {
+      "id": "mobil-burpengary",
+      "title": "Service station assistant",
+      "organisation": "Mobil Service Station Burpengary",
+      "location": "Burpengary, Queensland"
+    },
+    {
+      "id": "woolworths-burpengary",
+      "title": "Checkouts, customer service and service-station closing",
+      "organisation": "Woolworths",
+      "location": "Burpengary, Queensland"
+    },
+    {
+      "id": "woolworths-buderim",
+      "title": "Perishables assistant",
+      "organisation": "Woolworths",
+      "location": "Buderim, Queensland"
+    },
+    {
+      "id": "drive-safe",
+      "title": "Small vehicle mechanic and wheel alignment specialist",
+      "organisation": "Drive Safe Service",
+      "location": "Caboolture, Queensland"
+    },
+    {
+      "id": "uk-bar-work",
+      "title": "Temporary bar work",
+      "organisation": "Employer not yet named",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "tower-42",
+      "title": "Temporary office demolition work",
+      "organisation": "Employer not yet named; Tower 42 worksite",
+      "location": "Tower 42, United Kingdom"
+    },
+    {
+      "id": "gift-card-factory",
+      "title": "Temporary gift-card factory work",
+      "organisation": "Employer not yet named",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "waap",
+      "title": "Festival worker",
+      "organisation": "W.A.A.P. Wing and a Prayer Event Services",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "uk-storage-marquees",
+      "title": "Temporary storage marquee installations",
+      "organisation": "Employer not yet named; Sainsbury's and Tesco client sites",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "horse-stables",
+      "title": "Temporary horse stable installations",
+      "organisation": "Employer not yet named",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "sheet-metal-roofing",
+      "title": "Trade assistant to a sheet-metal roofer",
+      "organisation": "Employer not yet named",
+      "location": "Australia"
+    },
+    {
+      "id": "moreton",
+      "title": "Festival worker and general labourer",
+      "organisation": "Moreton Exhibition and Event Services",
+      "location": "South East Queensland"
+    },
+    {
+      "id": "shopfitting",
+      "title": "Intermittent shopfitting trade assistant",
+      "organisation": "Employer not yet named",
+      "location": "Australia"
+    },
+    {
+      "id": "queensland-rail",
+      "title": "Apprentice traction powerlinesman",
+      "organisation": "Queensland Rail",
+      "location": "Brisbane",
+      "sourceTitle": "Apprentice traction rail powerlinesman"
+    },
+    {
+      "id": "skystar",
+      "title": "Airside services, check-in, boarding and customs liaison",
+      "organisation": "Skystar Airport Services",
+      "location": "Darwin, Northern Territory"
+    },
+    {
+      "id": "darwin-semi-trailers",
+      "title": "Trade assistant to a semi-trailer mechanic",
+      "organisation": "Employer not yet named",
+      "location": "Darwin, Northern Territory"
+    },
+    {
+      "id": "ace-tree-services",
+      "title": "Ground crew and truck driver",
+      "organisation": "ACE Treelopping Services",
+      "location": "Darwin, Northern Territory"
+    },
+    {
+      "id": "hume-concrete",
+      "title": "Skilled labourer, welding precast concrete culverts",
+      "organisation": "Hume Concrete",
+      "location": "Darwin, Northern Territory"
+    },
+    {
+      "id": "ausblast",
+      "title": "Trade assistant painter and blaster",
+      "organisation": "Ausblast Industries",
+      "location": "Bowen Basin, Queensland"
+    },
+    {
+      "id": "australia-post",
+      "title": "Van and HR truck driver, mail delivery",
+      "organisation": "Australia Post",
+      "location": "Northgate, Queensland"
+    },
+    {
+      "id": "kirby",
+      "title": "Door-to-door demonstrator and salesman",
+      "organisation": "Kirby Vacuum Cleaners",
+      "location": "Brisbane"
+    },
+    {
+      "id": "viande",
+      "title": "Meat warehouse and deliveries",
+      "organisation": "Viande Fine Foods",
+      "location": "Brisbane, Queensland"
+    },
+    {
+      "id": "owner-builder",
+      "title": "General labourer",
+      "organisation": "Owner builder",
+      "location": "Amity Point, Queensland"
+    },
+    {
+      "id": "maringa",
+      "title": "Web designer and administration",
+      "organisation": "Maringa Farm",
+      "location": "Kingaroy, Queensland"
+    },
+    {
+      "id": "americold",
+      "title": "Frozen food distribution warehouse picker and packer",
+      "organisation": "Labourforce Labour Hire and Americold Logistics",
+      "location": "Location not stated"
+    },
+    {
+      "id": "qa",
+      "title": "Outbound call centre computer-aided phone interviewer",
+      "organisation": "Q & A Market Research Services Pty Ltd",
+      "location": "Location not stated"
+    },
+    {
+      "id": "yorke",
+      "title": "Skilled construction labourer and forklift driver",
+      "organisation": "Yorke Consulting",
+      "location": "Commercial and industrial sites; Aldi Keperra refurbishment"
+    },
+    {
+      "id": "prompt-research",
+      "title": "Prompt engineer and generative AI researcher",
+      "organisation": "Self-directed generative artificial intelligence research",
+      "location": "Location not specified"
+    }
+  ]
+}
