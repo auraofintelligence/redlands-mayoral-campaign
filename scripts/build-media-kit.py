@@ -17,6 +17,12 @@ sources.update({
     'generated-favicon-512.png': root / 'public/assets/favicon-512.png',
 })
 target = press / 'Luke-Nathan-Hayes-media-kit.zip'
+def source_bytes(source):
+    content = source.read_bytes()
+    if source.suffix in {'.txt', '.csv', '.md'}:
+        content = content.replace(b'\r\n', b'\n')
+    return content
+
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--check', action='store_true')
 args = parser.parse_args()
@@ -25,10 +31,10 @@ if args.check:
         assert sorted(archive.namelist()) == sorted(sources), 'Unexpected or missing kit entries'
         assert archive.testzip() is None, 'Damaged kit entry'
         for name, source in sources.items():
-            assert archive.read(name) == source.read_bytes(), f'Stale kit entry: {name}'
+            assert archive.read(name) == source_bytes(source), f'Stale kit entry: {name}'
     print(f'Verified {len(sources)} media-kit entries against their current public sources.')
 else:
     with ZipFile(target, 'w', compression=ZIP_DEFLATED) as archive:
         for name, source in sources.items():
-            archive.write(source, name)
+            archive.writestr(name, source_bytes(source))
     print(f'Rebuilt {len(sources)} reviewed media-kit entries. No private records included.')
