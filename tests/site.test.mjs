@@ -9,7 +9,7 @@ const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','data','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','app.js','model.js','control.css']);
+ const allowed=new Set(['assets','data','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt']);
  for(const name of await readdir(dist)) assert.ok(name.endsWith('.html')||allowed.has(name),`Unexpected public file: ${name}`);
  assert.deepEqual(await readdir(path.join(dist,'data')),['projects.json']);
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
@@ -28,7 +28,7 @@ test('every internal page, asset and anchor resolves',async()=>{
 });
 test('pages have unique titles, language, accessible landmarks and preview status',async()=>{
  const titles=new Set();
- for(const file of (await files(dist)).filter(v=>v.endsWith('.html')&&!['404.html','outreach.html'].includes(path.basename(v)))){
+ for(const file of (await files(dist)).filter(v=>v.endsWith('.html')&&path.basename(v)!=='404.html')){
   const html=await readFile(file,'utf8'),title=html.match(/<title>(.*?)<\/title>/)?.[1];
   assert.ok(title);assert.ok(!titles.has(title));titles.add(title);
   assert.match(html,/<html lang="en-AU">/);assert.match(html,/<main id="main"/);assert.match(html,/href="#main"/);
@@ -37,7 +37,11 @@ test('pages have unique titles, language, accessible landmarks and preview statu
  }
  assert.ok(titles.size>=123);
  const home=await read('dist/index.html');assert.match(home,/<main id="main"/);assert.match(home,/Ideas into practice/);assert.match(home,/assets\/visual.js/);
- const outreach=await read('dist/outreach.html');assert.match(outreach,/<main id="view"/);assert.match(outreach,/My possibilities/);assert.match(outreach,/app.js/);assert.match(outreach,/content="noindex, nofollow"/);
+ const publicNames=await readdir(dist);
+ for(const forbidden of ['outreach.html','app.js','model.js','control.css'])assert.ok(!publicNames.includes(forbidden),'Private workspace published: '+forbidden);
+ assert.deepEqual(await readdir(path.join(dist,'assets/data')),['visual-content.json']);
+ for(const file of (await files(dist)).filter(v=>v.endsWith('.html'))){const html=await readFile(file,'utf8');assert.ok(!html.includes('href="outreach.html')&&!html.includes('href="../outreach.html'),'Public command-centre link: '+file);}
+ assert.ok(!(await read('dist/sitemap.xml')).includes('outreach.html'));
 });
 test('source register is pinned, unique and covers named recent projects',async()=>{
  const data=JSON.parse(await read('data/projects.json'));assert.ok(data.length>=30);
