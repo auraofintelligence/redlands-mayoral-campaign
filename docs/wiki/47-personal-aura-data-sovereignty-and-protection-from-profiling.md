@@ -6,11 +6,11 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-Aura of Intelligence is Luke’s approach to personal AI, shaped around a person’s chosen records, purposes and permissions. The aim is practical control over personal intelligence and the assumptions systems make about people.
+Aura of Intelligence is Luke’s design for personal artificial intelligence (AI) that supports learning, reflection and everyday tasks using chosen records. The aim is practical control over that intelligence and the assumptions systems make about people.
 
 ## Words and project names
 
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
 - **Data sovereignty**: Who has authority over data, including where it is kept, what it may be used for and who can access it. Cultural knowledge has its own custodians and permissions.
 
 ## A practical example

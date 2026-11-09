@@ -10,9 +10,9 @@ Aura civic establishments are proposed shared places for learning, culture, ente
 
 ## Words and project names
 
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
 - **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
-- **Verse Box**: A proposed portable public introduction to personal Aura, learning and community participation, with supported sessions and clear handling of personal records.
+- **Verse Box**: A proposed portable public station where people could try personal Aura, learning and community activities with support from a host. The trial guide covers equipment and clear handling of personal records.
 - **Identity checks (KYC)**: KYC stands for know your customer: a process for checking identity. Any use in a proposed service would need a clear purpose, suitable privacy arrangements and a lawful basis.
 
 ## A practical example

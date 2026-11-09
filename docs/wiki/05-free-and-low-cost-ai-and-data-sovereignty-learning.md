@@ -11,7 +11,7 @@ Free and low-cost learning could help residents, community groups and small busi
 ## Words and project names
 
 - **Artificial intelligence (AI)**: Computer systems that can generate or analyse material such as text, images and data. Their output needs checking against the purpose and the source.
-- **Verse Box**: A proposed portable public introduction to personal Aura, learning and community participation, with supported sessions and clear handling of personal records.
+- **Verse Box**: A proposed portable public station where people could try personal Aura, learning and community activities with support from a host. The trial guide covers equipment and clear handling of personal records.
 - **Data sovereignty**: Who has authority over data, including where it is kept, what it may be used for and who can access it. Cultural knowledge has its own custodians and permissions.
 
 ## What this could mean for Redlands

@@ -10,7 +10,7 @@ Cultural intelligence nodes are proposed locally run services for community know
 
 ## Words and project names
 
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
 - **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
 - **Sovereign capacity / sovereign compute**: The practical ability to provide and govern useful computing, skills, equipment and services, including decisions about where data is kept and how systems are run.
 - **Data sovereignty**: Who has authority over data, including where it is kept, what it may be used for and who can access it. Cultural knowledge has its own custodians and permissions.

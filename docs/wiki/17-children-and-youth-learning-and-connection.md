@@ -11,7 +11,7 @@ Young people could have more opportunities to learn, make, contribute and build 
 ## Words and project names
 
 - **Artificial intelligence (AI)**: Computer systems that can generate or analyse material such as text, images and data. Their output needs checking against the purpose and the source.
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
 
 ## What this could mean for Redlands
 

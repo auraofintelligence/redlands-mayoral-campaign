@@ -10,8 +10,8 @@ Residents and visitors could find local activities and plan travel more easily, 
 
 ## Words and project names
 
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
-- **Genesis**: Luke’s proposed person–Aura development journey, connecting reflection, health, chosen records, personal intelligence and everyday participation. The source journey is organised around sixty sessions.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
+- **Genesis**: Luke’s proposed series of sixty sessions for personal reflection, health, learning and developing a personal Aura. The participant’s own records and choices connect the process with everyday life.
 
 ## What this could mean for Redlands
 

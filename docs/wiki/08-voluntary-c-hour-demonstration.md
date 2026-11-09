@@ -10,7 +10,7 @@ Voluntary Community Hours (C-hours) could recognise useful contributions, suppor
 
 ## Words and project names
 
-- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Aura of Intelligence / personal Aura**: Luke’s design for personal artificial intelligence (AI), working with a person’s chosen records to support learning, reflection and everyday tasks. The person chooses the purposes, permissions and what to share.
 - **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
 
 ## What this could mean for Redlands
