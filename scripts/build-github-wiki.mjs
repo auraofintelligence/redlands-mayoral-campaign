@@ -9,6 +9,7 @@ const readJSON=async file=>JSON.parse((await readFile(path.join(root,file),'utf8
 const [content,config,exclusions,guide,music]=await Promise.all([
  readJSON('data/visual-content.json'),readJSON('data/campaign.json'),readJSON('data/public-project-exclusions.json'),readJSON('data/wiki-reading-guide.json'),readJSON('data/visual-music.json')
 ]);
+const readingEdition=new Date(guide.reviewedOn+'T00:00:00Z').toLocaleDateString('en-AU',{day:'numeric',month:'long',year:'numeric',timeZone:'Australia/Brisbane'});
 const wiki='https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki',site=config.baseUrl;
 const slug=value=>String(value).toLowerCase().replace(/['’]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const pageName=entry=>`${entry.id}-${slug(entry.title)}`,pageUrl=name=>`${wiki}/${name}`;
@@ -88,7 +89,7 @@ These explanations describe how the terms are used in this Wiki. The linked proj
 
 ${guide.terms.map(term=>`### ${term.name}\n\n${term.meaning}`).join('\n\n')}
 
-Reading edition: 9 November 2026. Each official source keeps its own recorded check date.
+Reading edition: ${readingEdition}. Each official source keeps its own recorded check date.
 `);
 
 for(const [position,entry] of content.options.entries()){
@@ -124,7 +125,7 @@ files.set('Supplied-documents',`# Documents behind the ideas\n\n${link('Wiki hom
  return `## Document ${document.number}\n\n**${info.label}**\n\nOriginal source title: ${document.title}\n\nRelated public reading: ${related.join(' · ')}.${info.currentEdition?`\n\n${link('Current 22-song lyric sheet, revised 9 November 2026',new URL(info.currentEdition,site).href)}. The original source title above records the earlier edition.`:''}`;
 }).join('\n\n')}\n`);
 files.set('_Sidebar',`${link('Wiki home',pageUrl('Home'))}\n\n${[['Home#choose-a-place-to-start','Choose a place to start'],['Home#words-and-names','Words and names'],['Mayoral-role','Council responsibilities'],['Connections','How the ideas connect'],['Official-sources','Official information'],['Supplied-documents','Documents and public reading']].map(([name,label])=>`- ${link(label,pageUrl(name))}`).join('\n')}\n\n${index}\n`);
-files.set('_Footer',`${link('Joyful Responsible Abundance',jra)} · ${link('About Luke',new URL('about.html',site).href)} · ${link('Project site',site)} · ${link('Strange But True','https://auraofintelligence.github.io/strange-but-true/')} · ${link('Luke’s Open Record (public document)','https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md')}\n\nReading edition: 9 November 2026. Original work © 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence, under the ${link('Strange But True Public Source Licence',new URL('licence.html',site).href)}. Linked material retains its own rights.\n`);
+files.set('_Footer',`${link('Joyful Responsible Abundance',jra)} · ${link('About Luke',new URL('about.html',site).href)} · ${link('Project site',site)} · ${link('Strange But True','https://auraofintelligence.github.io/strange-but-true/')} · ${link('Luke’s Open Record (public document)','https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md')}\n\nReading edition: ${readingEdition}. Original work © 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence, under the ${link('Strange But True Public Source Licence',new URL('licence.html',site).href)}. Linked material retains its own rights.\n`);
 
 const all=[...files.values()].join('\n'),metadata=new Set(['id','theme','title']);
 for(const entry of content.options)for(const [key,value] of Object.entries(entry))if(typeof value==='string'&&value&&!metadata.has(key)&&!files.get(pageName(entry)).includes(value))throw new Error(`Wiki omits narrative field ${entry.id}.${key}`);

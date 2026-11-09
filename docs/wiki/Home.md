@@ -217,4 +217,4 @@ Rights associated with work such as writing, designs and software. Ownership and
 
 KYC stands for know your customer: a process for checking identity. Any use in a proposed service would need a clear purpose, suitable privacy arrangements and a lawful basis.
 
-Reading edition: 9 November 2026. Each official source keeps its own recorded check date.
+Reading edition: 10 November 2026. Each official source keeps its own recorded check date.
