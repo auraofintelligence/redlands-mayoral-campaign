@@ -1,0 +1,631 @@
+{
+  "checkedOn": "2026-11-09",
+  "destinations": {
+    "500-queens-vc-2026": {
+      "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "7-mile-admin-prep": {
+      "url": "https://auraofintelligence.github.io/7-mile-admin-prep/",
+      "kind": "website",
+      "verifiedBy": "Current project README explicitly names this published GitHub Pages site"
+    },
+    "agent-md-form-navigator": {
+      "url": "https://auraofintelligence.github.io/agent-md-form-navigator/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "amity-outdoor-fitness-grant": {
+      "url": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "amity-point": {
+      "url": "https://auraofintelligence.github.io/amity-point/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "amity_stratum": {
+      "url": "https://auraofintelligence.github.io/amity_stratum/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "anglican-diocese-82-claytons-amity": {
+      "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "archipelago": {
+      "url": "https://auraofintelligence.github.io/Archipelago/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aukus-space-gambit": {
+      "url": "https://auraofintelligence.github.io/aukus-space-gambit/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-affinity": {
+      "url": "https://auraofintelligence.github.io/aura-affinity/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-child-services": {
+      "url": "https://auraofintelligence.github.io/aura-child-services/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-civic-establishment": {
+      "url": "https://auraofintelligence.github.io/aura-civic-establishment/",
+      "kind": "website",
+      "verifiedBy": "Project README published website"
+    },
+    "aura-data-mapping": {
+      "url": "https://auraofintelligence.github.io/aura-data-mapping/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-dementia": {
+      "url": "https://auraofintelligence.github.io/aura-dementia/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-direct-hardware": {
+      "url": "https://auraofintelligence.github.io/aura-direct-hardware/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-disaster-resilience": {
+      "url": "https://auraofintelligence.github.io/aura-disaster-resilience/",
+      "kind": "website",
+      "verifiedBy": "Current project README explicitly names this published GitHub Pages site"
+    },
+    "aura-ecosystem": {
+      "url": "https://auraofintelligence.github.io/aura-ecosystem/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-genesis": {
+      "url": "https://auraofintelligence.github.io/aura-genesis/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-genesis-geode-atlas": {
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-geode": {
+      "url": "https://auraofintelligence.github.io/aura-geode/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-matrix-studio": {
+      "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-teacher-training": {
+      "url": "https://auraofintelligence.github.io/aura-teacher-training/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-tourism": {
+      "url": "https://auraofintelligence.github.io/aura-tourism/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-verse-box": {
+      "url": "https://auraofintelligence.github.io/aura-verse-box/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "aura-whole-of-life": {
+      "url": "https://auraofintelligence.github.io/aura-whole-of-life/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "australian-law-2012-lukes-relevance": {
+      "url": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "australian-legal-engine": {
+      "url": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/",
+      "kind": "website",
+      "label": "Read the engine guide",
+      "verifiedBy": "The Legal Engine README explicitly names this companion website for the method, story and engine design"
+    },
+    "australian-sire-story-forge": {
+      "url": "https://auraofintelligence.github.io/australian-sire-story-forge/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "australian-visa-activity-atlas": {
+      "url": "https://auraofintelligence.github.io/Australian-visa-activity-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "australian-world-travel": {
+      "url": "https://auraofintelligence.github.io/Australian-world-travel/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "australiansire": {
+      "url": "https://auraofintelligence.github.io/australiansire/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "ballow-road-sand-screen-hub": {
+      "url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "bees-and-allies": {
+      "url": "https://auraofintelligence.github.io/bees-and-allies/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "c-hour-introduction": {
+      "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "civilisation-of-sand": {
+      "url": "https://auraofintelligence.github.io/civilisation-of-sand/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "community-club-builder-sandy-sports": {
+      "url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "davinci-resolve-automations": {
+      "url": "https://auraofintelligence.github.io/davinci-resolve-automations/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "dunwich-gumpi-ferry-terminal-open-data-lab": {
+      "url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "escape-room-team-building": {
+      "url": "https://auraofintelligence.github.io/escape-room-team-building/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "explorer-music-video-lab": {
+      "url": "https://auraofintelligence.github.io/explorer-music-video-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "extreme-matter-atlas": {
+      "url": "https://auraofintelligence.github.io/extreme-matter-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "film-club-documentary-builders": {
+      "url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "future-of-life-2045": {
+      "url": "https://auraofintelligence.github.io/Future-of-Life-2045/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "gajra-earth": {
+      "url": "https://auraofintelligence.github.io/GAJRA-earth/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "gajra-earth-claude-build": {
+      "url": "https://auraofintelligence.github.io/gajra-earth-claude-build/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "gajra-earth-infinity": {
+      "url": "https://auraofintelligence.github.io/GAJRA-earth-infinity/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "gajra-earth-network": {
+      "url": null,
+      "kind": "local-overview",
+      "verifiedBy": "Project README states local website only, no remote or publishing configuration"
+    },
+    "gajra-earth-public-hub": {
+      "url": "https://auraofintelligence.github.io/gajra-earth-public-hub/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "gajra_earth-space-ai_summit": {
+      "url": "https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "global-founder-atlas": {
+      "url": "https://auraofintelligence.github.io/global-founder-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "global-group-marriages": {
+      "url": "https://auraofintelligence.github.io/global-group-marriages/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "grain-by-grain": {
+      "url": "https://auraofintelligence.github.io/grain-by-grain/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "grain-by-grain-documentary": {
+      "url": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "grey-area-commons": {
+      "url": "https://auraofintelligence.github.io/grey-area-commons/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "household-bill-check": {
+      "url": "https://auraofintelligence.github.io/household-bill-check/",
+      "kind": "website",
+      "verifiedBy": "Project README GitHub Pages website"
+    },
+    "how-to-use-md-with-ai": {
+      "url": "https://auraofintelligence.github.io/how-to-use-md-with-ai/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "i-c-infinity-music-universe": {
+      "url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "infinity-creative-workshop": {
+      "url": "https://auraofintelligence.github.io/infinity-creative-workshop/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "infinity-engine": {
+      "url": "https://auraofintelligence.github.io/infinity-engine/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "installing-the-missing-middle": {
+      "url": "https://auraofintelligence.github.io/installing-the-missing-middle/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "joyful-responsible-abundance": {
+      "url": "https://auraofintelligence.github.io/joyful-responsible-abundance/",
+      "kind": "website",
+      "verifiedBy": "Project README published website"
+    },
+    "jra-product-engine-plan": {
+      "url": "https://auraofintelligence.github.io/JRA-Product-Engine-Plan/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "legal-memory-workbench": {
+      "url": "https://auraofintelligence.github.io/legal-memory-workbench/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "lifetime-memory-map": {
+      "url": "https://auraofintelligence.github.io/lifetime-memory-map/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "loose-goose-comedy-engine": {
+      "url": "https://auraofintelligence.github.io/loose-goose-comedy-engine/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "luke-nathan-hayes-man-and-mind": {
+      "url": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "lukes-world-of-work-experience": {
+      "url": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "mate-ecosystem": {
+      "url": "https://auraofintelligence.github.io/mate-ecosystem/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "meet-luke": {
+      "url": "https://auraofintelligence.github.io/meet-luke/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "micronova-and-excursions": {
+      "url": "https://auraofintelligence.github.io/micronova-and-excursions/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "mineral-moonshots": {
+      "url": "https://auraofintelligence.github.io/mineral-moonshots/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "minjerribah-screen-media-network": {
+      "url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "moreton-bay-autonomous-mobility": {
+      "url": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "moreton-bay-community-wealth-and-mutuals": {
+      "url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "multi-site-minjerribah-network": {
+      "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "mutual-futures": {
+      "url": "https://auraofintelligence.github.io/mutual-futures/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "oceania-healthy-de-slop-co-ops": {
+      "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "open-record-luke-nathan-hayes": {
+      "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md",
+      "kind": "document",
+      "verifiedBy": "GitHub repository metadata confirms has_pages false; homepage is this public document"
+    },
+    "outreach-cms": {
+      "url": "https://auraofintelligence.github.io/outreach-cms/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "p4a-native-nations-cinema": {
+      "url": "https://auraofintelligence.github.io/p4a-native-nations-cinema/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "p4a-oceania-cinema": {
+      "url": "https://auraofintelligence.github.io/p4a-oceania-cinema/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "p4a-xyz-cinema": {
+      "url": "https://p4a.xyz/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "p4a-xyz-committees-inquiries": {
+      "url": "https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/",
+      "kind": "website",
+      "verifiedBy": "Project README published website"
+    },
+    "p4australia": {
+      "url": "https://auraofintelligence.github.io/P4Australia/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "plfc-ai-agent-md-forms": {
+      "url": "https://auraofintelligence.github.io/plfc-ai-agent-md-forms/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "plfc-community-platform": {
+      "url": "https://auraofintelligence.github.io/plfc-community-platform/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "project-atlas": {
+      "url": "https://auraofintelligence.github.io/project-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "quandamooka-country-events-engine": {
+      "url": "https://auraofintelligence.github.io/quandamooka-country-events-engine/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "quandamooka-film-festival": {
+      "url": "https://auraofintelligence.github.io/quandamooka-film-festival/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "queens_venture": {
+      "url": "https://auraofintelligence.github.io/Queens_Venture/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "rcc-rjc-job-ad-formula": {
+      "url": "https://auraofintelligence.github.io/RCC-RJC-Job-Ad-Formula/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "ready-set-co-op-cultural-intelligence-node": {
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "ready-set-co-op-hyperlocal-media": {
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "ready-set-co-op-trust-hub": {
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "redlands_discovers_luke_hayes": {
+      "url": "https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "redlands_draft_es2026-2031": {
+      "url": "https://auraofintelligence.github.io/Redlands_draft_ES2026-2031/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "rough-as-guts": {
+      "url": "https://auraofintelligence.github.io/rough-as-guts/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "sandworm-subterranean-systems": {
+      "url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "shared-table-initiative": {
+      "url": "https://auraofintelligence.github.io/shared-table-initiative/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "sovereign-capacity-lab": {
+      "url": "https://auraofintelligence.github.io/sovereign-capacity-lab/",
+      "kind": "website",
+      "verifiedBy": "User-supplied published website and source ledger"
+    },
+    "sovereign-music-australia": {
+      "url": "https://auraofintelligence.github.io/sovereign-music-australia/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "space-weather-news": {
+      "url": "https://auraofintelligence.github.io/space-weather-news/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "spirit-animal-podcast": {
+      "url": "https://auraofintelligence.github.io/spirit-animal-podcast/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "stradbroke-grants-lab": {
+      "url": "https://auraofintelligence.github.io/stradbroke-grants-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-capsule-surge-lab": {
+      "url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-clean-energy-superpower": {
+      "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-content-assets-kit": {
+      "url": "https://auraofintelligence.github.io/straddie-content-assets-kit/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-digital-twin-explainer": {
+      "url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-disaster-kiosks": {
+      "url": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-headline-open-mic": {
+      "url": "https://auraofintelligence.github.io/straddie-headline-open-mic/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-makerspace-lab": {
+      "url": "https://auraofintelligence.github.io/straddie-makerspace-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-night-market-lab": {
+      "url": "https://auraofintelligence.github.io/straddie-night-market-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-noticeboard-network": {
+      "url": "https://auraofintelligence.github.io/straddie-noticeboard-network/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-tenders-lab": {
+      "url": "https://auraofintelligence.github.io/straddie-tenders-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-tip-loop-lab": {
+      "url": "https://auraofintelligence.github.io/straddie-tip-loop-lab/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "straddie-twins": {
+      "url": "https://auraofintelligence.github.io/straddie-twins/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "strange-but-true": {
+      "url": "https://auraofintelligence.github.io/strange-but-true/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "strange-but-true-cosmic-nexus": {
+      "url": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "strange-but-true-desire-atlas": {
+      "url": "https://auraofintelligence.github.io/strange-but-true-desire-atlas/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "tiggy-bestmann": {
+      "url": "https://auraofintelligence.github.io/tiggy-bestmann/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "two-dogs-podcast-backend": {
+      "url": "https://auraofintelligence.github.io/two-dogs-podcast-backend/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "unga81-luke-hayes": {
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "virtual-solar-swarm": {
+      "url": "https://auraofintelligence.github.io/virtual-solar-swarm/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    },
+    "wildlife-rescue-minjerribah": {
+      "url": "https://wildlife-rescue-minjerribah.auraofintelligence.workers.dev/",
+      "kind": "website",
+      "verifiedBy": "Published application recorded in project source ledger"
+    },
+    "world-travel-patterns": {
+      "url": "https://auraofintelligence.github.io/world-travel-patterns/",
+      "kind": "website",
+      "verifiedBy": "Project Atlas published-page catalogue"
+    }
+  }
+}

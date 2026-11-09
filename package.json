@@ -4,10 +4,12 @@
   "private": true,
   "description": "Redlands election explorer, public sources and private possibilities for Luke Nathan Hayes",
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
-    "build": "node scripts/build.mjs && node scripts/build-control.mjs",
-    "test": "node --test tests/site.test.mjs tests/operations.test.mjs tests/contact-form.test.mjs tests/control-room.test.mjs tests/directory.test.mjs tests/browser-workspace.test.mjs tests/new-media-view.test.mjs tests/outreach-workflow.test.mjs",
+    "build": "node scripts/build.mjs && node scripts/build-control.mjs && node scripts/build-github-wiki.mjs && node scripts/build-visual.mjs",
+    "test": "node --test tests/site.test.mjs tests/operations.test.mjs tests/contact-form.test.mjs tests/control-room.test.mjs tests/directory.test.mjs tests/browser-workspace.test.mjs tests/new-media-view.test.mjs tests/outreach-workflow.test.mjs tests/contact-mail.test.mjs",
     "check": "npm run build && npm test",
     "preview": "node scripts/serve.mjs",
     "control": "npm run build && node control-room/server.mjs",

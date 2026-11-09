@@ -1,6 +1,12 @@
-# Luke's Redlands command centre
+# Luke's Redlands projects, music and command centre
 
-[Open the command centre](https://auraofintelligence.github.io/redlands-mayoral-campaign/) or go straight to the [Outreach desk](https://auraofintelligence.github.io/redlands-mayoral-campaign/#outreach).
+The visual home page introduces the reviewed project collection, Redlands ideas, Luke's background, music and media resources. The 125 selected project pages each have a credited raster image and their own source-checked description. The detailed working map is now a 52-entry [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home), with versioned Markdown source in `docs/wiki/` and shared role, connection and source-reference pages. Owner-requested public exclusions are recorded separately from the original private working map.
+
+The outreach command centre remains available at `outreach.html`. Existing browser-local working records keep their existing storage identity. Personal policy wording, notes, private documents and source-machine paths are excluded from the visual site and wiki projection.
+
+The site uses P4A's purple and gold palette, full-width real Redlands photography, credited project artwork and clearly labelled generated subject illustrations. The new favicon is a generated bitmap, supplied as PNG and ICO. The music page includes A Protopian Gambit in landscape and portrait, song lyrics, the dated lyric sheet and a severe-language acknowledgement for Don't Try to Fix Me.
+
+[Open the command centre](https://auraofintelligence.github.io/redlands-mayoral-campaign/) or go straight to the [Outreach desk](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#outreach).
 
 A control room for choosing a direction, discovering Redlands election media and commentary, following public sources, and saving possibilities. Luke Nathan Hayes uses it with AI companions at his own pace. It starts with no assigned work, invented activity or personal schedule.
 
@@ -8,13 +14,13 @@ The primary view connects discovery with a working outreach desk. Each source ha
 
 Floating Previous, Top and Next controls follow the sidebar order. A section change returns to the top; filtering or editing within the same section preserves position. Media and commentators groups media records by category and shows 12 results at a time, with combined search and filters. Community, university and union records have their own directories. The footer links to Strange But True and Luke's Open Record.
 
-Direct directories cover [local podcasts and creators](https://auraofintelligence.github.io/redlands-mayoral-campaign/#new-media), [national political podcasts](https://auraofintelligence.github.io/redlands-mayoral-campaign/#national-podcasts), [women-focused media](https://auraofintelligence.github.io/redlands-mayoral-campaign/#women-media), [music shows and podcasts](https://auraofintelligence.github.io/redlands-mayoral-campaign/#music), [university networks](https://auraofintelligence.github.io/redlands-mayoral-campaign/#university), [Redlands community networks](https://auraofintelligence.github.io/redlands-mayoral-campaign/#community-networks) and [media and commentators](https://auraofintelligence.github.io/redlands-mayoral-campaign/#media). Listings have public channels, evidence and checked dates. A listing does not mean the source has covered this election, endorsed Luke or agreed to receive messages.
+Direct directories cover [local podcasts and creators](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#new-media), [national political podcasts](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#national-podcasts), [women-focused media](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#women-media), [music shows and podcasts](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#music), [university networks](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#university), [Redlands community networks](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#community-networks) and [media and commentators](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#media). Listings have public channels, evidence and checked dates. A listing does not mean the source has covered this election, endorsed Luke or agreed to receive messages.
 
 The local podcast and creator view focuses on South East Queensland, with region and format filters. National interviews and women-focused publications have separate views. Community networks identify local clubs, associations, centres and groups through their own public channels. Example episodes and articles are labelled separately from verified coverage of the current Redland election.
 
 Women-focused discovery includes Australian banter, relationships, culture and current-events podcasts, with topic and area filters. Music discovery offers genre, area and format filters, recorded-music submission information and explicit notes about published or unverified AI policies. Luke has four albums; A Protopian Gambit is complete. He wrote the lyrics, used generative AI to make the music and does not currently perform it live. University networks include student publications, societies and official club directories, with campus scope and participation details.
 
-[Workers' unions](https://auraofintelligence.github.io/redlands-mayoral-campaign/#unions) lists Queensland branches, their industries, public publications and contact routes. Community networks now includes Probus clubs, chambers of commerce and Indigenous organisations. Existing organisations retain one record when appearing in several views.
+[Workers' unions](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html#unions) lists Queensland branches, their industries, public publications and contact routes. Community networks now includes Probus clubs, chambers of commerce and Indigenous organisations. Existing organisations retain one record when appearing in several views.
 
 Luke's approach is relaxed and serendipitous. He can explore, save an idea, draft something, choose a date or leave it open. The earlier mention of **11 November 2026** is retained only as a tentative option. No campaign launch or personal timetable is declared by this repository.
 
@@ -30,9 +36,9 @@ Open [the local control room](http://127.0.0.1:4183/). The publicly hosted inter
 
 The workspace provides media discovery, saved possibilities, optional dates, connections, drafts, enquiries, the source library, AI exploration prompts, resources and a personal activity trail. It does not send messages or create schedules automatically.
 
-## Public pages are a separate doorway
+## Visual pages, wiki and outreach
 
-The public campaign preview starts at `campaign.html`. It contains Luke's source-linked background, work and ideas, project library, factual media material and publication status. The explorer remains the main entry point at `index.html`.
+The visual site starts at `index.html`. It links the illustrated project catalogue, Redlands ideas, reference wiki, About Luke, music, media kit, contact form and site map. The outreach explorer is at `outreach.html`. Legacy public reference pages remain available for existing links.
 
 ```sh
 npm run check
@@ -57,7 +63,7 @@ Initialisation creates an empty store when needed and preserves existing records
 
 Read [workspace and storage notes](docs/OPERATIONS.md), [working with AI companions](docs/AGENT-OPERATING-MODEL.md) and [optional next directions](docs/LAUNCH-RUNBOOK.md) as reference material. None creates a daily routine or publishing obligation.
 
-Google Drive and contact-form integration source is included. A connected account or created folder is not proof of a deployed Apps Script portal, working public intake or automatic synchronisation. Follow [Google Drive setup](docs/GOOGLE-DRIVE.md) or [contact-form setup](docs/CONTACT-FORM.md) only if Luke chooses that route, and record successful authenticated verification before claiming it is connected.
+Google Drive and contact-form integration source is included. A connected account or created folder is not proof of a deployed Apps Script portal, working public intake or automatic synchronisation. The new contact page uses the [mail-only endpoint](integrations/contact-mail/README.md) when a verified deployment is configured. The earlier [Drive intake](docs/CONTACT-FORM.md) and [Google Drive setup](docs/GOOGLE-DRIVE.md) remain separate. Record successful inbox verification before claiming delivery is connected.
 
 ## Where things live
 

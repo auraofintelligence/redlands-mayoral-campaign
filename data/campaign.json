@@ -22,7 +22,7 @@
   "nominationClosingDate": null,
   "expenditureCap": null,
   "postalReturnDeadline": null,
-  "contactFormUrl": "",
+  "contactFormUrl": "https://script.google.com/macros/s/AKfycbz3qnCKj81AYJGWKvrqHbkK3Fo3LnxdMQETjzXSbJzg5Du2rFvHiJ2o4cfJh_znv4tb/exec",
   "tentativeStartDate": "2026-11-11",
   "startDateStatus": "Tentative option only; no launch or personal schedule committed",
   "campaignApproach": "Relaxed, serendipitous and self-directed"

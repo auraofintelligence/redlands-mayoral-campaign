@@ -1,0 +1,70 @@
+{
+  "checkedOn": "2026-11-09",
+  "name": "Luke Nathan Hayes",
+  "shortName": "Luke Hayes",
+  "artistName": "i C. infinity",
+  "place": "Amity, Minjerribah / North Stradbroke Island, Queensland",
+  "shortBio": "Luke Nathan Hayes is based at Amity on Minjerribah / North Stradbroke Island. His work connects practical technology, personal intelligence, community systems, public submissions and creative production. He writes lyrics and uses generative AI to create music as i C. infinity.",
+  "longBio": [
+    "Luke Nathan Hayes is based at Amity on Minjerribah / North Stradbroke Island. His public collection brings together practical technology, personal intelligence, community systems, public submissions, music and ideas about long-term civilisation planning.",
+    "His working history spans retail, automotive servicing and wheel alignment, festival and event work, railway training, airport services, mine shutdowns, driving and web work. His illustrated World of Work links individual records to the underlying work, education and volunteering history.",
+    "Strange But True is a doorway into his practical and creative work. Project Atlas helps readers explore the wider public collection, while the Open Record connects life history, original documents and project sources.",
+    "Luke writes the lyrics for i C. infinity and uses generative AI to create the music. He has four completed albums. His latest, A Protopian Gambit, mixes EDM and house, pop, rock, cultural, reggae and coastal styles. He does not currently perform the music live."
+  ],
+  "workingApproach": "One person, supported by AI companions, exploring a possible Redlands mayoral campaign through a relaxed, self-directed approach.",
+  "links": [
+    {
+      "id": "open-record",
+      "title": "Luke's Open Record (public document)",
+      "description": "Life history, original documents, public work and the sources behind them.",
+      "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md",
+      "source": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md"
+    },
+    {
+      "id": "work-history",
+      "title": "Luke's World of Work",
+      "description": "An illustrated work, education and volunteering map, with a readable history.",
+      "url": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history",
+      "source": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/#history"
+    },
+    {
+      "id": "project-atlas",
+      "title": "Project Atlas",
+      "description": "A public project directory with source links and original build history.",
+      "url": "https://auraofintelligence.github.io/project-atlas/",
+      "source": "https://auraofintelligence.github.io/project-atlas/"
+    },
+    {
+      "id": "strange-but-true",
+      "title": "Strange But True",
+      "description": "Practical technology, AI guidance, speaking, events and creative work.",
+      "url": "https://auraofintelligence.github.io/strange-but-true/",
+      "source": "https://auraofintelligence.github.io/strange-but-true/"
+    },
+    {
+      "id": "music-universe",
+      "title": "i C. infinity Music Universe",
+      "description": "Albums, songs, lyrics, videos and creative studio tools.",
+      "url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/",
+      "source": "Luke's current instruction and the public Music Universe catalogue"
+    }
+  ],
+  "interviewTopics": [
+    {
+      "title": "A fair go in the age of superintelligence",
+      "description": "Personal agency, shared capability and the public proposals behind the wider body of work."
+    },
+    {
+      "title": "Practical local systems",
+      "description": "Household costs, access to council information, voluntary C-Hours, repair, food resilience and local learning as distinct projects."
+    },
+    {
+      "title": "Australian capability and data sovereignty",
+      "description": "Local computing, productive infrastructure, manufacturing and person-controlled intelligence."
+    },
+    {
+      "title": "Music, lyrics and generative AI",
+      "description": "Four albums, the ideas within A Protopian Gambit, and Luke's process of writing lyrics and creating music with generative AI."
+    }
+  ]
+}

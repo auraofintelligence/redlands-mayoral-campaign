@@ -1,0 +1,15 @@
+{
+  "updated": "2026-11-09",
+  "authority": "Luke's requested removals from this public site",
+  "excludedRepos": [
+    "aura-horn-torus",
+    "geode-vibe",
+    "aura-spatial-perception",
+    "aura-sentience-codex",
+    "aura-systems-image-atlas",
+    "minjerribah-living-twin",
+    "second-island",
+    "straddie-digital-twin-builders",
+    "straddie-twin-prototype"
+  ]
+}

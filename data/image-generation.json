@@ -1,0 +1,44 @@
+[
+  {
+    "key": "favicon",
+    "prompt": "Create a square raster favicon for a Redlands civic project and ideas website. A single strong sculptural coastal beacon made of amethyst-purple glass with a warm gold light, above one simple curved gold wave. Sophisticated dimensional bitmap artwork, deep royal purple background, generous silhouette, a small number of bold shapes readable at 16 and 32 pixels. P4A-inspired palette of deep purple, grape, amethyst, gold. Front-facing centered composition with ample safe margin. No letters, initials, words, numerals, text, badges, slogans, flags, watermarks, vector graphics or SVG appearance. Do not draw a detailed scene or tiny linework. Make the beacon and gold wave the clear icon.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI bitmap favicon"
+  },
+  {
+    "key": "sovereign",
+    "prompt": "A wide landscape editorial concept illustration for a civic research website, showing Australian sovereign productive capacity as tangible connected objects: compact computing racks, a repairable robotic arm, neatly arranged metal and mineral samples, power modules and cooling pipes. No people, no flags, no text, no logos, no sci-fi city. A carefully lit tactile miniature workshop, deep purple and amethyst with warm gold highlights and pale stone surfaces. Mature optimistic visual language, physically legible components, room around the objects for cropping, 16:9 composition. It is a conceptual illustration, not a photograph of an operating facility.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI subject illustration"
+  },
+  {
+    "key": "civic",
+    "prompt": "A wide landscape editorial still-life concept illustration for civic, legal and household practical tools: a tidy public help desk with blank folders, a simple house-shaped model, an unmarked calculator, an open blank form and a tablet showing only abstract empty purple panels. Dimensional tactile realism, deep purple and amethyst accents, warm gold daylight on a pale stone desk, respectful and accessible civic atmosphere. No people, no text, no letters, no numbers, no logos, no scales of justice or gavel. Calm sophisticated composition with a little negative space, 16:9 landscape. Generic subject illustration, not an actual council service office.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI subject illustration"
+  },
+  {
+    "key": "travel",
+    "prompt": "A wide landscape conceptual editorial still life for travel research and public discovery tools. An open folded paper map with abstract unlabelled routes, a brass compass, a plain travel notebook and a small translucent globe on a pale stone desk. Ocean blues blend with amethyst and deep purple, restrained warm gold accents, natural daylight, tactile detail. No text, letters, numerals, flags, passport insignia, logos or destination claims. Not a photograph of a specific real place. Spacious mature composition, 16:9 landscape, designed as a shared website subject illustration.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI subject illustration"
+  },
+  {
+    "key": "creative",
+    "prompt": "A wide landscape editorial concept illustration for creative writing, music and independent media projects. An open blank book, a compact unbranded audio recorder, a film clapboard with no marks, and flowing translucent purple ribbon-like sound forms resting on a dark plum studio table. Warm gold light, amethyst glass and textured paper, sophisticated tactile materials, no people, no text or symbols resembling lettering, no logos. Clear objects and responsive cropping room, 16:9. A shared conceptual illustration, not documentation of an actual studio.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI subject illustration"
+  },
+  {
+    "key": "space",
+    "prompt": "Wide 16:9 editorial concept illustration for space systems, astronomy and solar research. A tactile tabletop solar-system model with a warm small sun, several beautifully distinct miniature planets, fine orbit arcs and a compact unbranded satellite sensor probe. Deep purple, amethyst, indigo and warm gold highlights on a pale mineral surface, precise dimensional materials, scientific curiosity without claiming a real mission. No text, numbers, logos, flags, names, launch scene or fictitious NASA photograph. Generous framing for responsive crops. Clearly generated conceptual artwork, sophisticated not cartoon.",
+    "generator": "Built-in image_gen",
+    "createdOn": "2026-11-09",
+    "kind": "GenAI subject illustration"
+  }
+]

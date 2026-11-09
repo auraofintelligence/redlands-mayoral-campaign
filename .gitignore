@@ -14,3 +14,5 @@ integrations/google-drive/.clasprc.json
 !/control-room/public/index.html
 !/control-room/public/control.css
 !/control-room/public/app.js
+
+!public/assets/press/*.zip

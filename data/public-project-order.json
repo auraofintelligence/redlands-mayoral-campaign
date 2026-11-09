@@ -1,0 +1,32 @@
+{
+  "basis": "Local community work first, related projects together, wider systems and long-horizon research last. Preserve Strange But True ledger order within each subject unless explicitly positioned here.",
+  "groupOrder": [
+    "community-places",
+    "local-screen-events",
+    "cooperation-funding",
+    "making-repair",
+    "resilience-information",
+    "food-sharing",
+    "ecology-wildlife",
+    "clean-energy",
+    "regional-twins-mobility",
+    "household-legal",
+    "care-wellbeing",
+    "work-leadership-builders",
+    "aura-genesis-interfaces",
+    "music-creative-production",
+    "stories-relationships-mystery",
+    "travel-directories-outreach",
+    "luke-record-collection",
+    "civic-policy",
+    "sovereign-capacity",
+    "gajra-futures",
+    "subterranean-materials",
+    "space-solar"
+  ],
+  "moves": [
+    {"repoName": "ready-set-co-op-cultural-intelligence-node", "groupId": "cooperation-funding", "after": "straddie-tenders-lab"},
+    {"repoName": "aura-civic-establishment", "groupId": "sovereign-capacity", "first": true},
+    {"repoName": "mutual-futures", "groupId": "sovereign-capacity", "after": "joyful-responsible-abundance"}
+  ]
+}
