@@ -39,3 +39,5 @@ Lyric excerpts are part of the public explanation, matched to the subject beside
 Most of Luke’s projects were developed for Straddie while he was setting up Strange But True, before he intended to run for mayor. Many may be adapted for greater Redlands, communities elsewhere in Australia and overseas; some remain place-specific. Preserve this origin context and invite readers to use their own judgement without grading the projects or converting the collection into campaign promises.
 
 The music page starts with both supplied full-album YouTube playlists embedded, with initial autoplay disabled and the severe-language warning visible before the players. Keep listening choices and privacy wording consistent with that behaviour. Each song has Facebook and X draft links plus Instagram and TikTok caption-preparation controls; these controls do not publish posts.
+
+Selecting a song should start playback immediately in the chosen player. Keep initial page-load playback disabled. Retain the severe-language acknowledgement before starting that individual song.

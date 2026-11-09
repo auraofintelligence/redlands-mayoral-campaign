@@ -40,15 +40,15 @@
     const frame = playerFrames.get(orientation);
     frame.querySelectorAll('video').forEach(video => video.pause());
     const iframe = document.createElement('iframe');
-    const query = new URLSearchParams({autoplay:'0', playsinline:'1', rel:'0'});
+    const query = new URLSearchParams({autoplay:'1', playsinline:'1', rel:'0'});
     if (playlist) query.set('list', id);
     iframe.src = `https://www.youtube-nocookie.com/embed/${playlist ? 'videoseries' : encodeURIComponent(id)}?${query}`;
     iframe.title = title;
-    iframe.allow = 'encrypted-media; picture-in-picture; fullscreen';
+    iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
     iframe.referrerPolicy = 'strict-origin-when-cross-origin';
     iframe.allowFullscreen = true;
     frame.replaceChildren(iframe);
-    status(orientation, `${title} loaded. Press play in the player to listen.`);
+    status(orientation, `${title} selected. Starting playback.`);
     frame.scrollIntoView({block:'center', behavior:'auto'});
     iframe.focus({preventScroll:true});
   }
@@ -72,7 +72,9 @@
     video.setAttribute('aria-label', `${title}, portrait lyric video`);
     video.append('Your browser cannot display this video. Use the artist catalogue link.');
     frame.replaceChildren(video);
-    status('portrait', `${title} loaded. Press play in the player to listen.`);
+    status('portrait', `${title} selected. Starting playback.`);
+    const playback = video.play();
+    playback?.catch(() => status('portrait', `${title} is ready. Your browser requires a press of Play.`));
     frame.scrollIntoView({block:'center', behavior:'auto'});
     video.focus({preventScroll:true});
   }
@@ -109,6 +111,8 @@
       open.href = shareDestinations[platform]; open.textContent = 'Open '+platform+' ↗';
       if (typeof shareDialog.showModal === 'function') shareDialog.showModal();
       else shareDialog.setAttribute('open','');
+      shareDialog.querySelector('#music-share-title').focus({preventScroll:true});
+      shareCaption.scrollTop = 0;
       return;
     }
 
