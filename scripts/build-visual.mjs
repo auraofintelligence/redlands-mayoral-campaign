@@ -29,7 +29,7 @@ const allFiles=[];
 for(const p of projects)if(!images[p.repoName]?.src)throw new Error('Missing project image: '+p.repoName);
 await mkdir(path.join(dist,'projects'),{recursive:true});
 await writeFile(path.join(dist,'assets','visual.css'),(await readFile(path.join(root,'public/assets/visual.css'),'utf8'))+'\n'+musicStyles);
-const nav=[['index.html','Home'],['projects.html','Projects'],['ideas.html','Redlands ideas'],['https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home','Wiki'],['about.html','About Luke'],['music.html','Music'],['volunteer.html','Volunteer'],['donations.html','Donations'],['reporting.html','Reporting'],['media.html','Media'],['contact.html','Contact']];
+const nav=[['index.html','Home'],['ideas.html','Redlands questions'],['projects.html','Projects'],['https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home','Wiki'],['about.html','About Luke'],['music.html','Music'],['volunteer.html','Volunteer'],['donations.html','Donations'],['reporting.html','Reporting'],['media.html','Media'],['contact.html','Contact']];
 const extras=[['interview.html','Interview'],['updates.html','Publication notes'],['sitemap.html','Site map'],['credits.html','Image credits'],['privacy.html','Privacy'],['licence.html','Licence']];
 const navHtml=(base,current)=>nav.map(([href,label])=>`<a href="${/^https?:/.test(href)?href:base+href}"${href===current?' aria-current="page"':''}>${e(label)}</a>`).join('');
 const photo=n=>{const p=photoRegister.photos[n];return{src:`assets/photos/${p.webFile}`,alt:p.alt,imageLabel:'Local photograph',imageKind:'photograph',credit:p.credit,licence:p.licence,licenceUrl:p.licenceUrl,sourceUrl:p.sourcePage}};

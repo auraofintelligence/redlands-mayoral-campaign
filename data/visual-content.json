@@ -956,7 +956,7 @@
     {
       "id": "subterranean-materials",
       "title": "Subterranean systems and materials",
-      "description": "Subterranean transport and civilisation concepts, material research and advanced fabrication.",
+      "description": "Subterranean transport and civilisation concepts, material research, advanced fabrication and long-term preparedness.",
       "projects": [
         {
           "id": "L015",
@@ -991,11 +991,11 @@
           "adjacentProjects": []
         },
         {
-          "id": "R032",
-          "repoName": "amity_stratum",
-          "title": "Amity Stratum",
-          "url": "https://github.com/auraofintelligence/amity_stratum",
-          "description": "A browser dashboard exploring a subterranean civilisation at Amity Point through four lenses: vision, advanced fabrication, resource flows and tunnelling infrastructure. Interactive charts and diagrams develop its civilisational and manufacturing ideas.",
+          "id": "L088",
+          "repoName": "micronova-and-excursions",
+          "title": "Micronova and Excursions",
+          "url": "https://github.com/auraofintelligence/micronova-and-excursions",
+          "description": "An authored argument and research corpus examining solar micronova hypotheses, geomagnetic excursions and civilisation preparedness. It includes source records, numerical tests and a related earthquake-prediction research path.",
           "adjacentProjects": []
         },
         {
@@ -1035,14 +1035,6 @@
           "title": "Space Weather News",
           "url": "https://github.com/auraofintelligence/space-weather-news",
           "description": "A solar and near-Earth monitoring dashboard and plain-language news hub, with operational-impact information for grids, satellites, aviation and communications. Its wider design includes a VR newsroom and a separate research path for space-weather and geophysical signal analysis.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "L088",
-          "repoName": "micronova-and-excursions",
-          "title": "Micronova and Excursions",
-          "url": "https://github.com/auraofintelligence/micronova-and-excursions",
-          "description": "An authored argument and research corpus examining solar micronova hypotheses, geomagnetic excursions and civilisation preparedness. It includes source records, numerical tests and a related earthquake-prediction research path.",
           "adjacentProjects": []
         },
         {
