@@ -3,15 +3,16 @@ import assert from 'node:assert/strict';
 import {readFile,readdir,stat} from 'node:fs/promises';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
+import vm from 'node:vm';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','data','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt']);
- for(const name of await readdir(dist)) assert.ok(name.endsWith('.html')||allowed.has(name),`Unexpected public file: ${name}`);
- assert.deepEqual(await readdir(path.join(dist,'data')),['projects.json']);
+ const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','index.html','projects.html','ideas.html','about.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
+ for(const name of await readdir(dist)) assert.ok(allowed.has(name),`Unexpected public file: ${name}`);
+ assert.ok(!(await readdir(dist)).includes('data'),'Obsolete project register was published alongside the current catalogue');
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
 });
 test('every internal page, asset and anchor resolves',async()=>{
@@ -59,7 +60,7 @@ test('artwork matches original provenance hashes',async()=>{
 });
 test('public copy has no em dashes, exposed campaign email or tracking scripts',async()=>{
  for(const file of await files(dist)){if(!/\.(html|js|css|json|md|txt|xml)$/.test(file))continue;const text=await readFile(file,'utf8');assert.ok(!text.includes('\u2014'),`Em dash in ${file}`);}
- const js=await read('public/assets/site.js');assert.doesNotMatch(js,/\b(fetch|XMLHttpRequest|localStorage|sessionStorage)\b/);
+ const js=await read('public/assets/visual.js');assert.doesNotMatch(js,/\b(fetch|XMLHttpRequest|localStorage|sessionStorage)\b/);
  const contact=await read('dist/contact.html'),config=JSON.parse(await read('data/campaign.json'));
  if(config.contactFormUrl){assert.ok(contact.includes(`action="${config.contactFormUrl}"`));assert.doesNotMatch(contact,/<fieldset disabled>/);assert.match(contact,/accepts it for sending/);}
  else {assert.match(contact,/<fieldset disabled>/);assert.match(contact,/not connected|unavailable|not active|not accepting messages/i);}
@@ -95,4 +96,37 @@ test('reference material uses the real GitHub Wiki and published project destina
  for(const entry of JSON.parse(await read('data/visual-content.json')).options)for(const key of ['title','purpose','redlandsAdaptation','route','mayoralCouncilLever','outside','partners','conflictBoundary','strategicPurpose','firstPrinciples','localApplications','leadershipExample','researchRationale'])if(entry[key])assert.doesNotMatch(entry[key],/\b(?:you|your|yourself|yours)\b/i,`Author address in public Wiki entry ${entry.id} ${key}`);
  const content=JSON.parse(await read('data/visual-content.json')),destinations=JSON.parse(await read('data/project-destinations.json')).destinations;
  for(const p of content.groups.flatMap(g=>g.projects)){const destination=destinations[p.repoName.toLowerCase()];assert.ok(destination);if(destination.kind==='website'){const filename=p.repoName.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');assert.ok((await read(`dist/projects/${filename}.html`)).includes(`href="${destination.url}"`),p.repoName);}}
+});
+
+test('old workspace bookmarks stay on the public home without redirects or storage access',async()=>{
+ const script=await read('public/assets/visual.js');
+ for(const hash of ['overview','new-media','national-podcasts','women-media','music','university','unions','community-networks','media','plan','calendar','outreach','publishing','inbox','projects','agents','budget','activity','settings']){
+  const redirects=[];
+  const context={document:{querySelector:selector=>selector==='.home-hero'?{}:null,querySelectorAll:()=>[]},location:{hash:'#'+hash,search:'',replace:url=>redirects.push(url)},URLSearchParams,localStorage:{getItem:()=>assert.fail('Public page read private browser records'),setItem:()=>assert.fail('Public page wrote browser records'),removeItem:()=>assert.fail('Public page deleted browser records')}};
+  vm.runInNewContext(script,context);
+  assert.deepEqual(redirects,[],`Old bookmark #${hash} redirected away from the public site`);
+ }
+});
+
+test('legacy public URLs point to current pages and current press information',async()=>{
+ const aliases=[['campaign.html','index.html'],['calendar.html','updates.html'],['transparency.html','updates.html']];
+ const config=JSON.parse(await read('data/campaign.json'));
+ for(const [file,target] of aliases){
+  const html=await read('dist/'+file);
+  assert.ok(html.includes(`http-equiv="refresh" content="0;url=${target}"`));
+  assert.ok(html.includes(`rel="canonical" href="${config.baseUrl}${target}"`));
+  assert.doesNotMatch(html,/save chosen possibilities|storage controls|private Drive storage|election explorer/i);
+  assert.ok(!(await read('dist/sitemap.xml')).includes(config.baseUrl+file));
+ }
+ assert.equal(await read('dist/downloads/media-brief.txt'),await read('public/assets/press/Luke-Nathan-Hayes-media-facts.txt'));
+ const names=await readdir(path.join(dist,'assets'));
+ assert.ok(!names.includes('site.js')&&!names.includes('site.css'),'Obsolete public shell assets remain');
+ assert.ok((await read('dist/sitemap.html')).includes('href="updates.html"'));
+});
+
+test('published text does not advertise removed outreach routes or personal storage',async()=>{
+ for(const file of await files(dist)){
+  if(!/\.(html|js|txt|xml)$/.test(file))continue;
+  assert.doesNotMatch(await readFile(file,'utf8'),/outreach\.html|redlands-mayoral-command-centre|The home page is a control room|No verified press portrait supplied|save chosen possibilities|explorer[’']s storage controls/,path.relative(dist,file));
+ }
 });

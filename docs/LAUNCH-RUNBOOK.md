@@ -6,18 +6,13 @@ Luke is taking a relaxed, serendipitous approach. He can explore media, follow c
 
 The earlier mention of 11 November 2026 is a tentative option only. It is not a confirmed event, publishing deadline or announcement commitment.
 
-## Directions available when useful
+## Public website and private work
 
-| Interest | A possible route |
-| --- | --- |
-| Who is covering the election? | Explore the media directory and inspect the actual coverage links and checked dates. |
-| What might I want to say? | Save a possibility, follow its sources and draft in the format Luke chooses. |
-| How does my existing work connect? | Use the source library, Open Record and original project pages. |
-| Could a conversation be worthwhile? | Inspect the public source and contact route; deciding to contact someone remains separate. |
-| Where should I keep this? | Compare browser-local, local private and private Drive storage, with their actual connection state. |
-| What would publishing involve? | Review the exact material, rights, authorisation and technical checks when Luke chooses to pursue publication. |
+The public site introduces Luke, the selected projects, music, ideas for Redlands and their sources. The Media page contains biographies, a fact sheet and a published portrait. The contact form is for enquiries. The GitHub Wiki explains the ideas and the roles of council, other governments and partners.
 
-None of these routes creates a task, date, recurring review or outgoing message. Saving a source means it is available to revisit.
+Planning, media discovery, saved possibilities, outreach drafts and records belong to the separate private command-centre repository. This public repository provides none of those storage or outreach controls. It does not synchronise private records to Google Drive. Keep private working material out of public files and commits.
+
+Luke chooses whether and when to act. No record, invitation or suggested date creates a commitment or permission to send a message.
 
 ## Official reference dates
 

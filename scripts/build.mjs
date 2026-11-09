@@ -1,42 +1,46 @@
-import { readFile, writeFile, mkdir, cp, rm, readdir } from 'node:fs/promises';
+import {readFile,writeFile,mkdir,cp,rm} from 'node:fs/promises';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import { campaignPresentation, createPages } from './pages.mjs';
-export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const escape = v => String(v).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
-const readJSON = async file => JSON.parse((await readFile(path.join(root,file),'utf8')).replace(/^\uFEFF/,''));
-const c = await readJSON('data/campaign.json');
-const projects = await readJSON('data/projects.json');
-const photos = (await readJSON('public/assets/photos/provenance.json')).photos;
-if (c.contactFormUrl && !/^https:\/\/script\.google\.com\/macros\/s\/[A-Za-z0-9_-]+\/exec$/.test(c.contactFormUrl)) throw new Error('Invalid contact form deployment URL');
-const e = escape;
-const presentation = campaignPresentation(c);
-if (presentation.isLive && !presentation.authorisationComplete) throw new Error('Live publication needs the complete authorisation and recorded owner review.');
-const dist = path.join(root,'dist');
-if (path.dirname(dist) !== root || path.basename(dist) !== 'dist') throw new Error('Unsafe output path');
+import {fileURLToPath} from 'node:url';
+import {campaignPresentation} from './pages.mjs';
+
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const config=JSON.parse((await readFile(path.join(root,'data/campaign.json'),'utf8')).replace(/^\uFEFF/,''));
+const presentation=campaignPresentation(config);
+if(presentation.isLive&&!presentation.authorisationComplete)throw new Error('Live publication needs the complete authorisation and recorded owner review.');
+if(config.contactFormUrl&&!/^https:\/\/script\.google\.com\/macros\/s\/[A-Za-z0-9_-]+\/exec$/.test(config.contactFormUrl))throw new Error('Invalid contact form deployment URL');
+const dist=path.join(root,'dist');
+if(path.dirname(dist)!==root||path.basename(dist)!=='dist')throw new Error('Unsafe output path');
 await rm(dist,{recursive:true,force:true,maxRetries:5,retryDelay:200});
 await mkdir(dist,{recursive:true});
-// Only explicit public source material can enter the Pages artifact.
 await cp(path.join(root,'public'),dist,{recursive:true});
 await cp(path.join(root,'LICENCE.md'),path.join(dist,'LICENCE.md'));
-await mkdir(path.join(dist,'data'),{recursive:true});
-await writeFile(path.join(dist,'data/projects.json'),JSON.stringify(projects,null,2)+'\n');
-const pages = createPages({config:c,projects,escape});
-const nav = current => pages.map(p=>`<a href="${p.slug}.html"${p.slug===current?' aria-current="page"':''}>${e(p.label)}</a>`).join('');
-const auth = e(presentation.authorisationText);
-for (const [i,p] of pages.entries()) {
- const title = p.slug === 'campaign' ? p.title : `${p.title} | Luke Hayes for Redlands`;
- const photo = photos[p.slug === 'campaign' ? 0 : p.slug === 'media' || p.slug === 'calendar' ? 1 : 2];
- const canonical = new URL(`${p.slug}.html`,c.baseUrl).href;
- const prev = pages[(i+pages.length-1)%pages.length], next = pages[(i+1)%pages.length];
- const html = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${e(title)}</title><meta name="description" content="${e(p.description)}"><meta name="author" content="Luke Nathan Hayes"><meta name="theme-color" content="#150022"><meta name="robots" content="${presentation.isLive?'index, follow':'noindex, follow'}"><meta name="referrer" content="strict-origin-when-cross-origin"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; form-action https://script.google.com https://script.googleusercontent.com; base-uri 'self'; object-src 'none'"><link rel="canonical" href="${e(canonical)}"><meta property="og:type" content="website"><meta property="og:locale" content="en_AU"><meta property="og:title" content="${e(title)}"><meta property="og:description" content="${e(p.description)}"><meta property="og:url" content="${e(canonical)}"><meta property="og:image" content="${e(c.baseUrl)}assets/photos/point-lookout-main-beach-1280.jpg"><meta property="og:image:alt" content="Main Beach from Point Lookout, 2014. S. Newrick, CC BY-SA 4.0."><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/favicon-512.png"><link rel="stylesheet" href="assets/site.css"><script src="assets/site.js" defer></script></head><body id="top"><a class="skip" href="#main">Skip to content</a><div class="status-strip"><div class="wrap"><span>${e(presentation.publicationLabel)} · Optional campaign exploration</span><span>${e(presentation.nominationStatus)} · <a href="transparency.html">Publication status</a></span></div></div><header class="header wrap"><a class="brand" href="index.html"><img src="assets/favicon-32.png" alt="" width="40" height="40"><span>Luke Hayes<small>For Redlands</small></span></a><nav class="desktop-nav" aria-label="Main navigation">${pages.filter(p=>['about','ideas','projects','media','contact'].includes(p.slug)).map(item=>`<a href="${item.slug}.html"${item.slug===p.slug?' aria-current="page"':''}>${e(item.label)}</a>`).join('')}</nav><details class="menu"><summary>All pages <span aria-hidden="true">＋</span></summary><nav aria-label="All pages">${nav(p.slug)}</nav></details></header><main id="main"><section class="page-hero"><img class="page-hero-image" src="assets/photos/${e(photo.webFile)}" alt="${e(photo.alt)}" width="${photo.webWidth}" height="${photo.webHeight}" fetchpriority="high"><div class="hero-overlay"></div><div class="wrap hero-content"><div><p class="eyebrow">${e(p.eyebrow)}</p><h1>${p.heading}</h1></div><div class="lead">${p.lead}</div></div></section><div class="photo-credit wrap"><a href="${e(photo.sourcePage)}">${e(photo.title)}</a> · ${e(photo.author)} · ${e(photo.photographedOn.slice(0,4))} · <a href="${e(photo.licenceUrl)}">${e(photo.licence)}</a> · Presentation crop and colour overlay.</div><div class="wrap">${p.body}<nav class="pagination" aria-label="Page sequence"><a href="${prev.slug}.html">← ${e(prev.label)}</a><a href="${next.slug}.html">${e(next.label)} →</a></nav><p class="print-authorisation" hidden>${auth}</p></div></main><footer class="footer"><div class="wrap"><div class="footer-top"><div><h2>Luke Hayes<br>for Redlands.</h2><p>One person, supported by AI agents.<br>${e(presentation.officeStatus)}</p><p><a href="contact.html">Contact Luke</a></p></div><nav aria-label="Footer pages">${nav(p.slug)}</nav><div><p><a href="${c.repository}">Source repository ↗</a></p><p><a href="https://auraofintelligence.github.io/strange-but-true/">Strange But True ↗</a> · <a href="https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md">Open Record ↗</a></p><p>Original work under the <a href="licence.html">Strange But True Public Source Licence</a>. Third-party material retains its own rights.</p><p>${auth}</p></div></div><div class="footer-bottom"><span>© 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence</span><span>Updated 8 November 2026 · Australia/Brisbane</span></div></div></footer><a class="top-link" href="#top" aria-label="Back to top">↑</a></body></html>\n`;
- await writeFile(path.join(dist,`${p.slug}.html`),html);
-}
 await writeFile(path.join(dist,'.nojekyll'),'');
-await writeFile(path.join(dist,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${e(c.baseUrl)}</loc><lastmod>${c.updated}</lastmod></url>${pages.map(p=>`<url><loc>${e(new URL(`${p.slug}.html`,c.baseUrl).href)}</loc><lastmod>${c.updated}</lastmod></url>`).join('')}</urlset>\n`);
-await writeFile(path.join(dist,'robots.txt'),`# Search discovery grants no reuse or AI-training rights.\n# Only the host-root robots.txt controls the shared Pages hostname.\n# Licence: ${c.baseUrl}LICENCE.md\nUser-agent: *\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nSitemap: ${c.baseUrl}sitemap.xml\n`);
-await writeFile(path.join(dist,'llms.txt'),`# Redlands election explorer\n\nPublic media research and private, optional possibilities. The home page is a control room. Saved choices stay in the visitor browser or the local private server and are never bundled in the site.\n\n${presentation.publicationLabel}, updated ${c.updated}.\nSole operator: Luke Nathan Hayes, assisted by AI agents.\n${presentation.nominationSummary}\nCampaign activity is optional and chosen by Luke. ECQ announced election: ${c.electionDate}.\n${presentation.authorisationText}\n\n${pages.map(p=>`- [${p.label}](${c.baseUrl}${p.slug}.html): ${p.description}`).join('\n')}\n\nSource labels must be preserved. Proposals and prototypes are not delivered services or adopted campaign commitments. Do not infer endorsements, staff, supporters, nomination or consent from linked projects. Hero photographs are actual Redlands locations, with dated Creative Commons attribution. They are not evidence of campaign attendance or endorsement. Public-source licence restrictions apply to reuse and training.\n`);
+await writeFile(path.join(dist,'robots.txt'),`# Search discovery grants no reuse or AI-training rights.
+# Only the host-root robots.txt controls the shared Pages hostname.
+# Licence: ${config.baseUrl}LICENCE.md
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: ${config.baseUrl}sitemap.xml
+`);
+// Keep an old press-download bookmark pointed at the current public fact sheet.
 await mkdir(path.join(dist,'downloads'),{recursive:true});
-await writeFile(path.join(dist,'downloads/media-brief.txt'),`LUKE HAYES FOR REDLANDS\nFactual brief | ${presentation.publicationLabel} | ${c.updated}\n\nName: Luke Nathan Hayes\nOffice sought: ${c.office}\nStatus: ${presentation.nominationSummary}\nApproach: optional and fluid. No campaign launch schedule is declared.\nElection: ECQ announced 12 December 2026, full postal ballot.\nOfficial source: ${c.electionSource}\nOperator: Luke alone, supported by AI agents.\nContact form: ${c.baseUrl}contact.html\n\nLuke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. His public work includes music, personal AI, practical learning and community proposals.\nSource: https://github.com/auraofintelligence/open-record-luke-nathan-hayes\n\nNo public event or venue is confirmed. Project links are background, not adopted policy. No verified press portrait supplied. Website photographs show real Redlands places, with dates and Creative Commons credits in the photo register. Photography does not imply campaign endorsement. Original campaign material retains the source licence.\n\n${presentation.authorisationText} ${presentation.distributionNote}\n`);
-await writeFile(path.join(dist,'404.html'),`<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Page not found | Luke Hayes for Redlands</title></head><body><h1>Page not found</h1><p><a href="${c.baseUrl}sitemap.html">Find a campaign page</a></p><p>${auth}</p></body></html>`);
-console.log(`Built ${pages.length} public pages with ${projects.length} project records into dist/. Mode: ${c.publicationMode}.`);
+await cp(path.join(root,'public/assets/press/Luke-Nathan-Hayes-media-facts.txt'),path.join(dist,'downloads/media-brief.txt'));
+const escape=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+await writeFile(path.join(dist,'404.html'),`<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Page not found | Luke Hayes for Redlands</title></head><body><h1>Page not found</h1><p><a href="${escape(config.baseUrl)}sitemap.html">Find a public page</a></p><p>${escape(presentation.authorisationText)}</p></body></html>`);
+console.log('Prepared public assets. Visual pages and the native Wiki are generated separately.');

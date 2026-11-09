@@ -48,6 +48,8 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public campaign pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
 
+The [migration review](docs/PUBLIC-PRIVATE-MIGRATION-REVIEW.md) records the cleanup of old pages, bookmark redirects, press downloads, integration documentation and build inputs. [Publication notes](https://auraofintelligence.github.io/redlands-mayoral-campaign/updates.html) explain the public website's current role.
+
 ## Build and preview
 
 Requires **Node.js 20 or later**. No runtime package installation is required.

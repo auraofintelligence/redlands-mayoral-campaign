@@ -6,7 +6,7 @@ The public reference edition belongs in the [repository’s GitHub Wiki](https:/
 
 The preparer reads only repository data. It does not read private files, send messages, change repository settings or publish remotely. Excluded projects and private fields must stay outside the public snapshot. Running the website build alone does not publish the Wiki.
 
-Resident-facing wording is maintained in `data/wiki-wording-01.json`, `data/wiki-wording-02.json`, `data/wiki-wording-03.json` and `data/wiki-context-wording.json`. The public snapshot preparation applies these overrides without changing the original working map. Update that durable wording before regenerating the public snapshot and Wiki.
+Resident-facing wording is retained in `data/wiki-wording-01.json`, `data/wiki-wording-02.json`, `data/wiki-wording-03.json` and `data/wiki-context-wording.json`. The website and Wiki build directly from the committed public snapshot in `data/visual-content.json` and require no private files. When revising an idea, update its public snapshot and corresponding wording record together before rebuilding. Private working maps are maintained separately and are not a build input here.
 
 Entry numbers remain stable. Public title changes also change native Wiki filenames and page URLs, with apostrophes removed from slugs. The generator removes obsolete numbered entry Markdown files from `docs/wiki/`. When publishing, remove the same obsolete numbered pages from the Wiki checkout, retain the replacement page and preserve unrelated existing pages. Their history remains in Git.
 

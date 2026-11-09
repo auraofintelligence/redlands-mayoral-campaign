@@ -1,6 +1,3 @@
-// Preserve bookmarks to the earlier command-centre home without changing records.
-const previousWorkspaceRoutes=new Set(['overview','new-media','national-podcasts','women-media','music','university','unions','community-networks','media','plan','calendar','outreach','publishing','inbox','projects','agents','budget','activity','settings']);
-if(document.querySelector('.home-hero')&&previousWorkspaceRoutes.has(location.hash.slice(1)))location.replace('outreach.html'+location.hash);
 const projectSearch=document.querySelector('#visual-project-search');
 const projectTopic=document.querySelector('#visual-project-topic');
 function filterVisualProjects(){

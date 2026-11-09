@@ -1,10 +1,10 @@
 # Public project source audit
 
-Reviewed 8 November 2026, Australia/Brisbane.
+Initial source review: 8 November 2026, Australia/Brisbane. Publication context corrected after the command-centre separation on 9 November 2026.
 
-The campaign project directory contains 33 curated entries covering the named source projects, their relevant current editions and all nine additions in the Open Record's 8 November public-work review. It is a route into Luke Nathan Hayes's published work. It does not turn a linked proposal into an adopted campaign policy or claim that the source project is an operating service.
+This document records the initial source review. Its original directory had 33 entries; the retained pinned register in `data/projects.json` now has 32. The current website uses the separately reviewed `data/visual-content.json`, containing 113 selected projects across 23 subjects. The pinned register is retained as source history, rather than published as a second project catalogue. A linked proposal does not become an adopted campaign policy or an operating service by appearing here.
 
-Luke is the sole human operator, assisted by AI companions. His current direction is a relaxed, self-directed election explorer with optional possibilities and a secondary public preview. References to teams, membership, organisations or programme staff inside linked source projects describe those source projects. They do not establish campaign staff or delegated authority.
+Luke is the sole human operator, assisted by AI companions. The public site introduces his work, music, ideas and source material. Private planning and outreach are maintained separately. His approach remains relaxed and self-directed. References to teams, membership, organisations or programme staff inside linked source projects describe those projects. They do not establish campaign staff or delegated authority.
 
 ## Source records
 

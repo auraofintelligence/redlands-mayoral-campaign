@@ -127,7 +127,7 @@ files.set('_Footer',`${link('Joyful Responsible Abundance',jra)} · ${link('Abou
 
 const all=[...files.values()].join('\n'),metadata=new Set(['id','theme','title']);
 for(const entry of content.options)for(const [key,value] of Object.entries(entry))if(typeof value==='string'&&value&&!metadata.has(key)&&!files.get(pageName(entry)).includes(value))throw new Error(`Wiki omits narrative field ${entry.id}.${key}`);
-if(/(?:[CGL]:[\\/]|myNotes|myWording|storageId|sbt4183@|auraofintelligence@gmail|\u2014)/i.test(all))throw new Error('Wiki contains a private field, local path, public email or forbidden punctuation');
+if(/(?:[CGL]:[\\/]|myNotes|myWording|storageId|[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}|\u2014)/i.test(all))throw new Error('Wiki contains a private field, local path, public email or forbidden punctuation');
 const excludedRepos=new Set(exclusions.excludedRepos.map(repo=>repo.toLowerCase()));
 for(const [value] of all.matchAll(/https?:\/\/[^\s<>"')]+/g)){
  const url=new URL(value),repo=sourceRepoName(value)||(url.hostname==='auraofintelligence.github.io'?url.pathname.split('/').filter(Boolean)[0]:'');
