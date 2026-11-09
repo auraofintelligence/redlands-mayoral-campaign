@@ -44,9 +44,9 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 [Listen and read on this site](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [Published album](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/a-protopian-gambit/) · [Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
 
-## Private outreach and personal working records
+## Private command centre
 
-The outreach command centre is a **local-only working interface**, not part of the public GitHub Pages deployment. Run `npm run control` locally to open it on 127.0.0.1:4183. Media research and local drafting tools remain separate from the public campaign website. Personal working records must stay in restricted storage, never in GitHub Pages, committed files or publicly reachable JavaScript. Publishing checks exclude the control-room route and its browser application files.
+The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public campaign pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
 
 ## Build and preview
 
@@ -59,14 +59,6 @@ npm run preview
 
 The static preview is available at [127.0.0.1:4173](http://127.0.0.1:4173/). The build generates the public site in `dist/` and the versioned native GitHub Wiki pages in `docs/wiki/`. The wiki has its own Git repository and is published separately. GitHub Actions checks and publishes `dist/` to GitHub Pages after updates to `main`.
 
-For the local control room:
-
-```sh
-npm run control
-```
-
-Open [127.0.0.1:4183](http://127.0.0.1:4183/). Optional private administration is documented in [operations](docs/OPERATIONS.md), with [AI companion guidance](docs/AGENT-OPERATING-MODEL.md), [mail-only contact integration](integrations/contact-mail/README.md) and [separate Drive integration notes](docs/GOOGLE-DRIVE.md).
-
 ## Source layout
 
 | Path | Purpose |
@@ -78,11 +70,8 @@ Open [127.0.0.1:4183](http://127.0.0.1:4183/). Optional private administration i
 | `public/assets/` | Optimised credited images, bitmap favicon, fonts, music resources and browser code |
 | `scripts/` | Website and Wiki generation, local preview and release checks |
 | `docs/wiki/` | Markdown for the actual GitHub Wiki |
-| `control-room/` | Outreach discovery and optional personal workspace |
-| `integrations/` | Separate mail-only and Google Drive integration source |
-| `operations/` | Optional local private records and undated templates |
+| `integrations/contact-form/` | Public contact form integration source |
 | `tests/` | Behaviour, source, privacy and publication-boundary checks |
-| `private/` | Ignored working records, never published |
 | `dist/` | Generated public site, never a source-editing location |
 
 Only allowlisted public output is published. The original supplied documents and private working map remain separate. Source checks are described in the [source audit](docs/SOURCE-AUDIT.md).

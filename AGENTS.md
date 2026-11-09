@@ -1,6 +1,6 @@
 # Working with Luke
 
-Luke Nathan Hayes is the sole human operator, assisted by AI companions. His approach is relaxed, serendipitous and self-directed. The primary interface is a functional command centre: discover media and community groups, open contact routes, prepare outreach, keep drafts and notes, and record conversation status. The public campaign preview is secondary. His Outreach CMS is a reference for page content and usable workflows, not a request to duplicate its appearance.
+Luke Nathan Hayes is the sole human operator, assisted by AI companions. His approach is relaxed, serendipitous and self-directed. The command centre and private working records now live in the separate private repository `auraofintelligence/redlands-mayoral-command-centre`. This public repository's primary interface is the published campaign website and GitHub Wiki; do not restore the private dashboard, drafts, contacts or local server here. His Outreach CMS is a reference for page content and usable workflows, not a request to duplicate its appearance.
 
 Do not declare his schedule, create a daily routine, assign priorities, invent deadlines or convert a suggestion into a commitment. New personal records start empty. Optional templates stay undated until Luke chooses a date. The earlier mention of 11 November 2026 is a tentative option, not an announced launch. Keep official ECQ reference dates separate from Luke's choices. Do not turn linked projects into campaign promises.
 

@@ -8,11 +8,5 @@
 *.zip
 .DS_Store
 Thumbs.db
-integrations/google-drive/.clasp.json
-integrations/google-drive/.clasprc.json
-/control-room/public/*
-!/control-room/public/index.html
-!/control-room/public/control.css
-!/control-room/public/app.js
 
 !public/assets/press/*.zip
