@@ -19,7 +19,7 @@ export function renderMusic({e = escapeHtml, base = ''} = {}) {
   const player = orientation => `<article class="music-player-card" aria-labelledby="music-${orientation}-title">
     <h2 id="music-${orientation}-title">${orientation === 'landscape' ? 'Landscape' : 'Portrait'}</h2>
     <div class="music-frame music-frame--${orientation}" data-music-player="${orientation}">
-      <iframe src="${e('https://www.youtube-nocookie.com/embed/videoseries?'+new URLSearchParams({list:m.playlists[orientation].id,autoplay:'0',playsinline:'1',rel:'0'}))}" title="A Protopian Gambit ${orientation} full-album playlist" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe src="${e('https://www.youtube-nocookie.com/embed/videoseries?'+new URLSearchParams({list:m.playlists[orientation].id,autoplay:'0',playsinline:'1',rel:'0',cc_load_policy:'0'}))}" title="A Protopian Gambit ${orientation} full-album playlist" loading="lazy" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="music-actions"><button type="button" data-music-playlist="${orientation}" data-playlist-id="${e(m.playlists[orientation].id)}">Full album playlist</button><button type="button" data-music-stop="${orientation}">Close player</button></div>
     <p class="music-player-status" data-music-status="${orientation}" role="status">Full-album playlist ready. Press play to listen.</p>

@@ -40,7 +40,7 @@
     const frame = playerFrames.get(orientation);
     frame.querySelectorAll('video').forEach(video => video.pause());
     const iframe = document.createElement('iframe');
-    const query = new URLSearchParams({autoplay:'1', playsinline:'1', rel:'0'});
+    const query = new URLSearchParams({autoplay:'1', playsinline:'1', rel:'0', cc_load_policy:'0'});
     if (playlist) query.set('list', id);
     iframe.src = `https://www.youtube-nocookie.com/embed/${playlist ? 'videoseries' : encodeURIComponent(id)}?${query}`;
     iframe.title = title;
