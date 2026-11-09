@@ -84,7 +84,7 @@ test('all visual projects have reviewed descriptions and existing credited raste
  for(const p of projects){assert.ok(p.description.length>30);const image=images[p.repoName];assert.ok(image?.credit&&image?.licence&&image?.alt);assert.match(image.src,/\.(webp|jpg|png)$/);assert.ok((await stat(path.join(dist,image.src))).isFile());}
  const publicData=await read('dist/assets/data/visual-content.json');assert.doesNotMatch(publicData,/myWording|myNotes|storageId|[CGL]:[\\/]/);
  const icon=await readFile(path.join(dist,'favicon.ico'));assert.equal(icon.readUInt16LE(2),1);
- const music=await read('dist/music.html');assert.match(music,/Severe language/);assert.match(music,/music-warning-dialog/);assert.doesNotMatch(music,/<iframe|<video[^>]+autoplay/);
+ const music=await read('dist/music.html');assert.match(music,/Severe language/);assert.match(music,/music-warning-dialog/);assert.doesNotMatch(music,/<video[^>]+autoplay|autoplay=1/);assert.equal((music.match(/<iframe /g)||[]).length,2);
  const album=JSON.parse(await read('data/visual-music.json'));assert.equal(album.tracks.length,22);assert.equal(album.lyricSheet.entries.length,22);assert.equal(new Set(album.lyricSheet.entries.map(entry=>entry.number)).size,22);assert.match(music,/<template id="music-sheet-template">/);assert.ok(!album.lyricSheet.entries.some(entry=>entry.title.toLowerCase()==='strange but true'));
 });
 

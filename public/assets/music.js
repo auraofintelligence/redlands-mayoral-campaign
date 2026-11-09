@@ -8,7 +8,7 @@
   let warningTrigger = null;
   let restoreWarningFocus = true;
   const playerFrames = new Map([...page.querySelectorAll('[data-music-player]')].map(frame => [frame.dataset.musicPlayer, frame]));
-  const originalFrames = new Map([...playerFrames].map(([orientation, frame]) => [orientation, frame.innerHTML]));
+  const originalFrames = new Map([...playerFrames].map(([orientation]) => [orientation, `<div class="music-placeholder"><strong>Player closed</strong><p>Choose the full album playlist or a song below to listen.</p></div>`]));
 
   function status(orientation, text) {
     page.querySelector(`[data-music-status="${orientation}"]`).textContent = text;
@@ -77,11 +77,45 @@
     video.focus({preventScroll:true});
   }
 
+  const shareDialog = document.getElementById('music-share-dialog');
+  const shareCaption = document.getElementById('music-share-caption');
+  const shareStatus = shareDialog.querySelector('[data-share-status]');
+  const shareDestinations = {Instagram:'https://www.instagram.com/', TikTok:'https://www.tiktok.com/'};
+  let shareTrigger = null;
+  shareDialog.querySelector('[data-share-copy]').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(shareCaption.value);
+      shareStatus.textContent = 'Copied. Open the app and paste it into your post or message.';
+    } catch {
+      shareCaption.focus(); shareCaption.select();
+      shareStatus.textContent = 'The caption is selected. Use your device’s Copy command, then paste it in the app.';
+    }
+  });
+  shareDialog.querySelector('[data-share-close]').addEventListener('click', () => shareDialog.close());
+  shareDialog.addEventListener('close', () => shareTrigger?.focus({preventScroll:true}));
+
   page.addEventListener('click', event => {
+    const shareButton = event.target.closest('[data-share-prepare]');
+    if (shareButton) {
+      const platform = shareButton.dataset.sharePrepare;
+      if (!shareDestinations[platform]) return;
+      const card = shareButton.closest('[data-share-caption]');
+      shareTrigger = shareButton;
+      shareCaption.value = card.dataset.shareCaption;
+      shareStatus.textContent = '';
+      shareDialog.querySelector('#music-share-title').textContent = 'Share on '+platform;
+      shareDialog.querySelector('[data-share-instructions]').textContent = 'Copy the caption and song link, then paste them into your '+platform+' post or message.';
+      const open = shareDialog.querySelector('[data-share-open]');
+      open.href = shareDestinations[platform]; open.textContent = 'Open '+platform+' ↗';
+      if (typeof shareDialog.showModal === 'function') shareDialog.showModal();
+      else shareDialog.setAttribute('open','');
+      return;
+    }
+
     const playlistButton = event.target.closest('[data-music-playlist]');
     if (playlistButton) {
       const orientation = playlistButton.dataset.musicPlaylist;
-      requestLoad(() => loadYouTube(orientation, playlistButton.dataset.playlistId, true, `A Protopian Gambit ${orientation} playlist`), true, playlistButton);
+      requestLoad(() => loadYouTube(orientation, playlistButton.dataset.playlistId, true, `A Protopian Gambit ${orientation} playlist`), false, playlistButton);
       return;
     }
     const trackButton = event.target.closest('[data-music-track]');

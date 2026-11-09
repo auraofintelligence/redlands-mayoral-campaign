@@ -44,7 +44,7 @@ Each song has a quick topic summary and links to represented projects. **Eye of 
 
 The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-mayoral-campaign/assets/music/a-protopian-gambit-lyric-sheet-2026-11-09.pdf) contains 22 songs across 29 pages. Strange but True has moved to the fifth album, **Straddie Fun**, which is a work in progress.
 
-**Severe language warning:** Don't Try to Fix Me is an angry song about big tech. The site asks for acknowledgement before loading that song, either complete playlist, or the full lyric sheet.
+**Severe language warning:** Don't Try to Fix Me is an angry song about big tech. Both full-album playlists are embedded and ready to play, with the warning before them. The site asks for acknowledgement before loading that song individually or displaying the full lyric sheet.
 
 [Listen and read on this site](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [Published album](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/a-protopian-gambit/) · [Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
 

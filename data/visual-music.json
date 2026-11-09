@@ -275,9 +275,9 @@
     }
   ],
   "playlistVerification": {
-    "checkedOn": "2026-11-09",
-    "landscape": "ID matches the current source catalogue. YouTube page could not be fetched by the web tool.",
-    "portrait": "Exact owner-supplied playlist retained. YouTube page could not be fetched by the web tool."
+    "checkedOn": "2026-11-10",
+    "landscape": "Verified the supplied YouTube playlist in the browser: correct album and landscape format, 22 videos.",
+    "portrait": "Verified the supplied YouTube playlist in the browser: correct album and portrait format, 22 videos. Each playlist keeps its own running order."
   },
   "tracks": [
     {
