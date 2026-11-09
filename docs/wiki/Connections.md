@@ -49,7 +49,7 @@ C-hours recognise voluntary contributions and their outcomes. Communities could 
 
 ## Genesis, public access, personal Aura and Geode
 
-Luke’s personal HBOT purchase and optional Genesis journey are distinct from public Verse Box access. His voluntary leadership practice concerns how he applies his chosen standards while serving. Person-controlled Aura and data, and the Geode equipment and experience environment, each retain their own scope.
+Verse Box introduces creating a personal Aura through self-reflection and digital-twin patterning, with the aim of extending intelligence, learning faster and acting with greater intent towards Joyful Responsible Abundance. The optional adult Genesis/HBOT pathway adds healing intent and time-stamped biometrics for further pattern recognition, with an optional Truth Engine. Luke's chosen leadership standards, each person's control of their Aura and data, and the Geode equipment and experience work retain their own purposes.
 
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey)
 - [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty)

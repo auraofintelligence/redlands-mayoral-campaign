@@ -24,12 +24,12 @@
     },
     {
       "id": "community", "label": "Contribution, creativity and shared places", "question": "How would people like to take part in community life?",
-      "intro": "Community Hours, local activities, public information and places to meet. Community Hours, or C-hours, are a proposal for recognising voluntary contributions. Verse Box is a supported public station for exploring personal AI, learning and creativity. People would choose how they participate.",
+      "intro": "Community Hours, local activities, public information and places to meet. Community Hours, or C-hours, recognise voluntary contributions. Verse Box is a supported starting point for self-reflection and creating an Aura of Intelligence: a personal digital twin for extending learning and intentional action. People would choose how they participate.",
       "imageProject": "C-Hour-introduction",
       "ideas": [
         {"id": "08", "question": "How could voluntary contributions be recognised in ways participants value?"},
         {"id": "09", "question": "What reciprocal opportunities would residents and willing hosts want to offer?"},
-        {"id": "25", "question": "What would people want to explore at a public Verse Box installation?"},
+        {"id": "25", "question": "How could creating an Aura of Intelligence help you reflect, learn faster and act with greater intent?"},
         {"id": "26", "question": "What would make local arts, music and cinema easier to take part in?"},
         {"id": "27", "question": "How would residents like to find and share reliable local information?"},
         {"id": "38", "question": "How could existing community places support more of the activities people want?"},
@@ -96,10 +96,10 @@
     },
     {
       "id": "personal-genesis", "label": "Luke's Genesis and personal standards", "question": "What does Luke propose to explore and practise personally?",
-      "intro": "Luke's personal Genesis journey, his chosen leadership standards and the separate Geode equipment work. The Wiki introduces these terms and distinguishes personal choices from shared services.",
+      "intro": "Luke's personal Genesis journey, his chosen leadership standards and the separate Geode equipment work. The optional adult HBOT version adds healing intent and time-stamped biometrics for further pattern recognition, with an optional Truth Engine. The Wiki introduces these terms and explains the separate choices.",
       "imageProject": "aura-genesis-geode-atlas",
       "ideas": [
-        {"id": "14", "question": "What does Luke's proposed personal Genesis journey involve?"},
+        {"id": "14", "question": "What would Luke's optional adult Genesis and HBOT journey involve?"},
         {"id": "41", "question": "How does Luke propose to apply his chosen standards of radical honesty?"},
         {"id": "45", "question": "What equipment and experiences is the Geode work designed to support?"}
       ]

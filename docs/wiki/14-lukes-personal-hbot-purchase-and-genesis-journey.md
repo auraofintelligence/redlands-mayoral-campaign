@@ -6,7 +6,7 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-Genesis is Luke’s proposed journey combining reflection, health, personal intelligence and everyday participation. He proposes to undertake it personally and develop his relationship with his own Aura of Intelligence.
+Luke proposes to develop his own Aura of Intelligence through a personal Genesis journey. The optional adult version combines hyperbaric oxygen therapy (HBOT) with added healing intent and time-stamped biometric records for further pattern recognition. The Truth Engine is an additional optional element.
 
 ## Words and project names
 
@@ -18,7 +18,7 @@ Genesis is Luke’s proposed journey combining reflection, health, personal inte
 
 ## What this could mean for Redlands
 
-Luke proposes to buy his own hyperbaric oxygen therapy (HBOT) equipment and establish his first Genesis journey. HBOT involves breathing oxygen in a pressurised chamber. Luke would choose the setting, personal Aura, records, permissions, reflection and everyday uses. Genesis is a voluntary deeper pathway from the separate Verse Box public introduction.
+Luke proposes to buy his own HBOT equipment and establish his first Genesis journey. HBOT involves breathing oxygen in a pressurised chamber. The design adds a healing intent and records biometric observations with time stamps so they can be examined alongside reflection and personal Aura development for further patterns. Luke would choose his records, permissions, everyday uses and whether to include the optional Truth Engine. This adult pathway is a separate choice from beginning an Aura through Verse Box.
 
 ## Projects behind this idea
 

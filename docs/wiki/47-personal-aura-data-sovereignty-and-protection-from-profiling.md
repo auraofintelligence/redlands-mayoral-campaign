@@ -6,7 +6,7 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-Aura of Intelligence is Luke’s design for personal artificial intelligence (AI) that supports learning, reflection and everyday tasks using chosen records. The aim is practical control over that intelligence and the assumptions systems make about people.
+Aura of Intelligence is Luke’s design for a personal digital twin developed through self-reflection and patterning of chosen records, experiences, knowledge and intentions. Its purpose is to extend a person’s intelligence so they can learn more, learn faster and act with greater intent towards Joyful Responsible Abundance. Personal control includes examining and correcting the assumptions the system makes about them.
 
 ## Words and project names
 

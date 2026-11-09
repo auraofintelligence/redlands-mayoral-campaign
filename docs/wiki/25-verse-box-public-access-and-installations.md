@@ -6,7 +6,7 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-Verse Box is a proposed public introduction to personal Aura of Intelligence, learning, creativity and community participation, through supported stations and sessions.
+Verse Box is designed as a supported public starting point for creating an Aura of Intelligence: a personal digital twin developed through self-reflection and patterning. The aim is to extend a person’s intelligence so they can learn more, learn faster and act in the world with greater intent towards Joyful Responsible Abundance.
 
 ## Words and project names
 
@@ -16,7 +16,7 @@ Verse Box is a proposed public introduction to personal Aura of Intelligence, le
 
 ## What this could mean for Redlands
 
-Willing libraries and community hosts could provide Verse Box stations with suitable equipment, access, support and maintenance. Demonstrations would use sample records. Personal sessions would include a private handover and clear ways to take away or delete personal information.
+Willing libraries and community hosts could provide Verse Box stations with suitable equipment, access, support and maintenance. A personal session could help someone reflect on their chosen experiences, knowledge and intentions, begin developing their digital twin, and explore how its patterning supports learning and purposeful action. Demonstrations would use sample records. Personal sessions would include a private handover and clear ways to take away or delete personal information.
 
 ## Projects behind this idea
 

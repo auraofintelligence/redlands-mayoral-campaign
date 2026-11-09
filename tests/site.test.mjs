@@ -152,3 +152,20 @@ test('ideas introduce all 52 Wiki entries once through open questions and distin
  assert.equal((html.match(/>Add a question<\/a>/g)||[]).length,52);
  assert.ok(html.indexOf('ideas-household')<html.indexOf('ideas-sovereign-capacity',html.indexOf('aria-label="Ideas topics"')));
 });
+
+test('ideas load the matching script and stylesheet editions after a publication',async()=>{
+ const html=await read('dist/ideas.html');
+ const assets=[...html.matchAll(/(?:src|href)="(assets\/(?:ideas|visual)\.(?:css|js))\?v=([a-f0-9]{12})"/g)];
+ assert.equal(assets.length,4);
+ for(const [,file,version] of assets)assert.equal(version,createHash('sha256').update(await readFile(path.join(dist,file))).digest('hex').slice(0,12),file);
+});
+
+test('Aura descriptions retain self-reflection and the optional adult Genesis additions',async()=>{
+ const content=JSON.parse(await read('data/visual-content.json'));
+ const verse=content.options.find(idea=>idea.id==='25');
+ for(const term of [/self-reflection/,/digital twin/,/patterning/,/learn more, learn faster/,/Joyful Responsible Abundance/])assert.match(verse.purpose,term);
+ const genesis=content.options.find(idea=>idea.id==='14');
+ for(const term of [/optional adult/,/healing intent/,/time-stamped biometric/,/pattern recognition/,/Truth Engine.*optional/])assert.match(genesis.purpose,term);
+ assert.match(await read('docs/wiki/25-verse-box-public-access-and-installations.md'),/personal digital twin/);
+ assert.match(await read('docs/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey.md'),/time-stamped biometric/);
+});
