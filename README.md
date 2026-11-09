@@ -4,7 +4,7 @@ Projects, music, public information and options for Redlands by Luke Nathan Haye
 
 <a href="https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html"><img src="public/assets/press/luke-hayes-published-portrait.webp" alt="Luke Nathan Hayes" width="200" height="250" align="right"></a>
 
-**[Open the website](https://auraofintelligence.github.io/redlands-mayoral-campaign/)** · [Explore the projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Outreach control room](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html)
+**[Open the website](https://auraofintelligence.github.io/redlands-mayoral-campaign/)** · [Explore the projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
 Luke is exploring a possible Redlands mayoral campaign as one person supported by AI companions. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
 
@@ -44,13 +44,9 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 [Listen and read on this site](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [Published album](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/a-protopian-gambit/) · [Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
 
-## Outreach and personal working records
+## Private outreach and personal working records
 
-The [outreach control room](https://auraofintelligence.github.io/redlands-mayoral-campaign/outreach.html) brings together public media and community discovery routes with optional notes and drafts. Directories include South East Queensland podcasts and creators, traditional media, national interview podcasts, women-focused media, music shows, universities, community organisations and workers' unions. Public channels, source evidence and checked dates accompany the listings.
-
-Preparing or copying a draft does not send it. Directory inclusion does not imply endorsement, contact consent or coverage of this election. New personal records start empty, and dates stay optional.
-
-The public workspace uses browser-local storage. Records remain with that browser and origin. The local control room, optional private CLI and older Google Drive integration are separate storage choices. Keep sensitive correspondence, private contacts, receipts and identity documents in restricted private storage.
+The outreach command centre is a **local-only working interface**, not part of the public GitHub Pages deployment. Run `npm run control` locally to open it on 127.0.0.1:4183. Media research and local drafting tools remain separate from the public campaign website. Personal working records must stay in restricted storage, never in GitHub Pages, committed files or publicly reachable JavaScript. Publishing checks exclude the control-room route and its browser application files.
 
 ## Build and preview
 
