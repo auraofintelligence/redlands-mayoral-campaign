@@ -52,6 +52,7 @@ ${index}
 `);
 
 for(const entry of content.options){
+  const opening=entry.id==='44'?`\n\n${link('Begin with Joyful Responsible Abundance','https://auraofintelligence.github.io/joyful-responsible-abundance/index.html')} for the whole-system direction behind this Redlands proposal.`:'';
   const fields=sections.filter(([key])=>entry[key]).map(([key,title])=>`## ${title}\n\n${entry[key]}`).join('\n\n');
   const music=entry.musicConnections?.length?`\n\n## Music connections\n\n${entry.musicConnections.map(song=>`- **${song.title}**: ${song.connection}`).join('\n')}\n\n${link('Listen and read the lyric sheet',new URL('music.html',site).href)}`:'';
   const official=(entry.officialSources||[]).map(id=>`- ${link(id,`${pageUrl('Official-sources')}#${id.toLowerCase()}`)}`).join('\n');
@@ -60,7 +61,7 @@ for(const entry of content.options){
     return `- ${link(`Document ${number}${document?`: ${document.title}`:''}`,`${pageUrl('Supplied-documents')}#document-${number}`)}`;
   }).join('\n');
   const connections=(entry.connections||[]).map(connection=>`- ${entryLink(entries.get(connection.id))}: ${connection.relationship}`).join('\n');
-  files.set(pageName(entry),`# ${entry.id} ${entry.title}\n\n${link('Wiki home',pageUrl('Home'))} · ${entry.theme}\n\n${fields}${music}\n\n## Project sources\n\n${entry.projectSources.map(source=>`- ${sourceLink(source)}`).join('\n')}\n\n## Official references\n\n${official||'See the shared official source register.'}\n\n## Supplied source documents\n\n${documents||'No supplied document is specifically attached to this entry.'}\n\n## Connected entries\n\n${connections||'See the shared connections and boundaries guide.'}\n`);
+  files.set(pageName(entry),`# ${entry.id} ${entry.title}\n\n${link('Wiki home',pageUrl('Home'))} · ${entry.theme}${opening}\n\n${fields}${music}\n\n## Project sources\n\n${entry.projectSources.map(source=>`- ${sourceLink(source)}`).join('\n')}\n\n## Official references\n\n${official||'See the shared official source register.'}\n\n## Supplied source documents\n\n${documents||'No supplied document is specifically attached to this entry.'}\n\n## Connected entries\n\n${connections||'See the shared connections and boundaries guide.'}\n`);
 }
 
 const roleContext=content.roleContext.map(section=>{

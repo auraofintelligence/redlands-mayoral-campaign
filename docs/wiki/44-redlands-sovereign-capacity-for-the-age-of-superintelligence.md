@@ -2,9 +2,11 @@
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Redlands sovereign capacity and civic establishments
 
+[Begin with Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html) for the whole-system direction behind this Redlands proposal.
+
 ## Purpose
 
-The aim is a shared Redlands direction for locally governed intelligence, productive capability and public benefit.
+Joyful Responsible Abundance provides the starting framework for Redlands sovereign capacity: locally governed intelligence, productive capability and public benefit.
 
 ## What this could mean for Redlands
 
@@ -12,7 +14,7 @@ The Redlands sovereign-capacity agenda would be developed with councillors, neig
 
 ## Strategic purpose
 
-The agenda responds to the 2027/2028 superintelligence horizon with urgency to build local capability. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The proposed Redlands response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.
+Joyful Responsible Abundance connects personal agency, health, learning, useful work, public evidence and shared computing with the capacity to shape decisions. The Redlands agenda applies that whole-system direction locally, responding to the proposed 2027/2028 superintelligence horizon with urgency to build capability. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The proposed response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.
 
 ## First-principles foundation
 

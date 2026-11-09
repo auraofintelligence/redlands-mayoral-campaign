@@ -6,7 +6,7 @@ These proposals address connected needs while retaining their own purposes, part
 
 ## Sovereign direction, compute, places and nodes
 
-The sovereign-capacity proposal brings together the overall direction for Redlands. Computing and hosting, shared civic places, and locally governed cultural intelligence nodes each have their own purpose. Power and material accounts, energy projects, manufacturing and repair provide distinct parts of the physical capability behind them.
+Joyful Responsible Abundance supplies the whole-system direction for the Redlands sovereign-capacity proposal. Computing and hosting, shared civic places, and locally governed cultural intelligence nodes each have their own purpose. Power and material accounts, energy projects, manufacturing and repair provide distinct parts of the physical capability behind them.
 
 - [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence)
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity)
