@@ -72,8 +72,8 @@ test('public copy has no em dashes, exposed campaign email or tracking scripts',
 test('all visual projects have reviewed descriptions and existing credited rasters, with private notes excluded',async()=>{
  const content=JSON.parse(await read('data/visual-content.json')),images=JSON.parse(await read('data/project-images.json'));
  const excluded=JSON.parse(await read('data/public-project-exclusions.json')).excludedRepos;
- const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,113);assert.equal(content.options.length,52);
- assert.equal(new Set(projects.map(p=>p.repoName)).size,113);
+ const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,111);assert.equal(content.options.length,52);
+ assert.equal(new Set(projects.map(p=>p.repoName)).size,111);
  for(const repo of ['straddie-twins','straddie-digital-twin-explainer'])assert.ok(projects.some(p=>p.repoName===repo));
  for(const repo of excluded){assert.ok(!projects.some(p=>p.repoName===repo));for(const p of projects)assert.ok(!p.adjacentProjects.some(a=>a.repoName===repo));}
  for(const p of projects)assert.ok(!excluded.includes(p.repoName));

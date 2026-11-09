@@ -559,22 +559,6 @@
           "adjacentProjects": []
         },
         {
-          "id": "R007",
-          "repoName": "aura-genesis",
-          "title": "Aura Genesis",
-          "url": "https://github.com/auraofintelligence/aura-genesis",
-          "description": "A website presenting the Aura Genesis journey as sixty sessions combining reflection, health, personal digital twins and community participation. It follows a staged player journey within an open-ended infinite-game framework.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "R018",
-          "repoName": "aura-geode",
-          "title": "Aura Geode",
-          "url": "https://github.com/auraofintelligence/aura-geode",
-          "description": "A six-page design exploration of the Aura Geode capsule, a sixty-day lifestyle pathway and personal digital twins. Its pages also develop sensing interfaces, cooperative economics and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) governance concepts.",
-          "adjacentProjects": []
-        },
-        {
           "id": "L052",
           "repoName": "aura-matrix-studio",
           "title": "Aura Matrix Studio",
@@ -1788,10 +1772,6 @@
       "conflictBoundary": "Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them.",
       "projectSources": [
         {
-          "title": "Aura Genesis",
-          "url": "https://github.com/auraofintelligence/aura-genesis"
-        },
-        {
           "title": "Aura Genesis Protocol",
           "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas"
         },
@@ -1874,10 +1854,6 @@
       "partners": "Community members, health/wellbeing providers, co-operative advisers, clinicians and regulators for the relevant tools.",
       "conflictBoundary": "Luke’s equipment, provider role or membership interest would be identified in any council-funded shared-access arrangement involving him.",
       "projectSources": [
-        {
-          "title": "Aura Genesis",
-          "url": "https://github.com/auraofintelligence/aura-genesis"
-        },
         {
           "title": "Oceania Healthy De-Slop Co-ops",
           "url": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops"
@@ -3214,10 +3190,6 @@
       "conflictBoundary": "Luke's personal P4A and Genesis practice would be relevant to any council funding of program support, facilities or services for his participation.",
       "projectSources": [
         {
-          "title": "Aura Genesis",
-          "url": "https://github.com/auraofintelligence/aura-genesis"
-        },
-        {
           "title": "Aura Genesis Protocol",
           "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas"
         },
@@ -3554,10 +3526,6 @@
         {
           "title": "Aura Genesis Protocol",
           "url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas"
-        },
-        {
-          "title": "Aura Geode",
-          "url": "https://github.com/auraofintelligence/aura-geode"
         },
         {
           "title": "Straddie Maker-Space Lab",

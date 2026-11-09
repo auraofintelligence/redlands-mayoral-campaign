@@ -372,8 +372,7 @@
     "16": {
       "label": "Aura Genesis Geode development, edition 3",
       "repos": [
-        "aura-genesis-geode-atlas",
-        "aura-geode"
+        "aura-genesis-geode-atlas"
       ]
     },
     "17": {

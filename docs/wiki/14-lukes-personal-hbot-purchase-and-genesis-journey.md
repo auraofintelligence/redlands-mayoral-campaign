@@ -24,8 +24,6 @@ Luke proposes to buy his own HBOT equipment and establish his first Genesis jour
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)**. A website presenting the Aura Genesis journey as sixty sessions combining reflection, health, personal digital twins and community participation. It follows a staged player journey within an open-ended infinite-game framework.
-
 - **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
 
 - **[Verse Box](https://auraofintelligence.github.io/aura-verse-box/)**. A portable public introduction to personal Aura of Intelligence, learning, Community Hours and community participation. The trial guide covers the visitor experience, equipment, hosts, access and personal-session handover.

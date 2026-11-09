@@ -21,8 +21,6 @@ Members and providers could agree how shared wellbeing equipment is owned, booke
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)**. A website presenting the Aura Genesis journey as sixty sessions combining reflection, health, personal digital twins and community participation. It follows a staged player journey within an open-ended infinite-game framework.
-
 - **[Oceania Healthy De-Slop Co-ops](https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/)**. A regional co-operative proposal for affordable wellbeing spaces, self-reflection, local computing and personal data stewardship. It explores locally chosen ownership, shared access, professionally supervised HBOT, Aura Geode pathways and personal digital twins across Oceania.
 
 ## How this could move forward

@@ -13,7 +13,7 @@ Luke is exploring a possible Redlands mayoral campaign as one person supported b
 | Page | What it offers |
 | --- | --- |
 | [Home](https://auraofintelligence.github.io/redlands-mayoral-campaign/) | Luke's portrait, local photography, featured projects, the Redlands dashboard and album artwork |
-| [Projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) | 113 selected projects across 23 subjects, beginning with Redlands information and local community work, followed by wider systems and ideas |
+| [Projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) | 111 selected projects across 23 subjects, beginning with Redlands information and local community work, followed by wider systems and ideas |
 | [Redlands ideas](https://auraofintelligence.github.io/redlands-mayoral-campaign/ideas.html) | 52 open questions across 11 topics, searchable introductions, project imagery, Wiki detail and invitations to add questions or experience |
 | [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) | 52 introduced ideas, a first-visit guide, words and names, practical examples, council responsibilities, related projects and source references |
 | [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) | Background and links to the Open Record, work history, Project Atlas and Strange But True |

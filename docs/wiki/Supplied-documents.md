@@ -130,7 +130,7 @@ Related public reading: [Aura Teacher Training](https://auraofintelligence.githu
 
 Original source title: Aura_Genesis_Geode_Development_Edition_3.pdf
 
-Related public reading: [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/) · [Aura Geode](https://auraofintelligence.github.io/aura-geode/).
+Related public reading: [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/).
 
 ## Document 17
 

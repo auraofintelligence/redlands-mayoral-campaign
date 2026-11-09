@@ -26,8 +26,6 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
 
-- **[Aura Geode](https://auraofintelligence.github.io/aura-geode/)**. A six-page design exploration of the Aura Geode capsule, a sixty-day lifestyle pathway and personal digital twins. Its pages also develop sensing interfaces, cooperative economics and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) governance concepts.
-
 - **[Straddie Maker-Space Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)**. A proposal for a light-industrial maker-space in Dunwich / Goompi. It explores useful making, repair and right-to-repair, shared tools, compact workshop design, recycling, upcycling and local material knowledge.
 
 ## How this could move forward

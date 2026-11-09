@@ -22,8 +22,6 @@ Luke's proposed leadership practice would explain the higher personal standard h
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)**. A website presenting the Aura Genesis journey as sixty sessions combining reflection, health, personal digital twins and community participation. It follows a staged player journey within an open-ended infinite-game framework.
-
 - **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
 
 - **[i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)**. The i C. infinity artist catalogue and creative studio, bringing together albums, songs, lyrics, video and their wider narrative worlds. Its studio tools support listening, storyboards, video briefs, production shots, distribution planning and handoffs.
