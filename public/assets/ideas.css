@@ -48,9 +48,11 @@ body:has(.ideas-page) .title-hero .lead{max-width:850px;font-size:1.15rem}
 .ideas-connections{margin-top:23px;padding:15px 18px;background:var(--deep);border:1px solid var(--line);border-radius:9px;font-size:.9rem}
 .ideas-connections summary{color:var(--gold);font-weight:650;cursor:pointer}
 .ideas-connections ul{padding-left:21px}.ideas-connections li{margin:9px 0}
-.ideas-browse-more{display:flex;justify-content:space-between;align-items:center;gap:20px;border-block:1px solid var(--line);padding:17px 0}
-.ideas-browse-more p{margin:0;color:var(--muted);font-size:.9rem}
-.ideas-browse-more a{font-weight:650}
+.ideas-browse-more{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;border-block:1px solid var(--line);padding:17px 0}
+.ideas-browse-more a{display:grid;gap:5px;font-weight:650;min-width:0}
+.ideas-browse-more a:last-child{text-align:right}
+.ideas-browse-more span{color:var(--muted);font-size:.8rem;font-weight:400}
+.ideas-browse-more strong{font-size:.9rem;line-height:1.45}
 .ideas-no-results{border:1px dashed var(--line);border-radius:12px;padding:30px}
 .ideas-invitation{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:40px;align-items:center;border-top:1px solid var(--line)}
 .ideas-invitation h2{font-size:2.25rem;margin:0 0 17px}

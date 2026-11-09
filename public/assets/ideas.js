@@ -11,12 +11,36 @@
   const empty=browser.querySelector('.ideas-no-results');
   const more=browser.querySelector('.ideas-browse-more');
   const next=browser.querySelector('[data-ideas-next]');
+  const previous=browser.querySelector('[data-ideas-previous]');
+  const pageLinks=[...document.querySelectorAll('.page-sequence a')];
+  const floatingLinks=[...document.querySelectorAll('.floating-nav a')];
+  const pageTargets=pageLinks.map(link=>({href:link.getAttribute('href'),label:link.textContent.replace(/^(Previous|Next)\s*[←→]?|[←→]$/g,'').trim(),topic:false}));
   const topicPicker=browser.querySelector('.ideas-topic-menu');
   const compact=window.matchMedia('(max-width:760px)');
   topicPicker.open=!compact.matches;
   compact.addEventListener('change',event=>{topicPicker.open=!event.matches;});
   let current=topics[0];
   const topicLabel=topic=>browser.querySelector(`[data-ideas-topic="${topic}"] span`)?.textContent;
+  function updateSequence(query){
+    document.querySelector('.page-sequence').setAttribute('aria-label','Previous and next');
+    document.querySelector('.floating-nav').setAttribute('aria-label','Floating navigation');
+    more.setAttribute('aria-label','Previous and next');
+    const index=topics.indexOf(current);
+    const topicTarget=position=>({href:'#ideas-'+topics[position],label:topicLabel(topics[position]),topic:true});
+    const targets=query||index<0?pageTargets:[index===0?pageTargets[0]:topicTarget(index-1),index===topics.length-1?pageTargets[1]:topicTarget(index+1)];
+    for(const [position,target] of targets.entries()){
+      const direction=position===0?'Previous':'Next',arrow=position===0?'←':'→';
+      const label=direction+(target.topic?' topic':' page');
+      const pageLink=pageLinks[position],floatingLink=floatingLinks[position===0?0:2],topicLink=position===0?previous:next;
+      for(const link of [pageLink,floatingLink,topicLink]){
+        link.setAttribute('href',target.href);
+        link.setAttribute('aria-label',label+': '+target.label);
+        link.title=label+': '+target.label;
+      }
+      pageLink.replaceChildren(Object.assign(document.createElement('span'),{textContent:label}),document.createTextNode(arrow+' '+target.label));
+      topicLink.replaceChildren(Object.assign(document.createElement('span'),{textContent:label}),Object.assign(document.createElement('strong'),{textContent:(position===0?arrow+' ':'')+target.label+(position===1?' '+arrow:'')}));
+    }
+  }
   const topicForHash=()=>{
     const hash=location.hash.slice(1);
     if(hash==='ideas-all')return 'all';
@@ -54,9 +78,7 @@
     results.textContent=query?`${total} of ${cards.length} ideas match “${search.value.trim()}”.`:current==='all'?`All ${cards.length} ideas, grouped by topic.`:`${total} ideas · ${label}`;
     empty.hidden=total>0;
     more.hidden=Boolean(query)||current==='all';
-    const nextTopic=topics[(topics.indexOf(current)+1)%topics.length];
-    const nextLabel=topicLabel(nextTopic);
-    next.href='#ideas-'+nextTopic;next.textContent=nextLabel+' →';
+    updateSequence(query);
   }
   function choose(topic,{scroll=false}={}){
     if(topic!=='all'&&!topics.includes(topic))return;
@@ -73,14 +95,18 @@
     const topic=link.dataset.ideasTopic;
     history.pushState(null,'','#ideas-'+topic);choose(topic,{scroll:true});
   });
-  next.addEventListener('click',event=>{
-    event.preventDefault();const topic=next.hash.replace('#ideas-','');history.pushState(null,'',next.hash);choose(topic,{scroll:true});
+  for(const link of [previous,next,...pageLinks,floatingLinks[0],floatingLinks[2]])link.addEventListener('click',event=>{
+    const target=link.getAttribute('href');
+    if(!target.startsWith('#ideas-'))return;
+    event.preventDefault();const topic=target.replace('#ideas-','');history.pushState(null,'',target);choose(topic,{scroll:true});
   });
   search.addEventListener('input',render);
   browser.querySelector('[data-ideas-search-form]').addEventListener('submit',event=>event.preventDefault());
   browser.querySelector('[data-ideas-reset]').addEventListener('click',()=>{search.value='';render();search.focus();});
   for(const event of ['hashchange','popstate'])window.addEventListener(event,()=>{
-    choose(topicForHash()||topics[0]);
+    const topic=topicForHash();
+    if(topic)choose(topic);
+    else if(!location.hash)choose(topics[0]);
     const hash=location.hash.slice(1);
     if(/^idea-\d{2}$/.test(hash))document.getElementById(hash)?.scrollIntoView({block:'start'});
   });
