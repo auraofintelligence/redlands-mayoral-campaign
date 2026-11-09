@@ -12,3 +12,8 @@ document.querySelector('#visual-project-reset')?.addEventListener('click',()=>{p
 if(projectSearch){const topic=new URLSearchParams(location.search).get('subject');if(topic&&[...projectTopic.options].some(o=>o.value===topic))projectTopic.value=topic;filterVisualProjects()}
 document.querySelectorAll('.nav-menu nav a').forEach(a=>a.addEventListener('click',()=>a.closest('details').open=false));
 const contactTopic=document.querySelector('select[name="topic"]');const requestedTopic=new URLSearchParams(location.search).get('topic');if(contactTopic&&[...contactTopic.options].some(o=>o.value===requestedTopic))contactTopic.value=requestedTopic;
+const contactMessage=document.querySelector('#contact-message');
+if(contactMessage&&!contactMessage.value){
+  const parameters=new URLSearchParams(location.search),idea=parameters.get('idea'),title=(parameters.get('ideaTitle')||'').replace(/[\r\n]/g,' ').slice(0,200);
+  if(/^(?:0[1-9]|[1-4][0-9]|5[0-2])$/.test(idea||''))contactMessage.value=`About Redlands idea ${idea}${title?': '+title:''}\n\nMy question, experience or source:\n`;
+}

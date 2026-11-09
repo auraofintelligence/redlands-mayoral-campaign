@@ -130,3 +130,25 @@ test('published text does not advertise removed outreach routes or personal stor
   assert.doesNotMatch(await readFile(file,'utf8'),/outreach\.html|redlands-mayoral-command-centre|The home page is a control room|No verified press portrait supplied|save chosen possibilities|explorer[’']s storage controls/,path.relative(dist,file));
  }
 });
+
+test('ideas introduce all 52 Wiki entries once through open questions and distinct topic imagery',async()=>{
+ const html=await read('dist/ideas.html'),content=JSON.parse(await read('data/visual-content.json'));
+ const topics=JSON.parse(await read('data/ideas-navigation.json')).topics;
+ assert.equal(topics.length,11);
+ const ids=topics.flatMap(topic=>topic.ideas.map(idea=>idea.id));
+ assert.equal(new Set(ids).size,52);
+ assert.deepEqual([...ids].sort(),content.options.map(idea=>idea.id).sort());
+ assert.deepEqual([...html.matchAll(/data-idea-id="(\d+)"/g)].map(match=>match[1]),ids);
+ for(const topic of topics){
+  assert.ok(topic.question.endsWith('?'));
+  for(const idea of topic.ideas)assert.ok(idea.question.endsWith('?'),idea.id);
+ }
+ const imageSources=[...html.matchAll(/<figure><img src="([^"]+)"/g)].map(match=>match[1]);
+ assert.equal(imageSources.length,11);assert.equal(new Set(imageSources).size,11);
+ for(const src of imageSources)assert.ok((await stat(path.join(dist,src))).size<150*1024,src);
+ assert.match(html,/assets\/ideas\.js/);assert.match(html,/assets\/ideas\.css/);
+ assert.match(html,/What have we missed\?/);assert.match(html,/Bring a question or experience/);
+ assert.match(html,/idea=01&amp;ideaTitle=/);
+ assert.equal((html.match(/>Add a question<\/a>/g)||[]).length,52);
+ assert.ok(html.indexOf('ideas-household')<html.indexOf('ideas-sovereign-capacity',html.indexOf('aria-label="Ideas topics"')));
+});

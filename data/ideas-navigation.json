@@ -1,0 +1,133 @@
+{
+  "topics": [
+    {
+      "id": "household", "label": "Household costs and fair rules", "question": "Where could everyday costs and rules work better?",
+      "intro": "Bills, concessions, body corporate rules and dealing with council. Each idea looks at a different part of finding information, understanding costs and following something up.",
+      "imageProject": "household-bill-check",
+      "ideas": [
+        {"id": "01", "question": "Where might a bill check uncover costs a household could avoid?"},
+        {"id": "02", "question": "What would make finding the right rule and service less of a runaround?"},
+        {"id": "03", "question": "What would help owners and residents understand body corporate costs and rules?"},
+        {"id": "06", "question": "Which council interactions could be clearer and easier to complete?"}
+      ]
+    },
+    {
+      "id": "food-repair", "label": "Food, repair and the living environment", "question": "What could we grow, share, repair and care for locally?",
+      "intro": "Growing food, keeping useful goods in circulation, sharing tools and caring for wildlife have different purposes. Explore where each could be useful in Redlands.",
+      "imageProject": "shared-table-initiative",
+      "ideas": [
+        {"id": "22", "question": "Where could people grow and share food to ease household costs?"},
+        {"id": "23", "question": "Which useful goods could be repaired and passed on before reaching the tip?"},
+        {"id": "24", "question": "What tools and practical skills would people like to share?"},
+        {"id": "37", "question": "What would help local bee, wildlife and habitat initiatives do their work?"}
+      ]
+    },
+    {
+      "id": "community", "label": "Contribution, creativity and shared places", "question": "How would people like to take part in community life?",
+      "intro": "Community Hours, local activities, public information and places to meet. Community Hours, or C-hours, are a proposal for recognising voluntary contributions. Verse Box is a supported public station for exploring personal AI, learning and creativity. People would choose how they participate.",
+      "imageProject": "C-Hour-introduction",
+      "ideas": [
+        {"id": "08", "question": "How could voluntary contributions be recognised in ways participants value?"},
+        {"id": "09", "question": "What reciprocal opportunities would residents and willing hosts want to offer?"},
+        {"id": "25", "question": "What would people want to explore at a public Verse Box installation?"},
+        {"id": "26", "question": "What would make local arts, music and cinema easier to take part in?"},
+        {"id": "27", "question": "How would residents like to find and share reliable local information?"},
+        {"id": "38", "question": "How could existing community places support more of the activities people want?"},
+        {"id": "21", "question": "What could Brisbane 2032 leave that remains useful to Redlands afterwards?"}
+      ]
+    },
+    {
+      "id": "care", "label": "Care, memory and living well", "question": "What would help people and carers in everyday life?",
+      "intro": "Everyday support, shared access to equipment, healthy ageing and separate research paths. HBOT means hyperbaric oxygen therapy. Each Wiki entry explains the particular proposal and its evidence and responsibilities.",
+      "imageProject": "aura-whole-of-life",
+      "ideas": [
+        {"id": "16", "question": "Where do people and carers need better continuity in everyday support?"},
+        {"id": "15", "question": "How could shared health and wellbeing equipment be accessed fairly?"},
+        {"id": "43", "question": "Which healthy-ageing and longevity questions would residents, providers and researchers investigate?"},
+        {"id": "48", "question": "How might personal intelligence tools support people with dementia and their carers?"},
+        {"id": "46", "question": "What could willing hosts offer for care, learning and research at different locations?"}
+      ]
+    },
+    {
+      "id": "learning", "label": "Learning, work and mentoring", "question": "What would people like to learn, try or teach?",
+      "intro": "Opportunities for young people, work exploration, intergenerational collaboration, teacher development and women's leadership. The proposals retain their different activities and participants.",
+      "imageProject": "escape-room-team-building",
+      "ideas": [
+        {"id": "17", "question": "What learning and community opportunities would young people want?"},
+        {"id": "18", "question": "How could people try different kinds of work before choosing a direction?"},
+        {"id": "19", "question": "What could different generations learn by solving and making things together?"},
+        {"id": "42", "question": "What would help people teach the practical use of personal intelligence?"},
+        {"id": "20", "question": "How could emerging female leaders practise long-term decisions with experienced mentors?"}
+      ]
+    },
+    {
+      "id": "housing-travel", "label": "Housing, travel and island services", "question": "What would improve access to homes, places and services?",
+      "intro": "Housing, ferries, travel and underground infrastructure are separate proposals. Follow each idea's local context, including the distinction between Minjerribah roadways and services on individual Southern Moreton Bay Islands.",
+      "imageProject": "dunwich-gumpi-ferry-terminal-open-data-lab",
+      "ideas": [
+        {"id": "30", "question": "Where could temporary or modular homes help while permanent housing and services are built?"},
+        {"id": "31", "question": "What would protect ferry choice, affordability and reliable access?"},
+        {"id": "36", "question": "What information would make local activities and travel easier to plan?"},
+        {"id": "32", "question": "What could underground roads change for access and surface impacts on Minjerribah?"},
+        {"id": "33", "question": "Where could smaller tunnel-boring machines help install island services?"},
+        {"id": "34", "question": "Where might excavated material have a useful second life in coastal projects?"}
+      ]
+    },
+    {
+      "id": "resilience", "label": "Disaster readiness and energy", "question": "What would help communities prepare and keep going through disruption?",
+      "intro": "Reliable local information, preparedness, recovery and energy have connected but distinct roles. These ideas provide routes into the relevant projects and their practical questions.",
+      "imageProject": "aura-disaster-resilience",
+      "ideas": [
+        {"id": "28", "question": "What local information needs to remain available when power or internet goes down?"},
+        {"id": "29", "question": "Where could preparedness and recovery support be better connected?"},
+        {"id": "35", "question": "Which energy arrangements could lower lifetime costs and support essential services?"}
+      ]
+    },
+    {
+      "id": "ai-council", "label": "AI, information and council", "question": "How could useful AI and public information remain accountable to people?",
+      "intro": "Artificial intelligence, or AI, learning, public models and council services. Data sovereignty concerns people's and communities' control over their information and its use.",
+      "imageProject": "how-to-use-md-with-ai",
+      "ideas": [
+        {"id": "05", "question": "What free or low-cost AI and data learning would people find useful?"},
+        {"id": "04", "question": "How should council prepare for more capable AI while retaining human responsibility?"},
+        {"id": "07", "question": "What public information and models would help people examine local proposals?"},
+        {"id": "47", "question": "What control should people have over personal AI and the assumptions made about them?"}
+      ]
+    },
+    {
+      "id": "personal-genesis", "label": "Luke's Genesis and personal standards", "question": "What does Luke propose to explore and practise personally?",
+      "intro": "Luke's personal Genesis journey, his chosen leadership standards and the separate Geode equipment work. The Wiki introduces these terms and distinguishes personal choices from shared services.",
+      "imageProject": "aura-genesis-geode-atlas",
+      "ideas": [
+        {"id": "14", "question": "What does Luke's proposed personal Genesis journey involve?"},
+        {"id": "41", "question": "How does Luke propose to apply his chosen standards of radical honesty?"},
+        {"id": "45", "question": "What equipment and experiences is the Geode work designed to support?"}
+      ]
+    },
+    {
+      "id": "cooperation", "label": "Cooperation, funding and delivery", "question": "What would help communities turn their ideas into useful services?",
+      "intro": "Member-governed organisations, funding, administration and cooperation. The missing middle means the people, equipment, skills and ongoing support needed between a proposal and a service people can use.",
+      "imageProject": "ready-set-co-op-trust-hub",
+      "ideas": [
+        {"id": "10", "question": "What work and shared resources could a member-governed Ready SET Co-op coordinate?"},
+        {"id": "13", "question": "What purpose and local form could a GAJRA Earth Redlands association have?"},
+        {"id": "11", "question": "What would help community organisations meet grant and tender obligations?"},
+        {"id": "12", "question": "Where is state or federal support needed to turn local proposals into services?"},
+        {"id": "40", "question": "What useful knowledge could Redlands exchange with other communities and institutions?"}
+      ]
+    },
+    {
+      "id": "sovereign-capacity", "label": "Redlands and the wider AI future", "question": "What would Redlands need to help shape its own future?",
+      "intro": "Joyful Responsible Abundance provides the starting framework. Explore the distinct roles of locally governed computing, civic places, cultural knowledge, energy, materials, manufacturing and repair as AI develops.",
+      "imageProject": "sovereign-capacity-lab",
+      "ideas": [
+        {"id": "44", "question": "What would Redlands need to shape its future as AI becomes more capable?"},
+        {"id": "39", "question": "How could Australian and locally governed computing serve local needs?"},
+        {"id": "49", "question": "What activities and support would shared Aura civic places need to offer?"},
+        {"id": "50", "question": "How could projects account for the power, materials and repair services they need?"},
+        {"id": "51", "question": "Which local needs could connect with Australian manufacturing, robotics and independent repair?"},
+        {"id": "52", "question": "How could communities share selected knowledge and resources while keeping local authority?"}
+      ]
+    }
+  ]
+}
