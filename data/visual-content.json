@@ -2,6 +2,21 @@
   "updated": "2026-11-09",
   "groups": [
     {
+      "id": "redlands-council-information",
+      "title": "Redlands information and council records",
+      "description": "Local indicators, council budgets, meeting records and public broadcasts.",
+      "projects": [
+        {
+          "id": "R005",
+          "repoName": "Redlands_draft_ES2026-2031",
+          "title": "Redlands Coast Intelligence",
+          "url": "https://github.com/auraofintelligence/Redlands_draft_ES2026-2031",
+          "description": "An independent Redlands Coast dashboard with dated population, economy, household-cost, island, project and council-budget information. It links directly to council minutes, agendas, budgets, financial reports, live meetings and recordings.",
+          "adjacentProjects": []
+        }
+      ]
+    },
+    {
       "id": "community-places",
       "title": "Community places and clubs",
       "description": "Club and place proposals, shared civic spaces and practical club administration.",
@@ -568,14 +583,6 @@
           "adjacentProjects": []
         },
         {
-          "id": "R034",
-          "repoName": "aura-data-mapping",
-          "title": "Aura Data Mapping",
-          "url": "https://github.com/auraofintelligence/aura-data-mapping",
-          "description": "A data-facet interface built around Aura's 12 by 24 matrix, seven coloured layers and private-inside/public-outside shells. Facets can hold records pointing to documents, websites, repositories, tasks, contacts and other chosen items, with browser storage and JSON import/export.",
-          "adjacentProjects": []
-        },
-        {
           "id": "L053",
           "repoName": "aura-teacher-training",
           "title": "Aura Teacher Training",
@@ -677,14 +684,6 @@
           "url": "https://github.com/auraofintelligence/straddie-headline-open-mic",
           "description": "A daily board of funny English-language news headlines paired with planning for a possible Straddie comedy open-mic night. It offers a searchable headline list, dated archives, feed-selection notes and an open-mic format.",
           "adjacentProjects": []
-        },
-        {
-          "id": "L097",
-          "repoName": "rough-as-guts",
-          "title": "Rough as Guts",
-          "url": "https://github.com/auraofintelligence/rough-as-guts",
-          "description": "An illustrated practical-guide project using light satire to explore safer, healthier and more considerate habits. It includes distinct men's, women's, high-school and workplace editions, habit examples and tools for developing new guides.",
-          "adjacentProjects": []
         }
       ]
     },
@@ -693,46 +692,6 @@
       "title": "Stories, relationships and mystery",
       "description": "Fictional worlds, writing research, relationship design and mystery research.",
       "projects": [
-        {
-          "id": "L098",
-          "repoName": "australian-sire-story-forge",
-          "title": "Australian Sire Story Forge",
-          "url": "https://github.com/auraofintelligence/australian-sire-story-forge",
-          "description": "A planning desk and book coach for adult, travel-led fiction combining science fiction, romance, fantasy and hopeful invention. Authors can develop story choices, characters, book structures and connected works, then export their plans.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "L099",
-          "repoName": "australiansire",
-          "title": "Australian Sire",
-          "url": "https://github.com/auraofintelligence/australiansire",
-          "description": "The Australian Sire character website, exploring travel, writing, adult relationships, fertility and imagined futures through ten connected chapters. It presents a distinct creative personality within Luke's story world.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "L100",
-          "repoName": "tiggy-bestmann",
-          "title": "Tiggy Bestmann",
-          "url": "https://github.com/auraofintelligence/tiggy-bestmann",
-          "description": "A ten-chapter character site for Tiggy Bestmann, the happy-go-lucky fool, artist and student of life. Its journey moves through relationships, world travel, bodyboarding, art, music, retreats and speculative worlds beyond Earth.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "L101",
-          "repoName": "strange-but-true-desire-atlas",
-          "title": "Desire Atlas",
-          "url": "https://github.com/auraofintelligence/strange-but-true-desire-atlas",
-          "description": "An author-research atlas for speculative near-future fiction, science-fiction romance and romantasy. It brings together readers, communities, events, markets, publishing channels, country guides and the future worlds behind the books.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "L102",
-          "repoName": "global-group-marriages",
-          "title": "Global Group Marriages",
-          "url": "https://github.com/auraofintelligence/global-group-marriages",
-          "description": "A public exploration of larger families, shared love, parenting, care, resources and self-sovereignty. It contains relationship constellations, a household design lab, a World Law Atlas and future-family thought experiments.",
-          "adjacentProjects": []
-        },
         {
           "id": "L103",
           "repoName": "grey-area-commons",
@@ -797,14 +756,6 @@
           "adjacentProjects": []
         },
         {
-          "id": "R033",
-          "repoName": "aura-affinity",
-          "title": "Aura Affinity Map",
-          "url": "https://github.com/auraofintelligence/aura-affinity",
-          "description": "A thematic business map and directory collecting public listings around names and categories such as Aura, chakra, aurora, yoga and tai chi. It provides map filters, listing cards and a downloadable directory.",
-          "adjacentProjects": []
-        },
-        {
           "id": "L080",
           "repoName": "outreach-cms",
           "title": "Worldwide Contact System",
@@ -819,14 +770,6 @@
       "title": "Luke’s record and the project collection",
       "description": "Introductions, personal history, work records and collection-wide entry points.",
       "projects": [
-        {
-          "id": "R024",
-          "repoName": "meet-luke",
-          "title": "Meet Luke",
-          "url": "https://github.com/auraofintelligence/meet-luke",
-          "description": "A one-page introduction to Luke Nathan Hayes as a systems architect, speaker and beach-tech builder. It presents his working approach, offers, selected projects and contact pathway.",
-          "adjacentProjects": []
-        },
         {
           "id": "L105",
           "repoName": "open-record-luke-nathan-hayes",
@@ -899,14 +842,6 @@
           "adjacentProjects": []
         },
         {
-          "id": "R028",
-          "repoName": "P4Australia",
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia",
-          "description": "An early People's Purple Protopian Party concept site exploring the Purple Synthesis through personal sovereignty, community care, environmental stewardship, economic innovation and participatory governance. Its three pillars are sovereign identity, a braided economy and fractal governance.",
-          "adjacentProjects": []
-        },
-        {
           "id": "R013",
           "repoName": "p4a-xyz-committees-inquiries",
           "title": "P4A committees and inquiries",
@@ -928,14 +863,6 @@
           "title": "Native Nations of the World",
           "url": "https://github.com/auraofintelligence/p4a-native-nations-cinema",
           "description": "A sovereign co-evolution research lab for Native Nations, organised around public international instruments, treaties and Indigenous data-governance principles. It separately presents the author’s optional compute, contribution and reciprocity proposals, with each nation choosing its own participation and authority.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "R005",
-          "repoName": "Redlands_draft_ES2026-2031",
-          "title": "Redlands Coast Intelligence - independent dashboard draft",
-          "url": "https://github.com/auraofintelligence/Redlands_draft_ES2026-2031",
-          "description": "An independent visual dashboard for exploring Redlands Coast economic, system-stress, island and project signals. Its cards are organised into Core, Economy, System Stress, Islands and Projects views.",
           "adjacentProjects": []
         },
         {
@@ -1014,22 +941,6 @@
           "title": "GAJRA Earth Infinity",
           "url": "https://github.com/auraofintelligence/GAJRA-earth-infinity",
           "description": "A public GAJRA Earth concept and participatory alignment framework for Joyful Responsible Abundance. It includes an Alignment Lab, world atlas, Meeting Circle and Field Kit builders, and a source-led Future Watch.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "R008",
-          "repoName": "GAJRA-earth",
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth",
-          "description": "An earlier GAJRA Earth concept site expressing joyful responsible abundance, participatory ideas and long-term cultural gathering. It records the social, ecological, economic and governance themes of that edition.",
-          "adjacentProjects": []
-        },
-        {
-          "id": "R009",
-          "repoName": "GAJRA-earth-network",
-          "title": "GAJRA Earth Network",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth-network",
-          "description": "A local-first reading and builder website connecting self-alignment, AI alignment, personal Aura, the missing middle, independent local associations and Queens. It includes optional tools for welcome, organisation, cultural interpretation, contribution, gatherings, outreach, reflection and corrections.",
           "adjacentProjects": []
         },
         {
@@ -1166,13 +1077,13 @@
       "id": "01",
       "theme": "Household savings and fairness",
       "title": "Household bill and concessions help",
-      "purpose": "Find applicable concessions, billing mistakes, unnecessary fees and alternative offers; measure actual net savings after switching costs.",
-      "redlandsAdaptation": "Offer a voluntary bill-check service through existing library/community channels, with a secure document workflow and dated referral guide. Test on consented cases before wider use.",
+      "purpose": "A voluntary bill-check service could help households find concessions, billing mistakes, unnecessary fees and alternative offers. Savings would be measured after switching costs.",
+      "redlandsAdaptation": "Residents could access bill checks through existing library and community channels, supported by secure document handling and a dated referral guide. Participation and any initial case checks would require the household’s consent.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek council support for accessible bill-check assistance through libraries and community partners, with consented document handling and referrals.",
+      "mayoralCouncilLever": "The mayor could seek council support for accessible bill-check assistance through libraries and community partners. Document handling and referrals would be based on residents’ consent.",
       "outside": "Bill providers and the responsible concession, complaint or dispute bodies decide account outcomes and entitlements.",
       "partners": "Libraries, neighbourhood centres, independent consumer advisers, concession administrators and bill providers.",
-      "conflictBoundary": "Any council selection of the bill-check software or adviser needs independent handling if Strange But True or Luke’s IP could benefit. Referral criteria should make any commercial relationship visible.",
+      "conflictBoundary": "If council considered selecting Luke’s bill-check software, Strange But True or a related adviser, that transaction would require independent handling. Referral criteria would disclose any commercial relationship.",
       "projectSources": [
         {
           "title": "Australian Household Bill Check",
@@ -1206,13 +1117,13 @@
       "id": "02",
       "theme": "Household savings and fairness",
       "title": "Legal information and council rules navigator",
-      "purpose": "Reduce time spent finding the right rule, collecting documents and approaching the right service.",
-      "redlandsAdaptation": "Adapt the engine to explain council processes, common consumer issues and referral routes. Publish source dates, applicable jurisdiction and a plain-language complaint trail.",
+      "purpose": "The legal information engine could reduce the time residents spend finding the applicable rule, gathering documents and reaching the right service.",
+      "redlandsAdaptation": "A Redlands version could explain council processes, common consumer issues and routes to help. Source dates, the applicable jurisdiction and a plain-language complaint trail would accompany the information.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek a council-backed rules and referral navigator for council processes, with dated sources and connections to community legal assistance.",
+      "mayoralCouncilLever": "The mayor could seek council support for a rules and referral navigator covering council processes, with dated sources and connections to community legal assistance.",
       "outside": "The navigator helps people locate rules and routes. Qualified professionals and the relevant complaint, tribunal or court bodies retain their own functions and decisions.",
       "partners": "Council legal/customer-service teams, community legal centres, qualified lawyers and relevant complaint bodies.",
-      "conflictBoundary": "Independently assess any council licence or contract involving Luke’s legal-engine IP. Case referrals and document access need clear consent and impartial criteria.",
+      "conflictBoundary": "Any council licence or contract involving Luke’s legal-engine intellectual property would require independent assessment. Case referrals and document access would use clear consent and impartial criteria.",
       "projectSources": [
         {
           "title": "Australian Legal Engine",
@@ -1251,13 +1162,13 @@
       "id": "03",
       "theme": "Household savings and fairness",
       "title": "Body corporate costs and by-law navigator",
-      "purpose": "Help owners and occupants understand charges, test procurement options and use existing dispute pathways.",
-      "redlandsAdaptation": "Create a scheme-specific checklist for levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. Route cases to the correct statutory regime and professional help.",
+      "purpose": "Owners and occupants could use a body corporate navigator to understand charges, compare procurement options and find existing dispute pathways.",
+      "redlandsAdaptation": "A checklist tailored to each scheme could cover levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. It would identify the applicable statutory regime and routes to professional help.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Convene owners, occupants and advice providers; seek information and referral support where it connects with council’s community functions.",
+      "mayoralCouncilLever": "The mayor could bring owners, occupants and advice providers together and seek information and referral support through council’s community functions.",
       "outside": "Body corporate by-laws, levies and dispute outcomes are governed through the applicable scheme and Queensland law/BCCM pathways.",
       "partners": "Owners and occupants, bodies corporate, managers, strata lawyers, BCCM and consumer advisers.",
-      "conflictBoundary": "Separate a general information service from any council transaction with Luke’s software or business. A participating scheme chooses its own advisers and procurement arrangements.",
+      "conflictBoundary": "A general information service would be separate from any council transaction involving Luke’s software or business. Each participating scheme would choose its own advisers and procurement arrangements.",
       "projectSources": [
         {
           "title": "Australian Legal Engine",
@@ -1291,13 +1202,13 @@
       "id": "04",
       "theme": "AI capability and accountable council",
       "title": "AI and superintelligence readiness",
-      "purpose": "Prepare council to use advancing AI in its own work with accountable human decisions, useful staff support and reliable public services.",
-      "redlandsAdaptation": "Develop a council AI operating policy and useful service/workflow demonstrations covering records, data access, workforce support, procurement, cyber resilience, continuity and human review. Connect operational needs with shared-capacity options without making one programme the implementation route for every service.",
+      "purpose": "Council could prepare for advancing AI in its own work through accountable human decisions, useful staff support and reliable public services.",
+      "redlandsAdaptation": "The proposal includes a council AI operating policy and practical service and workflow demonstrations. These would cover records, data access, workforce support, procurement, cyber resilience, continuity and human review. Shared capacity could support different operational needs without requiring every service to use one programme.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Build support for council's AI policy and service objectives, and work through the CEO on implementation, staff involvement and reporting.",
+      "mayoralCouncilLever": "The mayor could build support for council’s AI policy and service objectives, with implementation, staff involvement and reporting managed through the CEO.",
       "outside": "Service owners, the CEO and authorised officers retain their operational and decision responsibilities; relevant external laws, contracts and regulators still apply.",
       "partners": "CEO and council service leaders, workforce representatives, neighbouring councils, researchers and technology businesses.",
-      "conflictBoundary": "A council purchase, licence or service arrangement for AI software, training or support connected to your work or a financial interest is the transaction to identify.",
+      "conflictBoundary": "Any council purchase, licence or service arrangement connected to Luke’s AI software, training, support or financial interests would be assessed as a specific transaction under the applicable interest rules.",
       "projectSources": [
         {
           "title": "Sovereign Capacity Lab",
@@ -1355,13 +1266,13 @@
       "id": "05",
       "theme": "AI capability and accountable council",
       "title": "Free and low-cost AI and data sovereignty learning",
-      "purpose": "Give residents, community groups and small businesses practical skills with a free entry path.",
-      "redlandsAdaptation": "Assemble accessible online lessons and optional supported sessions: useful prompts, checking sources, scams, document privacy, backups, export, local models and choosing providers. Reuse free official training where suitable.",
+      "purpose": "Residents, community groups and small businesses could build practical AI and data sovereignty skills through free entry options and low-cost further learning.",
+      "redlandsAdaptation": "Accessible online lessons and optional supported sessions could cover useful prompts, source checking, scams, document privacy, backups, exporting data, local models and choosing providers. Suitable free official training could be included.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek council support for accessible online resources, library and community learning, and partnerships with education and digital-inclusion providers.",
+      "mayoralCouncilLever": "The mayor could seek council support for accessible online resources, library and community learning, and partnerships with education and digital-inclusion providers.",
       "outside": "Independent providers choose their teaching offers and delivery arrangements; formal qualifications remain with the responsible education bodies.",
       "partners": "Libraries, TAFE/education providers, community centres, small-business networks and digital inclusion organisations.",
-      "conflictBoundary": "Your learning materials, teaching services or Strange But True are relevant if council funds teaching, licences resources or purchases learning support.",
+      "conflictBoundary": "If council funded teaching, licensed Luke’s learning materials or purchased support from Strange But True, the related interest would be identified and handled through the applicable decision process.",
       "projectSources": [
         {
           "title": "How to Use Markdown with AI",
@@ -1405,13 +1316,13 @@
       "id": "06",
       "theme": "AI capability and accountable council",
       "title": "Easier ways to deal with council",
-      "purpose": "Reduce repeat calls, incomplete applications and travel to resolve routine matters.",
-      "redlandsAdaptation": "Identify high-friction forms with councillors, residents and staff. Trial plain-language guidance, assisted forms, accessible status tracking and a verified council knowledge layer.",
+      "purpose": "Residents could spend less time making repeat calls, correcting incomplete applications or travelling to resolve routine council matters.",
+      "redlandsAdaptation": "Councillors, residents and staff could identify forms and processes that cause repeated difficulty. Plain-language guidance, assisted forms, accessible status tracking and a verified council knowledge layer could then be trialled.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Use the mayoral role to seek service improvements and a council decision on the desired experience. The CEO manages integration with existing systems.",
+      "mayoralCouncilLever": "The mayor could seek service improvements and a council decision on the experience residents should receive. The CEO would manage integration with existing systems.",
       "outside": "The CEO and responsible officers manage systems and operational decisions within their authority. Integration must account for existing contracts, information access, privacy and records obligations.",
       "partners": "CEO, customer service and digital teams, residents, accessibility users and existing/new providers through the proper process.",
-      "conflictBoundary": "A council purchase, licence or integration involving Luke’s software or Strange But True needs independent assessment and procurement. Resident case information stays within the authorised service workflow.",
+      "conflictBoundary": "Any council purchase, licence or integration involving Luke’s software or Strange But True would require independent assessment and procurement. Resident case information would remain within the authorised service workflow.",
       "projectSources": [
         {
           "title": "Agent Markdown Form Navigator",
@@ -1453,13 +1364,13 @@
       "id": "07",
       "theme": "AI capability and accountable council",
       "title": "Open data and public digital twin sandbox",
-      "purpose": "Give residents and businesses accessible, source-linked ways to explore public civic data, compare place-based ideas and submit reproducible proposals.",
-      "redlandsAdaptation": "Develop a council dataset and rights catalogue, approved public layers, scenario assumptions and proposal-export formats. Provide reproducible simulations for selected civic questions using public, synthetic or appropriately de-identified information, with the relevant data owners involved.",
+      "purpose": "Residents and businesses could explore source-linked public civic data, compare ideas for particular places and submit proposals that others can reproduce and examine.",
+      "redlandsAdaptation": "A council dataset and rights catalogue could identify approved public layers, scenario assumptions and proposal-export formats. Reproducible simulations of selected civic questions could use public, synthetic or appropriately de-identified information, with the relevant data owners involved.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek a council data-access policy and useful public simulation services, with staff and data owners determining approved datasets, update responsibilities and integration.",
+      "mayoralCouncilLever": "The mayor could seek a council data-access policy and useful public simulation services. Staff and data owners would determine approved datasets, update responsibilities and integration.",
       "outside": "Data owners, privacy law, licences, cultural authority, security and rights over third-party information constrain what can be released.",
       "partners": "Council information/privacy teams, planners, utilities, businesses, researchers and relevant Traditional Owner data custodians.",
-      "conflictBoundary": "Identify any interest in a data licence, simulation tool, software licence or data-service agreement that council is considering.",
+      "conflictBoundary": "Any council decision involving a data licence, simulation tool, software licence or data-service agreement would identify relevant interests, including Luke’s where applicable.",
       "projectSources": [
         {
           "title": "Scan to Twin",
@@ -1515,13 +1426,13 @@
       "id": "08",
       "theme": "Community contribution and reciprocity",
       "title": "Voluntary C-hour demonstration",
-      "purpose": "Recognise useful contributions and make it easier to exchange skills and organise community work.",
-      "redlandsAdaptation": "Develop the C-hour contribution journey with willing hosts across care, repairs, gardens, digital help, arts and preparedness. Record the actual activity and outcome alongside freely given time, verification, reflection and chosen information sharing, using the September 2026 C-hour direction.",
+      "purpose": "Voluntary C-hours could recognise useful contributions, help people exchange skills and make community work easier to organise.",
+      "redlandsAdaptation": "Willing hosts could develop contribution opportunities across care, repairs, gardens, digital help, arts and preparedness. Following the September 2026 C-hour direction, records would connect actual activities and outcomes with freely given time, verification, reflection and each participant’s choices about information sharing.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Bring willing contribution hosts together, support community discussion of verification and participation, and seek council consideration of venues or support for a voluntary C-hour demonstration.",
+      "mayoralCouncilLever": "The mayor could bring willing hosts together, support community discussion of verification and participation, and seek council consideration of venues or support for a voluntary C-hour demonstration.",
       "outside": "Participants choose whether and how to contribute; hosts manage activities and records under their own arrangements, and funding bodies decide applications addressed to them.",
       "partners": "Willing community hosts, residents, carers, volunteer organisations and businesses offering appropriate support.",
-      "conflictBoundary": "Your C-hour tools, IP or delivery role are relevant if council funds, hosts or commissions the contribution programme.",
+      "conflictBoundary": "Luke’s C-hour tools, intellectual property or delivery role would be relevant interests if council funded, hosted or commissioned a contribution programme involving them.",
       "projectSources": [
         {
           "title": "C-Hour Introduction",
@@ -1570,21 +1481,17 @@
       "id": "09",
       "theme": "Community contribution and reciprocity",
       "title": "Community choice of recognition and reciprocal opportunities",
-      "purpose": "Design recognition around actual community preferences and available capacity.",
-      "redlandsAdaptation": "Ask what people value: shared meals, skill exchanges, tool access, learning, events and other affordable forms of thanks. Record ideas, delivery costs, donated capacity and access rules before selecting trials.",
+      "purpose": "Communities could shape recognition and reciprocal opportunities around what participants value and what hosts can offer.",
+      "redlandsAdaptation": "Residents and hosts could consider shared meals, skill exchanges, tool access, learning, events and other affordable forms of thanks. Ideas, delivery costs, donated capacity and access rules would be recorded before choosing trials.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Convene residents, hosts and businesses to hear what forms of recognition they would value or offer, and bring any proposed council contribution to its proper decision process.",
+      "mayoralCouncilLever": "The mayor could bring residents, hosts and businesses together to discuss recognition they would value or offer. Any council contribution would follow its own decision process.",
       "outside": "Hosts, businesses and community organisations decide their own offers and capacity; the treatment of a particular benefit depends on its actual arrangements.",
       "partners": "Participants, community hosts, local businesses, volunteer organisations and relevant legal/tax advisers.",
-      "conflictBoundary": "Your own tools, equipment or provider role are relevant if council funds a reciprocal offer or selects you to supply it.",
+      "conflictBoundary": "Luke’s tools, equipment or provider role would be identified if council considered funding a reciprocal offer or selecting him to supply it.",
       "projectSources": [
         {
           "title": "C-Hour Introduction",
           "url": "https://github.com/auraofintelligence/C-Hour-introduction"
-        },
-        {
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth"
         },
         {
           "title": "Community Club Builder: Sandy Sports",
@@ -1621,13 +1528,13 @@
       "id": "10",
       "theme": "Community contribution and reciprocity",
       "title": "Ready SET Co-op and missing-middle delivery capacity",
-      "purpose": "Develop a member-governed delivery organisation that can coordinate work, administration, shared assets and services across participating projects.",
-      "redlandsAdaptation": "Develop the member-chosen rules, governance, financial model, paid-work and training pathways, insurance/administration and service arrangements. Specify which assets or services a co-operative would own, operate or contract to provide, and the agreements with each host or partner.",
+      "purpose": "Ready SET Co-op is a proposal for a member-governed organisation that could coordinate work, administration, shared assets and services across participating projects.",
+      "redlandsAdaptation": "Prospective members could develop the rules, governance, financial model, paid-work and training pathways, insurance, administration and service arrangements. Agreements would specify what the co-operative would own, operate or provide, and how it would work with each host or partner.",
       "route": "Personal initiative and public-purpose overlap",
-      "mayoralCouncilLever": "Convene a conversation about co-operative public-benefit delivery and ask council to consider relevant support or service arrangements through its own processes.",
+      "mayoralCouncilLever": "The mayor could convene discussion about co-operative public-benefit delivery. Council could consider relevant support or service arrangements through its own processes.",
       "outside": "Any co-operative formed has its own members, governing body, contracts and operating responsibilities. Council and other agencies retain their statutory decisions and services.",
       "partners": "Prospective members/directors, co-operative advisers, community providers, employers and state/federal funding bodies.",
-      "conflictBoundary": "Identify your proposed membership, paid role, assets or contractual interest when council considers an arrangement with the co-operative.",
+      "conflictBoundary": "Any proposed membership, paid role, asset or contractual interest held by Luke would be identified when council considered an arrangement with the co-operative.",
       "projectSources": [
         {
           "title": "Ready SET Co-op Trust Hub",
@@ -1697,13 +1604,13 @@
       "id": "11",
       "theme": "Community contribution and reciprocity",
       "title": "Grant and tender integrity support",
-      "purpose": "Reduce repeated application work and make funding, procurement and delivery obligations easier to follow and evidence.",
-      "redlandsAdaptation": "Provide public eligibility and bid/no-bid resources, evidence packs, budget and obligations templates, document control, acquittal support and conflict checks. Keep applicant assistance clearly separated from a funding or procurement body's assessment of applications.",
+      "purpose": "Community organisations could reduce repeated application work and make funding, procurement and delivery obligations easier to follow and demonstrate.",
+      "redlandsAdaptation": "Public resources could help organisations assess eligibility and whether to apply, assemble evidence, prepare budgets, track obligations, control documents, complete acquittals and check conflicts. Applicant assistance would remain separate from the funder’s or purchaser’s assessment.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek accessible organisation-capability support and clear council information about its grant and procurement processes, while leaving live assessments with the responsible decision-makers.",
+      "mayoralCouncilLever": "The mayor could seek accessible capability support for organisations and clear council information about grants and procurement. Live assessments would remain with the responsible decision-makers.",
       "outside": "Each funder or purchaser sets its requirements and makes its decisions. Assistance with an application does not determine eligibility, selection or an award.",
       "partners": "Community organisations, council procurement/grants teams, external grant administrators and independent advisers.",
-      "conflictBoundary": "Identify any connection to an applicant, paid application-support service or tender where council is providing assistance or making a decision.",
+      "conflictBoundary": "Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision.",
       "projectSources": [
         {
           "title": "Stradbroke Grants Lab",
@@ -1754,21 +1661,17 @@
       "id": "12",
       "theme": "Community contribution and reciprocity",
       "title": "State and federal missing-middle funding advocacy",
-      "purpose": "Seek investment in the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.",
-      "redlandsAdaptation": "Translate the submissions into a Redlands funding case with identified public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Use the separate project cases as inputs and coordinate shared regional requests where councils choose to do so.",
+      "purpose": "State and federal investment could support the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.",
+      "redlandsAdaptation": "Luke’s public submissions could inform a Redlands funding case that identifies public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Distinct project cases could support shared regional requests where councils chose to participate.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Bring a council-endorsed case to responsible state/federal portfolios and funding institutions, convene local MPs and delivery partners, and coordinate negotiations with willing neighbouring councils.",
+      "mayoralCouncilLever": "The mayor could present a council-endorsed case to responsible state and federal portfolios and funding institutions, bring local MPs and delivery partners together, and coordinate negotiations with willing neighbouring councils.",
       "outside": "Funding bodies and participating governments decide their allocations and conditions. Individual organisations remain responsible for their own applications and delivery commitments.",
       "partners": "Council, local MPs, responsible state/federal departments, service providers, regional councils and funding institutions.",
-      "conflictBoundary": "Identify any proposed allocation, funded role or agreement that would directly benefit your own project, business or associated organisation within a funding request.",
+      "conflictBoundary": "Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request.",
       "projectSources": [
         {
           "title": "Installing the Missing Middle",
           "url": "https://github.com/auraofintelligence/installing-the-missing-middle"
-        },
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
         },
         {
           "title": "P4A committees and inquiries",
@@ -1823,22 +1726,14 @@
       "id": "13",
       "theme": "Community contribution and reciprocity",
       "title": "GAJRA Earth Redlands formation option",
-      "purpose": "Develop GAJRA Earth Redlands as a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.",
-      "redlandsAdaptation": "Develop the association's purpose, membership, governance, legal-structure choice and connections with participating projects and other GAJRA communities. Specify which activities it hosts itself and which remain with independent people, organisations or delivery partners.",
+      "purpose": "GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.",
+      "redlandsAdaptation": "Prospective participants could shape its purpose, membership, governance, legal structure and connections with participating projects and other GAJRA communities. Its own activities would be distinguished from those of independent people, organisations and delivery partners.",
       "route": "Personal initiative and public-purpose overlap",
-      "mayoralCouncilLever": "Convene discussion of the public purposes and possible community connections. Any council relationship with a particular association is considered through the relevant council process.",
+      "mayoralCouncilLever": "The mayor could convene discussion of public purposes and community connections. Any council relationship with a particular association would be considered through the relevant council process.",
       "outside": "Participants choose their association and governance arrangements. Other organisations and communities decide their own involvement and retain their authority.",
       "partners": "Independent advisers, qualified providers, venues and appropriate regulators; prospective members and directors if an organisation is formed.",
-      "conflictBoundary": "Identify any GAJRA role or financial interest when council considers a grant, premises arrangement, service agreement or other support for the association.",
+      "conflictBoundary": "Any GAJRA role or financial interest held by Luke would be identified when council considered a grant, premises arrangement, service agreement or other support for the association.",
       "projectSources": [
-        {
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth"
-        },
-        {
-          "title": "GAJRA Earth Network",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth-network"
-        },
         {
           "title": "GAJRA Earth Public Hub",
           "url": "https://github.com/auraofintelligence/gajra-earth-public-hub"
@@ -1883,14 +1778,14 @@
     {
       "id": "14",
       "theme": "Personal Genesis and leadership",
-      "title": "Your personal HBOT purchase and Genesis journey",
-      "purpose": "Establish and undertake your own Genesis journey, developing the person-Aura relationship and carrying it into everyday life.",
-      "redlandsAdaptation": "Use your planned personal HBOT purchase to establish your first Genesis journey. Organise the setting, personal Aura, chosen records and permissions, reflection and everyday application around your own purposes. Genesis is an optional deeper pathway from the Verse Box introduction.",
-      "route": "Your personal HBOT purchase and Genesis journey",
-      "mayoralCouncilLever": "Your participation is a personal example that can inform voluntary conversations about human agency, learning and personal intelligence. Any council programme or partnership has its own decision route.",
-      "outside": "Your participation, equipment purchase, private records and chosen disclosures sit with you. Suppliers, providers and venue owners retain their responsibilities.",
-      "partners": "Your chosen equipment and software providers, venue and operating partners, and people you invite into your learning.",
-      "conflictBoundary": "Your personally purchased HBOT equipment and Genesis IP are relevant if council funds, hosts, purchases or arranges access to them.",
+      "title": "Luke’s personal HBOT purchase and Genesis journey",
+      "purpose": "Luke’s proposed personal Genesis journey would develop the relationship between a person and their Aura and carry that learning into everyday life.",
+      "redlandsAdaptation": "Luke proposes to buy his own HBOT equipment and establish his first Genesis journey. The setting, personal Aura, chosen records and permissions, reflection and everyday application would follow his purposes. Genesis is an optional deeper pathway from the Verse Box introduction.",
+      "route": "Luke’s personal HBOT purchase and Genesis journey",
+      "mayoralCouncilLever": "Luke’s voluntary participation could provide a personal example for conversations about human agency, learning and personal intelligence. Any council programme or partnership would have its own decision route.",
+      "outside": "Luke would decide his participation, equipment purchase, private records and chosen disclosures. Suppliers, providers and venue owners would retain their own responsibilities.",
+      "partners": "Equipment and software providers, venue and operating partners chosen by Luke, and people he invites into his learning.",
+      "conflictBoundary": "Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them.",
       "projectSources": [
         {
           "title": "Aura Genesis",
@@ -1971,13 +1866,13 @@
       "id": "15",
       "theme": "Health, care and inclusion",
       "title": "Co-operative access to health and wellbeing tools",
-      "purpose": "Explore pooled access and reduce duplicated equipment costs where justified.",
-      "redlandsAdaptation": "Develop membership, ownership, booking, affordability and operating arrangements for shared wellbeing tools with community participants and providers. Keep the arrangements for clinical services and individual care choices with their responsible providers.",
+      "purpose": "Co-operative access to health and wellbeing tools could reduce duplicated equipment costs through pooled access.",
+      "redlandsAdaptation": "Community participants and providers could develop membership, ownership, booking, affordability and operating arrangements for shared wellbeing tools. Responsible providers would retain arrangements for clinical services, alongside each person’s care choices.",
       "route": "Personal initiative and public-purpose overlap",
-      "mayoralCouncilLever": "Convene community members, providers and co-operative advisers around shared access; council can consider relevant public-benefit support through its normal processes.",
+      "mayoralCouncilLever": "The mayor could bring community members, providers and co-operative advisers together around shared access. Council could consider relevant public-benefit support through its normal processes.",
       "outside": "Members and any organisation they establish govern ownership and access. Providers retain their clinical and operating responsibilities, and relevant regulators retain their powers.",
       "partners": "Community members, health/wellbeing providers, co-operative advisers, clinicians and regulators for the relevant tools.",
-      "conflictBoundary": "Your equipment, provider role or membership interest is relevant to a council-funded shared-access arrangement involving you.",
+      "conflictBoundary": "Luke’s equipment, provider role or membership interest would be identified in any council-funded shared-access arrangement involving him.",
       "projectSources": [
         {
           "title": "Aura Genesis",
@@ -2023,13 +1918,13 @@
       "id": "16",
       "theme": "Health, care and inclusion",
       "title": "Everyday whole-of-life support and carer coordination",
-      "purpose": "Reduce coordination burdens and help people remain connected to local services.",
-      "redlandsAdaptation": "Co-design everyday assistance and continuity arrangements with people, carers and existing providers. Connect chosen personal information, communication preferences, reminders, local services and meaningful activities so support can follow the person's changing circumstances.",
+      "purpose": "People and carers could spend less effort coordinating support and remain connected to local services as circumstances change.",
+      "redlandsAdaptation": "People, carers and existing providers could co-design everyday assistance and continuity arrangements. Chosen personal information, communication preferences, reminders, local services and meaningful activities could help support follow the person’s changing circumstances.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Bring community, disability, aged-care and carer organisations together and connect council's relevant access, information, venue and community-support roles.",
+      "mayoralCouncilLever": "The mayor could bring community, disability, aged-care and carer organisations together, connecting council’s relevant roles in access, information, venues and community support.",
       "outside": "Health, disability and aged-care providers and responsible funding agencies retain their service responsibilities. The person and the appropriate lawful decision-makers determine participation and information sharing.",
       "partners": "People and carers, existing disability/aged-care providers, clinicians, community services and responsible funding agencies.",
-      "conflictBoundary": "Your support software, IP or provider role is relevant if council commissions or funds everyday support services using it.",
+      "conflictBoundary": "Luke’s support software, intellectual property or provider role would be a relevant interest if council commissioned or funded everyday support services using it.",
       "projectSources": [
         {
           "title": "Aura for Adaptive Whole of Life Support",
@@ -2074,13 +1969,13 @@
       "id": "17",
       "theme": "Health, care and inclusion",
       "title": "Children and youth learning and connection",
-      "purpose": "Expand opportunities to learn, make, contribute and build trusted intergenerational relationships.",
-      "redlandsAdaptation": "Offer supervised learning and creative activities with age-appropriate AI tools, lawful guardian/care-authority processes, age/capacity-appropriate consent or assent and institutional approvals. Connect participants with existing youth services.",
+      "purpose": "Young people could have more opportunities to learn, make, contribute and build trusted relationships across generations.",
+      "redlandsAdaptation": "Supervised learning and creative activities could use age-appropriate AI tools and connect participants with existing youth services. They would follow lawful guardian or care-authority processes, consent or assent appropriate to age and capacity, and the relevant institutional approvals.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Council can support spaces, opportunities, partnerships and community programmes.",
-      "outside": "Education, children in care, clinical services, police and youth justice remain with responsible authorities; use their lawful consent and safeguarding arrangements.",
+      "mayoralCouncilLever": "Council could support spaces, opportunities, partnerships and community programmes for young people.",
+      "outside": "Education, children in care, clinical services, police and youth justice remain with the responsible authorities. Their lawful consent and safeguarding arrangements would apply.",
       "partners": "Young people, schools, youth/care services, lawful care authorities, mentors and existing community organisations.",
-      "conflictBoundary": "Your youth-learning materials, software or delivery role are relevant if council funds or commissions a youth programme involving them.",
+      "conflictBoundary": "Luke’s youth-learning materials, software or delivery role would be a relevant interest if council funded or commissioned a programme involving them.",
       "projectSources": [
         {
           "title": "Aura Children and Young People",
@@ -2129,13 +2024,13 @@
       "id": "18",
       "theme": "Learning, work and leadership",
       "title": "Try Everything work exploration",
-      "purpose": "Help people discover suitable work through direct experience and local networks.",
-      "redlandsAdaptation": "Design short tasters across trades, care, arts, technology, food growing and repair. Use recognised placement arrangements and connect interested people with paid training or employment pathways.",
+      "purpose": "Work exploration aims to help people discover suitable work through direct experience and local networks.",
+      "redlandsAdaptation": "A Redlands programme would offer short tasters across trades, care, arts, technology, food growing and repair. Recognised placement arrangements would connect interested people with paid training or employment pathways.",
       "route": "Community partnership",
       "mayoralCouncilLever": "Council can convene employers, offer appropriate opportunities and support school/employment partnerships.",
       "outside": "Schools, employment providers and employers hold their own placement, employment, training and safeguarding responsibilities.",
       "partners": "Schools, employers, employment agencies, TAFE/training providers and community hosts.",
-      "conflictBoundary": "Your work-exploration tools or host role are relevant if council funds placements, procures programme support or selects a delivery partner involving you.",
+      "conflictBoundary": "Luke's work-exploration tools or host role would be relevant to an interest assessment if council funded placements, procured programme support or selected a delivery partner involving him.",
       "projectSources": [
         {
           "title": "Luke’s World of Work",
@@ -2186,13 +2081,13 @@
       "id": "19",
       "theme": "Learning, work and leadership",
       "title": "Escape-room collaboration and intergenerational making",
-      "purpose": "Support youth safety and opportunity through engaging activities across generations, trusted relationships and practical learning.",
-      "redlandsAdaptation": "Adapt cooperative puzzles and making challenges for libraries, schools and community centres. Test whether optional voice reflection helps participants learn teamwork.",
+      "purpose": "Collaborative activities across generations aim to support youth safety and opportunity through trusted relationships and practical learning.",
+      "redlandsAdaptation": "Cooperative puzzles and making challenges could be adapted for libraries, schools and community centres. Optional voice reflection would allow participants and facilitators to explore whether it helps people learn teamwork.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Seek suitable council venues and youth, library or arts partnerships for collaborative escape-room sessions and intergenerational making, with community input into the activities.",
+      "mayoralCouncilLever": "Council could consider suitable venues and youth, library or arts partnerships for collaborative escape-room sessions and intergenerational making, with community input into the activities.",
       "outside": "Hosts and facilitators manage sessions, recordings and participant permissions; schools and community organisations choose their own involvement.",
       "partners": "Schools, youth services, libraries, community venues, mentors, makers and participants across generations.",
-      "conflictBoundary": "Your game design, recording tools or delivery role are relevant if council commissions sessions, licences the format or funds a host involving you.",
+      "conflictBoundary": "Luke's game design, recording tools or delivery role would be relevant to an interest assessment if council commissioned sessions, licensed the format or funded a host involving him.",
       "projectSources": [
         {
           "title": "Escape Room Team Building",
@@ -2234,13 +2129,13 @@
       "id": "20",
       "theme": "Learning, work and leadership",
       "title": "500 Queens regional leadership and human mentoring",
-      "purpose": "Create opportunities for emerging female leaders to practise long-range civic decision-making and build networks.",
-      "redlandsAdaptation": "Adapt leadership exercises to local long-term planning and invite real mentors through Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other interested councils.",
+      "purpose": "500 Queens aims to create opportunities for emerging female leaders to practise long-range civic decision-making and build networks.",
+      "redlandsAdaptation": "Leadership exercises could be adapted to local long-term planning, with human mentors invited through Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other interested councils.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Invite neighbouring councils to a shared leadership and mentoring programme, with each choosing its contribution.",
-      "outside": "Human mentors and other councils agree their own participation; the office cannot appoint them or commit their resources.",
+      "mayoralCouncilLever": "The mayor could invite neighbouring councils to a shared leadership and mentoring programme, with each council choosing its contribution.",
+      "outside": "Human mentors and other councils agree their own participation; the mayor cannot appoint them or commit their resources.",
       "partners": "Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other willing councils, educators and mentors.",
-      "conflictBoundary": "Your mentoring, programme or partner role is relevant if council funds the network, selects its partners or supports an organisation you join.",
+      "conflictBoundary": "Luke's mentoring, programme or partner role would be relevant to an interest assessment if council funded the network, selected its partners or supported an organisation he joined.",
       "projectSources": [
         {
           "title": "500 Queens Venture Capital",
@@ -2282,18 +2177,14 @@
       "id": "21",
       "theme": "Learning, work and leadership",
       "title": "Olympics community capability and lasting benefit",
-      "purpose": "Connect Redlands people and organisations with Brisbane 2032 opportunities and enduring local benefits.",
-      "redlandsAdaptation": "Develop the Redlands participation and legacy conversation with the responsible Games/state bodies: accessible visitor information, volunteer and paid-work pathways, local arts and enterprise, and capabilities useful beyond the event. Make the specific Games-related connections visible within the independent projects.",
+      "purpose": "The proposal aims to connect Redlands people and organisations with Brisbane 2032 opportunities and enduring local benefits.",
+      "redlandsAdaptation": "A Redlands participation and legacy discussion with the responsible Games and state bodies would cover accessible visitor information, volunteer and paid-work pathways, local arts and enterprise, and capabilities useful beyond the event. Each independent project would identify its specific Games-related connections.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Represent a council-endorsed Redlands position in regional and state/Games discussions, connect local organisations with the responsible programme owners, and seek clear local-benefit and access arrangements.",
+      "mayoralCouncilLever": "The mayor could represent a council-endorsed Redlands position in regional, state and Games discussions, connect local organisations with the responsible programme owners, and seek clear local-benefit and access arrangements.",
       "outside": "Games and state programme owners determine their activities, recruitment, branding, procurement and funding. Local partners choose their contributions through the relevant arrangements.",
       "partners": "State/Games programme owners, neighbouring councils, volunteer organisations, tourism businesses and arts/community hosts.",
-      "conflictBoundary": "Identify any personal or business interest in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity.",
+      "conflictBoundary": "Any personal or business interest Luke has in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity would need to be identified.",
       "projectSources": [
-        {
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth"
-        },
         {
           "title": "C-Hour Introduction",
           "url": "https://github.com/auraofintelligence/C-Hour-introduction"
@@ -2353,13 +2244,13 @@
       "id": "22",
       "theme": "Food, repair and community wealth",
       "title": "Dig for Redlands and Shared Table",
-      "purpose": "Increase access to healthy local produce and test reductions in household food costs.",
-      "redlandsAdaptation": "Adapt Dig for Australia-style growing to sunny balconies, fences, yards, schools and suitable shared land. Offer local crop guidance, seed/seedling swaps and optional produce-sharing circles.",
+      "purpose": "Dig for Redlands and Shared Table aim to increase access to healthy local produce and test reductions in household food costs.",
+      "redlandsAdaptation": "Dig for Australia-style growing could be adapted to sunny balconies, fences, yards, schools and suitable shared land in Redlands. Local crop guidance, seed and seedling swaps, and optional produce-sharing circles would support participation.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Convene growers and willing hosts; ask council to support food-growing information, suitable access to council land or venues, and transparent community grant opportunities.",
+      "mayoralCouncilLever": "The mayor could convene growers and willing hosts and seek council support for food-growing information, suitable access to council land or venues, and transparent community grant opportunities.",
       "outside": "Landholders and participating bodies corporate choose access to their spaces. Food-sharing hosts and growers retain responsibility for their own activities and applicable requirements.",
       "partners": "Residents, renters/owners, bodies corporate, schools, growers, garden groups and suitable landholders.",
-      "conflictBoundary": "Keep seed, equipment, land-access and grant decisions transparent. Independently handle a specific council benefit to Luke, Strange But True or an organisation he joins.",
+      "conflictBoundary": "Seed, equipment, land-access and grant decisions would need transparent processes. Any specific council benefit to Luke, Strange But True or an organisation he joined would require independent handling.",
       "projectSources": [
         {
           "title": "Straddie Shared Table",
@@ -2394,13 +2285,13 @@
       "id": "23",
       "theme": "Food, repair and community wealth",
       "title": "Tip Loop repair and reuse",
-      "purpose": "Keep useful goods in circulation and reduce replacement costs and waste.",
-      "redlandsAdaptation": "Investigate a safe collection route before disposal, with sorting, storage, repair triage and affordable distribution. Invite interested sheds, makers and existing reuse operators.",
+      "purpose": "Tip Loop aims to keep useful goods in circulation and reduce replacement costs and waste.",
+      "redlandsAdaptation": "A safe collection route before disposal would include sorting, storage, repair triage and affordable distribution. Interested sheds, makers and existing reuse operators could participate in developing the arrangements.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Bring council waste teams, existing reuse operators, sheds and repairers together around pre-disposal collection, space, storage and distribution arrangements.",
+      "mayoralCouncilLever": "The mayor could bring council waste teams, existing reuse operators, sheds and repairers together around pre-disposal collection, space, storage and distribution arrangements.",
       "outside": "Waste-site operators, goods owners and repair/distribution hosts retain their operational roles. Specialist repair work belongs with appropriately qualified providers.",
       "partners": "Council waste team and existing operators, men’s sheds, makers, licensed repairers and community distribution partners.",
-      "conflictBoundary": "Independently assess access to council waste streams, land, grants or contracts where Luke or a future co-operative has an interest. Publish allocation and redistribution arrangements.",
+      "conflictBoundary": "Access to council waste streams, land, grants or contracts would need independent assessment where Luke or a future co-operative had an interest. Allocation and redistribution arrangements would be published.",
       "projectSources": [
         {
           "title": "Straddie Tip Loop Lab",
@@ -2439,13 +2330,13 @@
       "id": "24",
       "theme": "Food, repair and community wealth",
       "title": "Makerspaces and shared practical tools",
-      "purpose": "Avoid unnecessary individual purchases and connect practical skills with repairs, gardens and learning.",
-      "redlandsAdaptation": "Map existing makerspaces, sheds and community equipment; develop shared access, maintenance and skills sessions with willing hosts across divisions.",
+      "purpose": "Shared practical tools and facilities aim to avoid unnecessary individual purchases and connect practical skills with repairs, gardens and learning.",
+      "redlandsAdaptation": "A map of existing makerspaces, sheds and community equipment would inform shared access, maintenance and skills sessions developed with willing hosts across divisions.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek council support for shared facilities, equipment access and practical learning through libraries, venues and community partnerships.",
+      "mayoralCouncilLever": "The mayor could seek council support for shared facilities, equipment access and practical learning through libraries, venues and community partnerships.",
       "outside": "Tool hosts manage their equipment and access arrangements; specialist electrical, trade and other regulated work retains its relevant professional responsibilities.",
       "partners": "Libraries, men’s sheds, makerspaces, clubs, trainers and shared-equipment hosts.",
-      "conflictBoundary": "Use transparent access and equipment-purchase arrangements. Independently handle council support involving Luke’s equipment, designs, business or an organisation he joins.",
+      "conflictBoundary": "Access and equipment purchases would need transparent arrangements. Council support involving Luke's equipment, designs, business or an organisation he joined would require independent handling.",
       "projectSources": [
         {
           "title": "Straddie Maker-Space Lab",
@@ -2491,13 +2382,13 @@
       "id": "25",
       "theme": "Public spaces, arts and local communication",
       "title": "Verse Box public access and installations",
-      "purpose": "Provide accessible public stations and supported sessions for useful personal, creative and community work.",
-      "redlandsAdaptation": "Install and operate Verse Box stations with willing libraries and community hosts. Agree the station's purposes, equipment, accessibility, support, maintenance and session arrangements. Use sample records for demonstrations and provide private handover, export and deletion for personal sessions.",
+      "purpose": "Verse Box stations and supported sessions would provide accessible public access for useful personal, creative and community work.",
+      "redlandsAdaptation": "Verse Box stations could be installed and operated with willing libraries and community hosts, with agreed purposes, equipment, accessibility, support, maintenance and session arrangements. Demonstrations would use sample records; personal sessions would provide private handover, export and deletion.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Convene suitable hosts and support council consideration of stations, public access and assistance within its venues or programmes.",
+      "mayoralCouncilLever": "The mayor could convene suitable hosts and support council consideration of stations, public access and assistance within its venues or programmes.",
       "outside": "Hosts and providers agree the station's operation and responsibilities. Each participant chooses their personal records and any further Aura or Genesis pathway.",
       "partners": "Libraries, community venues, learning/accessibility partners, equipment providers and willing participants.",
-      "conflictBoundary": "Your station design, software or Strange But True is relevant if council purchases, licences, hosts or funds a Verse Box installation.",
+      "conflictBoundary": "Luke's station design, software or Strange But True would be relevant to an interest assessment if council purchased, licensed, hosted or funded a Verse Box installation.",
       "projectSources": [
         {
           "title": "Verse Box",
@@ -2542,13 +2433,13 @@
       "id": "26",
       "theme": "Public spaces, arts and local communication",
       "title": "Local arts, music and cinema participation",
-      "purpose": "Create local learning and creative opportunities and test affordable cultural activities.",
-      "redlandsAdaptation": "Adapt music, film, making and cultural events for willing mainland and island venues, with clear rights, cultural governance and accessible participation.",
+      "purpose": "Local arts, music and cinema participation would create learning and creative opportunities and test affordable cultural activities.",
+      "redlandsAdaptation": "Music, film, making and cultural events could be adapted for willing mainland and island venues, with clear rights, cultural governance and accessible participation.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Support access to council arts venues, libraries, events and relevant community funding pathways for local music, cinema and creative participation.",
+      "mayoralCouncilLever": "Council could support access to its arts venues, libraries, events and relevant community funding pathways for local music, cinema and creative participation.",
       "outside": "Artists, venues and event organisers choose their programmes and participation arrangements; content owners retain control of licensing and use.",
       "partners": "Community groups, co-operatives, schools, businesses and external funders as appropriate.",
-      "conflictBoundary": "Your music, creative work or production role is relevant if council funds an event, licences content or commissions work involving you.",
+      "conflictBoundary": "Luke's music, creative work or production role would be relevant to an interest assessment if council funded an event, licensed content or commissioned work involving him.",
       "projectSources": [
         {
           "title": "i C. infinity Music Universe",
@@ -2602,13 +2493,13 @@
       "id": "27",
       "theme": "Public spaces, arts and local communication",
       "title": "Community noticeboards and locally governed websites",
-      "purpose": "Make local information easier to find and reduce reliance on commercial social platforms.",
-      "redlandsAdaptation": "Pilot accessible public digital noticeboards plus a low-bandwidth website and optional subscriptions for local activities, services and preparedness information.",
+      "purpose": "Community noticeboards and locally governed websites aim to make local information easier to find and reduce reliance on commercial social platforms.",
+      "redlandsAdaptation": "A pilot would combine accessible public digital noticeboards with a low-bandwidth website and optional subscriptions for local activities, services and preparedness information.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Seek council support for accessible public information channels and community publishing partnerships, with clear editorial and moderation responsibilities.",
+      "mayoralCouncilLever": "The mayor could seek council support for accessible public information channels and community publishing partnerships, with clear editorial and moderation responsibilities.",
       "outside": "Community publishers remain responsible for their notices and editorial choices. Council and authorised agencies control their own official information and updates.",
       "partners": "Community publishers, neighbourhood organisations, council communications/disaster teams, local businesses and venue hosts.",
-      "conflictBoundary": "Set transparent publishing, moderation and venue-access terms. Any council purchase of Luke’s website or noticeboard systems needs independent handling.",
+      "conflictBoundary": "Publishing, moderation and venue access would operate under transparent terms. Any council purchase of Luke's website or noticeboard systems would require independent handling.",
       "projectSources": [
         {
           "title": "Straddie Noticeboard Network",
@@ -2651,13 +2542,13 @@
       "id": "28",
       "theme": "Disaster readiness and recovery",
       "title": "Disaster-ready kiosks and resilient local information",
-      "purpose": "Improve access to reliable information during outages and everyday preparedness.",
-      "redlandsAdaptation": "Assess sites and pilot offline-capable information, backup power/connectivity and accessible preparedness material connected to authorised warning and update workflows.",
+      "purpose": "Disaster-ready kiosks aim to improve access to reliable information during outages and everyday preparedness.",
+      "redlandsAdaptation": "Site assessment and a pilot would cover offline-capable information, backup power and connectivity, and accessible preparedness material connected to authorised warning and update workflows.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Work through council’s disaster responsibilities and the Local Disaster Management Group to integrate kiosks with approved information workflows.",
+      "mayoralCouncilLever": "Council's disaster responsibilities and the Local Disaster Management Group provide the route for integrating kiosks with approved information workflows.",
       "outside": "Warning agencies, emergency responders, utilities and other LDMG partners retain their operational responsibilities.",
       "partners": "LDMG, council disaster team, authorised warning agencies, utilities, venue hosts and accessibility/community representatives.",
-      "conflictBoundary": "Independently assess kiosk sites, equipment and support contracts where Luke’s designs or equipment could benefit. Keep authorised warning publication responsibilities clear.",
+      "conflictBoundary": "Kiosk sites, equipment and support contracts would need independent assessment where Luke's designs or equipment could benefit. Responsibilities for publishing authorised warnings would remain clear.",
       "projectSources": [
         {
           "title": "Straddie Disaster Kiosks",
@@ -2702,13 +2593,13 @@
       "id": "29",
       "theme": "Disaster readiness and recovery",
       "title": "Preparedness and recovery coordination",
-      "purpose": "Help communities prepare for outages, disrupted transport, heat and recovery needs.",
-      "redlandsAdaptation": "Map existing resilience assets and gaps; offer consented household preparedness support, exercises and a recovery obligations/resource register.",
+      "purpose": "Preparedness and recovery coordination aims to help communities prepare for outages, disrupted transport, heat and recovery needs.",
+      "redlandsAdaptation": "A map of existing resilience assets and gaps would support consented household preparedness assistance, exercises and a register of recovery obligations and resources.",
       "route": "Council services and policy",
-      "mayoralCouncilLever": "Work through existing LDMG and recovery arrangements to strengthen preparedness, information and handovers.",
+      "mayoralCouncilLever": "Existing Local Disaster Management Group and recovery arrangements provide the route for strengthening preparedness, information and handovers.",
       "outside": "Other agencies remain responsible for their services and any protected health or support information.",
       "partners": "LDMG/recovery partners, existing service providers, community organisations, utilities and households choosing to participate.",
-      "conflictBoundary": "Keep community participation and support records within consented operational arrangements. Independently assess any council recovery contract involving Luke or an organisation he joins.",
+      "conflictBoundary": "Community participation and support records would remain within consented operational arrangements. Any council recovery contract involving Luke or an organisation he joined would require independent assessment.",
       "projectSources": [
         {
           "title": "Aura Disaster Resilience",
@@ -2757,8 +2648,8 @@
       "id": "30",
       "theme": "Housing and transport",
       "title": "Temporary and modular housing options",
-      "purpose": "Explore safe additional housing while permanent construction proceeds.",
-      "redlandsAdaptation": "Audit zoning and existing pathways; compare secondary dwellings, approved temporary homes and serviced modular/kit options. Identify candidate sites, servicing requirements, costs and the pathways for demonstrations or rule changes.",
+      "purpose": "The proposal explores safe additional housing while permanent construction proceeds.",
+      "redlandsAdaptation": "A review of zoning and existing pathways would compare secondary dwellings, approved temporary homes and serviced modular or kit options. It would identify candidate sites, servicing requirements, costs and pathways for demonstrations or rule changes.",
       "route": "Council infrastructure and external approvals",
       "mayoralCouncilLever": "Council has planning, local-law, building/plumbing and local infrastructure roles, exercised through lawful decisions and delegations.",
       "outside": "State frameworks, certifiers, utilities, landowners and tenancy requirements also apply. Existing Redland temporary-home rules are tied to works on a permanent residence; wider interim use needs the correct legal pathway.",
@@ -2802,13 +2693,13 @@
       "id": "31",
       "theme": "Housing and transport",
       "title": "Independent ferry access and Gumpi scrutiny",
-      "purpose": "Protect transport choice and test effects on affordability, frequency and reliability.",
-      "redlandsAdaptation": "Obtain the council position, state project documents and access proposals. Advocate transparent multi-operator access, disability access, resilience and consultation on service changes.",
+      "purpose": "The proposal aims to protect transport choice and examine effects on affordability, frequency and reliability.",
+      "redlandsAdaptation": "The council position, state project documents and access proposals would inform advocacy for transparent multi-operator access, disability access, resilience and consultation on service changes.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.",
+      "mayoralCouncilLever": "The mayor could seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.",
       "outside": "The Dunwich/Gumpi upgrade is state-led. Council influence includes its submission, funding commitments and negotiations; state and operator decisions remain outside unilateral mayoral control.",
       "partners": "TMR, council, independent ferry operators, passengers, accessibility representatives and local businesses.",
-      "conflictBoundary": "Distinguish personal advocacy from the council position. Independently handle any council decision involving a transport operator, supplier or property interest connected to Luke.",
+      "conflictBoundary": "Luke's personal advocacy would remain distinct from the council position. Any council decision involving a transport operator, supplier or property interest connected to him would require independent handling.",
       "projectSources": [
         {
           "title": "Dunwich (Gumpi) Ferry Terminal Lab",
@@ -2842,13 +2733,13 @@
       "id": "32",
       "theme": "Infrastructure, energy and coasts",
       "title": "Sandworm underground-road feasibility",
-      "purpose": "Test whether underground options could reduce surface impacts and improve access.",
-      "redlandsAdaptation": "Seek a scoped options study for Minjerribah underground roads, compared with surface improvements, public transport and doing less infrastructure.",
+      "purpose": "The proposal examines whether underground roads could reduce surface impacts and improve access.",
+      "redlandsAdaptation": "A scoped options study for Minjerribah underground roads would compare them with surface improvements, public transport and a lower level of infrastructure development.",
       "route": "Council infrastructure and external approvals",
-      "mayoralCouncilLever": "Seek a council position and scoped engineering work on Minjerribah road access, council road responsibilities and land interfaces; convene the responsible landholders and transport authorities.",
+      "mayoralCouncilLever": "The mayor could seek a council position and scoped engineering work on Minjerribah road access, council road responsibilities and land interfaces, and convene the responsible landholders and transport authorities.",
       "outside": "The relevant road and land owners, Traditional Owners and state/environmental authorities retain their decisions. Technical delivery and permissions depend on the particular alignment.",
       "partners": "Council roads/planning teams, landholders, Traditional Owners, geotechnical/tunnelling engineers, universities and regulators.",
-      "conflictBoundary": "Independently handle any council-funded road study, design licence, land arrangement or tunnelling contract involving Luke’s Sandworm IP, business or future delivery interest.",
+      "conflictBoundary": "Any council-funded road study, design licence, land arrangement or tunnelling contract involving Luke's Sandworm intellectual property, business or future delivery interest would require independent handling.",
       "projectSources": [
         {
           "title": "Sandworm Subterranean Systems",
@@ -2887,10 +2778,10 @@
       "id": "33",
       "theme": "Infrastructure, energy and coasts",
       "title": "Small wet-sand TBM services for SMBI",
-      "purpose": "Investigate less disruptive and potentially useful ways to add services without joining islands.",
-      "redlandsAdaptation": "Test whether smaller tunnelling systems suit particular sewerage or service alignments on individual islands. Compare trenchless alternatives, conventional works and decentralised services.",
+      "purpose": "The proposal investigates less disruptive and potentially useful ways to add services without joining the Southern Moreton Bay Islands.",
+      "redlandsAdaptation": "Assessment of smaller tunnelling systems would consider particular sewerage or service alignments on individual islands, alongside trenchless alternatives, conventional works and decentralised services.",
       "route": "Council infrastructure and external approvals",
-      "mayoralCouncilLever": "Seek council water, wastewater and infrastructure input on specific island service needs and alignments; convene the responsible service owners and tunnelling partners.",
+      "mayoralCouncilLever": "The mayor could seek council water, wastewater and infrastructure input on specific island service needs and alignments, and convene the responsible service owners and tunnelling partners.",
       "outside": "Each utility and landholder retains its asset and access decisions. Relevant environmental and marine authorities retain their approval roles for the chosen works.",
       "partners": "Council water/wastewater teams and other service owners, island communities, tunnelling researchers and relevant regulators.",
       "conflictBoundary": "A council utility study, TBM purchase, service-design licence or works contract connected to Luke’s designs or a future co-operative needs its own independent interest and selection process.",
@@ -2927,14 +2818,14 @@
     {
       "id": "34",
       "theme": "Infrastructure, energy and coasts",
-      "title": "Test spoil reuse, erosion protection and reefs",
-      "purpose": "Explore beneficial reuse and ecological/coastal outcomes if materials and sites are suitable.",
-      "redlandsAdaptation": "Assess excavated materials and each proposed destination separately: lawful reuse, coastal protection and engineered artificial reefs. Compare nature-based and other options.",
+      "title": "Spoil reuse, erosion protection and reefs",
+      "purpose": "The proposal explores beneficial reuse and ecological and coastal outcomes where materials and sites are suitable.",
+      "redlandsAdaptation": "Excavated materials and each proposed destination would be assessed separately for lawful reuse, coastal protection and engineered artificial reefs, with nature-based and other options included in the comparison.",
       "route": "Council infrastructure and external approvals",
-      "mayoralCouncilLever": "Convene council coastal and environment teams, custodians and research partners around material testing and identified coastal or reef applications within the relevant council responsibilities.",
+      "mayoralCouncilLever": "The mayor could convene council coastal and environment teams, custodians and research partners around material testing and identified coastal or reef applications within the relevant council responsibilities.",
       "outside": "Material owners, receiving-site managers and relevant coastal, marine and environmental authorities decide the applicable material and site requirements.",
       "partners": "Council coastal/environment teams, material-testing specialists, marine/coastal researchers, custodians and regulators.",
-      "conflictBoundary": "Independently assess any council material-transfer, testing, coastal-work or reef contract where Luke has an interest in the excavated material, design or receiving project.",
+      "conflictBoundary": "Any council material-transfer, testing, coastal-work or reef contract would need independent assessment where Luke had an interest in the excavated material, design or receiving project.",
       "projectSources": [
         {
           "title": "Sandworm Subterranean Systems",
@@ -2974,10 +2865,10 @@
       "id": "35",
       "theme": "Infrastructure, energy and coasts",
       "title": "Clean energy and local resilience options",
-      "purpose": "Seek lower whole-life energy costs and resilient essential services where evidence supports investment.",
-      "redlandsAdaptation": "Develop local efficiency, generation, storage and resilience options alongside the wider clean-energy concepts. Identify each project’s grid, land, operating, energy-delivery and material requirements.",
+      "purpose": "The aim is lower whole-life energy costs and resilient essential services where evidence supports investment.",
+      "redlandsAdaptation": "The Redlands adaptation combines local efficiency, generation, storage and resilience options with the wider clean-energy concepts. Each project would identify its grid, land, operating, energy-delivery and material requirements.",
       "route": "Council infrastructure and external approvals",
-      "mayoralCouncilLever": "Seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.",
+      "mayoralCouncilLever": "The mayor could seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.",
       "outside": "Energy networks, generators, retailers, landholders and relevant regulators retain their connection, commercial and approval responsibilities.",
       "partners": "Council facilities teams, energy networks/providers, community energy groups, researchers and external funding bodies.",
       "conflictBoundary": "A council energy purchase, site agreement, equipment trial or resilience contract involving Luke’s clean-energy designs or business needs independent assessment and documented ownership and operating terms.",
@@ -3026,13 +2917,13 @@
       "id": "36",
       "theme": "Local economy and environment",
       "title": "Tourism, domestic travel and local access",
-      "purpose": "Support local activity and reduce avoidable planning costs and access barriers.",
-      "redlandsAdaptation": "Develop visitor and resident experiences that connect accurate transport and accessibility information, local suppliers, culture, nature, music and chosen learning. Let participants choose how personal Aura supports their interests, records and reflection, and connect local operators with useful tourism AI learning.",
+      "purpose": "The aim is to support local activity and reduce avoidable planning costs and access barriers.",
+      "redlandsAdaptation": "The proposed visitor and resident experiences connect accurate transport and accessibility information, local suppliers, culture, nature, music and chosen learning. Participants would choose how personal Aura supports their interests, records and reflection, while local operators could access useful tourism AI learning.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Convene local tourism, cultural, accessibility and learning partners around visitor resources and experiences, and seek council support through its tourism, public-place and community roles.",
+      "mayoralCouncilLever": "The mayor could convene local tourism, cultural, accessibility and learning partners around visitor resources and experiences, and seek council support through its tourism, public-place and community roles.",
       "outside": "Operators and cultural hosts choose the experiences they offer; transport providers and the responsible public bodies retain decisions about their services and infrastructure.",
       "partners": "Local tourism operators, transport providers, accessibility users, cultural custodians and Queensland tourism/education programmes.",
-      "conflictBoundary": "Your tourism tools, content or delivery role are relevant if council purchases visitor resources, funds an experience or selects a provider involving you.",
+      "conflictBoundary": "Luke's tourism tools, content or delivery role would be relevant to any council purchase of visitor resources, funding of an experience or provider selection involving him.",
       "projectSources": [
         {
           "title": "Aura Tourism",
@@ -3080,13 +2971,13 @@
       "id": "37",
       "theme": "Local economy and environment",
       "title": "Wildlife, pollinators and local stewardship",
-      "purpose": "Support local bee resilience, wildlife care and ecological learning through the relevant independent organisations.",
-      "redlandsAdaptation": "Convene local beekeepers, bee people and allies around hive observations, resilience research, learning and the proposed lab pathway. Support wildlife and habitat work through its own existing organisations and separately agreed activities.",
+      "purpose": "The aim is to support local bee resilience, wildlife care and ecological learning through the relevant independent organisations.",
+      "redlandsAdaptation": "The bee-resilience proposal brings local beekeepers, bee people and allies together around hive observations, resilience research, learning and the proposed lab pathway. Wildlife and habitat work would continue through its own existing organisations and separately agreed activities.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Consider separately proposed support for wildlife and habitat initiatives within council land and programme responsibilities.",
+      "mayoralCouncilLever": "The mayor could bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Council could separately consider proposed support for wildlife and habitat initiatives within its land and programme responsibilities.",
       "outside": "Landholders, wildlife carers, custodians and responsible environmental authorities retain their permissions and specialist functions.",
       "partners": "Local beekeepers, bee people and allies; invited universities and agencies as supporting partners. Wildlife and habitat initiatives have their own licensed carers, custodians, land managers and community participants.",
-      "conflictBoundary": "Use transparent criteria for land access, grants and services. Independently handle any specific council benefit to a Luke-related project or organisation.",
+      "conflictBoundary": "The proposal calls for transparent land-access, grant and service criteria, with independent handling of any specific council benefit to a project or organisation associated with Luke.",
       "projectSources": [
         {
           "title": "Bees & Allies",
@@ -3112,13 +3003,13 @@
       "id": "38",
       "theme": "Local economy and environment",
       "title": "Community venues and neighbourhood initiatives",
-      "purpose": "Make better use of community assets and support affordable participation.",
-      "redlandsAdaptation": "Review which club, sport, outdoor learning, screening and neighbourhood event concepts can be adapted to willing venues across divisions, with local councillors and existing organisers.",
+      "purpose": "The aim is better use of community assets and affordable participation.",
+      "redlandsAdaptation": "Local councillors and existing organisers could review club, sport, outdoor learning, screening and neighbourhood event concepts with willing venues across divisions, identifying adaptations suited to each place.",
       "route": "Community partnership",
-      "mayoralCouncilLever": "Work with divisional councillors and existing organisers on council venue access, leases, community programmes and transparent support for willing neighbourhood hosts.",
+      "mayoralCouncilLever": "The mayor could work with divisional councillors and existing organisers on council venue access, leases, community programmes and transparent support for willing neighbourhood hosts.",
       "outside": "Each club, venue owner and community organiser chooses its participation, governance, activities and use of its own assets.",
       "partners": "Community groups, co-operatives, schools, businesses and external funders as appropriate.",
-      "conflictBoundary": "Make venue, lease, grant and access criteria visible. Independently handle any council arrangement benefiting Luke or an organisation he establishes or joins.",
+      "conflictBoundary": "The proposal calls for visible venue, lease, grant and access criteria, with independent handling of any council arrangement benefiting Luke or an organisation he establishes or joins.",
       "projectSources": [
         {
           "title": "Community Club Builder: Sandy Sports",
@@ -3164,13 +3055,13 @@
       "id": "39",
       "theme": "Advocacy and research context",
       "title": "Sovereign compute and distributed national capacity",
-      "purpose": "Provide Australian and locally governed computing and hosting capacity for personal, community, civic and productive workloads.",
-      "redlandsAdaptation": "Develop the compute/service design and investment case for participating Redlands institutions, businesses, communities and regional partners. Specify workloads, processing and storage needs, power/cooling/network requirements, access terms, service levels, operating responsibility, portability and recovery arrangements.",
+      "purpose": "The aim is Australian and locally governed computing and hosting capacity for personal, community, civic and productive workloads.",
+      "redlandsAdaptation": "A Redlands compute and service design would set out the investment case for participating institutions, businesses, communities and regional partners. It would specify workloads, processing and storage needs, power, cooling and network requirements, access terms, service levels, operating responsibility, portability and recovery arrangements.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Convene prospective public users, hosts, providers and regional partners; bring council service requirements into the design and seek appropriate council decisions and external investment through the funding route in 12.",
+      "mayoralCouncilLever": "The mayor could convene prospective public users, hosts, providers and regional partners, bring council service requirements into the design, and seek appropriate council decisions and external investment through the funding route in entry 12.",
       "outside": "Infrastructure owners and providers decide their facilities and service agreements. Power/network owners and external funding or regulatory bodies retain their responsibilities.",
       "partners": "Universities, compute and energy providers, neighbouring councils, community hosts and responsible state/federal agencies.",
-      "conflictBoundary": "Identify any ownership, licence income or paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council.",
+      "conflictBoundary": "Relevant interests include ownership, licence income or a paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council.",
       "projectSources": [
         {
           "title": "Sovereign Capacity Lab",
@@ -3183,10 +3074,6 @@
         {
           "title": "Aura Direct Hardware",
           "url": "https://github.com/auraofintelligence/aura-direct-hardware"
-        },
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
         }
       ],
       "officialSources": [
@@ -3245,21 +3132,17 @@
       "id": "40",
       "theme": "Advocacy and research context",
       "title": "Intergovernmental and international cooperation",
-      "purpose": "Connect Redlands work with reciprocal learning, research and capability exchanges that respect each participant's authority.",
-      "redlandsAdaptation": "Use the diversification, Vuvale, GAJRA and long-term civilisation papers to develop specific invitations for research, teaching, technical knowledge and practical capability exchange. Identify the local project involved, what each party would contribute, information/IP terms and the responsible government or institutional interface.",
+      "purpose": "The aim is to connect Redlands work with reciprocal learning, research and capability exchanges that respect each participant's authority.",
+      "redlandsAdaptation": "The diversification, Vuvale, GAJRA and long-term civilisation papers provide a basis for specific invitations to exchange research, teaching, technical knowledge and practical capability. Each invitation would identify the local project, each party's contribution, information and intellectual-property terms, and the responsible government or institutional interface.",
       "route": "Advocacy and intergovernmental partnership",
-      "mayoralCouncilLever": "Convene appropriate institutional and regional conversations, seek a council-endorsed position where council participation is proposed, and refer national matters through the responsible government channels.",
+      "mayoralCouncilLever": "The mayor could convene appropriate institutional and regional conversations, seek a council-endorsed position where council participation is proposed, and refer national matters through the responsible government channels.",
       "outside": "Other communities, institutions and governments decide their participation. Treaty, immigration, defence, national trade and other national-policy decisions remain with the responsible governments.",
       "partners": "Responsible departments, neighbouring councils, MPs, research institutions, community organisations and businesses.",
-      "conflictBoundary": "Identify any paid research, consulting, travel support, intellectual-property agreement or partner role connected to an exchange that council is considering.",
+      "conflictBoundary": "Relevant interests include paid research, consulting, travel support, an intellectual-property agreement or a partner role connected to an exchange that council is considering.",
       "projectSources": [
         {
           "title": "A Fair Go in the Age of Intelligence",
           "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes"
-        },
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
         },
         {
           "title": "AUKUS Space Gambit",
@@ -3321,19 +3204,15 @@
     {
       "id": "41",
       "theme": "Personal Genesis and leadership",
-      "title": "Your voluntary P4A leadership practice and radical honesty",
-      "purpose": "Put your P4A principles into practice through the higher personal standard of radical honesty you choose for yourself in office.",
-      "redlandsAdaptation": "Set out the higher personal standard you choose for yourself in office and how your voluntary Genesis experience can inform reflection, corrections, chosen disclosure and conduct. Use your P4A principles and creative work to explain that example in your own terms.",
+      "title": "Luke's voluntary P4A leadership practice and radical honesty",
+      "purpose": "Luke proposes to put his P4A principles into practice through the higher personal standard of radical honesty he chooses for himself in office.",
+      "redlandsAdaptation": "Luke's proposed leadership practice would explain the higher personal standard he chooses for himself in office and how his voluntary Genesis experience could inform reflection, corrections, chosen disclosure and conduct. His P4A principles and creative work provide context for that example, expressed in his own terms.",
       "route": "Voluntary P4A leadership practice and radical honesty",
-      "mayoralCouncilLever": "Lead by your own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.",
+      "mayoralCouncilLever": "As a council member, Luke could lead through his own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.",
       "outside": "Participation and personal disclosure are individual choices. Electoral eligibility and formal council disclosures follow their own legal processes.",
       "partners": "People choosing the conversation, P4A collaborators, mentors and civic-learning partners.",
-      "conflictBoundary": "Your personal P4A and Genesis practice is relevant if council funds programme support, facilities or services for your participation.",
+      "conflictBoundary": "Luke's personal P4A and Genesis practice would be relevant to any council funding of programme support, facilities or services for his participation.",
       "projectSources": [
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
-        },
         {
           "title": "Aura Genesis",
           "url": "https://github.com/auraofintelligence/aura-genesis"
@@ -3364,7 +3243,7 @@
       "connections": [
         {
           "id": "14",
-          "relationship": "Your optional personal Genesis journey can inform this leadership practice."
+          "relationship": "Luke's optional personal Genesis journey can inform this leadership practice."
         },
         {
           "id": "20",
@@ -3376,10 +3255,10 @@
         },
         {
           "id": "47",
-          "relationship": "Personal record control supports your choices about private reflection and public expression."
+          "relationship": "Personal record control supports Luke's choices about private reflection and public expression."
         }
       ],
-      "leadershipExample": "You would undertake Genesis voluntarily as a sitting council member, building on the self-examination you have already done. The aim is to demonstrate honesty through your own practice, chosen disclosure, corrections and conduct. You set a higher standard for yourself than you would expect of others; participation remains a personal choice.",
+      "leadershipExample": "If serving as a council member, Luke would undertake Genesis voluntarily, building on his existing self-examination. His aim is to demonstrate honesty through his own practice, chosen disclosure, corrections and conduct. He chooses a higher standard for himself than he would expect of others; participation remains a personal choice.",
       "musicConnections": [
         {
           "title": "The Purple Mat That Could",
@@ -3407,13 +3286,13 @@
       "id": "42",
       "theme": "Learning, work and leadership",
       "title": "Aura teacher development",
-      "purpose": "Develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.",
-      "redlandsAdaptation": "Offer the Aura Teacher Training course as its own flexible learning pathway, with chosen projects, teach-back, useful artefacts and portable portfolios. Connect it with community teaching, C-hour activities and the civic workforce.",
+      "purpose": "The aim is to develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.",
+      "redlandsAdaptation": "Aura Teacher Training would be a flexible learning pathway with chosen projects, teach-back, useful artefacts and portable portfolios. It would connect with community teaching, C-hour activities and the civic workforce while retaining its own pathway.",
       "route": "Aura teacher development",
-      "mayoralCouncilLever": "Convene education and community hosts; ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.",
+      "mayoralCouncilLever": "The mayor could convene education and community hosts, ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.",
       "outside": "Learners choose their pacing and projects. Education providers and employers make their own teaching, qualification and workforce decisions.",
       "partners": "Libraries, community educators, education providers, businesses, mentors, 500 Queens participants and neighbouring councils.",
-      "conflictBoundary": "Your teacher-development materials, training services or IP are relevant if council funds delivery, licences resources or commissions training involving you.",
+      "conflictBoundary": "Luke's teacher-development materials, training services or intellectual property would be relevant to any council funding, resource licence or training commission involving him.",
       "projectSources": [
         {
           "title": "Aura Teacher Training",
@@ -3486,13 +3365,13 @@
       "id": "43",
       "theme": "Health, care and inclusion",
       "title": "Healthy ageing, HBOT and longevity research",
-      "purpose": "Bring healthy-ageing, reablement and longevity questions into a Redlands network of residents, care providers and researchers.",
-      "redlandsAdaptation": "Develop a shared research agenda around daily function, cognition, quality of life and longevity. Examine HBOT and other therapies on their own terms and in proposed combinations with personal Aura, meaningful activity and participant context.",
+      "purpose": "The aim is a Redlands network of residents, care providers and researchers working on healthy ageing, reablement and longevity questions.",
+      "redlandsAdaptation": "A shared research agenda would address daily function, cognition, quality of life and longevity. HBOT and other therapies would be examined on their own terms and in proposed combinations with personal Aura, meaningful activity and participant context.",
       "route": "Healthy ageing, HBOT and longevity research",
-      "mayoralCouncilLever": "Connect this work with council age-friendly planning, convene willing care and research partners, and seek state, federal, institutional and business support for the shared public purposes.",
+      "mayoralCouncilLever": "The mayor could connect this work with council age-friendly planning, convene willing care and research partners, and seek state, federal, institutional and business support for the shared public purposes.",
       "outside": "Clinical services and studies sit with the responsible providers and research institutions. Individual participation and care choices remain personal.",
       "partners": "Older residents and carers, Elders’ organisations, care providers, clinicians, universities, research institutions and government funding partners.",
-      "conflictBoundary": "Your HBOT equipment, research role or provider interest is relevant if council funds a study, supports access or selects a study partner involving you.",
+      "conflictBoundary": "Luke's HBOT equipment, research role or provider interest would be relevant to any council funding of a study, support for access or selection of a study partner involving him.",
       "projectSources": [
         {
           "title": "Aura Genesis Protocol",
@@ -3521,7 +3400,7 @@
       "connections": [
         {
           "id": "14",
-          "relationship": "Your personal Genesis journey is a distinct personal activity connected to the wider interests."
+          "relationship": "Luke's personal Genesis journey is a distinct personal activity connected to the wider interests."
         },
         {
           "id": "48",
@@ -3544,19 +3423,19 @@
           "relationship": "Participant-controlled records can support chosen research information flows."
         }
       ],
-      "researchRationale": "HBOT has established clinical uses, including selected wounds and radiation-related injury. Increased oxygen dissolved in plasma provides a physiological basis for investigating further applications. The wider Genesis and longevity research questions include how HBOT, personal Aura, reflection, meaningful activity, expectation and other therapies contribute separately or together. Compare outcomes over time and across appropriate study groups, retaining the distinction between established indications, mechanisms and outcomes being investigated."
+      "researchRationale": "HBOT has established clinical uses, including selected wounds and radiation-related injury. Increased oxygen dissolved in plasma provides a physiological basis for investigating further applications. The wider Genesis and longevity research questions include how HBOT, personal Aura, reflection, meaningful activity, expectation and other therapies contribute separately or together. Research would compare outcomes over time and across appropriate study groups, retaining the distinction between established indications, mechanisms and outcomes being investigated."
     },
     {
       "id": "44",
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Redlands sovereign capacity for the age of superintelligence",
-      "purpose": "Build a shared Redlands direction for locally governed intelligence, productive capability and public benefit.",
-      "redlandsAdaptation": "Develop the Redlands sovereign-capacity agenda with councillors, neighbouring councils, state/federal government, businesses, educators and community organisations. Define shared public purposes, how the independent projects connect, the responsibilities of each participant and the agreements or investments sought.",
+      "purpose": "The aim is a shared Redlands direction for locally governed intelligence, productive capability and public benefit.",
+      "redlandsAdaptation": "The Redlands sovereign-capacity agenda would be developed with councillors, neighbouring councils, state and federal government, businesses, educators and community organisations. It would define shared public purposes, the connections between independent projects, each participant's responsibilities, and the agreements or investments sought.",
       "route": "Council, regional, national and business partnership",
-      "mayoralCouncilLever": "Use the mayoral role to convene the strategic conversation, build support for relevant council policy and partnerships, and represent an authorised Redlands position with other governments and institutions.",
+      "mayoralCouncilLever": "The mayor could convene the strategic conversation, build support for relevant council policy and partnerships, and represent an authorised Redlands position with other governments and institutions.",
       "outside": "Council governs its own services, assets, plans and spending. National industrial, energy, mining, research, trade and security policy involves other governments; grids, manufacturers, landowners and independent organisations make their own commitments.",
       "partners": "Redland councillors and staff, neighbouring councils, state/federal departments and MPs, universities, manufacturers, energy/service owners, local businesses, community organisations and relevant cultural custodians.",
-      "conflictBoundary": "Identify any proposed governing role, asset interest or named funding allocation for you or an associated organisation within the shared capacity agreements.",
+      "conflictBoundary": "Relevant interests include a proposed governing role, asset interest or named funding allocation for Luke or an associated organisation within the shared capacity agreements.",
       "projectSources": [
         {
           "title": "Sovereign Capacity Lab",
@@ -3577,14 +3456,6 @@
         {
           "title": "Joyful Responsible Abundance",
           "url": "https://github.com/auraofintelligence/joyful-responsible-abundance"
-        },
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
-        },
-        {
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth"
         }
       ],
       "officialSources": [
@@ -3660,21 +3531,21 @@
           "relationship": "Housing and servicing application"
         }
       ],
-      "strategicPurpose": "Treat the 2027/2028 superintelligence horizon as a reason to build local capability with urgency. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The Redlands response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.",
-      "firstPrinciples": "Start from the useful work people need, then trace the equipment, people, energy and materials required to deliver it. Keep physical production, working equipment, available infrastructure, finance, ownership and public outcomes as separate accounts.",
+      "strategicPurpose": "The agenda responds to the 2027/2028 superintelligence horizon with urgency to build local capability. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The proposed Redlands response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.",
+      "firstPrinciples": "Useful work people need provides the starting point, followed by the equipment, people, energy and materials required to deliver it. Physical production, working equipment, available infrastructure, finance, ownership and public outcomes would have separate accounts.",
       "localApplications": "Shared capacity can support household bill and legal tools, personal Aura and Verse Box, tourism, C-hour activity, the civic workforce, food growing, care, public simulations, repair, infrastructure and disaster resilience."
     },
     {
       "id": "45",
       "theme": "Infrastructure, energy and coasts",
       "title": "Geode hardware and experience environments",
-      "purpose": "Develop the physical environments and interfaces supporting Genesis, personal Aura and immersive learning.",
-      "redlandsAdaptation": "Develop the Geode hardware paths, including integration with seated HBOT, mineral/geopolymer design, crystalline environments and their connections to compute, sensing and accessible interfaces. Keep each hardware path open to its own collaborators and design decisions.",
+      "purpose": "The aim is physical environments and interfaces supporting Genesis, personal Aura and immersive learning.",
+      "redlandsAdaptation": "The Geode hardware paths include integration with seated HBOT, mineral and geopolymer design, crystalline environments, and connections to compute, sensing and accessible interfaces. Each hardware path would remain open to its own collaborators and design decisions.",
       "route": "Geode hardware and experience environments",
-      "mayoralCouncilLever": "Convene manufacturers, researchers and education partners; connect relevant local skills, making, economic-development and funding opportunities through council’s normal processes.",
+      "mayoralCouncilLever": "The mayor could convene manufacturers, researchers and education partners, and connect relevant local skills, making, economic-development and funding opportunities through council's normal processes.",
       "outside": "Design, manufacture, equipment operation and any required approvals sit with the responsible specialists, providers and regulators.",
       "partners": "Manufacturers, chamber and interface providers, materials researchers, engineers, makers, universities and accessibility specialists.",
-      "conflictBoundary": "Your Geode designs, hardware, software or supplier role are relevant if council commissions prototypes, purchases equipment or funds development involving you.",
+      "conflictBoundary": "Luke's Geode designs, hardware, software or supplier role would be relevant to any council prototype commission, equipment purchase or development funding involving him.",
       "projectSources": [
         {
           "title": "Aura Genesis Protocol",
@@ -3733,13 +3604,13 @@
       "id": "46",
       "theme": "Health, care and inclusion",
       "title": "Care, learning and research site partnerships",
-      "purpose": "Develop willing places for care, learning, personal intelligence and longevity work across Redlands.",
-      "redlandsAdaptation": "Pursue distinct host and property conversations, including the 82 Claytons Road invitation and other suitable mainland or island settings. Agree which services each site would host, who operates them, access arrangements, ownership and ongoing responsibilities.",
+      "purpose": "The aim is willing places across Redlands for care, learning, personal intelligence and longevity work.",
+      "redlandsAdaptation": "Distinct host and property conversations would include the 82 Claytons Road invitation and other suitable mainland or island settings. Each site agreement would identify the services hosted, operators, access arrangements, ownership and ongoing responsibilities.",
       "route": "Care, learning and research site partnerships",
-      "mayoralCouncilLever": "Bring landowners, care providers, community organisations, businesses and funding bodies together; council can consider its relevant planning, community, access and partnership roles.",
+      "mayoralCouncilLever": "The mayor could bring landowners, care providers, community organisations, businesses and funding bodies together. Council could consider its relevant planning, community, access and partnership roles.",
       "outside": "Property owners decide what they offer. Hosts and providers decide their services, operations and agreements. Each location has its own decision route.",
       "partners": "Anglican Church Southern Queensland/Anglicare as possible conversation partners, other willing landowners, care providers, Elders’ organisations, community hosts and research/education partners.",
-      "conflictBoundary": "Your property, lease, host role or organisation interest is relevant if council funds a site, provides premises or enters a hosting agreement involving you.",
+      "conflictBoundary": "Luke's property, lease, host role or organisation interest would be relevant to any council site funding, provision of premises or hosting agreement involving him.",
       "projectSources": [
         {
           "title": "82 Claytons Road: A Gift for Generations",
@@ -3802,13 +3673,13 @@
       "id": "47",
       "theme": "AI capability and accountable council",
       "title": "Personal Aura, data sovereignty and protection from profiling",
-      "purpose": "Give people practical control over their own personal intelligence and representations as a foundation for Australian and locally governed capability.",
-      "redlandsAdaptation": "Develop everyday personal Aura access, with Verse Box as a public introduction and Genesis as an optional deeper pathway. Build ways for people to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. Apply this shared capability through the separately described care, tourism, contribution, workforce and resilience programmes.",
+      "purpose": "The aim is practical control for people over their own personal intelligence and representations, as a foundation for Australian and locally governed capability.",
+      "redlandsAdaptation": "Everyday personal Aura access would include Verse Box as a public introduction and Genesis as an optional deeper pathway. People would be able to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. This shared capability would support the separately described care, tourism, contribution, workforce and resilience programmes.",
       "route": "Personal Aura, data sovereignty and protection from profiling",
-      "mayoralCouncilLever": "Seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Connect public learning and access with regional and national capability work.",
+      "mayoralCouncilLever": "The mayor could seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Public learning and access could connect with regional and national capability work.",
       "outside": "Personal choices and archives remain with the person and their chosen arrangements. National privacy, competition, employment and AI settings involve the responsible governments; infrastructure and node operations have their own owners and agreements.",
       "partners": "Residents, community hosts, local technology and compute providers, education partners, researchers, businesses, neighbouring councils and responsible state/federal agencies.",
-      "conflictBoundary": "Your Aura software, hosting or support services are relevant if council purchases a licence, commissions development or funds delivery involving you.",
+      "conflictBoundary": "Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him.",
       "projectSources": [
         {
           "title": "Aura Genesis Protocol",
@@ -3825,10 +3696,6 @@
         {
           "title": "Sovereign Capacity Lab",
           "url": "https://github.com/auraofintelligence/sovereign-capacity-lab"
-        },
-        {
-          "title": "P4Australia - People's Purple Protopian Party proposal",
-          "url": "https://github.com/auraofintelligence/P4Australia"
         }
       ],
       "officialSources": [
@@ -3914,13 +3781,13 @@
       "id": "48",
       "theme": "Health, care and inclusion",
       "title": "Aura dementia and carer-support research",
-      "purpose": "Develop personal-Aura tools supporting identity, familiar memories, daily choices and relationships for people with dementia and their carers.",
-      "redlandsAdaptation": "Pursue the clinical research path for Aura of Dementia with willing people, carers and care/research partners. Develop person-centred records, familiar music and images, reminders and supported choices, with research on usability, quality of life, function and carer outcomes.",
+      "purpose": "The aim is personal-Aura tools supporting identity, familiar memories, daily choices and relationships for people with dementia and their carers.",
+      "redlandsAdaptation": "The clinical research path for Aura of Dementia would involve willing people, carers and care and research partners. It would develop person-centred records, familiar music and images, reminders and supported choices, alongside research on usability, quality of life, function and carer outcomes.",
       "route": "Aura dementia and carer-support research",
-      "mayoralCouncilLever": "Convene local care and community partners, connect accessible public learning and age-friendly work, and support a funding conversation with the responsible governments and institutions.",
+      "mayoralCouncilLever": "The mayor could convene local care and community partners, connect accessible public learning and age-friendly work, and support a funding conversation with the responsible governments and institutions.",
       "outside": "Care delivery, clinical research, consent arrangements and health information remain with the responsible participants, providers and research bodies.",
       "partners": "People with dementia, carers, aged-care and home-care providers, clinicians, researchers, community organisations and suitable technology partners.",
-      "conflictBoundary": "Your dementia-support software, research role or provider interest is relevant if council funds a study, licences software or selects a research partner involving you.",
+      "conflictBoundary": "Luke's dementia-support software, research role or provider interest would be relevant to any council study funding, software licence or selection of a research partner involving him.",
       "projectSources": [
         {
           "title": "Aura Dementia - concept and research pathway",
@@ -3966,13 +3833,13 @@
       "id": "49",
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Redlands Aura civic establishments and shared places",
-      "purpose": "Develop Redlands shared civic places where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.",
-      "redlandsAdaptation": "Adapt the civic-establishment architecture to willing mainland and island hosts. Develop location-specific arrangements for rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.",
+      "purpose": "The aim is shared civic places across Redlands where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.",
+      "redlandsAdaptation": "The civic-establishment architecture would be adapted with willing mainland and island hosts. Location-specific arrangements would cover rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.",
       "route": "Council, regional, national and business partnership",
-      "mayoralCouncilLever": "Convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional/state/federal participation. Council considers any particular asset, lease, grant or service arrangement through its own process.",
+      "mayoralCouncilLever": "The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.",
       "outside": "Landowners and operators decide use and terms. Each community and cultural authority determines its participation and permissions. Identity/access arrangements, including any KYC proposal, must be designed for the actual service and lawful purpose.",
       "partners": "Residents, Traditional Owners and cultural organisations, community hosts, libraries, educators, 500 Queens mentors/participants, businesses, co-operative participants, care and research partners, and neighbouring councils.",
-      "conflictBoundary": "Identify any interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.",
+      "conflictBoundary": "Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.",
       "projectSources": [
         {
           "title": "Aura Civic Establishment",
@@ -4095,13 +3962,13 @@
       "id": "50",
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Power, materials and circular capacity for Redlands",
-      "purpose": "Coordinate physical capacity and circular resource requirements across Redlands intelligence, productive infrastructure and essential-service projects.",
-      "redlandsAdaptation": "Use the first-principles ledger to connect workloads and service needs with equipment, electricity, cooling, water, networks, materials, parts, replacement and recovery. Work with service owners and suppliers to identify quantities, delivery stages, responsible parties and opportunities for additional capacity and reuse.",
+      "purpose": "The aim is coordination of physical capacity and circular resource requirements across Redlands intelligence, productive infrastructure and essential-service projects.",
+      "redlandsAdaptation": "The first-principles ledger connects workloads and service needs with equipment, electricity, cooling, water, networks, materials, parts, replacement and recovery. Service owners and suppliers could use it to identify quantities, delivery stages, responsible parties and opportunities for additional capacity and reuse.",
       "route": "Council, regional, national and business partnership",
       "mayoralCouncilLever": "Council can examine its own facilities, waste/resource recovery, water/services, infrastructure planning and procurement, and convene utilities, industry, researchers and other governments around the wider requirements.",
       "outside": "Electricity networks, generation, major mineral extraction/refining, industrial capacity and relevant environmental approvals involve responsible operators and state/federal authorities. Each local use still needs the appropriate land, service and operating arrangements.",
       "partners": "Council asset, water and waste teams, energy/network providers, material processors, repair/reuse businesses, engineers, researchers, landholders and state/federal infrastructure partners.",
-      "conflictBoundary": "Identify any supplier, asset or financial interest in the energy, materials, equipment, maintenance or recovery arrangements recorded in the resource plan.",
+      "conflictBoundary": "Relevant interests include a supplier, asset or financial interest in the energy, materials, equipment, maintenance or recovery arrangements recorded in the resource plan.",
       "projectSources": [
         {
           "title": "Sovereign Capacity Lab",
@@ -4189,19 +4056,19 @@
           "relationship": "Node resource requirements"
         }
       ],
-      "firstPrinciples": "Trace finished equipment into net factory feed, manufacturing yield, recycled and primary supply, then ore grade and recovery. Distinguish power rating, annual energy and dependable timed delivery, with storage duration/losses, network connections and actual commissioning recorded separately. Preserve electricity needed for clean-energy transition and essential development; show additional demand explicitly. Count full operating life, repair and recovery rather than purchase mass alone."
+      "firstPrinciples": "Resource accounts trace finished equipment into net factory feed, manufacturing yield, recycled and primary supply, then ore grade and recovery. They distinguish power rating, annual energy and dependable timed delivery, with storage duration and losses, network connections and actual commissioning recorded separately. The approach preserves electricity needed for the clean-energy transition and essential development, with additional demand shown explicitly. It counts the full operating life, repair and recovery rather than purchase mass alone."
     },
     {
       "id": "51",
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Australian manufacturing, civic robotics and independent repair",
-      "purpose": "Connect Redlands public-service and business needs with Australian design, manufacture, supply, maintenance and ownership of useful machines and tools for domestic use and export.",
-      "redlandsAdaptation": "Develop a Redlands demand and industry-partnership brief for useful equipment in water/stormwater, inspections, solar and land care, food growing, public-space maintenance, materials handling and emergency logistics. Connect willing businesses, workshops, manufacturers, training providers and regional partners to design, supply, adapt, repair and service the appropriate tools. Pursue participation in exports of machines, components, repair modules and service knowledge on terms that preserve the buyer’s authority.",
+      "purpose": "The aim is to connect Redlands public-service and business needs with Australian design, manufacture, supply, maintenance and ownership of useful machines and tools for domestic use and export.",
+      "redlandsAdaptation": "A Redlands demand and industry-partnership brief would cover useful equipment for water and stormwater, inspections, solar and land care, food growing, public-space maintenance, materials handling and emergency logistics. It would connect willing businesses, workshops, manufacturers, training providers and regional partners to design, supply, adapt, repair and service the appropriate tools. The proposal includes participation in exports of machines, components, repair modules and service knowledge on terms that preserve the buyer's authority.",
       "route": "Council, regional, national and business partnership",
       "mayoralCouncilLever": "Council can articulate public-service needs, convene industry and workforce partners, support local capability and undertake authorised procurement or partnerships. Neighbouring councils can choose to collaborate on demand, skills, service infrastructure and proposals to state/federal government.",
       "outside": "Manufacturers and customers decide commercial production and sales. State/federal industry, trade and infrastructure settings and relevant safety authorities retain their responsibilities. National factory or export scenarios in the manuscript are distinct from Redlands orders or local production commitments.",
       "partners": "Manufacturers and component suppliers, independent repairers, makers, employers and unions, education/training providers, researchers, service owners, neighbouring councils and state/federal industry and investment partners.",
-      "conflictBoundary": "Identify any ownership, intellectual-property income or paid role in a manufacturer, equipment supplier or repair contract connected to a council decision.",
+      "conflictBoundary": "Relevant interests include ownership, intellectual-property income or a paid role in a manufacturer, equipment supplier or repair contract connected to a council decision.",
       "projectSources": [
         {
           "title": "Sovereign Capacity Lab",
@@ -4222,10 +4089,6 @@
         {
           "title": "Luke’s World of Work",
           "url": "https://github.com/auraofintelligence/Lukes-world-of-work-experience"
-        },
-        {
-          "title": "GAJRA Earth - earlier public concept site",
-          "url": "https://github.com/auraofintelligence/GAJRA-earth"
         }
       ],
       "officialSources": [
@@ -4297,19 +4160,19 @@
           "relationship": "Games-related industry and lasting service capability"
         }
       ],
-      "firstPrinciples": "Distinguish annual manufacture from the working fleet after retirements, and production ceilings from demand. Plan components, factories, commissioning, skills, qualified buyers and local service support together. Keep capital costs, production working capital, sales and profit distinct. Preserve documented interfaces, repair access, owner-held control, software continuity and safe isolation/disconnection."
+      "firstPrinciples": "Planning distinguishes annual manufacture from the working fleet after retirements, and production ceilings from demand. It brings components, factories, commissioning, skills, qualified buyers and local service support together. Accounts keep capital costs, production working capital, sales and profit distinct. Documented interfaces, repair access, owner-held control, software continuity and safe isolation or disconnection are design requirements."
     },
     {
       "id": "52",
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Cultural intelligence nodes and locally governed federation",
-      "purpose": "Establish locally governed cultural intelligence operations and voluntary exchanges between nodes, retaining each place's identity and authority.",
-      "redlandsAdaptation": "Develop node operating arrangements around local workloads, personal/community memory, cultural custody, permissions, model/tool services, paid technical operation, teaching and maintenance. Connect the compute, power/cooling and network provision in 39 with any chosen host arrangements in 49. Agree selected exchanges among nodes while participants retain their keys, identities and decisions.",
+      "purpose": "The aim is locally governed cultural intelligence operations and voluntary exchanges between nodes, retaining each place's identity and authority.",
+      "redlandsAdaptation": "Node operating arrangements would cover local workloads, personal and community memory, cultural custody, permissions, model and tool services, paid technical operation, teaching and maintenance. The compute, power, cooling and network provision in entry 39 would connect with any chosen host arrangements in entry 49. Nodes could agree selected exchanges while participants retain their keys, identities and decisions.",
       "route": "Council, regional, national and business partnership",
-      "mayoralCouncilLever": "Bring willing hosts, cultural custodians, technical operators, educators and business partners together. Seek council support for the public functions and state/federal or regional investment in the infrastructure and operating capability.",
+      "mayoralCouncilLever": "The mayor could bring willing hosts, cultural custodians, technical operators, educators and business partners together, and seek council support for public functions alongside state, federal or regional investment in infrastructure and operating capability.",
       "outside": "Technical operation and cultural permission are distinct responsibilities. Each participating person, organisation and place decides what may be viewed, stored, transcribed, modelled, shared or published within the law. Infrastructure owners, service operators and funding bodies make their own agreements.",
       "partners": "Local communities and cultural custodians, Quandamooka organisations where they choose to participate, compute/network/energy providers, paid technical operators, educators, co-operative participants, researchers, businesses and neighbouring councils.",
-      "conflictBoundary": "Identify any interest in a node operator, hosting agreement, licensed technology, paid technical role or data-service contract proposed for council support.",
+      "conflictBoundary": "Relevant interests include an interest in a node operator, hosting agreement, licensed technology, paid technical role or data-service contract proposed for council support.",
       "projectSources": [
         {
           "title": "Ready SET Co-op Cultural Intelligence Node",
@@ -4405,7 +4268,7 @@
           "relationship": "Technical capacity for an optional Genesis pathway"
         }
       ],
-      "firstPrinciples": "Match compute, storage, power, cooling, networks, security, skilled operation and continuity to the work the node serves. Personal Aura, cultural knowledge, creative media, public simulations, robotics and research have different permissions and workloads. Local authority and voluntary federation are design requirements; paid technical work and C-hour recognition retain separate accounts."
+      "firstPrinciples": "Node design matches compute, storage, power, cooling, networks, security, skilled operation and continuity to the work it serves. Personal Aura, cultural knowledge, creative media, public simulations, robotics and research have different permissions and workloads. Local authority and voluntary federation are design requirements; paid technical work and C-hour recognition retain separate accounts."
     }
   ],
   "overlapGuide": [
@@ -4420,7 +4283,7 @@
         "51",
         "35"
       ],
-      "explanation": "44 connects the overall direction. 39 supplies compute and hosting. 49 concerns the shared physical civic place. 52 concerns the cultural intelligence node, its work, local authority and voluntary federation. 50 accounts for power and materials across projects; 35 pursues energy projects; 51 develops machines, manufacturing and repair capability."
+      "explanation": "The sovereign-capacity proposal brings together the overall direction for Redlands. Computing and hosting, shared civic places, and locally governed cultural intelligence nodes each have their own purpose. Power and material accounts, energy projects, manufacturing and repair provide distinct parts of the physical capability behind them."
     },
     {
       "title": "Council adoption, public simulations and personal data",
@@ -4431,7 +4294,7 @@
         "47",
         "52"
       ],
-      "explanation": "04 covers council adoption of AI; 06 covers completing council interactions; 07 covers public datasets and simulations. 47 gives the person control over their own Aura and data. 52 governs cultural and community knowledge at the node. Sharing infrastructure does not merge those permissions."
+      "explanation": "Council’s use of AI, simpler council interactions and public data simulations address different civic needs. Personal Aura concerns each person’s control of their intelligence and data; cultural intelligence nodes concern the authority of communities over their knowledge. Shared infrastructure would retain these separate permissions."
     },
     {
       "title": "Everyday skills, teaching, work and leadership",
@@ -4442,7 +4305,7 @@
         "20",
         "41"
       ],
-      "explanation": "05 is everyday AI and data learning. 42 develops teachers and facilitators. 18 connects people with real work experiences. 20 builds women’s leadership and human mentoring connections. 41 records Luke’s voluntary leadership practice."
+      "explanation": "Everyday AI and data learning, teacher development and Try Everything work experiences offer different ways to build skills. Women’s leadership and human mentoring extend those connections. Luke’s voluntary leadership practice concerns his own standards and conduct."
     },
     {
       "title": "Contribution, reciprocity and delivery organisations",
@@ -4454,7 +4317,7 @@
         "11",
         "12"
       ],
-      "explanation": "08 handles the voluntary contribution journey and its record. 09 lets communities choose recognition and reciprocal opportunities. 10 is a possible co-operative delivery structure; 13 is the GAJRA network. 11 supports applications and acquittals; 12 seeks government funding and policy support."
+      "explanation": "C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready SET Co-op and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy."
     },
     {
       "title": "Genesis, public access, personal Aura and Geode",
@@ -4465,7 +4328,7 @@
         "47",
         "45"
       ],
-      "explanation": "14 concerns Luke’s personal HBOT purchase and optional Genesis journey. 41 concerns how he applies his chosen standards while serving. 25 supplies public Verse Box stations and supported sessions; 47 concerns person-controlled intelligence and data; 45 concerns the Geode equipment and experience environment."
+      "explanation": "Luke’s personal HBOT purchase and optional Genesis journey are distinct from public Verse Box access. His voluntary leadership practice concerns how he applies his chosen standards while serving. Person-controlled Aura and data, and the Geode equipment and experience environment, each retain their own scope."
     },
     {
       "title": "Everyday care, shared access and separate research paths",
@@ -4476,7 +4339,7 @@
         "48",
         "46"
       ],
-      "explanation": "16 is everyday support and care coordination. 15 concerns shared access and ownership arrangements. 43 holds the healthy-ageing, HBOT and longevity research questions; 48 holds the dementia software and carer-support research path. 46 concerns particular site and host partnerships."
+      "explanation": "Everyday support and carer coordination address daily continuity. Co-operative access concerns shared ownership and use of tools. Healthy-ageing, HBOT and longevity research, dementia software and carer-support research, and particular site partnerships each have their own responsibilities and research questions."
     },
     {
       "title": "Activities, neighbourhood venues and civic establishments",
@@ -4488,7 +4351,7 @@
         "49",
         "46"
       ],
-      "explanation": "17 supports youth learning and continuity; 19 supplies the collaborative escape-room format; 26 supports creative participation. 38 concerns neighbourhood clubs and venue use, 49 the civic establishment model, and 46 particular care, learning and research sites. One place can host several independent activities."
+      "explanation": "Youth learning, collaborative escape rooms and creative participation are different activities. Neighbourhood venues, civic establishments and particular care, learning and research sites could host activities suited to their purpose. Several independent activities could use one place."
     },
     {
       "title": "Everyday publishing, resilient access and disaster coordination",
@@ -4497,7 +4360,7 @@
         "28",
         "29"
       ],
-      "explanation": "27 publishes and moderates everyday local information. 28 supplies resilient access equipment and information during disruption. 29 coordinates preparedness, exercises and recovery handovers. Shared content has different publishing, equipment and operational responsibilities."
+      "explanation": "Everyday local publishing, resilient information access during disruption, and preparedness and recovery coordination have different roles. Shared content would retain clear publishing, equipment and operational responsibilities."
     },
     {
       "title": "Household savings, rules and council transactions",
@@ -4507,21 +4370,21 @@
         "03",
         "06"
       ],
-      "explanation": "01 checks charges, offers and concessions. 02 explains applicable rules and routes to help. 03 applies those capabilities to body corporate schemes. 06 helps people complete and track council interactions."
+      "explanation": "Household bill checks address charges, offers and concessions. The legal information navigator explains applicable rules and routes to help; the body corporate navigator applies those capabilities to particular schemes. Council service improvements address completing and tracking council interactions."
     },
     {
       "title": "Food growing and sharing",
       "options": [
         "22"
       ],
-      "explanation": "22 adapts the Shared Table food-resilience and growing work for Redlands households and willing hosts."
+      "explanation": "Dig for Redlands adapts Shared Table’s food-resilience and growing work for households and willing hosts across Redlands."
     },
     {
       "title": "Bee resilience and independent wildlife initiatives",
       "options": [
         "37"
       ],
-      "explanation": "37 concerns the locally led bee-resilience lab and independently run wildlife and habitat initiatives, each with its own scope and participants."
+      "explanation": "The locally led bee-resilience lab and independent wildlife and habitat initiatives each retain their own scope and participants."
     },
     {
       "title": "Reuse, workshops and manufacturing",
@@ -4531,7 +4394,7 @@
         "51",
         "50"
       ],
-      "explanation": "23 recovers and redistributes useful goods; 24 supplies shared practical tools and learning; 51 concerns manufacturing and the independent repair industry. 50 connects material requirements and circular flows across these activities."
+      "explanation": "Tip Loop concerns recovering and redistributing useful goods. Makerspaces provide shared practical tools and learning. Manufacturing and independent repair concern productive capability and equipment continuity, supported by accounts of material requirements and circular flows."
     },
     {
       "title": "Housing, road tunnels, island services and material reuse",
@@ -4542,7 +4405,7 @@
         "34",
         "07"
       ],
-      "explanation": "30 concerns residential housing and servicing pathways. 32 concerns Minjerribah underground roads. 33 concerns utility alignments on individual SMBI islands without joining them. 34 separately considers excavated material and reuse destinations. 07 can supply public information and simulations for proposals."
+      "explanation": "Temporary housing and servicing pathways, Minjerribah underground roads, utility alignments on individual Southern Moreton Bay Islands, and excavated-material reuse are separate proposals. The island-services proposal does not join the islands. Public information and simulations could help residents examine the different proposals."
     },
     {
       "title": "Transport, tourism, the Games and wider cooperation",
@@ -4553,21 +4416,21 @@
         "40",
         "13"
       ],
-      "explanation": "31 concerns independent ferry access and Gumpi. 36 concerns tourism, domestic travel, culture and learning. 21 concerns Games participation and enduring local benefit. 40 concerns reciprocal intergovernmental and international knowledge exchanges; 13 can connect the GAJRA network."
+      "explanation": "Independent ferry access and Gumpi scrutiny, tourism and domestic travel, and Games participation address distinct opportunities for Redlands. Reciprocal intergovernmental and international knowledge exchanges could connect wider experience, alongside any links developed through the GAJRA network."
     }
   ],
   "roleContext": [
     {
-      "title": "What the office lets you do",
-      "html": "<p>The mayor chairs council, provides strategic direction to the CEO within the Act, appraises the CEO, participates in standing committees and speaks for council. Council makes collective policy and budget decisions; the CEO manages administration and staff. Mayoral directions cannot override a council resolution or adopted document, direct employee appointment or discipline, or require an unlawful act. <a href=\"#A01\">Current Act, sections 12, 13, 104 and 170</a>; <a href=\"#A02\">Redland roles</a>.</p>\n<table><thead><tr><th>Point of overlap</th><th>Lever available through the role</th></tr></thead><tbody><tr><td>Inside council responsibilities</td><td>Build support for policy, funded programmes, service improvements and council decisions.</td></tr><tr><td>State and federal responsibilities</td><td>Convene, make submissions, seek funding, negotiate partnerships and advocate a council position.</td></tr><tr><td>Neighbouring councils</td><td>Invite joint learning, shared procurement or services where authorised, mentoring and coordinated funding proposals. Each council decides its involvement.</td></tr><tr><td>Businesses and community organisations</td><td>Understand needs, invite ideas, convene partners and establish fair routes to grants, leases or contracts within council powers.</td></tr><tr><td>Your projects and sole-trader business</td><td>Champion the public purpose while keeping any specific related-entity transaction subject to independent assessment and current interest/conflict rules.</td></tr></tbody></table>\n<p>A one-year programme is your planning choice. A by-election fills the existing electoral term; the next quadrennial election is in 2028. <a href=\"#A26\">Election guide</a>.</p>"
+      "title": "What the mayor and council can do",
+      "html": "<p>The mayor chairs council, provides strategic direction to the CEO within the Act, appraises the CEO, participates in standing committees and speaks for council. Council makes collective policy and budget decisions; the CEO manages administration and staff. Mayoral directions cannot override a council resolution or adopted document, direct employee appointment or discipline, or require an unlawful act. <a href=\"#A01\">Current Act, sections 12, 13, 104 and 170</a>; <a href=\"#A02\">Redland roles</a>.</p>\n<table><thead><tr><th>Area of responsibility</th><th>What the mayoral role can contribute</th></tr></thead><tbody><tr><td>Council responsibilities</td><td>Build support for policy, funded programmes, service improvements and collective council decisions.</td></tr><tr><td>State and federal responsibilities</td><td>Bring people together, make submissions, seek funding, negotiate partnerships and advocate an authorised council position.</td></tr><tr><td>Neighbouring councils</td><td>Invite joint learning, authorised shared procurement or services, mentoring and coordinated funding proposals. Each council decides its involvement.</td></tr><tr><td>Businesses and community organisations</td><td>Hear needs and ideas, bring partners together and establish fair routes to grants, leases or contracts within council powers.</td></tr><tr><td>Luke’s projects and Strange But True</td><td>Advance the public purpose while keeping any related transaction subject to independent assessment and the applicable interest and conflict rules.</td></tr></tbody></table>\n<p>Luke is considering what could be advanced within a one-year planning horizon. A by-election fills the existing electoral term; the next quadrennial election is in 2028. <a href=\"#A26\">Election guide</a>.</p>"
     },
     {
-      "title": "Advancing your ideas without mixing the roles",
-      "html": "<p>Authorship of an idea does not by itself decide every conflict question. The assessment is about the actual matter, your interests and whether you may participate under the current law. Financial and non-financial interests both need attention. Disclosure alone does not authorise continued participation. <a href=\"#A01\">Current Act</a>; <a href=\"#A07\">interests guidance</a>.</p><p>Frame the public outcome first: lower household costs, useful skills, resilience or better access. Council can then consider transparent criteria, available approaches and delivery arrangements. If a particular decision could benefit you, Strange But True, your IP or equipment, or an organisation you later establish or join, obtain independent advice and apply the required process before taking part in that matter.</p><p>Keep personal and Strange But True finances, accounts and information distinct from council. General business conversations and public capability support should be separated from a live tender: Redland’s tender instructions direct tenderers away from councillor contact about the tender. <a href=\"#A06\">Tender guidance</a>. Any licence, donation, loan or access to your equipment needs clear terms and independent handling where interests arise.</p><p>For discussions with other governments and businesses, be clear whether you speak personally, for a future organisation if one is formed, or for council under an authorised position.</p>"
+      "title": "Public benefit and independent decisions",
+      "html": "<p>Authorship of an idea does not by itself settle every conflict question. The assessment depends on the actual matter, the officeholder’s financial and non-financial interests, and the current law. Disclosure alone does not authorise continued participation. <a href=\"#A01\">Current Act</a>; <a href=\"#A07\">interests guidance</a>.</p>\n<p>The proposals start with public outcomes such as lower household costs, useful skills, resilience and better access. Council can consider transparent criteria, available approaches and delivery arrangements. A specific decision that could benefit Luke, Strange But True, his intellectual property or equipment, or an organisation he later establishes or joins would require the applicable interest process and independent advice before participation.</p>\n<p>Personal and Strange But True finances, accounts and information would remain separate from council. General business discussions and capability support are distinct from a live tender: Redland’s tender instructions direct tenderers away from councillor contact about the tender. <a href=\"#A06\">Tender guidance</a>. Any licence, donation, loan or access to Luke’s equipment would need clear terms and independent handling where interests arise.</p>\n<p>Discussions with governments and businesses would distinguish Luke’s personal views, the position of any future organisation and an authorised council position.</p>"
     },
     {
-      "title": "The digital overlap",
-      "html": "<p>Your personal AI, community learning, Verse Box, C-hour, public simulation and resilience ideas can connect with council’s service and data responsibilities. Council’s public Digital Transformation Portfolio describes its existing systems work. It identifies existing systems, contracts and service responsibilities to connect with. <a href=\"#A04\">Council programme</a>.</p><p>For the 2027/2028 superintelligence scenario, the mayoral lever is to seek preparation across data, skills, service continuity, procurement, resident access and regional partnerships. The exact arrival date remains uncertain. Your <a href=\"https://auraofintelligence.github.io/sovereign-capacity-lab/index.html\">Sovereign Capacity Lab</a> provides a place to develop the scenarios. International investment intentions and realised spending should be distinguished when quoting figures.</p>"
+      "title": "Digital capability and council services",
+      "html": "<p>Luke’s proposals for personal AI, community learning, Verse Box, C-hours, public simulations and resilience connect with council’s service and data responsibilities. Council’s public Digital Transformation Portfolio identifies existing systems, contracts and service responsibilities that these proposals would need to work with. <a href=\"#A04\">Council programme</a>.</p>\n<p>The possibility of superintelligence emerging in 2027 or 2028 is a reason to prepare across data, skills, service continuity, procurement, resident access and regional partnerships. Its exact arrival date remains uncertain. Luke’s <a href=\"https://auraofintelligence.github.io/sovereign-capacity-lab/index.html\">Sovereign Capacity Lab</a> develops the scenarios behind this work. International investment intentions and realised spending remain separate measures when figures are quoted.</p>"
     }
   ],
   "officialSources": [

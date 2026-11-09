@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Reduce repeat calls, incomplete applications and travel to resolve routine matters.
+Residents could spend less time making repeat calls, correcting incomplete applications or travelling to resolve routine council matters.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Identify high-friction forms with councillors, residents and staff. Trial plain-language guidance, assisted forms, accessible status tracking and a verified council knowledge layer.
+Councillors, residents and staff could identify forms and processes that cause repeated difficulty. Plain-language guidance, assisted forms, accessible status tracking and a verified council knowledge layer could then be trialled.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Use the mayoral role to seek service improvements and a council decision on the desired experience. The CEO manages integration with existing systems.
+The mayor could seek service improvements and a council decision on the experience residents should receive. The CEO would manage integration with existing systems.
 
 ## Other decision-makers
 
 The CEO and responsible officers manage systems and operational decisions within their authority. Integration must account for existing contracts, information access, privacy and records obligations.
 
-## Partners
+## Possible partners
 
 CEO, customer service and digital teams, residents, accessibility users and existing/new providers through the proper process.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-A council purchase, licence or integration involving Luke’s software or Strange But True needs independent assessment and procurement. Resident case information stays within the authorised service workflow.
+Any council purchase, licence or integration involving Luke’s software or Strange But True would require independent assessment and procurement. Resident case information would remain within the authorised service workflow.
 
 ## Project sources
 

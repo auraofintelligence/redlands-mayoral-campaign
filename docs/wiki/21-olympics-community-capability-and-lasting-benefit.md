@@ -4,35 +4,34 @@
 
 ## Purpose
 
-Connect Redlands people and organisations with Brisbane 2032 opportunities and enduring local benefits.
+The proposal aims to connect Redlands people and organisations with Brisbane 2032 opportunities and enduring local benefits.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop the Redlands participation and legacy conversation with the responsible Games/state bodies: accessible visitor information, volunteer and paid-work pathways, local arts and enterprise, and capabilities useful beyond the event. Make the specific Games-related connections visible within the independent projects.
+A Redlands participation and legacy discussion with the responsible Games and state bodies would cover accessible visitor information, volunteer and paid-work pathways, local arts and enterprise, and capabilities useful beyond the event. Each independent project would identify its specific Games-related connections.
 
 ## Decision route
 
 Advocacy and intergovernmental partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Represent a council-endorsed Redlands position in regional and state/Games discussions, connect local organisations with the responsible programme owners, and seek clear local-benefit and access arrangements.
+The mayor could represent a council-endorsed Redlands position in regional, state and Games discussions, connect local organisations with the responsible programme owners, and seek clear local-benefit and access arrangements.
 
 ## Other decision-makers
 
 Games and state programme owners determine their activities, recruitment, branding, procurement and funding. Local partners choose their contributions through the relevant arrangements.
 
-## Partners
+## Possible partners
 
 State/Games programme owners, neighbouring councils, volunteer organisations, tourism businesses and arts/community hosts.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any personal or business interest in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity.
+Any personal or business interest Luke has in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity would need to be identified.
 
 ## Project sources
 
-- [GAJRA Earth - earlier public concept site](https://auraofintelligence.github.io/GAJRA-earth/)
 - [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)
 - [Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)
 

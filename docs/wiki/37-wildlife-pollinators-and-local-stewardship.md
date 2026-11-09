@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Support local bee resilience, wildlife care and ecological learning through the relevant independent organisations.
+The aim is to support local bee resilience, wildlife care and ecological learning through the relevant independent organisations.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Convene local beekeepers, bee people and allies around hive observations, resilience research, learning and the proposed lab pathway. Support wildlife and habitat work through its own existing organisations and separately agreed activities.
+The bee-resilience proposal brings local beekeepers, bee people and allies together around hive observations, resilience research, learning and the proposed lab pathway. Wildlife and habitat work would continue through its own existing organisations and separately agreed activities.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Consider separately proposed support for wildlife and habitat initiatives within council land and programme responsibilities.
+The mayor could bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Council could separately consider proposed support for wildlife and habitat initiatives within its land and programme responsibilities.
 
 ## Other decision-makers
 
 Landholders, wildlife carers, custodians and responsible environmental authorities retain their permissions and specialist functions.
 
-## Partners
+## Possible partners
 
 Local beekeepers, bee people and allies; invited universities and agencies as supporting partners. Wildlife and habitat initiatives have their own licensed carers, custodians, land managers and community participants.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Use transparent criteria for land access, grants and services. Independently handle any specific council benefit to a Luke-related project or organisation.
+The proposal calls for transparent land-access, grant and service criteria, with independent handling of any specific council benefit to a project or organisation associated with Luke.
 
 ## Project sources
 

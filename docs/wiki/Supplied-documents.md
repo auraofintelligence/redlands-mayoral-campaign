@@ -2,7 +2,7 @@
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
-This register preserves the supplied document titles used by the working map. It does not expose local file paths or publish attachments from private storage.
+The titles below identify documents used in developing these proposals.
 
 ## Document 1
 

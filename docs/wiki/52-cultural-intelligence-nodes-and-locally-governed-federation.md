@@ -4,35 +4,35 @@
 
 ## Purpose
 
-Establish locally governed cultural intelligence operations and voluntary exchanges between nodes, retaining each place's identity and authority.
+The aim is locally governed cultural intelligence operations and voluntary exchanges between nodes, retaining each place's identity and authority.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop node operating arrangements around local workloads, personal/community memory, cultural custody, permissions, model/tool services, paid technical operation, teaching and maintenance. Connect the compute, power/cooling and network provision in 39 with any chosen host arrangements in 49. Agree selected exchanges among nodes while participants retain their keys, identities and decisions.
+Node operating arrangements would cover local workloads, personal and community memory, cultural custody, permissions, model and tool services, paid technical operation, teaching and maintenance. The compute, power, cooling and network provision in entry 39 would connect with any chosen host arrangements in entry 49. Nodes could agree selected exchanges while participants retain their keys, identities and decisions.
 
 ## First-principles foundation
 
-Match compute, storage, power, cooling, networks, security, skilled operation and continuity to the work the node serves. Personal Aura, cultural knowledge, creative media, public simulations, robotics and research have different permissions and workloads. Local authority and voluntary federation are design requirements; paid technical work and C-hour recognition retain separate accounts.
+Node design matches compute, storage, power, cooling, networks, security, skilled operation and continuity to the work it serves. Personal Aura, cultural knowledge, creative media, public simulations, robotics and research have different permissions and workloads. Local authority and voluntary federation are design requirements; paid technical work and C-hour recognition retain separate accounts.
 
 ## Decision route
 
 Council, regional, national and business partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring willing hosts, cultural custodians, technical operators, educators and business partners together. Seek council support for the public functions and state/federal or regional investment in the infrastructure and operating capability.
+The mayor could bring willing hosts, cultural custodians, technical operators, educators and business partners together, and seek council support for public functions alongside state, federal or regional investment in infrastructure and operating capability.
 
 ## Other decision-makers
 
 Technical operation and cultural permission are distinct responsibilities. Each participating person, organisation and place decides what may be viewed, stored, transcribed, modelled, shared or published within the law. Infrastructure owners, service operators and funding bodies make their own agreements.
 
-## Partners
+## Possible partners
 
 Local communities and cultural custodians, Quandamooka organisations where they choose to participate, compute/network/energy providers, paid technical operators, educators, co-operative participants, researchers, businesses and neighbouring councils.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any interest in a node operator, hosting agreement, licensed technology, paid technical role or data-service contract proposed for council support.
+Relevant interests include an interest in a node operator, hosting agreement, licensed technology, paid technical role or data-service contract proposed for council support.
 
 ## Project sources
 
@@ -71,4 +71,4 @@ Identify any interest in a node operator, hosting agreement, licensed technology
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Physical host and access
 - [50 Power, materials and circular capacity for Redlands](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/50-power-materials-and-circular-capacity-for-redlands): Physical resource requirements
 - [51 Australian manufacturing, civic robotics and independent repair](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/51-australian-manufacturing-civic-robotics-and-independent-repair): Industry and service knowledge connections
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Technical capacity for an optional Genesis pathway
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Technical capacity for an optional Genesis pathway

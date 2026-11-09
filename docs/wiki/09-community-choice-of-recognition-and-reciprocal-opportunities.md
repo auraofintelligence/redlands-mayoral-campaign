@@ -4,36 +4,35 @@
 
 ## Purpose
 
-Design recognition around actual community preferences and available capacity.
+Communities could shape recognition and reciprocal opportunities around what participants value and what hosts can offer.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Ask what people value: shared meals, skill exchanges, tool access, learning, events and other affordable forms of thanks. Record ideas, delivery costs, donated capacity and access rules before selecting trials.
+Residents and hosts could consider shared meals, skill exchanges, tool access, learning, events and other affordable forms of thanks. Ideas, delivery costs, donated capacity and access rules would be recorded before choosing trials.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene residents, hosts and businesses to hear what forms of recognition they would value or offer, and bring any proposed council contribution to its proper decision process.
+The mayor could bring residents, hosts and businesses together to discuss recognition they would value or offer. Any council contribution would follow its own decision process.
 
 ## Other decision-makers
 
 Hosts, businesses and community organisations decide their own offers and capacity; the treatment of a particular benefit depends on its actual arrangements.
 
-## Partners
+## Possible partners
 
 Participants, community hosts, local businesses, volunteer organisations and relevant legal/tax advisers.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your own tools, equipment or provider role are relevant if council funds a reciprocal offer or selects you to supply it.
+Luke’s tools, equipment or provider role would be identified if council considered funding a reciprocal offer or selecting him to supply it.
 
 ## Project sources
 
 - [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)
-- [GAJRA Earth - earlier public concept site](https://auraofintelligence.github.io/GAJRA-earth/)
 - [Community Club Builder: Sandy Sports](https://auraofintelligence.github.io/community-club-builder-sandy-sports/)
 
 ## Official references

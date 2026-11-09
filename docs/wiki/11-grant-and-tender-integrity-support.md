@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Reduce repeated application work and make funding, procurement and delivery obligations easier to follow and evidence.
+Community organisations could reduce repeated application work and make funding, procurement and delivery obligations easier to follow and demonstrate.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Provide public eligibility and bid/no-bid resources, evidence packs, budget and obligations templates, document control, acquittal support and conflict checks. Keep applicant assistance clearly separated from a funding or procurement body's assessment of applications.
+Public resources could help organisations assess eligibility and whether to apply, assemble evidence, prepare budgets, track obligations, control documents, complete acquittals and check conflicts. Applicant assistance would remain separate from the funder’s or purchaser’s assessment.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek accessible organisation-capability support and clear council information about its grant and procurement processes, while leaving live assessments with the responsible decision-makers.
+The mayor could seek accessible capability support for organisations and clear council information about grants and procurement. Live assessments would remain with the responsible decision-makers.
 
 ## Other decision-makers
 
 Each funder or purchaser sets its requirements and makes its decisions. Assistance with an application does not determine eligibility, selection or an award.
 
-## Partners
+## Possible partners
 
 Community organisations, council procurement/grants teams, external grant administrators and independent advisers.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any connection to an applicant, paid application-support service or tender where council is providing assistance or making a decision.
+Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision.
 
 ## Project sources
 

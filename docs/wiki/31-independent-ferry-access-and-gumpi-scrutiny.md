@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Protect transport choice and test effects on affordability, frequency and reliability.
+The proposal aims to protect transport choice and examine effects on affordability, frequency and reliability.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Obtain the council position, state project documents and access proposals. Advocate transparent multi-operator access, disability access, resilience and consultation on service changes.
+The council position, state project documents and access proposals would inform advocacy for transparent multi-operator access, disability access, resilience and consultation on service changes.
 
 ## Decision route
 
 Advocacy and intergovernmental partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.
+The mayor could seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.
 
 ## Other decision-makers
 
 The Dunwich/Gumpi upgrade is state-led. Council influence includes its submission, funding commitments and negotiations; state and operator decisions remain outside unilateral mayoral control.
 
-## Partners
+## Possible partners
 
 TMR, council, independent ferry operators, passengers, accessibility representatives and local businesses.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Distinguish personal advocacy from the council position. Independently handle any council decision involving a transport operator, supplier or property interest connected to Luke.
+Luke's personal advocacy would remain distinct from the council position. Any council decision involving a transport operator, supplier or property interest connected to him would require independent handling.
 
 ## Project sources
 

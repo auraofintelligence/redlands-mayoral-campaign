@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Give residents and businesses accessible, source-linked ways to explore public civic data, compare place-based ideas and submit reproducible proposals.
+Residents and businesses could explore source-linked public civic data, compare ideas for particular places and submit proposals that others can reproduce and examine.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop a council dataset and rights catalogue, approved public layers, scenario assumptions and proposal-export formats. Provide reproducible simulations for selected civic questions using public, synthetic or appropriately de-identified information, with the relevant data owners involved.
+A council dataset and rights catalogue could identify approved public layers, scenario assumptions and proposal-export formats. Reproducible simulations of selected civic questions could use public, synthetic or appropriately de-identified information, with the relevant data owners involved.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek a council data-access policy and useful public simulation services, with staff and data owners determining approved datasets, update responsibilities and integration.
+The mayor could seek a council data-access policy and useful public simulation services. Staff and data owners would determine approved datasets, update responsibilities and integration.
 
 ## Other decision-makers
 
 Data owners, privacy law, licences, cultural authority, security and rights over third-party information constrain what can be released.
 
-## Partners
+## Possible partners
 
 Council information/privacy teams, planners, utilities, businesses, researchers and relevant Traditional Owner data custodians.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any interest in a data licence, simulation tool, software licence or data-service agreement that council is considering.
+Any council decision involving a data licence, simulation tool, software licence or data-service agreement would identify relevant interests, including Luke’s where applicable.
 
 ## Project sources
 

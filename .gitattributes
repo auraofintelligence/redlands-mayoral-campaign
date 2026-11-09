@@ -4,3 +4,5 @@
 *.ico binary
 *.zip binary
 *.woff2 binary
+*.cjs text eol=lf
+*.gs text eol=lf

@@ -1,6 +1,10 @@
 {
   "basis": "Local community work first, related projects together, wider systems and long-horizon research last. Preserve Strange But True ledger order within each subject unless explicitly positioned here.",
+  "additionalGroups": [
+    {"id": "redlands-council-information", "title": "Redlands information and council records", "description": "Local indicators, council budgets, meeting records and public broadcasts."}
+  ],
   "groupOrder": [
+    "redlands-council-information",
     "community-places",
     "local-screen-events",
     "cooperation-funding",
@@ -25,6 +29,7 @@
     "space-solar"
   ],
   "moves": [
+    {"repoName": "Redlands_draft_ES2026-2031", "groupId": "redlands-council-information", "first": true},
     {"repoName": "ready-set-co-op-cultural-intelligence-node", "groupId": "cooperation-funding", "after": "straddie-tenders-lab"},
     {"repoName": "aura-civic-establishment", "groupId": "sovereign-capacity", "first": true},
     {"repoName": "mutual-futures", "groupId": "sovereign-capacity", "after": "joyful-responsible-abundance"}

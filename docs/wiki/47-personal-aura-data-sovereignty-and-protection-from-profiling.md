@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Give people practical control over their own personal intelligence and representations as a foundation for Australian and locally governed capability.
+The aim is practical control for people over their own personal intelligence and representations, as a foundation for Australian and locally governed capability.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop everyday personal Aura access, with Verse Box as a public introduction and Genesis as an optional deeper pathway. Build ways for people to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. Apply this shared capability through the separately described care, tourism, contribution, workforce and resilience programmes.
+Everyday personal Aura access would include Verse Box as a public introduction and Genesis as an optional deeper pathway. People would be able to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. This shared capability would support the separately described care, tourism, contribution, workforce and resilience programmes.
 
 ## Decision route
 
 Personal Aura, data sovereignty and protection from profiling
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Connect public learning and access with regional and national capability work.
+The mayor could seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Public learning and access could connect with regional and national capability work.
 
 ## Other decision-makers
 
 Personal choices and archives remain with the person and their chosen arrangements. National privacy, competition, employment and AI settings involve the responsible governments; infrastructure and node operations have their own owners and agreements.
 
-## Partners
+## Possible partners
 
 Residents, community hosts, local technology and compute providers, education partners, researchers, businesses, neighbouring councils and responsible state/federal agencies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your Aura software, hosting or support services are relevant if council purchases a licence, commissions development or funds delivery involving you.
+Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him.
 
 ## Project sources
 
@@ -36,7 +36,6 @@ Your Aura software, hosting or support services are relevant if council purchase
 - [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)
 - [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
 - [Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
 
 ## Official references
 
@@ -59,7 +58,7 @@ Your Aura software, hosting or support services are relevant if council purchase
 ## Connected entries
 
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Public introduction and supported station access.
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Optional deeper Genesis development of the person-Aura relationship.
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Optional deeper Genesis development of the person-Aura relationship.
 - [05 Free and low-cost AI and data sovereignty learning](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/05-free-and-low-cost-ai-and-data-sovereignty-learning): Learning about practical AI use and personal data choices.
 - [07 Open data and public digital twin sandbox](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/07-open-data-and-public-digital-twin-sandbox): Public-data and community simulations are a distinct information layer.
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute services can support chosen personal workloads.

@@ -1,34 +1,34 @@
-# 34 Test spoil reuse, erosion protection and reefs
+# 34 Spoil reuse, erosion protection and reefs
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Infrastructure, energy and coasts
 
 ## Purpose
 
-Explore beneficial reuse and ecological/coastal outcomes if materials and sites are suitable.
+The proposal explores beneficial reuse and ecological and coastal outcomes where materials and sites are suitable.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Assess excavated materials and each proposed destination separately: lawful reuse, coastal protection and engineered artificial reefs. Compare nature-based and other options.
+Excavated materials and each proposed destination would be assessed separately for lawful reuse, coastal protection and engineered artificial reefs, with nature-based and other options included in the comparison.
 
 ## Decision route
 
 Council infrastructure and external approvals
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene council coastal and environment teams, custodians and research partners around material testing and identified coastal or reef applications within the relevant council responsibilities.
+The mayor could convene council coastal and environment teams, custodians and research partners around material testing and identified coastal or reef applications within the relevant council responsibilities.
 
 ## Other decision-makers
 
 Material owners, receiving-site managers and relevant coastal, marine and environmental authorities decide the applicable material and site requirements.
 
-## Partners
+## Possible partners
 
 Council coastal/environment teams, material-testing specialists, marine/coastal researchers, custodians and regulators.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Independently assess any council material-transfer, testing, coastal-work or reef contract where Luke has an interest in the excavated material, design or receiving project.
+Any council material-transfer, testing, coastal-work or reef contract would need independent assessment where Luke had an interest in the excavated material, design or receiving project.
 
 ## Project sources
 

@@ -4,29 +4,29 @@
 
 ## Purpose
 
-Seek lower whole-life energy costs and resilient essential services where evidence supports investment.
+The aim is lower whole-life energy costs and resilient essential services where evidence supports investment.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop local efficiency, generation, storage and resilience options alongside the wider clean-energy concepts. Identify each project’s grid, land, operating, energy-delivery and material requirements.
+The Redlands adaptation combines local efficiency, generation, storage and resilience options with the wider clean-energy concepts. Each project would identify its grid, land, operating, energy-delivery and material requirements.
 
 ## Decision route
 
 Council infrastructure and external approvals
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.
+The mayor could seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.
 
 ## Other decision-makers
 
 Energy networks, generators, retailers, landholders and relevant regulators retain their connection, commercial and approval responsibilities.
 
-## Partners
+## Possible partners
 
 Council facilities teams, energy networks/providers, community energy groups, researchers and external funding bodies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
 A council energy purchase, site agreement, equipment trial or resilience contract involving Luke’s clean-energy designs or business needs independent assessment and documented ownership and operating terms.
 

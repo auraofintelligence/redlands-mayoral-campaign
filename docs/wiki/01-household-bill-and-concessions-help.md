@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Find applicable concessions, billing mistakes, unnecessary fees and alternative offers; measure actual net savings after switching costs.
+A voluntary bill-check service could help households find concessions, billing mistakes, unnecessary fees and alternative offers. Savings would be measured after switching costs.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Offer a voluntary bill-check service through existing library/community channels, with a secure document workflow and dated referral guide. Test on consented cases before wider use.
+Residents could access bill checks through existing library and community channels, supported by secure document handling and a dated referral guide. Participation and any initial case checks would require the household’s consent.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek council support for accessible bill-check assistance through libraries and community partners, with consented document handling and referrals.
+The mayor could seek council support for accessible bill-check assistance through libraries and community partners. Document handling and referrals would be based on residents’ consent.
 
 ## Other decision-makers
 
 Bill providers and the responsible concession, complaint or dispute bodies decide account outcomes and entitlements.
 
-## Partners
+## Possible partners
 
 Libraries, neighbourhood centres, independent consumer advisers, concession administrators and bill providers.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Any council selection of the bill-check software or adviser needs independent handling if Strange But True or Luke’s IP could benefit. Referral criteria should make any commercial relationship visible.
+If council considered selecting Luke’s bill-check software, Strange But True or a related adviser, that transaction would require independent handling. Referral criteria would disclose any commercial relationship.
 
 ## Project sources
 

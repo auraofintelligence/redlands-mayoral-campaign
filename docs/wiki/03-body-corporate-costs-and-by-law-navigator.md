@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Help owners and occupants understand charges, test procurement options and use existing dispute pathways.
+Owners and occupants could use a body corporate navigator to understand charges, compare procurement options and find existing dispute pathways.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Create a scheme-specific checklist for levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. Route cases to the correct statutory regime and professional help.
+A checklist tailored to each scheme could cover levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. It would identify the applicable statutory regime and routes to professional help.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene owners, occupants and advice providers; seek information and referral support where it connects with council’s community functions.
+The mayor could bring owners, occupants and advice providers together and seek information and referral support through council’s community functions.
 
 ## Other decision-makers
 
 Body corporate by-laws, levies and dispute outcomes are governed through the applicable scheme and Queensland law/BCCM pathways.
 
-## Partners
+## Possible partners
 
 Owners and occupants, bodies corporate, managers, strata lawyers, BCCM and consumer advisers.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Separate a general information service from any council transaction with Luke’s software or business. A participating scheme chooses its own advisers and procurement arrangements.
+A general information service would be separate from any council transaction involving Luke’s software or business. Each participating scheme would choose its own advisers and procurement arrangements.
 
 ## Project sources
 

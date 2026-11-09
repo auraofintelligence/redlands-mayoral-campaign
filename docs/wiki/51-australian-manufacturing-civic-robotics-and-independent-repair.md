@@ -4,21 +4,21 @@
 
 ## Purpose
 
-Connect Redlands public-service and business needs with Australian design, manufacture, supply, maintenance and ownership of useful machines and tools for domestic use and export.
+The aim is to connect Redlands public-service and business needs with Australian design, manufacture, supply, maintenance and ownership of useful machines and tools for domestic use and export.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop a Redlands demand and industry-partnership brief for useful equipment in water/stormwater, inspections, solar and land care, food growing, public-space maintenance, materials handling and emergency logistics. Connect willing businesses, workshops, manufacturers, training providers and regional partners to design, supply, adapt, repair and service the appropriate tools. Pursue participation in exports of machines, components, repair modules and service knowledge on terms that preserve the buyer’s authority.
+A Redlands demand and industry-partnership brief would cover useful equipment for water and stormwater, inspections, solar and land care, food growing, public-space maintenance, materials handling and emergency logistics. It would connect willing businesses, workshops, manufacturers, training providers and regional partners to design, supply, adapt, repair and service the appropriate tools. The proposal includes participation in exports of machines, components, repair modules and service knowledge on terms that preserve the buyer's authority.
 
 ## First-principles foundation
 
-Distinguish annual manufacture from the working fleet after retirements, and production ceilings from demand. Plan components, factories, commissioning, skills, qualified buyers and local service support together. Keep capital costs, production working capital, sales and profit distinct. Preserve documented interfaces, repair access, owner-held control, software continuity and safe isolation/disconnection.
+Planning distinguishes annual manufacture from the working fleet after retirements, and production ceilings from demand. It brings components, factories, commissioning, skills, qualified buyers and local service support together. Accounts keep capital costs, production working capital, sales and profit distinct. Documented interfaces, repair access, owner-held control, software continuity and safe isolation or disconnection are design requirements.
 
 ## Decision route
 
 Council, regional, national and business partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
 Council can articulate public-service needs, convene industry and workforce partners, support local capability and undertake authorised procurement or partnerships. Neighbouring councils can choose to collaborate on demand, skills, service infrastructure and proposals to state/federal government.
 
@@ -26,13 +26,13 @@ Council can articulate public-service needs, convene industry and workforce part
 
 Manufacturers and customers decide commercial production and sales. State/federal industry, trade and infrastructure settings and relevant safety authorities retain their responsibilities. National factory or export scenarios in the manuscript are distinct from Redlands orders or local production commitments.
 
-## Partners
+## Possible partners
 
 Manufacturers and component suppliers, independent repairers, makers, employers and unions, education/training providers, researchers, service owners, neighbouring councils and state/federal industry and investment partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any ownership, intellectual-property income or paid role in a manufacturer, equipment supplier or repair contract connected to a council decision.
+Relevant interests include ownership, intellectual-property income or a paid role in a manufacturer, equipment supplier or repair contract connected to a council decision.
 
 ## Project sources
 
@@ -41,7 +41,6 @@ Identify any ownership, intellectual-property income or paid role in a manufactu
 - [Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)
 - [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)
 - [Luke’s World of Work](https://auraofintelligence.github.io/Lukes-world-of-work-experience/)
-- [GAJRA Earth - earlier public concept site](https://auraofintelligence.github.io/GAJRA-earth/)
 
 ## Official references
 

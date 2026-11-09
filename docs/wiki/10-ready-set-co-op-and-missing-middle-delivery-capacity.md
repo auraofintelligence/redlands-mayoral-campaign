@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Develop a member-governed delivery organisation that can coordinate work, administration, shared assets and services across participating projects.
+Ready SET Co-op is a proposal for a member-governed organisation that could coordinate work, administration, shared assets and services across participating projects.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop the member-chosen rules, governance, financial model, paid-work and training pathways, insurance/administration and service arrangements. Specify which assets or services a co-operative would own, operate or contract to provide, and the agreements with each host or partner.
+Prospective members could develop the rules, governance, financial model, paid-work and training pathways, insurance, administration and service arrangements. Agreements would specify what the co-operative would own, operate or provide, and how it would work with each host or partner.
 
 ## Decision route
 
 Personal initiative and public-purpose overlap
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene a conversation about co-operative public-benefit delivery and ask council to consider relevant support or service arrangements through its own processes.
+The mayor could convene discussion about co-operative public-benefit delivery. Council could consider relevant support or service arrangements through its own processes.
 
 ## Other decision-makers
 
 Any co-operative formed has its own members, governing body, contracts and operating responsibilities. Council and other agencies retain their statutory decisions and services.
 
-## Partners
+## Possible partners
 
 Prospective members/directors, co-operative advisers, community providers, employers and state/federal funding bodies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify your proposed membership, paid role, assets or contractual interest when council considers an arrangement with the co-operative.
+Any proposed membership, paid role, asset or contractual interest held by Luke would be identified when council considered an arrangement with the co-operative.
 
 ## Project sources
 

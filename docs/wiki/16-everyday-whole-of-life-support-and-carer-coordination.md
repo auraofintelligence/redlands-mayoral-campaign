@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Reduce coordination burdens and help people remain connected to local services.
+People and carers could spend less effort coordinating support and remain connected to local services as circumstances change.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Co-design everyday assistance and continuity arrangements with people, carers and existing providers. Connect chosen personal information, communication preferences, reminders, local services and meaningful activities so support can follow the person's changing circumstances.
+People, carers and existing providers could co-design everyday assistance and continuity arrangements. Chosen personal information, communication preferences, reminders, local services and meaningful activities could help support follow the person’s changing circumstances.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring community, disability, aged-care and carer organisations together and connect council's relevant access, information, venue and community-support roles.
+The mayor could bring community, disability, aged-care and carer organisations together, connecting council’s relevant roles in access, information, venues and community support.
 
 ## Other decision-makers
 
 Health, disability and aged-care providers and responsible funding agencies retain their service responsibilities. The person and the appropriate lawful decision-makers determine participation and information sharing.
 
-## Partners
+## Possible partners
 
 People and carers, existing disability/aged-care providers, clinicians, community services and responsible funding agencies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your support software, IP or provider role is relevant if council commissions or funds everyday support services using it.
+Luke’s support software, intellectual property or provider role would be a relevant interest if council commissioned or funded everyday support services using it.
 
 ## Project sources
 

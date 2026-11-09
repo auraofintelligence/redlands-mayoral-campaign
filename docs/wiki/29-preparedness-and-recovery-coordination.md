@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Help communities prepare for outages, disrupted transport, heat and recovery needs.
+Preparedness and recovery coordination aims to help communities prepare for outages, disrupted transport, heat and recovery needs.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Map existing resilience assets and gaps; offer consented household preparedness support, exercises and a recovery obligations/resource register.
+A map of existing resilience assets and gaps would support consented household preparedness assistance, exercises and a register of recovery obligations and resources.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Work through existing LDMG and recovery arrangements to strengthen preparedness, information and handovers.
+Existing Local Disaster Management Group and recovery arrangements provide the route for strengthening preparedness, information and handovers.
 
 ## Other decision-makers
 
 Other agencies remain responsible for their services and any protected health or support information.
 
-## Partners
+## Possible partners
 
 LDMG/recovery partners, existing service providers, community organisations, utilities and households choosing to participate.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Keep community participation and support records within consented operational arrangements. Independently assess any council recovery contract involving Luke or an organisation he joins.
+Community participation and support records would remain within consented operational arrangements. Any council recovery contract involving Luke or an organisation he joined would require independent assessment.
 
 ## Project sources
 

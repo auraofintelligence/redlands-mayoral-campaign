@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Develop willing places for care, learning, personal intelligence and longevity work across Redlands.
+The aim is willing places across Redlands for care, learning, personal intelligence and longevity work.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Pursue distinct host and property conversations, including the 82 Claytons Road invitation and other suitable mainland or island settings. Agree which services each site would host, who operates them, access arrangements, ownership and ongoing responsibilities.
+Distinct host and property conversations would include the 82 Claytons Road invitation and other suitable mainland or island settings. Each site agreement would identify the services hosted, operators, access arrangements, ownership and ongoing responsibilities.
 
 ## Decision route
 
 Care, learning and research site partnerships
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring landowners, care providers, community organisations, businesses and funding bodies together; council can consider its relevant planning, community, access and partnership roles.
+The mayor could bring landowners, care providers, community organisations, businesses and funding bodies together. Council could consider its relevant planning, community, access and partnership roles.
 
 ## Other decision-makers
 
 Property owners decide what they offer. Hosts and providers decide their services, operations and agreements. Each location has its own decision route.
 
-## Partners
+## Possible partners
 
 Anglican Church Southern Queensland/Anglicare as possible conversation partners, other willing landowners, care providers, Elders’ organisations, community hosts and research/education partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your property, lease, host role or organisation interest is relevant if council funds a site, provides premises or enters a hosting agreement involving you.
+Luke's property, lease, host role or organisation interest would be relevant to any council site funding, provision of premises or hosting agreement involving him.
 
 ## Project sources
 

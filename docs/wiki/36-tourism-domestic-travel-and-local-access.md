@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Support local activity and reduce avoidable planning costs and access barriers.
+The aim is to support local activity and reduce avoidable planning costs and access barriers.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop visitor and resident experiences that connect accurate transport and accessibility information, local suppliers, culture, nature, music and chosen learning. Let participants choose how personal Aura supports their interests, records and reflection, and connect local operators with useful tourism AI learning.
+The proposed visitor and resident experiences connect accurate transport and accessibility information, local suppliers, culture, nature, music and chosen learning. Participants would choose how personal Aura supports their interests, records and reflection, while local operators could access useful tourism AI learning.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene local tourism, cultural, accessibility and learning partners around visitor resources and experiences, and seek council support through its tourism, public-place and community roles.
+The mayor could convene local tourism, cultural, accessibility and learning partners around visitor resources and experiences, and seek council support through its tourism, public-place and community roles.
 
 ## Other decision-makers
 
 Operators and cultural hosts choose the experiences they offer; transport providers and the responsible public bodies retain decisions about their services and infrastructure.
 
-## Partners
+## Possible partners
 
 Local tourism operators, transport providers, accessibility users, cultural custodians and Queensland tourism/education programmes.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your tourism tools, content or delivery role are relevant if council purchases visitor resources, funds an experience or selects a provider involving you.
+Luke's tourism tools, content or delivery role would be relevant to any council purchase of visitor resources, funding of an experience or provider selection involving him.
 
 ## Project sources
 
@@ -50,4 +50,4 @@ Your tourism tools, content or delivery role are relevant if council purchases v
 - [31 Independent ferry access and Gumpi scrutiny](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/31-independent-ferry-access-and-gumpi-scrutiny): Ferry access and service information affect real travel choices.
 - [21 Olympics community capability and lasting benefit](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/21-olympics-community-capability-and-lasting-benefit): Olympics-related capability can connect with local tourism while retaining its own programme decisions.
 - [26 Local arts, music and cinema participation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/26-local-arts-music-and-cinema-participation): Arts, music and cultural activities can form chosen experiences.
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Travel and everyday learning may follow a person's optional Genesis journey.
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Travel and everyday learning may follow a person's optional Genesis journey.

@@ -4,17 +4,17 @@
 
 ## Purpose
 
-Explore safe additional housing while permanent construction proceeds.
+The proposal explores safe additional housing while permanent construction proceeds.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Audit zoning and existing pathways; compare secondary dwellings, approved temporary homes and serviced modular/kit options. Identify candidate sites, servicing requirements, costs and the pathways for demonstrations or rule changes.
+A review of zoning and existing pathways would compare secondary dwellings, approved temporary homes and serviced modular or kit options. It would identify candidate sites, servicing requirements, costs and pathways for demonstrations or rule changes.
 
 ## Decision route
 
 Council infrastructure and external approvals
 
-## Mayoral and council lever
+## What the mayor and council could do
 
 Council has planning, local-law, building/plumbing and local infrastructure roles, exercised through lawful decisions and delegations.
 
@@ -22,11 +22,11 @@ Council has planning, local-law, building/plumbing and local infrastructure role
 
 State frameworks, certifiers, utilities, landowners and tenancy requirements also apply. Existing Redland temporary-home rules are tied to works on a permanent residence; wider interim use needs the correct legal pathway.
 
-## Partners
+## Possible partners
 
 Council planners, Queensland planning/housing authorities, certifiers, utilities, landowners, developers and housing providers.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
 A particular planning, land-access, housing-supply or servicing decision needs independent interest assessment if Luke, Strange But True or an organisation he joins has an interest in the site, design or delivery arrangement.
 

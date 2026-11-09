@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Improve access to reliable information during outages and everyday preparedness.
+Disaster-ready kiosks aim to improve access to reliable information during outages and everyday preparedness.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Assess sites and pilot offline-capable information, backup power/connectivity and accessible preparedness material connected to authorised warning and update workflows.
+Site assessment and a pilot would cover offline-capable information, backup power and connectivity, and accessible preparedness material connected to authorised warning and update workflows.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Work through council’s disaster responsibilities and the Local Disaster Management Group to integrate kiosks with approved information workflows.
+Council's disaster responsibilities and the Local Disaster Management Group provide the route for integrating kiosks with approved information workflows.
 
 ## Other decision-makers
 
 Warning agencies, emergency responders, utilities and other LDMG partners retain their operational responsibilities.
 
-## Partners
+## Possible partners
 
 LDMG, council disaster team, authorised warning agencies, utilities, venue hosts and accessibility/community representatives.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Independently assess kiosk sites, equipment and support contracts where Luke’s designs or equipment could benefit. Keep authorised warning publication responsibilities clear.
+Kiosk sites, equipment and support contracts would need independent assessment where Luke's designs or equipment could benefit. Responsibilities for publishing authorised warnings would remain clear.
 
 ## Project sources
 

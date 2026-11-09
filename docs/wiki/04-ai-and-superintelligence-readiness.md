@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Prepare council to use advancing AI in its own work with accountable human decisions, useful staff support and reliable public services.
+Council could prepare for advancing AI in its own work through accountable human decisions, useful staff support and reliable public services.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop a council AI operating policy and useful service/workflow demonstrations covering records, data access, workforce support, procurement, cyber resilience, continuity and human review. Connect operational needs with shared-capacity options without making one programme the implementation route for every service.
+The proposal includes a council AI operating policy and practical service and workflow demonstrations. These would cover records, data access, workforce support, procurement, cyber resilience, continuity and human review. Shared capacity could support different operational needs without requiring every service to use one programme.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Build support for council's AI policy and service objectives, and work through the CEO on implementation, staff involvement and reporting.
+The mayor could build support for council’s AI policy and service objectives, with implementation, staff involvement and reporting managed through the CEO.
 
 ## Other decision-makers
 
 Service owners, the CEO and authorised officers retain their operational and decision responsibilities; relevant external laws, contracts and regulators still apply.
 
-## Partners
+## Possible partners
 
 CEO and council service leaders, workforce representatives, neighbouring councils, researchers and technology businesses.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-A council purchase, licence or service arrangement for AI software, training or support connected to your work or a financial interest is the transaction to identify.
+Any council purchase, licence or service arrangement connected to Luke’s AI software, training, support or financial interests would be assessed as a specific transaction under the applicable interest rules.
 
 ## Project sources
 

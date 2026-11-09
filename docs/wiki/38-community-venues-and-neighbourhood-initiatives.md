@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Make better use of community assets and support affordable participation.
+The aim is better use of community assets and affordable participation.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Review which club, sport, outdoor learning, screening and neighbourhood event concepts can be adapted to willing venues across divisions, with local councillors and existing organisers.
+Local councillors and existing organisers could review club, sport, outdoor learning, screening and neighbourhood event concepts with willing venues across divisions, identifying adaptations suited to each place.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Work with divisional councillors and existing organisers on council venue access, leases, community programmes and transparent support for willing neighbourhood hosts.
+The mayor could work with divisional councillors and existing organisers on council venue access, leases, community programmes and transparent support for willing neighbourhood hosts.
 
 ## Other decision-makers
 
 Each club, venue owner and community organiser chooses its participation, governance, activities and use of its own assets.
 
-## Partners
+## Possible partners
 
 Community groups, co-operatives, schools, businesses and external funders as appropriate.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Make venue, lease, grant and access criteria visible. Independently handle any council arrangement benefiting Luke or an organisation he establishes or joins.
+The proposal calls for visible venue, lease, grant and access criteria, with independent handling of any council arrangement benefiting Luke or an organisation he establishes or joins.
 
 ## Project sources
 

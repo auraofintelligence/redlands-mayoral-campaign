@@ -14,7 +14,7 @@ const presentation = campaignPresentation(c);
 if (presentation.isLive && !presentation.authorisationComplete) throw new Error('Live publication needs the complete authorisation and recorded owner review.');
 const dist = path.join(root,'dist');
 if (path.dirname(dist) !== root || path.basename(dist) !== 'dist') throw new Error('Unsafe output path');
-await rm(dist,{recursive:true,force:true});
+await rm(dist,{recursive:true,force:true,maxRetries:5,retryDelay:200});
 await mkdir(dist,{recursive:true});
 // Only explicit public source material can enter the Pages artifact.
 await cp(path.join(root,'public'),dist,{recursive:true});

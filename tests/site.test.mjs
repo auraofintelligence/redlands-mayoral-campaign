@@ -35,7 +35,7 @@ test('pages have unique titles, language, accessible landmarks and preview statu
   assert.equal((html.match(/<h1>/g)||[]).length,1);assert.match(html,/<link rel="canonical"/);
   assert.match(html,/Publication authorisation is incomplete/);assert.match(html,/content="noindex, follow"/);
  }
- assert.ok(titles.size>=135);
+ assert.ok(titles.size>=123);
  const home=await read('dist/index.html');assert.match(home,/<main id="main"/);assert.match(home,/Ideas into practice/);assert.match(home,/assets\/visual.js/);
  const outreach=await read('dist/outreach.html');assert.match(outreach,/<main id="view"/);assert.match(outreach,/My possibilities/);assert.match(outreach,/app.js/);assert.match(outreach,/content="noindex, nofollow"/);
 });
@@ -66,12 +66,12 @@ test('public copy has no em dashes, exposed campaign email or tracking scripts',
 test('all visual projects have reviewed descriptions and existing credited rasters, with private notes excluded',async()=>{
  const content=JSON.parse(await read('data/visual-content.json')),images=JSON.parse(await read('data/project-images.json'));
  const excluded=JSON.parse(await read('data/public-project-exclusions.json')).excludedRepos;
- const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,125);assert.equal(content.options.length,52);
- assert.equal(new Set(projects.map(p=>p.repoName)).size,125);
+ const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,113);assert.equal(content.options.length,52);
+ assert.equal(new Set(projects.map(p=>p.repoName)).size,113);
  for(const repo of ['straddie-twins','straddie-digital-twin-explainer'])assert.ok(projects.some(p=>p.repoName===repo));
  for(const repo of excluded){assert.ok(!projects.some(p=>p.repoName===repo));for(const p of projects)assert.ok(!p.adjacentProjects.some(a=>a.repoName===repo));}
  for(const p of projects)assert.ok(!excluded.includes(p.repoName));
- assert.equal(content.groups[0].id,'community-places');assert.equal(content.groups.at(-1).id,'space-solar');
+ assert.equal(content.groups[0].id,'redlands-council-information');assert.equal(content.groups[0].projects[0].repoName,'Redlands_draft_ES2026-2031');assert.equal(content.groups[1].id,'community-places');assert.equal(content.groups.at(-1).id,'space-solar');
  assert.ok(content.groups.findIndex(g=>g.id==='care-wellbeing')<content.groups.findIndex(g=>g.id==='sovereign-capacity'));
  const hashes=new Set();
  for(const p of projects){const i=images[p.repoName],bytes=await readFile(path.join(dist,i.src)),hash=createHash('sha256').update(bytes).digest('hex');assert.ok(!hashes.has(hash),`Repeated project cover: ${p.repoName}`);hashes.add(hash);assert.equal(hash,i.sha256);assert.ok(bytes.length<=768*1024,`Oversized project image: ${p.repoName}`);assert.ok(i.thumbnailSrc);assert.ok((await stat(path.join(dist,i.thumbnailSrc))).size<=150*1024,`Oversized card image: ${p.repoName}`);}
@@ -79,7 +79,7 @@ test('all visual projects have reviewed descriptions and existing credited raste
  const publicData=await read('dist/assets/data/visual-content.json');assert.doesNotMatch(publicData,/myWording|myNotes|storageId|[CGL]:[\\/]/);
  const icon=await readFile(path.join(dist,'favicon.ico'));assert.equal(icon.readUInt16LE(2),1);
  const music=await read('dist/music.html');assert.match(music,/Severe language/);assert.match(music,/music-warning-dialog/);assert.doesNotMatch(music,/<iframe|<video[^>]+autoplay/);
- const album=JSON.parse(await read('data/visual-music.json'));assert.equal(album.tracks.length,22);assert.equal(album.lyricSheet.entries.length,23);assert.equal(new Set(album.lyricSheet.entries.map(entry=>entry.number)).size,23);assert.match(music,/<template id="music-sheet-template">/);assert.ok(album.lyricSheet.entries.some(entry=>entry.title==='Strange but True'));
+ const album=JSON.parse(await read('data/visual-music.json'));assert.equal(album.tracks.length,22);assert.equal(album.lyricSheet.entries.length,22);assert.equal(new Set(album.lyricSheet.entries.map(entry=>entry.number)).size,22);assert.match(music,/<template id="music-sheet-template">/);assert.ok(!album.lyricSheet.entries.some(entry=>entry.title.toLowerCase()==='strange but true'));
 });
 
 test('reference material uses the real GitHub Wiki and published project destinations',async()=>{
@@ -88,6 +88,7 @@ test('reference material uses the real GitHub Wiki and published project destina
  assert.ok(!(await readdir(dist)).includes('wiki'));
  const wikiFiles=await readdir(path.join(root,'docs/wiki'));assert.equal(wikiFiles.length,59);
  assert.match(await read('docs/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence.md'),/## First-principles foundation/);
+ for(const entry of JSON.parse(await read('data/visual-content.json')).options)for(const key of ['title','purpose','redlandsAdaptation','route','mayoralCouncilLever','outside','partners','conflictBoundary','strategicPurpose','firstPrinciples','localApplications','leadershipExample','researchRationale'])if(entry[key])assert.doesNotMatch(entry[key],/\b(?:you|your|yourself|yours)\b/i,`Author address in public Wiki entry ${entry.id} ${key}`);
  const content=JSON.parse(await read('data/visual-content.json')),destinations=JSON.parse(await read('data/project-destinations.json')).destinations;
  for(const p of content.groups.flatMap(g=>g.projects)){const destination=destinations[p.repoName.toLowerCase()];assert.ok(destination);if(destination.kind==='website'){const filename=p.repoName.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');assert.ok((await read(`dist/projects/${filename}.html`)).includes(`href="${destination.url}"`),p.repoName);}}
 });

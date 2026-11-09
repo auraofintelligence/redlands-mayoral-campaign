@@ -289,23 +289,6 @@
     "featured": true
   },
   {
-    "id": "meet-luke",
-    "title": "Meet Luke",
-    "category": "Record and context",
-    "tags": [
-      "introduction",
-      "work",
-      "contact"
-    ],
-    "summary": "A public introduction to Luke, his working approach, selected projects and ways to connect. Linked projects retain their own status and evidence.",
-    "url": "https://auraofintelligence.github.io/meet-luke/",
-    "repo": "https://github.com/auraofintelligence/meet-luke",
-    "sourcePath": "README.md",
-    "sourceCommit": "c15ee975d81625dfc45be7be4cf1427faf3ea361",
-    "status": "published work",
-    "featured": false
-  },
-  {
     "id": "Lukes-world-of-work-experience",
     "title": "Luke's World of Work",
     "category": "Record and context",

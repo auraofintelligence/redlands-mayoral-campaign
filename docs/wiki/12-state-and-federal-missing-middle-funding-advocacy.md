@@ -4,36 +4,35 @@
 
 ## Purpose
 
-Seek investment in the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.
+State and federal investment could support the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Translate the submissions into a Redlands funding case with identified public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Use the separate project cases as inputs and coordinate shared regional requests where councils choose to do so.
+Luke’s public submissions could inform a Redlands funding case that identifies public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Distinct project cases could support shared regional requests where councils chose to participate.
 
 ## Decision route
 
 Advocacy and intergovernmental partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring a council-endorsed case to responsible state/federal portfolios and funding institutions, convene local MPs and delivery partners, and coordinate negotiations with willing neighbouring councils.
+The mayor could present a council-endorsed case to responsible state and federal portfolios and funding institutions, bring local MPs and delivery partners together, and coordinate negotiations with willing neighbouring councils.
 
 ## Other decision-makers
 
 Funding bodies and participating governments decide their allocations and conditions. Individual organisations remain responsible for their own applications and delivery commitments.
 
-## Partners
+## Possible partners
 
 Council, local MPs, responsible state/federal departments, service providers, regional councils and funding institutions.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any proposed allocation, funded role or agreement that would directly benefit your own project, business or associated organisation within a funding request.
+Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request.
 
 ## Project sources
 
 - [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
 - [P4A committees and inquiries](https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/)
 
 ## Official references

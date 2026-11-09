@@ -1,9 +1,9 @@
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
-- [Mayoral role](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
-- [Connections](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)
+- [Council responsibilities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
+- [How the ideas connect](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)
 - [Official sources](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
-- [Supplied documents](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
+- [Source documents](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
 
 ### Household savings and fairness
 
@@ -30,8 +30,8 @@
 
 ### Personal Genesis and leadership
 
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey)
-- [41 Your voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-your-voluntary-p4a-leadership-practice-and-radical-honesty)
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey)
+- [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty)
 
 ### Health, care and inclusion
 
@@ -76,7 +76,7 @@
 
 - [32 Sandworm underground-road feasibility](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/32-sandworm-underground-road-feasibility)
 - [33 Small wet-sand TBM services for SMBI](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/33-small-wet-sand-tbm-services-for-smbi)
-- [34 Test spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-test-spoil-reuse-erosion-protection-and-reefs)
+- [34 Spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-spoil-reuse-erosion-protection-and-reefs)
 - [35 Clean energy and local resilience options](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/35-clean-energy-and-local-resilience-options)
 - [45 Geode hardware and experience environments](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/45-geode-hardware-and-experience-environments)
 

@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Expand opportunities to learn, make, contribute and build trusted intergenerational relationships.
+Young people could have more opportunities to learn, make, contribute and build trusted relationships across generations.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Offer supervised learning and creative activities with age-appropriate AI tools, lawful guardian/care-authority processes, age/capacity-appropriate consent or assent and institutional approvals. Connect participants with existing youth services.
+Supervised learning and creative activities could use age-appropriate AI tools and connect participants with existing youth services. They would follow lawful guardian or care-authority processes, consent or assent appropriate to age and capacity, and the relevant institutional approvals.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Council can support spaces, opportunities, partnerships and community programmes.
+Council could support spaces, opportunities, partnerships and community programmes for young people.
 
 ## Other decision-makers
 
-Education, children in care, clinical services, police and youth justice remain with responsible authorities; use their lawful consent and safeguarding arrangements.
+Education, children in care, clinical services, police and youth justice remain with the responsible authorities. Their lawful consent and safeguarding arrangements would apply.
 
-## Partners
+## Possible partners
 
 Young people, schools, youth/care services, lawful care authorities, mentors and existing community organisations.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your youth-learning materials, software or delivery role are relevant if council funds or commissions a youth programme involving them.
+Luke’s youth-learning materials, software or delivery role would be a relevant interest if council funded or commissioned a programme involving them.
 
 ## Project sources
 

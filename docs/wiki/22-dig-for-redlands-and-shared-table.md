@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Increase access to healthy local produce and test reductions in household food costs.
+Dig for Redlands and Shared Table aim to increase access to healthy local produce and test reductions in household food costs.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Adapt Dig for Australia-style growing to sunny balconies, fences, yards, schools and suitable shared land. Offer local crop guidance, seed/seedling swaps and optional produce-sharing circles.
+Dig for Australia-style growing could be adapted to sunny balconies, fences, yards, schools and suitable shared land in Redlands. Local crop guidance, seed and seedling swaps, and optional produce-sharing circles would support participation.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene growers and willing hosts; ask council to support food-growing information, suitable access to council land or venues, and transparent community grant opportunities.
+The mayor could convene growers and willing hosts and seek council support for food-growing information, suitable access to council land or venues, and transparent community grant opportunities.
 
 ## Other decision-makers
 
 Landholders and participating bodies corporate choose access to their spaces. Food-sharing hosts and growers retain responsibility for their own activities and applicable requirements.
 
-## Partners
+## Possible partners
 
 Residents, renters/owners, bodies corporate, schools, growers, garden groups and suitable landholders.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Keep seed, equipment, land-access and grant decisions transparent. Independently handle a specific council benefit to Luke, Strange But True or an organisation he joins.
+Seed, equipment, land-access and grant decisions would need transparent processes. Any specific council benefit to Luke, Strange But True or an organisation he joined would require independent handling.
 
 ## Project sources
 

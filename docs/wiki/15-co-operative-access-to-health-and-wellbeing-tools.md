@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Explore pooled access and reduce duplicated equipment costs where justified.
+Co-operative access to health and wellbeing tools could reduce duplicated equipment costs through pooled access.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop membership, ownership, booking, affordability and operating arrangements for shared wellbeing tools with community participants and providers. Keep the arrangements for clinical services and individual care choices with their responsible providers.
+Community participants and providers could develop membership, ownership, booking, affordability and operating arrangements for shared wellbeing tools. Responsible providers would retain arrangements for clinical services, alongside each person’s care choices.
 
 ## Decision route
 
 Personal initiative and public-purpose overlap
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene community members, providers and co-operative advisers around shared access; council can consider relevant public-benefit support through its normal processes.
+The mayor could bring community members, providers and co-operative advisers together around shared access. Council could consider relevant public-benefit support through its normal processes.
 
 ## Other decision-makers
 
 Members and any organisation they establish govern ownership and access. Providers retain their clinical and operating responsibilities, and relevant regulators retain their powers.
 
-## Partners
+## Possible partners
 
 Community members, health/wellbeing providers, co-operative advisers, clinicians and regulators for the relevant tools.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your equipment, provider role or membership interest is relevant to a council-funded shared-access arrangement involving you.
+Luke’s equipment, provider role or membership interest would be identified in any council-funded shared-access arrangement involving him.
 
 ## Project sources
 

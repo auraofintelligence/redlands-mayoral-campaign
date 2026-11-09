@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.
+The aim is to develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Offer the Aura Teacher Training course as its own flexible learning pathway, with chosen projects, teach-back, useful artefacts and portable portfolios. Connect it with community teaching, C-hour activities and the civic workforce.
+Aura Teacher Training would be a flexible learning pathway with chosen projects, teach-back, useful artefacts and portable portfolios. It would connect with community teaching, C-hour activities and the civic workforce while retaining its own pathway.
 
 ## Decision route
 
 Aura teacher development
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene education and community hosts; ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.
+The mayor could convene education and community hosts, ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.
 
 ## Other decision-makers
 
 Learners choose their pacing and projects. Education providers and employers make their own teaching, qualification and workforce decisions.
 
-## Partners
+## Possible partners
 
 Libraries, community educators, education providers, businesses, mentors, 500 Queens participants and neighbouring councils.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your teacher-development materials, training services or IP are relevant if council funds delivery, licences resources or commissions training involving you.
+Luke's teacher-development materials, training services or intellectual property would be relevant to any council funding, resource licence or training commission involving him.
 
 ## Project sources
 
@@ -59,5 +59,5 @@ Your teacher-development materials, training services or IP are relevant if coun
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Teaching and mentoring can support workplace learning.
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Participants may choose teaching as voluntary community contribution.
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal Aura can carry chosen learning and teaching records.
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Teacher development can connect with a chosen Genesis journey while retaining its own pacing.
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Teacher development can connect with a chosen Genesis journey while retaining its own pacing.
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Separately agreed teaching and employment arrangements

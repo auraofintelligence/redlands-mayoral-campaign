@@ -1,38 +1,38 @@
-# 41 Your voluntary P4A leadership practice and radical honesty
+# 41 Luke's voluntary P4A leadership practice and radical honesty
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Personal Genesis and leadership
 
 ## Purpose
 
-Put your P4A principles into practice through the higher personal standard of radical honesty you choose for yourself in office.
+Luke proposes to put his P4A principles into practice through the higher personal standard of radical honesty he chooses for himself in office.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Set out the higher personal standard you choose for yourself in office and how your voluntary Genesis experience can inform reflection, corrections, chosen disclosure and conduct. Use your P4A principles and creative work to explain that example in your own terms.
+Luke's proposed leadership practice would explain the higher personal standard he chooses for himself in office and how his voluntary Genesis experience could inform reflection, corrections, chosen disclosure and conduct. His P4A principles and creative work provide context for that example, expressed in his own terms.
 
 ## Personal leadership example
 
-You would undertake Genesis voluntarily as a sitting council member, building on the self-examination you have already done. The aim is to demonstrate honesty through your own practice, chosen disclosure, corrections and conduct. You set a higher standard for yourself than you would expect of others; participation remains a personal choice.
+If serving as a council member, Luke would undertake Genesis voluntarily, building on his existing self-examination. His aim is to demonstrate honesty through his own practice, chosen disclosure, corrections and conduct. He chooses a higher standard for himself than he would expect of others; participation remains a personal choice.
 
 ## Decision route
 
 Voluntary P4A leadership practice and radical honesty
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Lead by your own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.
+As a council member, Luke could lead through his own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.
 
 ## Other decision-makers
 
 Participation and personal disclosure are individual choices. Electoral eligibility and formal council disclosures follow their own legal processes.
 
-## Partners
+## Possible partners
 
 People choosing the conversation, P4A collaborators, mentors and civic-learning partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your personal P4A and Genesis practice is relevant if council funds programme support, facilities or services for your participation.
+Luke's personal P4A and Genesis practice would be relevant to any council funding of programme support, facilities or services for his participation.
 
 ## Music connections
 
@@ -45,7 +45,6 @@ Your personal P4A and Genesis practice is relevant if council funds programme su
 
 ## Project sources
 
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
 - [Aura Genesis](https://auraofintelligence.github.io/aura-genesis/)
 - [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)
 - [i C. infinity Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
@@ -65,7 +64,7 @@ Your personal P4A and Genesis practice is relevant if council funds programme su
 
 ## Connected entries
 
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Your optional personal Genesis journey can inform this leadership practice.
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Luke's optional personal Genesis journey can inform this leadership practice.
 - [20 500 Queens regional leadership and human mentoring](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/20-500-queens-regional-leadership-and-human-mentoring): The regional mentoring and leadership network has its own participants and purposes.
 - [26 Local arts, music and cinema participation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/26-local-arts-music-and-cinema-participation): The four named songs provide creative expression and context.
-- [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal record control supports your choices about private reflection and public expression.
+- [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal record control supports Luke's choices about private reflection and public expression.

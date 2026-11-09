@@ -4,11 +4,11 @@
 
 ## Purpose
 
-Develop Redlands shared civic places where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.
+The aim is shared civic places across Redlands where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Adapt the civic-establishment architecture to willing mainland and island hosts. Develop location-specific arrangements for rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.
+The civic-establishment architecture would be adapted with willing mainland and island hosts. Location-specific arrangements would cover rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.
 
 ## First-principles foundation
 
@@ -22,21 +22,21 @@ Teacher development, creative work, women-led enterprise, Try Everything activit
 
 Council, regional, national and business partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional/state/federal participation. Council considers any particular asset, lease, grant or service arrangement through its own process.
+The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.
 
 ## Other decision-makers
 
 Landowners and operators decide use and terms. Each community and cultural authority determines its participation and permissions. Identity/access arrangements, including any KYC proposal, must be designed for the actual service and lawful purpose.
 
-## Partners
+## Possible partners
 
 Residents, Traditional Owners and cultural organisations, community hosts, libraries, educators, 500 Queens mentors/participants, businesses, co-operative participants, care and research partners, and neighbouring councils.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.
+Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.
 
 ## Project sources
 
@@ -76,7 +76,7 @@ Identify any interest in the host property, lease, equipment, paid operation or 
 - [52 Cultural intelligence nodes and locally governed federation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/52-cultural-intelligence-nodes-and-locally-governed-federation): Node operation and permissions
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Supported access to personal Aura
 - [05 Free and low-cost AI and data sovereignty learning](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/05-free-and-low-cost-ai-and-data-sovereignty-learning): Possible host for everyday AI learning
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey): Possible host for an optional personal Genesis pathway
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Possible host for an optional personal Genesis pathway
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Possible host for voluntary contribution activities
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Possible host for work exploration
 - [28 Disaster-ready kiosks and resilient local information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/28-disaster-ready-kiosks-and-resilient-local-information): Possible resilient information access point

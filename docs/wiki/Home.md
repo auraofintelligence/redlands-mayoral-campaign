@@ -1,17 +1,17 @@
-# Redlands projects and mayoral levers
+# Ideas for Redlands and the council’s role
 
-This is the public reference wiki for Luke Nathan Hayes’ Redlands project exploration. Each entry describes an option, its council or mayoral levers, other decision-makers, partners and specific transaction boundaries. These are working options, not adopted council policy or a declared programme. Personal notes and private records are excluded.
+Explore Luke Nathan Hayes’ ideas for Redlands, what they could mean for residents, and how the mayor, council, communities and other levels of government could contribute. Each proposal explains the purpose, possible local action, responsibilities and relevant interests. These ideas remain options for public discussion, rather than adopted council policy or a declared programme.
 
 [Open the visual project site](https://auraofintelligence.github.io/redlands-mayoral-campaign/) · [Browse the project collection](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html)
 
-## Read the context
+## Understanding the council’s role
 
-- [Mayoral role and responsibilities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
-- [Connections and boundaries between entries](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)
-- [Official source references](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
-- [Supplied source document register](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
+- [What the mayor and council can do](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
+- [How the ideas connect](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)
+- [Official sources](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
+- [Documents behind the proposals](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
 
-## The 52 entries
+## Explore the 52 proposals
 
 ## Household savings and fairness
 
@@ -38,8 +38,8 @@ This is the public reference wiki for Luke Nathan Hayes’ Redlands project expl
 
 ## Personal Genesis and leadership
 
-- [14 Your personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-your-personal-hbot-purchase-and-genesis-journey)
-- [41 Your voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-your-voluntary-p4a-leadership-practice-and-radical-honesty)
+- [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey)
+- [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty)
 
 ## Health, care and inclusion
 
@@ -84,7 +84,7 @@ This is the public reference wiki for Luke Nathan Hayes’ Redlands project expl
 
 - [32 Sandworm underground-road feasibility](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/32-sandworm-underground-road-feasibility)
 - [33 Small wet-sand TBM services for SMBI](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/33-small-wet-sand-tbm-services-for-smbi)
-- [34 Test spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-test-spoil-reuse-erosion-protection-and-reefs)
+- [34 Spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-spoil-reuse-erosion-protection-and-reefs)
 - [35 Clean energy and local resilience options](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/35-clean-energy-and-local-resilience-options)
 - [45 Geode hardware and experience environments](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/45-geode-hardware-and-experience-environments)
 

@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Develop personal-Aura tools supporting identity, familiar memories, daily choices and relationships for people with dementia and their carers.
+The aim is personal-Aura tools supporting identity, familiar memories, daily choices and relationships for people with dementia and their carers.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Pursue the clinical research path for Aura of Dementia with willing people, carers and care/research partners. Develop person-centred records, familiar music and images, reminders and supported choices, with research on usability, quality of life, function and carer outcomes.
+The clinical research path for Aura of Dementia would involve willing people, carers and care and research partners. It would develop person-centred records, familiar music and images, reminders and supported choices, alongside research on usability, quality of life, function and carer outcomes.
 
 ## Decision route
 
 Aura dementia and carer-support research
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene local care and community partners, connect accessible public learning and age-friendly work, and support a funding conversation with the responsible governments and institutions.
+The mayor could convene local care and community partners, connect accessible public learning and age-friendly work, and support a funding conversation with the responsible governments and institutions.
 
 ## Other decision-makers
 
 Care delivery, clinical research, consent arrangements and health information remain with the responsible participants, providers and research bodies.
 
-## Partners
+## Possible partners
 
 People with dementia, carers, aged-care and home-care providers, clinicians, researchers, community organisations and suitable technology partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your dementia-support software, research role or provider interest is relevant if council funds a study, licences software or selects a research partner involving you.
+Luke's dementia-support software, research role or provider interest would be relevant to any council study funding, software licence or selection of a research partner involving him.
 
 ## Project sources
 

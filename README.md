@@ -1,6 +1,6 @@
 # Luke's Redlands projects, music and command centre
 
-The visual home page introduces the reviewed project collection, Redlands ideas, Luke's background, music and media resources. The 125 selected project pages each have a credited raster image and their own source-checked description. The detailed working map is now a 52-entry [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home), with versioned Markdown source in `docs/wiki/` and shared role, connection and source-reference pages. Owner-requested public exclusions are recorded separately from the original private working map.
+The visual home page introduces the reviewed project collection, Redlands ideas, Luke's background, music and media resources. The 113 selected project pages each have a credited raster image and their own source-checked description. The detailed working map is now a 52-entry [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home), with versioned Markdown source in `docs/wiki/` and shared role, connection and source-reference pages. Owner-requested public exclusions are recorded separately from the original private working map.
 
 The outreach command centre remains available at `outreach.html`. Existing browser-local working records keep their existing storage identity. Personal policy wording, notes, private documents and source-machine paths are excluded from the visual site and wiki projection.
 

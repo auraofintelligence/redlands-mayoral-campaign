@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Avoid unnecessary individual purchases and connect practical skills with repairs, gardens and learning.
+Shared practical tools and facilities aim to avoid unnecessary individual purchases and connect practical skills with repairs, gardens and learning.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Map existing makerspaces, sheds and community equipment; develop shared access, maintenance and skills sessions with willing hosts across divisions.
+A map of existing makerspaces, sheds and community equipment would inform shared access, maintenance and skills sessions developed with willing hosts across divisions.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek council support for shared facilities, equipment access and practical learning through libraries, venues and community partnerships.
+The mayor could seek council support for shared facilities, equipment access and practical learning through libraries, venues and community partnerships.
 
 ## Other decision-makers
 
 Tool hosts manage their equipment and access arrangements; specialist electrical, trade and other regulated work retains its relevant professional responsibilities.
 
-## Partners
+## Possible partners
 
 Libraries, men’s sheds, makerspaces, clubs, trainers and shared-equipment hosts.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Use transparent access and equipment-purchase arrangements. Independently handle council support involving Luke’s equipment, designs, business or an organisation he joins.
+Access and equipment purchases would need transparent arrangements. Council support involving Luke's equipment, designs, business or an organisation he joined would require independent handling.
 
 ## Project sources
 

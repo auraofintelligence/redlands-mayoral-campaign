@@ -1,0 +1,164 @@
+{
+  "roleContext": [
+    {
+      "title": "What the mayor and council can do",
+      "html": "<p>The mayor chairs council, provides strategic direction to the CEO within the Act, appraises the CEO, participates in standing committees and speaks for council. Council makes collective policy and budget decisions; the CEO manages administration and staff. Mayoral directions cannot override a council resolution or adopted document, direct employee appointment or discipline, or require an unlawful act. <a href=\"#A01\">Current Act, sections 12, 13, 104 and 170</a>; <a href=\"#A02\">Redland roles</a>.</p>\n<table><thead><tr><th>Area of responsibility</th><th>What the mayoral role can contribute</th></tr></thead><tbody><tr><td>Council responsibilities</td><td>Build support for policy, funded programmes, service improvements and collective council decisions.</td></tr><tr><td>State and federal responsibilities</td><td>Bring people together, make submissions, seek funding, negotiate partnerships and advocate an authorised council position.</td></tr><tr><td>Neighbouring councils</td><td>Invite joint learning, authorised shared procurement or services, mentoring and coordinated funding proposals. Each council decides its involvement.</td></tr><tr><td>Businesses and community organisations</td><td>Hear needs and ideas, bring partners together and establish fair routes to grants, leases or contracts within council powers.</td></tr><tr><td>Luke’s projects and Strange But True</td><td>Advance the public purpose while keeping any related transaction subject to independent assessment and the applicable interest and conflict rules.</td></tr></tbody></table>\n<p>Luke is considering what could be advanced within a one-year planning horizon. A by-election fills the existing electoral term; the next quadrennial election is in 2028. <a href=\"#A26\">Election guide</a>.</p>"
+    },
+    {
+      "title": "Public benefit and independent decisions",
+      "html": "<p>Authorship of an idea does not by itself settle every conflict question. The assessment depends on the actual matter, the officeholder’s financial and non-financial interests, and the current law. Disclosure alone does not authorise continued participation. <a href=\"#A01\">Current Act</a>; <a href=\"#A07\">interests guidance</a>.</p>\n<p>The proposals start with public outcomes such as lower household costs, useful skills, resilience and better access. Council can consider transparent criteria, available approaches and delivery arrangements. A specific decision that could benefit Luke, Strange But True, his intellectual property or equipment, or an organisation he later establishes or joins would require the applicable interest process and independent advice before participation.</p>\n<p>Personal and Strange But True finances, accounts and information would remain separate from council. General business discussions and capability support are distinct from a live tender: Redland’s tender instructions direct tenderers away from councillor contact about the tender. <a href=\"#A06\">Tender guidance</a>. Any licence, donation, loan or access to Luke’s equipment would need clear terms and independent handling where interests arise.</p>\n<p>Discussions with governments and businesses would distinguish Luke’s personal views, the position of any future organisation and an authorised council position.</p>"
+    },
+    {
+      "title": "Digital capability and council services",
+      "html": "<p>Luke’s proposals for personal AI, community learning, Verse Box, C-hours, public simulations and resilience connect with council’s service and data responsibilities. Council’s public Digital Transformation Portfolio identifies existing systems, contracts and service responsibilities that these proposals would need to work with. <a href=\"#A04\">Council programme</a>.</p>\n<p>The possibility of superintelligence emerging in 2027 or 2028 is a reason to prepare across data, skills, service continuity, procurement, resident access and regional partnerships. Its exact arrival date remains uncertain. Luke’s <a href=\"https://auraofintelligence.github.io/sovereign-capacity-lab/index.html\">Sovereign Capacity Lab</a> develops the scenarios behind this work. International investment intentions and realised spending remain separate measures when figures are quoted.</p>"
+    }
+  ],
+  "overlapGuide": [
+    {
+      "title": "Sovereign direction, compute, places and nodes",
+      "options": [
+        "44",
+        "39",
+        "49",
+        "52",
+        "50",
+        "51",
+        "35"
+      ],
+      "explanation": "The sovereign-capacity proposal brings together the overall direction for Redlands. Computing and hosting, shared civic places, and locally governed cultural intelligence nodes each have their own purpose. Power and material accounts, energy projects, manufacturing and repair provide distinct parts of the physical capability behind them."
+    },
+    {
+      "title": "Council adoption, public simulations and personal data",
+      "options": [
+        "04",
+        "06",
+        "07",
+        "47",
+        "52"
+      ],
+      "explanation": "Council’s use of AI, simpler council interactions and public data simulations address different civic needs. Personal Aura concerns each person’s control of their intelligence and data; cultural intelligence nodes concern the authority of communities over their knowledge. Shared infrastructure would retain these separate permissions."
+    },
+    {
+      "title": "Everyday skills, teaching, work and leadership",
+      "options": [
+        "05",
+        "42",
+        "18",
+        "20",
+        "41"
+      ],
+      "explanation": "Everyday AI and data learning, teacher development and Try Everything work experiences offer different ways to build skills. Women’s leadership and human mentoring extend those connections. Luke’s voluntary leadership practice concerns his own standards and conduct."
+    },
+    {
+      "title": "Contribution, reciprocity and delivery organisations",
+      "options": [
+        "08",
+        "09",
+        "10",
+        "13",
+        "11",
+        "12"
+      ],
+      "explanation": "C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready SET Co-op and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy."
+    },
+    {
+      "title": "Genesis, public access, personal Aura and Geode",
+      "options": [
+        "14",
+        "41",
+        "25",
+        "47",
+        "45"
+      ],
+      "explanation": "Luke’s personal HBOT purchase and optional Genesis journey are distinct from public Verse Box access. His voluntary leadership practice concerns how he applies his chosen standards while serving. Person-controlled Aura and data, and the Geode equipment and experience environment, each retain their own scope."
+    },
+    {
+      "title": "Everyday care, shared access and separate research paths",
+      "options": [
+        "16",
+        "15",
+        "43",
+        "48",
+        "46"
+      ],
+      "explanation": "Everyday support and carer coordination address daily continuity. Co-operative access concerns shared ownership and use of tools. Healthy-ageing, HBOT and longevity research, dementia software and carer-support research, and particular site partnerships each have their own responsibilities and research questions."
+    },
+    {
+      "title": "Activities, neighbourhood venues and civic establishments",
+      "options": [
+        "17",
+        "19",
+        "26",
+        "38",
+        "49",
+        "46"
+      ],
+      "explanation": "Youth learning, collaborative escape rooms and creative participation are different activities. Neighbourhood venues, civic establishments and particular care, learning and research sites could host activities suited to their purpose. Several independent activities could use one place."
+    },
+    {
+      "title": "Everyday publishing, resilient access and disaster coordination",
+      "options": [
+        "27",
+        "28",
+        "29"
+      ],
+      "explanation": "Everyday local publishing, resilient information access during disruption, and preparedness and recovery coordination have different roles. Shared content would retain clear publishing, equipment and operational responsibilities."
+    },
+    {
+      "title": "Household savings, rules and council transactions",
+      "options": [
+        "01",
+        "02",
+        "03",
+        "06"
+      ],
+      "explanation": "Household bill checks address charges, offers and concessions. The legal information navigator explains applicable rules and routes to help; the body corporate navigator applies those capabilities to particular schemes. Council service improvements address completing and tracking council interactions."
+    },
+    {
+      "title": "Food growing and sharing",
+      "options": [
+        "22"
+      ],
+      "explanation": "Dig for Redlands adapts Shared Table’s food-resilience and growing work for households and willing hosts across Redlands."
+    },
+    {
+      "title": "Bee resilience and independent wildlife initiatives",
+      "options": [
+        "37"
+      ],
+      "explanation": "The locally led bee-resilience lab and independent wildlife and habitat initiatives each retain their own scope and participants."
+    },
+    {
+      "title": "Reuse, workshops and manufacturing",
+      "options": [
+        "23",
+        "24",
+        "51",
+        "50"
+      ],
+      "explanation": "Tip Loop concerns recovering and redistributing useful goods. Makerspaces provide shared practical tools and learning. Manufacturing and independent repair concern productive capability and equipment continuity, supported by accounts of material requirements and circular flows."
+    },
+    {
+      "title": "Housing, road tunnels, island services and material reuse",
+      "options": [
+        "30",
+        "32",
+        "33",
+        "34",
+        "07"
+      ],
+      "explanation": "Temporary housing and servicing pathways, Minjerribah underground roads, utility alignments on individual Southern Moreton Bay Islands, and excavated-material reuse are separate proposals. The island-services proposal does not join the islands. Public information and simulations could help residents examine the different proposals."
+    },
+    {
+      "title": "Transport, tourism, the Games and wider cooperation",
+      "options": [
+        "31",
+        "36",
+        "21",
+        "40",
+        "13"
+      ],
+      "explanation": "Independent ferry access and Gumpi scrutiny, tourism and domestic travel, and Games participation address distinct opportunities for Redlands. Reciprocal intergovernmental and international knowledge exchanges could connect wider experience, alongside any links developed through the GAJRA network."
+    }
+  ]
+}

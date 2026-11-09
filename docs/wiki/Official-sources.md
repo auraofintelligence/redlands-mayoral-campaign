@@ -2,7 +2,7 @@
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
-Source checks retain the dates recorded in the public working map.
+These official references support the explanations of council powers, responsibilities and other decision routes. Each source retains its recorded check date.
 
 ## A01
 

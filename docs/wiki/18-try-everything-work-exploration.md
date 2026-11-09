@@ -4,17 +4,17 @@
 
 ## Purpose
 
-Help people discover suitable work through direct experience and local networks.
+Work exploration aims to help people discover suitable work through direct experience and local networks.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Design short tasters across trades, care, arts, technology, food growing and repair. Use recognised placement arrangements and connect interested people with paid training or employment pathways.
+A Redlands programme would offer short tasters across trades, care, arts, technology, food growing and repair. Recognised placement arrangements would connect interested people with paid training or employment pathways.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
 Council can convene employers, offer appropriate opportunities and support school/employment partnerships.
 
@@ -22,13 +22,13 @@ Council can convene employers, offer appropriate opportunities and support schoo
 
 Schools, employment providers and employers hold their own placement, employment, training and safeguarding responsibilities.
 
-## Partners
+## Possible partners
 
 Schools, employers, employment agencies, TAFE/training providers and community hosts.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your work-exploration tools or host role are relevant if council funds placements, procures programme support or selects a delivery partner involving you.
+Luke's work-exploration tools or host role would be relevant to an interest assessment if council funded placements, procured programme support or selected a delivery partner involving him.
 
 ## Project sources
 

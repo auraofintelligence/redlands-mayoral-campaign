@@ -4,19 +4,19 @@
 
 ## Purpose
 
-Build a shared Redlands direction for locally governed intelligence, productive capability and public benefit.
+The aim is a shared Redlands direction for locally governed intelligence, productive capability and public benefit.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop the Redlands sovereign-capacity agenda with councillors, neighbouring councils, state/federal government, businesses, educators and community organisations. Define shared public purposes, how the independent projects connect, the responsibilities of each participant and the agreements or investments sought.
+The Redlands sovereign-capacity agenda would be developed with councillors, neighbouring councils, state and federal government, businesses, educators and community organisations. It would define shared public purposes, the connections between independent projects, each participant's responsibilities, and the agreements or investments sought.
 
 ## Strategic purpose
 
-Treat the 2027/2028 superintelligence horizon as a reason to build local capability with urgency. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The Redlands response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.
+The agenda responds to the 2027/2028 superintelligence horizon with urgency to build local capability. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The proposed Redlands response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.
 
 ## First-principles foundation
 
-Start from the useful work people need, then trace the equipment, people, energy and materials required to deliver it. Keep physical production, working equipment, available infrastructure, finance, ownership and public outcomes as separate accounts.
+Useful work people need provides the starting point, followed by the equipment, people, energy and materials required to deliver it. Physical production, working equipment, available infrastructure, finance, ownership and public outcomes would have separate accounts.
 
 ## Local uses
 
@@ -26,21 +26,21 @@ Shared capacity can support household bill and legal tools, personal Aura and Ve
 
 Council, regional, national and business partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Use the mayoral role to convene the strategic conversation, build support for relevant council policy and partnerships, and represent an authorised Redlands position with other governments and institutions.
+The mayor could convene the strategic conversation, build support for relevant council policy and partnerships, and represent an authorised Redlands position with other governments and institutions.
 
 ## Other decision-makers
 
 Council governs its own services, assets, plans and spending. National industrial, energy, mining, research, trade and security policy involves other governments; grids, manufacturers, landowners and independent organisations make their own commitments.
 
-## Partners
+## Possible partners
 
 Redland councillors and staff, neighbouring councils, state/federal departments and MPs, universities, manufacturers, energy/service owners, local businesses, community organisations and relevant cultural custodians.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any proposed governing role, asset interest or named funding allocation for you or an associated organisation within the shared capacity agreements.
+Relevant interests include a proposed governing role, asset interest or named funding allocation for Luke or an associated organisation within the shared capacity agreements.
 
 ## Project sources
 
@@ -49,8 +49,6 @@ Identify any proposed governing role, asset interest or named funding allocation
 - [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
 - [Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)
 - [Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/)
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
-- [GAJRA Earth - earlier public concept site](https://auraofintelligence.github.io/GAJRA-earth/)
 
 ## Official references
 

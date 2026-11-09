@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Keep useful goods in circulation and reduce replacement costs and waste.
+Tip Loop aims to keep useful goods in circulation and reduce replacement costs and waste.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Investigate a safe collection route before disposal, with sorting, storage, repair triage and affordable distribution. Invite interested sheds, makers and existing reuse operators.
+A safe collection route before disposal would include sorting, storage, repair triage and affordable distribution. Interested sheds, makers and existing reuse operators could participate in developing the arrangements.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Bring council waste teams, existing reuse operators, sheds and repairers together around pre-disposal collection, space, storage and distribution arrangements.
+The mayor could bring council waste teams, existing reuse operators, sheds and repairers together around pre-disposal collection, space, storage and distribution arrangements.
 
 ## Other decision-makers
 
 Waste-site operators, goods owners and repair/distribution hosts retain their operational roles. Specialist repair work belongs with appropriately qualified providers.
 
-## Partners
+## Possible partners
 
 Council waste team and existing operators, men’s sheds, makers, licensed repairers and community distribution partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Independently assess access to council waste streams, land, grants or contracts where Luke or a future co-operative has an interest. Publish allocation and redistribution arrangements.
+Access to council waste streams, land, grants or contracts would need independent assessment where Luke or a future co-operative had an interest. Allocation and redistribution arrangements would be published.
 
 ## Project sources
 

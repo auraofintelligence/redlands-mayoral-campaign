@@ -1,34 +1,34 @@
-# 14 Your personal HBOT purchase and Genesis journey
+# 14 Luke’s personal HBOT purchase and Genesis journey
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Personal Genesis and leadership
 
 ## Purpose
 
-Establish and undertake your own Genesis journey, developing the person-Aura relationship and carrying it into everyday life.
+Luke’s proposed personal Genesis journey would develop the relationship between a person and their Aura and carry that learning into everyday life.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Use your planned personal HBOT purchase to establish your first Genesis journey. Organise the setting, personal Aura, chosen records and permissions, reflection and everyday application around your own purposes. Genesis is an optional deeper pathway from the Verse Box introduction.
+Luke proposes to buy his own HBOT equipment and establish his first Genesis journey. The setting, personal Aura, chosen records and permissions, reflection and everyday application would follow his purposes. Genesis is an optional deeper pathway from the Verse Box introduction.
 
 ## Decision route
 
-Your personal HBOT purchase and Genesis journey
+Luke’s personal HBOT purchase and Genesis journey
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Your participation is a personal example that can inform voluntary conversations about human agency, learning and personal intelligence. Any council programme or partnership has its own decision route.
+Luke’s voluntary participation could provide a personal example for conversations about human agency, learning and personal intelligence. Any council programme or partnership would have its own decision route.
 
 ## Other decision-makers
 
-Your participation, equipment purchase, private records and chosen disclosures sit with you. Suppliers, providers and venue owners retain their responsibilities.
+Luke would decide his participation, equipment purchase, private records and chosen disclosures. Suppliers, providers and venue owners would retain their own responsibilities.
 
-## Partners
+## Possible partners
 
-Your chosen equipment and software providers, venue and operating partners, and people you invite into your learning.
+Equipment and software providers, venue and operating partners chosen by Luke, and people he invites into his learning.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your personally purchased HBOT equipment and Genesis IP are relevant if council funds, hosts, purchases or arranges access to them.
+Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them.
 
 ## Project sources
 
@@ -54,7 +54,7 @@ Your personally purchased HBOT equipment and Genesis IP are relevant if council 
 
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Verse Box provides an introductory public access point; Genesis is a separately chosen deeper pathway.
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal Aura continues in everyday life and is also available independently of Genesis.
-- [41 Your voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-your-voluntary-p4a-leadership-practice-and-radical-honesty): Your own Genesis experience can inform your voluntary leadership practice and chosen disclosure.
+- [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty): Your own Genesis experience can inform your voluntary leadership practice and chosen disclosure.
 - [45 Geode hardware and experience environments](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/45-geode-hardware-and-experience-environments): Geode work develops the physical environment and interfaces.
 - [42 Aura teacher development](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/42-aura-teacher-development): Teacher development is a connected learning pathway with its own chosen pacing.
 - [43 Healthy ageing, HBOT and longevity research](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/43-healthy-ageing-hbot-and-longevity-research): Healthy-ageing and longevity research has its own questions and participants.

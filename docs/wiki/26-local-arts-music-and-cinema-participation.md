@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Create local learning and creative opportunities and test affordable cultural activities.
+Local arts, music and cinema participation would create learning and creative opportunities and test affordable cultural activities.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Adapt music, film, making and cultural events for willing mainland and island venues, with clear rights, cultural governance and accessible participation.
+Music, film, making and cultural events could be adapted for willing mainland and island venues, with clear rights, cultural governance and accessible participation.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Support access to council arts venues, libraries, events and relevant community funding pathways for local music, cinema and creative participation.
+Council could support access to its arts venues, libraries, events and relevant community funding pathways for local music, cinema and creative participation.
 
 ## Other decision-makers
 
 Artists, venues and event organisers choose their programmes and participation arrangements; content owners retain control of licensing and use.
 
-## Partners
+## Possible partners
 
 Community groups, co-operatives, schools, businesses and external funders as appropriate.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your music, creative work or production role is relevant if council funds an event, licences content or commissions work involving you.
+Luke's music, creative work or production role would be relevant to an interest assessment if council funded an event, licensed content or commissioned work involving him.
 
 ## Project sources
 
@@ -52,4 +52,4 @@ No supplied document is specifically attached to this entry.
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Verse Box stations can provide selected creative tools and public introductions.
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access): Local culture, music and film can connect with chosen visitor and resident experiences.
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Shared civic places can host creative activity alongside other independent uses.
-- [41 Your voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-your-voluntary-p4a-leadership-practice-and-radical-honesty): The four named songs provide a creative expression of leadership, reflection and civic participation.
+- [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty): The four named songs provide a creative expression of leadership, reflection and civic participation.

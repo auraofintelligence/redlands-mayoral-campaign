@@ -4,21 +4,21 @@
 
 ## Purpose
 
-Coordinate physical capacity and circular resource requirements across Redlands intelligence, productive infrastructure and essential-service projects.
+The aim is coordination of physical capacity and circular resource requirements across Redlands intelligence, productive infrastructure and essential-service projects.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Use the first-principles ledger to connect workloads and service needs with equipment, electricity, cooling, water, networks, materials, parts, replacement and recovery. Work with service owners and suppliers to identify quantities, delivery stages, responsible parties and opportunities for additional capacity and reuse.
+The first-principles ledger connects workloads and service needs with equipment, electricity, cooling, water, networks, materials, parts, replacement and recovery. Service owners and suppliers could use it to identify quantities, delivery stages, responsible parties and opportunities for additional capacity and reuse.
 
 ## First-principles foundation
 
-Trace finished equipment into net factory feed, manufacturing yield, recycled and primary supply, then ore grade and recovery. Distinguish power rating, annual energy and dependable timed delivery, with storage duration/losses, network connections and actual commissioning recorded separately. Preserve electricity needed for clean-energy transition and essential development; show additional demand explicitly. Count full operating life, repair and recovery rather than purchase mass alone.
+Resource accounts trace finished equipment into net factory feed, manufacturing yield, recycled and primary supply, then ore grade and recovery. They distinguish power rating, annual energy and dependable timed delivery, with storage duration and losses, network connections and actual commissioning recorded separately. The approach preserves electricity needed for the clean-energy transition and essential development, with additional demand shown explicitly. It counts the full operating life, repair and recovery rather than purchase mass alone.
 
 ## Decision route
 
 Council, regional, national and business partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
 Council can examine its own facilities, waste/resource recovery, water/services, infrastructure planning and procurement, and convene utilities, industry, researchers and other governments around the wider requirements.
 
@@ -26,13 +26,13 @@ Council can examine its own facilities, waste/resource recovery, water/services,
 
 Electricity networks, generation, major mineral extraction/refining, industrial capacity and relevant environmental approvals involve responsible operators and state/federal authorities. Each local use still needs the appropriate land, service and operating arrangements.
 
-## Partners
+## Possible partners
 
 Council asset, water and waste teams, energy/network providers, material processors, repair/reuse businesses, engineers, researchers, landholders and state/federal infrastructure partners.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any supplier, asset or financial interest in the energy, materials, equipment, maintenance or recovery arrangements recorded in the resource plan.
+Relevant interests include a supplier, asset or financial interest in the energy, materials, equipment, maintenance or recovery arrangements recorded in the resource plan.
 
 ## Project sources
 
@@ -63,7 +63,7 @@ Identify any supplier, asset or financial interest in the energy, materials, equ
 - [30 Temporary and modular housing options](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/30-temporary-and-modular-housing-options): Housing and service requirements
 - [32 Sandworm underground-road feasibility](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/32-sandworm-underground-road-feasibility): Underground-road requirements
 - [33 Small wet-sand TBM services for SMBI](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/33-small-wet-sand-tbm-services-for-smbi): Island-service requirements
-- [34 Test spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-test-spoil-reuse-erosion-protection-and-reefs): Material reuse and coastal destinations
+- [34 Spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-spoil-reuse-erosion-protection-and-reefs): Material reuse and coastal destinations
 - [35 Clean energy and local resilience options](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/35-clean-energy-and-local-resilience-options): Specific energy projects
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute resource requirements
 - [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence): Shared capacity direction

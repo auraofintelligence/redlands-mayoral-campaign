@@ -4,36 +4,35 @@
 
 ## Purpose
 
-Connect Redlands work with reciprocal learning, research and capability exchanges that respect each participant's authority.
+The aim is to connect Redlands work with reciprocal learning, research and capability exchanges that respect each participant's authority.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Use the diversification, Vuvale, GAJRA and long-term civilisation papers to develop specific invitations for research, teaching, technical knowledge and practical capability exchange. Identify the local project involved, what each party would contribute, information/IP terms and the responsible government or institutional interface.
+The diversification, Vuvale, GAJRA and long-term civilisation papers provide a basis for specific invitations to exchange research, teaching, technical knowledge and practical capability. Each invitation would identify the local project, each party's contribution, information and intellectual-property terms, and the responsible government or institutional interface.
 
 ## Decision route
 
 Advocacy and intergovernmental partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene appropriate institutional and regional conversations, seek a council-endorsed position where council participation is proposed, and refer national matters through the responsible government channels.
+The mayor could convene appropriate institutional and regional conversations, seek a council-endorsed position where council participation is proposed, and refer national matters through the responsible government channels.
 
 ## Other decision-makers
 
 Other communities, institutions and governments decide their participation. Treaty, immigration, defence, national trade and other national-policy decisions remain with the responsible governments.
 
-## Partners
+## Possible partners
 
 Responsible departments, neighbouring councils, MPs, research institutions, community organisations and businesses.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any paid research, consulting, travel support, intellectual-property agreement or partner role connected to an exchange that council is considering.
+Relevant interests include paid research, consulting, travel support, an intellectual-property agreement or a partner role connected to an exchange that council is considering.
 
 ## Project sources
 
 - [A Fair Go in the Age of Intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
 - [AUKUS Space Gambit](https://auraofintelligence.github.io/aukus-space-gambit/)
 - [Brisbane Peaceful Space & Civic AI Summit](https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/)
 - [Extreme Matter Atlas](https://auraofintelligence.github.io/extreme-matter-atlas/)

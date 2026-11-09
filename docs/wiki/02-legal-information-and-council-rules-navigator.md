@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Reduce time spent finding the right rule, collecting documents and approaching the right service.
+The legal information engine could reduce the time residents spend finding the applicable rule, gathering documents and reaching the right service.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Adapt the engine to explain council processes, common consumer issues and referral routes. Publish source dates, applicable jurisdiction and a plain-language complaint trail.
+A Redlands version could explain council processes, common consumer issues and routes to help. Source dates, the applicable jurisdiction and a plain-language complaint trail would accompany the information.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek a council-backed rules and referral navigator for council processes, with dated sources and connections to community legal assistance.
+The mayor could seek council support for a rules and referral navigator covering council processes, with dated sources and connections to community legal assistance.
 
 ## Other decision-makers
 
 The navigator helps people locate rules and routes. Qualified professionals and the relevant complaint, tribunal or court bodies retain their own functions and decisions.
 
-## Partners
+## Possible partners
 
 Council legal/customer-service teams, community legal centres, qualified lawyers and relevant complaint bodies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Independently assess any council licence or contract involving Luke’s legal-engine IP. Case referrals and document access need clear consent and impartial criteria.
+Any council licence or contract involving Luke’s legal-engine intellectual property would require independent assessment. Case referrals and document access would use clear consent and impartial criteria.
 
 ## Project sources
 

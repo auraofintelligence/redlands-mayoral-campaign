@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Support youth safety and opportunity through engaging activities across generations, trusted relationships and practical learning.
+Collaborative activities across generations aim to support youth safety and opportunity through trusted relationships and practical learning.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Adapt cooperative puzzles and making challenges for libraries, schools and community centres. Test whether optional voice reflection helps participants learn teamwork.
+Cooperative puzzles and making challenges could be adapted for libraries, schools and community centres. Optional voice reflection would allow participants and facilitators to explore whether it helps people learn teamwork.
 
 ## Decision route
 
 Community partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek suitable council venues and youth, library or arts partnerships for collaborative escape-room sessions and intergenerational making, with community input into the activities.
+Council could consider suitable venues and youth, library or arts partnerships for collaborative escape-room sessions and intergenerational making, with community input into the activities.
 
 ## Other decision-makers
 
 Hosts and facilitators manage sessions, recordings and participant permissions; schools and community organisations choose their own involvement.
 
-## Partners
+## Possible partners
 
 Schools, youth services, libraries, community venues, mentors, makers and participants across generations.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your game design, recording tools or delivery role are relevant if council commissions sessions, licences the format or funds a host involving you.
+Luke's game design, recording tools or delivery role would be relevant to an interest assessment if council commissioned sessions, licensed the format or funded a host involving him.
 
 ## Project sources
 

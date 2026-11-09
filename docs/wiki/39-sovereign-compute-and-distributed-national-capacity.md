@@ -4,38 +4,37 @@
 
 ## Purpose
 
-Provide Australian and locally governed computing and hosting capacity for personal, community, civic and productive workloads.
+The aim is Australian and locally governed computing and hosting capacity for personal, community, civic and productive workloads.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop the compute/service design and investment case for participating Redlands institutions, businesses, communities and regional partners. Specify workloads, processing and storage needs, power/cooling/network requirements, access terms, service levels, operating responsibility, portability and recovery arrangements.
+A Redlands compute and service design would set out the investment case for participating institutions, businesses, communities and regional partners. It would specify workloads, processing and storage needs, power, cooling and network requirements, access terms, service levels, operating responsibility, portability and recovery arrangements.
 
 ## Decision route
 
 Advocacy and intergovernmental partnership
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene prospective public users, hosts, providers and regional partners; bring council service requirements into the design and seek appropriate council decisions and external investment through the funding route in 12.
+The mayor could convene prospective public users, hosts, providers and regional partners, bring council service requirements into the design, and seek appropriate council decisions and external investment through the funding route in entry 12.
 
 ## Other decision-makers
 
 Infrastructure owners and providers decide their facilities and service agreements. Power/network owners and external funding or regulatory bodies retain their responsibilities.
 
-## Partners
+## Possible partners
 
 Universities, compute and energy providers, neighbouring councils, community hosts and responsible state/federal agencies.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any ownership, licence income or paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council.
+Relevant interests include ownership, licence income or a paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council.
 
 ## Project sources
 
 - [Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)
 - [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
 - [Aura Direct Hardware](https://auraofintelligence.github.io/aura-direct-hardware/)
-- [P4Australia - People's Purple Protopian Party proposal](https://auraofintelligence.github.io/P4Australia/)
 
 ## Official references
 

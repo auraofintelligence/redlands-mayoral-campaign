@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Make local information easier to find and reduce reliance on commercial social platforms.
+Community noticeboards and locally governed websites aim to make local information easier to find and reduce reliance on commercial social platforms.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Pilot accessible public digital noticeboards plus a low-bandwidth website and optional subscriptions for local activities, services and preparedness information.
+A pilot would combine accessible public digital noticeboards with a low-bandwidth website and optional subscriptions for local activities, services and preparedness information.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek council support for accessible public information channels and community publishing partnerships, with clear editorial and moderation responsibilities.
+The mayor could seek council support for accessible public information channels and community publishing partnerships, with clear editorial and moderation responsibilities.
 
 ## Other decision-makers
 
 Community publishers remain responsible for their notices and editorial choices. Council and authorised agencies control their own official information and updates.
 
-## Partners
+## Possible partners
 
 Community publishers, neighbourhood organisations, council communications/disaster teams, local businesses and venue hosts.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Set transparent publishing, moderation and venue-access terms. Any council purchase of Luke’s website or noticeboard systems needs independent handling.
+Publishing, moderation and venue access would operate under transparent terms. Any council purchase of Luke's website or noticeboard systems would require independent handling.
 
 ## Project sources
 

@@ -4,31 +4,31 @@
 
 ## Purpose
 
-Give residents, community groups and small businesses practical skills with a free entry path.
+Residents, community groups and small businesses could build practical AI and data sovereignty skills through free entry options and low-cost further learning.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Assemble accessible online lessons and optional supported sessions: useful prompts, checking sources, scams, document privacy, backups, export, local models and choosing providers. Reuse free official training where suitable.
+Accessible online lessons and optional supported sessions could cover useful prompts, source checking, scams, document privacy, backups, exporting data, local models and choosing providers. Suitable free official training could be included.
 
 ## Decision route
 
 Council services and policy
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Seek council support for accessible online resources, library and community learning, and partnerships with education and digital-inclusion providers.
+The mayor could seek council support for accessible online resources, library and community learning, and partnerships with education and digital-inclusion providers.
 
 ## Other decision-makers
 
 Independent providers choose their teaching offers and delivery arrangements; formal qualifications remain with the responsible education bodies.
 
-## Partners
+## Possible partners
 
 Libraries, TAFE/education providers, community centres, small-business networks and digital inclusion organisations.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Your learning materials, teaching services or Strange But True are relevant if council funds teaching, licences resources or purchases learning support.
+If council funded teaching, licensed Luke’s learning materials or purchased support from Strange But True, the related interest would be identified and handled through the applicable decision process.
 
 ## Project sources
 

@@ -4,36 +4,34 @@
 
 ## Purpose
 
-Develop GAJRA Earth Redlands as a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.
+GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.
 
-## Possible Redlands action
+## What this could mean for Redlands
 
-Develop the association's purpose, membership, governance, legal-structure choice and connections with participating projects and other GAJRA communities. Specify which activities it hosts itself and which remain with independent people, organisations or delivery partners.
+Prospective participants could shape its purpose, membership, governance, legal structure and connections with participating projects and other GAJRA communities. Its own activities would be distinguished from those of independent people, organisations and delivery partners.
 
 ## Decision route
 
 Personal initiative and public-purpose overlap
 
-## Mayoral and council lever
+## What the mayor and council could do
 
-Convene discussion of the public purposes and possible community connections. Any council relationship with a particular association is considered through the relevant council process.
+The mayor could convene discussion of public purposes and community connections. Any council relationship with a particular association would be considered through the relevant council process.
 
 ## Other decision-makers
 
 Participants choose their association and governance arrangements. Other organisations and communities decide their own involvement and retain their authority.
 
-## Partners
+## Possible partners
 
 Independent advisers, qualified providers, venues and appropriate regulators; prospective members and directors if an organisation is formed.
 
-## Specific interest or transaction boundary
+## Interests and independent decisions
 
-Identify any GAJRA role or financial interest when council considers a grant, premises arrangement, service agreement or other support for the association.
+Any GAJRA role or financial interest held by Luke would be identified when council considered a grant, premises arrangement, service agreement or other support for the association.
 
 ## Project sources
 
-- [GAJRA Earth - earlier public concept site](https://auraofintelligence.github.io/GAJRA-earth/)
-- [GAJRA Earth Network (project overview)](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects/gajra-earth-network.html)
 - [GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)
 
 ## Official references
