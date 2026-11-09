@@ -87,7 +87,7 @@ test('reference material uses the real GitHub Wiki and published project destina
  const home=await read('dist/index.html');assert.ok(home.includes(`href="${wiki}Home"`));assert.doesNotMatch(home,/wiki\/index\.html/);
  assert.ok(!(await readdir(dist)).includes('wiki'));
  const wikiFiles=await readdir(path.join(root,'docs/wiki'));assert.equal(wikiFiles.length,59);
- assert.match(await read('docs/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence.md'),/## First-principles foundation/);
+ assert.match(await read('docs/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence.md'),/## What it needs to work/);
  for(const entry of JSON.parse(await read('data/visual-content.json')).options)for(const key of ['title','purpose','redlandsAdaptation','route','mayoralCouncilLever','outside','partners','conflictBoundary','strategicPurpose','firstPrinciples','localApplications','leadershipExample','researchRationale'])if(entry[key])assert.doesNotMatch(entry[key],/\b(?:you|your|yourself|yours)\b/i,`Author address in public Wiki entry ${entry.id} ${key}`);
  const content=JSON.parse(await read('data/visual-content.json')),destinations=JSON.parse(await read('data/project-destinations.json')).destinations;
  for(const p of content.groups.flatMap(g=>g.projects)){const destination=destinations[p.repoName.toLowerCase()];assert.ok(destination);if(destination.kind==='website'){const filename=p.repoName.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');assert.ok((await read(`dist/projects/${filename}.html`)).includes(`href="${destination.url}"`),p.repoName);}}

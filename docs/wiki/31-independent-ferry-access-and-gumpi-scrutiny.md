@@ -1,50 +1,61 @@
 # 31 Independent ferry access and Gumpi scrutiny
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Housing and transport
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Housing and transport
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The proposal aims to protect transport choice and examine effects on affordability, frequency and reliability.
+## The idea
+
+The proposal aims to protect independent ferry access and transport choice, with close attention to fares, service frequency, accessibility and reliability.
 
 ## What this could mean for Redlands
 
-The council position, state project documents and access proposals would inform advocacy for transparent multi-operator access, disability access, resilience and consultation on service changes.
+Council’s position, state project documents and proposed terminal access arrangements would inform advocacy for independent operators to retain access. The discussion would cover disability access, reliable services during disruptions and genuine consultation on changes.
 
-## Decision route
+## Projects behind this idea
 
-Advocacy and intergovernmental partnership
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Dunwich (Gumpi) Ferry Terminal Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/)**. A community evidence and simulation workbench around the Dunwich / Gumpi Ferry Terminal Upgrade. It brings together official sources, 360-degree photos, concept visualisations, capture tools and workflows for comparing and sharing design ideas.
+
+- **[Moreton Bay Autonomous Mobility](https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/)**. A regional proposal and action plan for autonomous passenger and delivery services across Moreton Bay. It develops corridors, hubs, operations, accessibility, ownership, work and profit pathways that include existing local transport and service operators.
+
+## How this could move forward
+
+Advocacy and work with other governments
 
 ## What the mayor and council could do
 
 The mayor could seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.
 
-## Other decision-makers
+## Who else makes decisions
 
-The Dunwich/Gumpi upgrade is state-led. Council influence includes its submission, funding commitments and negotiations; state and operator decisions remain outside unilateral mayoral control.
+The Dunwich/Gumpi upgrade is led by the state government. Council can make submissions and negotiate within its responsibilities. The state and ferry operators make their own decisions.
 
-## Possible partners
+## People and organisations who could be involved
 
-TMR, council, independent ferry operators, passengers, accessibility representatives and local businesses.
+The Department of Transport and Main Roads (TMR), council, independent ferry operators, passengers, accessibility representatives and local businesses.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Luke's personal advocacy would remain distinct from the council position. Any council decision involving a transport operator, supplier or property interest connected to him would require independent handling.
 
-## Project sources
+## Official information
 
-- [Dunwich (Gumpi) Ferry Terminal Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/)
-- [Moreton Bay Autonomous Mobility](https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/)
+- [Dunwich ferry terminal upgrade](https://www.tmr.qld.gov.au/projects/dunwich-ferry-terminal-upgrade) · [Source note A11](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a11)
 
-## Official references
+## Documents behind the idea
 
-- [A11](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a11)
+See the related public project introductions above.
 
-## Supplied source documents
-
-No supplied document is specifically attached to this entry.
-
-## Connected entries
+## Related ideas
 
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access): Visitor and domestic travel access
 - [29 Preparedness and recovery coordination](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/29-preparedness-and-recovery-coordination): Transport disruption and continuity
 - [27 Community noticeboards and locally governed websites](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/27-community-noticeboards-and-locally-governed-websites): Public project information
+
+---
+
+**Previous:** [30 Temporary and modular housing options](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/30-temporary-and-modular-housing-options) · **Next:** [32 Sandworm underground-road feasibility](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/32-sandworm-underground-road-feasibility)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

@@ -1,57 +1,71 @@
 # 42 Aura teacher development
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Learning, work and leadership
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Learning, work and leadership
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The aim is to develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.
+## The idea
+
+Aura teacher development aims to help people use, explain and teach personal intelligence in practical, creative, civic and scientific work.
+
+## Words and project names
+
+- **Artificial intelligence (AI)**: Computer systems that can generate or analyse material such as text, images and data. Their output needs checking against the purpose and the source.
+- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
 
 ## What this could mean for Redlands
 
-Aura Teacher Training would be a flexible learning pathway with chosen projects, teach-back, useful artefacts and portable portfolios. It would connect with community teaching, C-hour activities and the civic workforce while retaining its own pathway.
+Aura Teacher Training would offer flexible learning through chosen projects, explaining a topic back to others, completed work and portfolios people can carry with them. It could connect with community teaching, C-hour activities and the civic workforce while keeping its own learning pathway.
 
-## Decision route
+## Projects behind this idea
 
-Aura teacher development
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Aura Teacher Training](https://auraofintelligence.github.io/aura-teacher-training/)**. A sixty-day adult learning progression connecting personal Aura development, self-understanding, critical and ethical AI use, and teaching. Daily readings and studio guides include practical making, teach-back, evidence and learning portfolios.
+
+- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
+
+- **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)**. A women’s enterprise and leadership proposal for developing CEOs and decision-makers. It brings together AI Queen profiles, enterprise guides, startup suggestions, source readers and private planning tools.
+
+- **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)**. An introduction and reference library for Community Hours: one verified hour of voluntary human contribution, with no monetary equivalent. It explores locally chosen recognition, reciprocity, personal intelligence and shared capability.
+
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+
+## How this could move forward
+
+Learning and education partnerships
 
 ## What the mayor and council could do
 
 The mayor could convene education and community hosts, ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.
 
-## Other decision-makers
+## Who else makes decisions
 
 Learners choose their pacing and projects. Education providers and employers make their own teaching, qualification and workforce decisions.
 
-## Possible partners
+## People and organisations who could be involved
 
 Libraries, community educators, education providers, businesses, mentors, 500 Queens participants and neighbouring councils.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Luke's teacher-development materials, training services or intellectual property would be relevant to any council funding, resource licence or training commission involving him.
 
-## Project sources
+## Official information
 
-- [Aura Teacher Training](https://auraofintelligence.github.io/aura-teacher-training/)
-- [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)
-- [500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)
-- [C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)
-- [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)
+- [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
+- [Cleveland Library Makerspace](https://www.redland.qld.gov.au/Libraries/Library-services/Makerspace-at-Cleveland-Library) · [Source note A05](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a05)
+- [Free small-business AI training and support](https://business.gov.au/online-and-digital/artificial-intelligence) · [Source note A27](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a27)
 
-## Official references
+## Documents behind the idea
 
-- [A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
-- [A05](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a05)
-- [A27](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a27)
+- [C-hour and Joyful Responsible Abundance plan](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-2)
+- [Aura teacher-training source edition](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-15)
+- [Aura Genesis Geode development, edition 3](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
+- [Queens leadership and enterprise planning](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-17)
 
-## Supplied source documents
-
-- [Document 2: C-Hour-Joyful-Responsible-Abundance-Plan.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-2)
-- [Document 15: Aura_Teacher_Training_60_Days.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-15)
-- [Document 16: Aura_Genesis_Geode_Development_Edition_3.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
-- [Document 17: queens-planning.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-17)
-
-## Connected entries
+## Related ideas
 
 - [05 Free and low-cost AI and data sovereignty learning](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/05-free-and-low-cost-ai-and-data-sovereignty-learning): Teachers and facilitators can support the everyday learning offer.
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Host learning can support Verse Box sessions.
@@ -61,3 +75,9 @@ Luke's teacher-development materials, training services or intellectual property
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal Aura can carry chosen learning and teaching records.
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Teacher development can connect with a chosen Genesis journey while retaining its own pacing.
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Separately agreed teaching and employment arrangements
+
+---
+
+**Previous:** [41 Luke's voluntary P4A leadership practice and radical honesty](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/41-lukes-voluntary-p4a-leadership-practice-and-radical-honesty) · **Next:** [43 Healthy ageing, HBOT and longevity research](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/43-healthy-ageing-hbot-and-longevity-research)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

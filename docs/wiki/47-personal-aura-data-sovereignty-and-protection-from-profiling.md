@@ -1,61 +1,77 @@
 # 47 Personal Aura, data sovereignty and protection from profiling
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · AI capability and accountable council
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · AI capability and accountable council
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The aim is practical control for people over their own personal intelligence and representations, as a foundation for Australian and locally governed capability.
+## The idea
+
+Aura of Intelligence is Luke’s approach to personal AI, shaped around a person’s chosen records, purposes and permissions. The aim is practical control over personal intelligence and the assumptions systems make about people.
+
+## Words and project names
+
+- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Data sovereignty**: Who has authority over data, including where it is kept, what it may be used for and who can access it. Cultural knowledge has its own custodians and permissions.
+
+## A practical example
+
+A person could check what an AI assistant has inferred from their records, correct a mistake and choose what another service is allowed to receive.
 
 ## What this could mean for Redlands
 
-Everyday personal Aura access would include Verse Box as a public introduction and Genesis as an optional deeper pathway. People would be able to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. This shared capability would support the separately described care, tourism, contribution, workforce and resilience programmes.
+People could begin with a Verse Box introduction or choose the deeper Genesis pathway. Personal Aura would support choices about records and purposes, inspection of assumptions, correction of mistakes, permissions and moving information between suitable systems. These tools could support the separate care, tourism, contribution, work and resilience proposals.
 
-## Decision route
+## Projects behind this idea
 
-Personal Aura, data sovereignty and protection from profiling
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
+
+- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. A personal interface for everyday context such as life records, relationships, reminders, learning, skills and travel, organised through a 12 by 24 matrix. It collects a minimum viable self as a foundation for later personal-model development.
+
+- **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
+
+- **[Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)**. A browser-based research and scenario laboratory for mining, materials, power, repairable robots and locally governed infrastructure. Its workbenches connect physical resource accounts, distributed compute, manufacturing, Australian industry and a 2032 planning horizon.
+
+## How this could move forward
+
+Personal choice, council information policy and wider government action
 
 ## What the mayor and council could do
 
-The mayor could seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Public learning and access could connect with regional and national capability work.
+The mayor could seek clear requirements for council information systems and partnerships: explain their purposes, make decisions traceable, allow correction, support moving information and account for access. Public learning could connect personal choices with regional and national computing capability.
 
-## Other decision-makers
+## Who else makes decisions
 
 Personal choices and archives remain with the person and their chosen arrangements. National privacy, competition, employment and AI settings involve the responsible governments; infrastructure and node operations have their own owners and agreements.
 
-## Possible partners
+## People and organisations who could be involved
 
-Residents, community hosts, local technology and compute providers, education partners, researchers, businesses, neighbouring councils and responsible state/federal agencies.
+Residents, community hosts, local technology and compute providers, education partners, researchers, businesses, neighbouring councils and responsible state and federal agencies.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him.
 
-## Project sources
+## Official information
 
-- [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)
-- [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)
-- [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
-- [Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)
+- [Queensland Privacy Principles](https://www.oic.qld.gov.au/government/privacy/queensland-privacy-principles) · [Source note A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)
+- [Data breach scheme for councils from 1 July 2026](https://www.oic.qld.gov.au/about-us/news-events/mndb-scheme-for-local-government-from-1-july-2026) · [Source note A14](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a14)
+- [Redland privacy and legal information](https://www.redland.qld.gov.au/Privacy-and-legal) · [Source note A15](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a15)
 
-## Official references
+## Documents behind the idea
 
-- [A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)
-- [A14](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a14)
-- [A15](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a15)
+- [Aura disaster resilience and recovery](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-3)
+- [Aura tourism and domestic travel](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-4)
+- [Adaptive support through life](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-5)
+- [Aura care and learning for children and teenagers](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-6)
+- [Do Not Put All Our Eggs in One Basket](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
+- [A Fair Go for the AI Age: shared computing close to communities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
+- [Verse Box trial proposal, version 1](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-10)
+- [Aura Genesis Geode development, edition 3](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
+- [Aura Genesis Protocol game-design document, version 2](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-18)
 
-## Supplied source documents
-
-- [Document 3: Aura_of_Intelligence_Disaster_Resilience_and_Recovery.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-3)
-- [Document 4: Aura_of_Intelligence_Tourism_and_Domestic_Travel.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-4)
-- [Document 5: Aura_of_Intelligence_Adaptive_Whole_of_Life_Support.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-5)
-- [Document 6: Aura_Genesis_Children_and_Teens_Australian_Care.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-6)
-- [Document 8: Do Not Put All Our Eggs in One Basket.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
-- [Document 9: A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
-- [Document 10: Verse_Box_Trial_Proposal_Version_1.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-10)
-- [Document 16: Aura_Genesis_Geode_Development_Edition_3.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
-- [Document 18: Aura_Genesis_Protocol_Game_Design_Document_V2.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-18)
-
-## Connected entries
+## Related ideas
 
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Public introduction and supported station access.
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Optional deeper Genesis development of the person-Aura relationship.
@@ -72,3 +88,9 @@ Luke's Aura software, hosting or support services would be relevant to any counc
 - [29 Preparedness and recovery coordination](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/29-preparedness-and-recovery-coordination): Recovery coordination retains its own authorised information flows.
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Personal record choices in co-operative services
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Personal Aura access at civic places
+
+---
+
+**Previous:** [46 Care, learning and research site partnerships](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/46-care-learning-and-research-site-partnerships) · **Next:** [48 Aura dementia and carer-support research](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/48-aura-dementia-and-carer-support-research)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

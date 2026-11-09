@@ -1,0 +1,424 @@
+{
+  "reviewedOn": "2026-11-09",
+  "aboutLuke": "Luke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. He develops digital tools, community proposals, public submissions and music. Strange But True is his sole-trader business and a public doorway into that work. He is exploring a possible Redlands mayoral campaign as one person supported by AI companions.",
+  "aim": "Joyful Responsible Abundance is the shared aim: more room to live well, take part, learn and create, with care for other people, Country and the living world. The practical questions are how to ease avoidable costs, share useful resources, recognise contribution and give people a meaningful say in decisions that affect them.",
+  "values": [
+    {
+      "name": "Joyful",
+      "explanation": "Make room for connection, creativity, learning, enjoyment and a life beyond administration."
+    },
+    {
+      "name": "Responsible",
+      "explanation": "Respect choice, privacy and cultural authority; explain decisions and use resources with care."
+    },
+    {
+      "name": "Abundance",
+      "explanation": "Help more people gain access to useful skills, tools, services and opportunities, and share in the benefits."
+    }
+  ],
+  "paths": [
+    {
+      "label": "Household costs and fair treatment",
+      "ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "label": "Care, memory and living well",
+      "ids": [
+        "16",
+        "43",
+        "48"
+      ]
+    },
+    {
+      "label": "Learning, work and participation",
+      "ids": [
+        "05",
+        "17",
+        "18",
+        "42"
+      ]
+    },
+    {
+      "label": "Food, repairs and shared spaces",
+      "ids": [
+        "22",
+        "23",
+        "24",
+        "38"
+      ]
+    },
+    {
+      "label": "Travel, information and disaster readiness",
+      "ids": [
+        "27",
+        "28",
+        "29",
+        "31",
+        "36"
+      ]
+    },
+    {
+      "label": "Personal AI and the wider direction",
+      "ids": [
+        "25",
+        "47",
+        "44",
+        "49",
+        "52"
+      ]
+    }
+  ],
+  "howToRead": "Each page introduces an idea and the projects behind it, explains what it could mean locally, and sets out who makes the relevant decisions. Examples illustrate possible uses. They do not announce a service, partnership or personal commitment. Related ideas stay separate so their different purposes, choices and responsibilities remain clear.",
+  "examples": {
+    "01": "A bill check works like checking a shopping receipt: compare the charge with what was agreed, then follow up a difference with the right provider.",
+    "06": "A resident could see which documents an application needs and what happens next, instead of retelling the same story at each step.",
+    "07": "Like a model used before a building project, a digital twin lets people compare options before work starts. The usefulness of the result depends on its information and assumptions.",
+    "23": "A repairable appliance could be collected before disposal, checked by the appropriate repairer and made available at an affordable cost.",
+    "24": "A shared workshop can give several households access to a tool and the skills to use it, with agreed bookings, upkeep and costs.",
+    "39": "Like a shared workshop, a computing service needs suitable equipment, reliable power, people who can maintain it and clear access arrangements.",
+    "47": "A person could check what an AI assistant has inferred from their records, correct a mistake and choose what another service is allowed to receive.",
+    "49": "One community building could host different activities at different times. Each activity would still have its own organisers, permissions and costs.",
+    "50": "A resource plan is like a project’s working list of supplies and running costs: what is needed, how much, when it is available, who maintains it and what happens at the end of its working life.",
+    "52": "Neighbouring libraries can share selected resources while each remains responsible for its own collection. Cultural intelligence nodes could cooperate in a similar way, under agreed permissions."
+  },
+  "terms": [
+    {
+      "name": "Artificial intelligence (AI)",
+      "meaning": "Computer systems that can generate or analyse material such as text, images and data. Their output needs checking against the purpose and the source.",
+      "entries": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "17",
+        "39",
+        "42",
+        "44",
+        "51"
+      ]
+    },
+    {
+      "name": "Aura of Intelligence / personal Aura",
+      "meaning": "Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.",
+      "entries": [
+        "08",
+        "14",
+        "16",
+        "17",
+        "25",
+        "36",
+        "41",
+        "42",
+        "43",
+        "45",
+        "47",
+        "48",
+        "49",
+        "52"
+      ]
+    },
+    {
+      "name": "Community Hours (C-hours)",
+      "meaning": "A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.",
+      "entries": [
+        "08",
+        "09",
+        "15",
+        "18",
+        "21",
+        "22",
+        "24",
+        "42",
+        "49",
+        "52"
+      ]
+    },
+    {
+      "name": "Genesis",
+      "meaning": "Luke’s proposed person–Aura development journey, connecting reflection, health, chosen records, personal intelligence and everyday participation. The source journey is organised around sixty sessions.",
+      "entries": [
+        "14",
+        "25",
+        "36",
+        "41",
+        "43",
+        "45"
+      ]
+    },
+    {
+      "name": "Verse Box",
+      "meaning": "A proposed portable public introduction to personal Aura, learning and community participation, with supported sessions and clear handling of personal records.",
+      "entries": [
+        "05",
+        "14",
+        "25",
+        "45",
+        "49"
+      ]
+    },
+    {
+      "name": "Geode",
+      "meaning": "The proposed physical equipment and experience settings for Genesis, personal Aura and learning. The source guide describes several HBOT and Geode hardware paths.",
+      "entries": [
+        "14",
+        "43",
+        "45",
+        "46"
+      ]
+    },
+    {
+      "name": "Hyperbaric oxygen therapy (HBOT)",
+      "meaning": "Breathing oxygen in a pressurised chamber. Clinical services and proposed research have their own providers, participation choices and responsibilities.",
+      "entries": [
+        "14",
+        "15",
+        "43",
+        "45"
+      ]
+    },
+    {
+      "name": "Ready SET Co-op",
+      "meaning": "A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.",
+      "entries": [
+        "10",
+        "11",
+        "12",
+        "18"
+      ]
+    },
+    {
+      "name": "GAJRA Earth",
+      "meaning": "Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.",
+      "entries": [
+        "13",
+        "40",
+        "46"
+      ]
+    },
+    {
+      "name": "P4A",
+      "meaning": "Luke’s public civic and political proposal. The leadership idea in this Wiki concerns the voluntary standards he chooses for himself.",
+      "entries": [
+        "41"
+      ]
+    },
+    {
+      "name": "Sovereign capacity / sovereign compute",
+      "meaning": "The practical ability to provide and govern useful computing, skills, equipment and services, including decisions about where data is kept and how systems are run.",
+      "entries": [
+        "39",
+        "44",
+        "50",
+        "51",
+        "52"
+      ]
+    },
+    {
+      "name": "The missing middle",
+      "meaning": "The people, places, equipment and ongoing work needed between an idea and a service people can actually use. The linked project develops a plan for locally owned community computing.",
+      "entries": [
+        "10",
+        "12",
+        "39",
+        "44"
+      ]
+    },
+    {
+      "name": "Digital twin",
+      "meaning": "A digital model of a real place, person or system. The purpose, information and permissions vary with what is being modelled.",
+      "entries": [
+        "07"
+      ]
+    },
+    {
+      "name": "Data sovereignty",
+      "meaning": "Who has authority over data, including where it is kept, what it may be used for and who can access it. Cultural knowledge has its own custodians and permissions.",
+      "entries": [
+        "05",
+        "07",
+        "47",
+        "52"
+      ]
+    },
+    {
+      "name": "A node and a federation",
+      "meaning": "A node is a local service within a wider network. A federation is an arrangement for those local services to work together while keeping agreed local authority.",
+      "entries": [
+        "52"
+      ]
+    },
+    {
+      "name": "Governance",
+      "meaning": "The rules for who decides, how people take part and how decisions can be checked.",
+      "entries": []
+    },
+    {
+      "name": "Procurement and grant acquittal",
+      "meaning": "Procurement is the process of buying goods or services. A grant acquittal is a report showing how grant money was used and whether the agreed work was done.",
+      "entries": []
+    },
+    {
+      "name": "Intellectual property",
+      "meaning": "Rights associated with work such as writing, designs and software. Ownership and permission to use the work need to be clear.",
+      "entries": []
+    },
+    {
+      "name": "Identity checks (KYC)",
+      "meaning": "KYC stands for know your customer: a process for checking identity. Any use in a proposed service would need a clear purpose, suitable privacy arrangements and a lawful basis.",
+      "entries": [
+        "49"
+      ]
+    }
+  ],
+  "documents": {
+    "1": {
+      "label": "Local government funding inquiry submission",
+      "repos": [
+        "p4a-xyz-committees-inquiries"
+      ]
+    },
+    "2": {
+      "label": "C-hour and Joyful Responsible Abundance plan",
+      "repos": [
+        "C-Hour-introduction",
+        "joyful-responsible-abundance"
+      ]
+    },
+    "3": {
+      "label": "Aura disaster resilience and recovery",
+      "repos": [
+        "aura-disaster-resilience"
+      ]
+    },
+    "4": {
+      "label": "Aura tourism and domestic travel",
+      "repos": [
+        "aura-tourism"
+      ]
+    },
+    "5": {
+      "label": "Adaptive support through life",
+      "repos": [
+        "aura-whole-of-life"
+      ]
+    },
+    "6": {
+      "label": "Aura care and learning for children and teenagers",
+      "repos": [
+        "aura-child-services"
+      ]
+    },
+    "7": {
+      "label": "Fiji–Australia Vuvale submission",
+      "repos": [
+        "UNGA81-Luke-Hayes"
+      ]
+    },
+    "8": {
+      "label": "Do Not Put All Our Eggs in One Basket",
+      "repos": [
+        "UNGA81-Luke-Hayes",
+        "sovereign-capacity-lab"
+      ]
+    },
+    "9": {
+      "label": "A Fair Go for the AI Age: shared computing close to communities",
+      "repos": [
+        "sovereign-capacity-lab",
+        "installing-the-missing-middle"
+      ]
+    },
+    "10": {
+      "label": "Verse Box trial proposal, version 1",
+      "repos": [
+        "aura-verse-box"
+      ]
+    },
+    "11": {
+      "label": "Health-tech co-operative business plan",
+      "repos": [
+        "Oceania-healthy-de-slop-co-ops"
+      ]
+    },
+    "12": {
+      "label": "Straddie disaster kiosk pitch",
+      "repos": [
+        "straddie-disaster-kiosks"
+      ]
+    },
+    "13": {
+      "label": "Ready SET Co-op 2026 pitch-plan revision",
+      "repos": [
+        "ready-set-co-op-trust-hub"
+      ]
+    },
+    "14": {
+      "label": "Web3 Sensorium for science debate",
+      "repos": [
+        "straddie-twins",
+        "straddie-digital-twin-explainer"
+      ]
+    },
+    "15": {
+      "label": "Aura teacher-training source edition",
+      "repos": [
+        "aura-teacher-training"
+      ]
+    },
+    "16": {
+      "label": "Aura Genesis Geode development, edition 3",
+      "repos": [
+        "aura-genesis-geode-atlas",
+        "aura-geode"
+      ]
+    },
+    "17": {
+      "label": "Queens leadership and enterprise planning",
+      "repos": [
+        "500-Queens-VC-2026",
+        "Queens_Venture"
+      ]
+    },
+    "18": {
+      "label": "Aura Genesis Protocol game-design document, version 2",
+      "repos": [
+        "aura-genesis-geode-atlas"
+      ]
+    },
+    "19": {
+      "label": "A Protopian Gambit: historical lyric sheet, 28 October 2026",
+      "repos": [
+        "i-C-infinity-music-universe"
+      ],
+      "currentEdition": "music.html#music-lyric-sheet"
+    },
+    "20": {
+      "label": "Clinical research path for Aura of Dementia",
+      "repos": [
+        "aura-dementia"
+      ]
+    },
+    "21": {
+      "label": "Mining, materials, power and Australian manufacturing, 7 November 2026",
+      "repos": [
+        "sovereign-capacity-lab"
+      ]
+    }
+  },
+  "verifiedSourceChecks": {
+    "A01": "2026-11-09",
+    "A02": "2026-11-09",
+    "A04": "2026-11-09",
+    "A07": "2026-11-09",
+    "A08": "2026-11-09",
+    "A10": "2026-11-09",
+    "A11": "2026-11-09",
+    "A13": "2026-11-09",
+    "A14": "2026-11-09",
+    "A21": "2026-11-09"
+  }
+}

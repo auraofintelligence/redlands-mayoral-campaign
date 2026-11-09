@@ -1,51 +1,61 @@
 # 11 Grant and tender integrity support
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Community contribution and reciprocity
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Community contribution and reciprocity
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-Community organisations could reduce repeated application work and make funding, procurement and delivery obligations easier to follow and demonstrate.
+## The idea
+
+Community organisations could spend less time repeating application work and have a clearer way to follow funding rules, purchasing requirements and delivery commitments.
+
+## Words and project names
+
+- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 
 ## What this could mean for Redlands
 
-Public resources could help organisations assess eligibility and whether to apply, assemble evidence, prepare budgets, track obligations, control documents, complete acquittals and check conflicts. Applicant assistance would remain separate from the funder’s or purchaser’s assessment.
+Public resources could help organisations check eligibility, decide whether to apply, gather evidence, prepare budgets, track commitments, keep documents in order and report how grant money was used. Help with an application would be separate from the funding or purchasing decision.
 
-## Decision route
+## Projects behind this idea
 
-Council services and policy
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)**. A project-to-funding workbench for Minjerribah organisations and project ideas. It brings together grant sources, watchlists, deadlines, funding stacks, public notices, reusable Markdown profiles and budget, reporting and acquittal records.
+
+- **[Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)**. A government-procurement and tender-preparation workbench for Minjerribah. It covers opportunity sources, supplier and business setup, partnering, requirements, evidence, bid control and human-reviewed AI drafting.
+
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+
+## How this could move forward
+
+Council services and policy decisions
 
 ## What the mayor and council could do
 
-The mayor could seek accessible capability support for organisations and clear council information about grants and procurement. Live assessments would remain with the responsible decision-makers.
+The mayor could seek accessible capability support for organisations and clear council information about grants and purchasing. Live assessments would remain with the responsible decision-makers.
 
-## Other decision-makers
+## Who else makes decisions
 
 Each funder or purchaser sets its requirements and makes its decisions. Assistance with an application does not determine eligibility, selection or an award.
 
-## Possible partners
+## People and organisations who could be involved
 
-Community organisations, council procurement/grants teams, external grant administrators and independent advisers.
+Community organisations, council purchasing/grants teams, external grant administrators and independent advisers.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision.
 
-## Project sources
+## Official information
 
-- [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)
-- [Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)
-- [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)
+- [Council tender advice](https://www.redland.qld.gov.au/Business-and-investment/Doing-business-with-Council/Advice-on-submitting-tenders) · [Source note A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)
+- [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
 
-## Official references
+## Documents behind the idea
 
-- [A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)
-- [A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
+See the related public project introductions above.
 
-## Supplied source documents
-
-No supplied document is specifically attached to this entry.
-
-## Connected entries
+## Related ideas
 
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Co-operative administration and applications
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy): Public funding cases and requests
@@ -53,3 +63,9 @@ No supplied document is specifically attached to this entry.
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Place and host proposals
 - [51 Australian manufacturing, civic robotics and independent repair](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/51-australian-manufacturing-civic-robotics-and-independent-repair): Industry participation and procurement
 - [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence): Application support for sovereign-capacity proposals
+
+---
+
+**Previous:** [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity) · **Next:** [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

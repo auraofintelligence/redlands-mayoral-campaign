@@ -1,8 +1,8 @@
 # How the ideas connect
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names)
 
-These proposals address connected needs while retaining their own purposes, participants and decision-makers. The links below explain those relationships.
+[Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html) is the shared direction. These ideas address connected needs while keeping their own purposes, participants and decisions. A shared building, tool or service can support several activities without combining them into one program. Follow any link below for an introduction to that idea and its source projects.
 
 ## Sovereign direction, compute, places and nodes
 
@@ -109,7 +109,7 @@ The locally led bee-resilience lab and independent wildlife and habitat initiati
 
 ## Reuse, workshops and manufacturing
 
-Tip Loop concerns recovering and redistributing useful goods. Makerspaces provide shared practical tools and learning. Manufacturing and independent repair concern productive capability and equipment continuity, supported by accounts of material requirements and circular flows.
+Tip Loop concerns recovering and redistributing useful goods. Makerspaces provide shared practical tools and learning. Manufacturing and independent repair concern productive capability and equipment continuity, supported by accounts of material requirements and reuse and recovery.
 
 - [23 Tip Loop repair and reuse](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/23-tip-loop-repair-and-reuse)
 - [24 Makerspaces and shared practical tools](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/24-makerspaces-and-shared-practical-tools)

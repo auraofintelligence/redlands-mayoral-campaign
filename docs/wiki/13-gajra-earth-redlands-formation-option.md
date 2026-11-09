@@ -1,49 +1,57 @@
 # 13 GAJRA Earth Redlands formation option
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Community contribution and reciprocity
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Community contribution and reciprocity
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.
+## The idea
+
+GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.
+
+## Words and project names
+
+- **GAJRA Earth**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
 
 ## What this could mean for Redlands
 
 Prospective participants could shape its purpose, membership, governance, legal structure and connections with participating projects and other GAJRA communities. Its own activities would be distinguished from those of independent people, organisations and delivery partners.
 
-## Decision route
+## Projects behind this idea
 
-Personal initiative and public-purpose overlap
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)**. A GAJRA Earth public-build commons connecting contribution, events, travel, research and the wider project ecosystem. Its pages include action pathways and a Markdown public-trace builder.
+
+## How this could move forward
+
+Personal initiative with possible council involvement
 
 ## What the mayor and council could do
 
 The mayor could convene discussion of public purposes and community connections. Any council relationship with a particular association would be considered through the relevant council process.
 
-## Other decision-makers
+## Who else makes decisions
 
 Participants choose their association and governance arrangements. Other organisations and communities decide their own involvement and retain their authority.
 
-## Possible partners
+## People and organisations who could be involved
 
 Independent advisers, qualified providers, venues and appropriate regulators; prospective members and directors if an organisation is formed.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Any GAJRA role or financial interest held by Luke would be identified when council considered a grant, premises arrangement, service agreement or other support for the association.
 
-## Project sources
+## Official information
 
-- [GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)
+- [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
+- [Co-operative formation process](https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/cooperatives/registering-a-cooperative/hold-a-formation-meeting) · [Source note A19](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a19)
 
-## Official references
+## Documents behind the idea
 
-- [A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
-- [A19](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a19)
+See the related public project introductions above.
 
-## Supplied source documents
-
-No supplied document is specifically attached to this entry.
-
-## Connected entries
+## Related ideas
 
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Voluntary community contribution
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Distinct co-operative delivery role
@@ -52,3 +60,9 @@ No supplied document is specifically attached to this entry.
 - [40 Intergovernmental and international cooperation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/40-intergovernmental-and-international-cooperation): Reciprocal international relationships
 - [46 Care, learning and research site partnerships](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/46-care-learning-and-research-site-partnerships): Care and research host relationships
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Possible civic-place participation
+
+---
+
+**Previous:** [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy) · **Next:** [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

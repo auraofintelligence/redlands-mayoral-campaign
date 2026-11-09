@@ -1,9 +1,11 @@
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
+- [Choose a place to start](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#choose-a-place-to-start)
+- [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names)
 - [Council responsibilities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
 - [How the ideas connect](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)
-- [Official sources](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
-- [Source documents](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
+- [Official information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
+- [Documents and public reading](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents)
 
 ### Household savings and fairness
 

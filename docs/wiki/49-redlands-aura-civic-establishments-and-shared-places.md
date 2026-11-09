@@ -1,67 +1,88 @@
 # 49 Redlands Aura civic establishments and shared places
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Redlands sovereign capacity and civic establishments
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Redlands sovereign capacity and civic establishments
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The aim is shared civic places across Redlands where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.
+## The idea
+
+Aura civic establishments are proposed shared places for learning, culture, enterprise, practical help and community activities, with the equipment and support those activities need.
+
+## Words and project names
+
+- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
+- **Verse Box**: A proposed portable public introduction to personal Aura, learning and community participation, with supported sessions and clear handling of personal records.
+- **Identity checks (KYC)**: KYC stands for know your customer: a process for checking identity. Any use in a proposed service would need a clear purpose, suitable privacy arrangements and a lawful basis.
+
+## A practical example
+
+One community building could host different activities at different times. Each activity would still have its own organisers, permissions and costs.
 
 ## What this could mean for Redlands
 
-The civic-establishment architecture would be adapted with willing mainland and island hosts. Location-specific arrangements would cover rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.
+Willing mainland and island hosts could adapt the civic-establishment model to local needs. Agreements would cover rooms, activities, public access, tools, internet connections, support, opening hours, responsibilities and running costs. Computing services could be connected where participants chose.
 
-## First-principles foundation
+## Projects behind this idea
 
-A civic establishment joins a real place, people, activities and operating support. Space, staff/support hours, equipment, maintenance, access and costs need their own accounts. Several programmes can share facilities while retaining their own participation choices and governance.
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-## Local uses
+- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.
+
+- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
+
+- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+
+- **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)**. A women’s enterprise and leadership proposal for developing CEOs and decision-makers. It brings together AI Queen profiles, enterprise guides, startup suggestions, source readers and private planning tools.
+
+- **[Aura Teacher Training](https://auraofintelligence.github.io/aura-teacher-training/)**. A sixty-day adult learning progression connecting personal Aura development, self-understanding, critical and ethical AI use, and teaching. Daily readings and studio guides include practical making, teach-back, evidence and learning portfolios.
+
+- **[Verse Box](https://auraofintelligence.github.io/aura-verse-box/)**. A portable public introduction to personal Aura of Intelligence, learning, Community Hours and community participation. The trial guide covers the visitor experience, equipment, hosts, access and personal-session handover.
+
+- **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. A personal interface for everyday context such as life records, relationships, reminders, learning, skills and travel, organised through a 12 by 24 matrix. It collects a minimum viable self as a foundation for later personal-model development.
+
+## What it needs to work
+
+A civic establishment brings a real place, people, activities and ongoing support together. Space, support hours, equipment, maintenance, access and costs need clear accounts. Several activities can share facilities while keeping their own participation choices and decision-making arrangements.
+
+## Everyday uses
 
 Teacher development, creative work, women-led enterprise, Try Everything activities, community assistance, Verse Box access and resilience information can each use the rooms, equipment or support relevant to their purpose.
 
-## Decision route
+## How this could move forward
 
-Council, regional, national and business partnership
+Council, regional, state, federal and business cooperation
 
 ## What the mayor and council could do
 
-The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.
+The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programs, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.
 
-## Other decision-makers
+## Who else makes decisions
 
-Landowners and operators decide use and terms. Each community and cultural authority determines its participation and permissions. Identity/access arrangements, including any KYC proposal, must be designed for the actual service and lawful purpose.
+Landowners and operators decide use and terms. Each community and cultural authority decides its participation and permissions. Any proposed identity checks would need to suit the actual service and lawful purpose.
 
-## Possible partners
+## People and organisations who could be involved
 
 Residents, Traditional Owners and cultural organisations, community hosts, libraries, educators, 500 Queens mentors/participants, businesses, co-operative participants, care and research partners, and neighbouring councils.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.
 
-## Project sources
+## Official information
 
-- [Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)
-- [Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)
-- [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)
-- [500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)
-- [Aura Teacher Training](https://auraofintelligence.github.io/aura-teacher-training/)
-- [Verse Box](https://auraofintelligence.github.io/aura-verse-box/)
-- [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)
+- [Current Local Government Act 2009, 22 October 2026](https://www.legislation.qld.gov.au/view/whole/html/inforce/2026-10-22/act-2009-017) · [Source note A01](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a01)
+- [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
+- [Council tender advice](https://www.redland.qld.gov.au/Business-and-investment/Doing-business-with-Council/Advice-on-submitting-tenders) · [Source note A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)
+- [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
 
-## Official references
+## Documents behind the idea
 
-- [A01](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a01)
-- [A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
-- [A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)
-- [A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
+- [Do Not Put All Our Eggs in One Basket](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
+- [A Fair Go for the AI Age: shared computing close to communities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
+- [Mining, materials, power and Australian manufacturing, 7 November 2026](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-21)
 
-## Supplied source documents
-
-- [Document 8: Do Not Put All Our Eggs in One Basket.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
-- [Document 9: A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
-- [Document 21: Mining_Materials_Power_and_Australian_Manufacturing_2026-11-07.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-21)
-
-## Connected entries
+## Related ideas
 
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible operating/service agreement
 - [20 500 Queens regional leadership and human mentoring](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/20-500-queens-regional-leadership-and-human-mentoring): Leadership and enterprise activity
@@ -81,3 +102,9 @@ Relevant interests include an interest in the host property, lease, equipment, p
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Possible host for work exploration
 - [28 Disaster-ready kiosks and resilient local information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/28-disaster-ready-kiosks-and-resilient-local-information): Possible resilient information access point
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access): Possible host for visitor information and learning
+
+---
+
+**Previous:** [48 Aura dementia and carer-support research](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/48-aura-dementia-and-carer-support-research) · **Next:** [50 Power, materials and circular capacity for Redlands](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/50-power-materials-and-circular-capacity-for-redlands)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

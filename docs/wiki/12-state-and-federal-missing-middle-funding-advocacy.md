@@ -1,52 +1,62 @@
 # 12 State and federal missing-middle funding advocacy
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Community contribution and reciprocity
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Community contribution and reciprocity
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-State and federal investment could support the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.
+## The idea
+
+State and federal investment could help provide the people, equipment, skills and ongoing support needed to turn local ideas into services people can use.
+
+## Words and project names
+
+- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
+- **The missing middle**: The people, places, equipment and ongoing work needed between an idea and a service people can actually use. The linked project develops a plan for locally owned community computing.
 
 ## What this could mean for Redlands
 
-Luke’s public submissions could inform a Redlands funding case that identifies public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Distinct project cases could support shared regional requests where councils chose to participate.
+Luke’s public submissions could inform a Redlands funding case. It would set out the public purpose, who is responsible for each service, participating organisations, setup and running costs, local contributions and the decision being sought. Projects could join regional requests where the councils involved chose to participate.
 
-## Decision route
+## Projects behind this idea
 
-Advocacy and intergovernmental partnership
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
+
+- **[P4A committees and inquiries](https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/)**. A P4A directory of parliamentary committees, inquiries and council participation routes across Australia. Visitors choose a responsible parliament or council and browse current contribution opportunities or its own archive.
+
+## How this could move forward
+
+Advocacy and work with other governments
 
 ## What the mayor and council could do
 
 The mayor could present a council-endorsed case to responsible state and federal portfolios and funding institutions, bring local MPs and delivery partners together, and coordinate negotiations with willing neighbouring councils.
 
-## Other decision-makers
+## Who else makes decisions
 
 Funding bodies and participating governments decide their allocations and conditions. Individual organisations remain responsible for their own applications and delivery commitments.
 
-## Possible partners
+## People and organisations who could be involved
 
-Council, local MPs, responsible state/federal departments, service providers, regional councils and funding institutions.
+Council, local MPs, responsible state and federal departments, service providers, regional councils and funding institutions.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request.
 
-## Project sources
+## Official information
 
-- [Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)
-- [P4A committees and inquiries](https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/)
+- [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
 
-## Official references
+## Documents behind the idea
 
-- [A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
+- [Local government funding inquiry submission](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-1)
+- [Fiji–Australia Vuvale submission](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-7)
+- [Do Not Put All Our Eggs in One Basket](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
+- [A Fair Go for the AI Age: shared computing close to communities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
 
-## Supplied source documents
-
-- [Document 1: Local Government Funding Inquiry Submission.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-1)
-- [Document 7: Fiji_Australia_Vuvale_Union_Submission_Luke_Nathan_Hayes_2026.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-7)
-- [Document 8: Do Not Put All Our Eggs in One Basket.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-8)
-- [Document 9: A Fair Go for the AI Age_ Postcode-Level Sovereign Compute as Shared National Infrastructure.docx](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-9)
-
-## Connected entries
+## Related ideas
 
 - [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Delivery organisation and operating case
 - [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support): Application and acquittal support
@@ -56,3 +66,9 @@ Any proposed allocation, funded role or agreement directly benefiting Luke’s p
 - [50 Power, materials and circular capacity for Redlands](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/50-power-materials-and-circular-capacity-for-redlands): Physical resource requirements
 - [51 Australian manufacturing, civic robotics and independent repair](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/51-australian-manufacturing-civic-robotics-and-independent-repair): Manufacturing and industry investment
 - [52 Cultural intelligence nodes and locally governed federation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/52-cultural-intelligence-nodes-and-locally-governed-federation): Node establishment and operation
+
+---
+
+**Previous:** [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support) · **Next:** [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

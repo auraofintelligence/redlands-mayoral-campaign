@@ -1,46 +1,217 @@
 {
   "entries": {
     "35": {
-      "purpose": "The aim is lower whole-life energy costs and resilient essential services where evidence supports investment.",
-      "redlandsAdaptation": "The Redlands adaptation combines local efficiency, generation, storage and resilience options with the wider clean-energy concepts. Each project would identify its grid, land, operating, energy-delivery and material requirements.",
-      "mayoralCouncilLever": "The mayor could seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services."
+      "purpose": "Clean-energy options could lower costs across equipment’s working life and help essential services keep running during disruptions.",
+      "redlandsAdaptation": "Local energy-saving measures, generation, storage and backup systems could connect with the wider clean-energy concepts. Each project would set out its land, grid connection, operating, energy-delivery and material needs, including purchase, running and maintenance costs.",
+      "mayoralCouncilLever": "The mayor could seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.",
+      "route": "Council infrastructure and decisions by other authorities",
+      "outside": "Energy networks, generators, retailers, landholders and relevant regulators retain their connection, commercial and approval responsibilities.",
+      "partners": "Council facilities teams, energy networks/providers, community energy groups, researchers and external funding bodies.",
+      "conflictBoundary": "A council energy purchase, site agreement, equipment trial or resilience contract involving Luke’s clean-energy designs or business needs independent assessment and documented ownership and operating terms.",
+      "connections": [
+        {
+          "id": "50",
+          "relationship": "Cross-project power and resource accounting"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute power and cooling demand"
+        },
+        {
+          "id": "28",
+          "relationship": "Kiosk backup power"
+        },
+        {
+          "id": "29",
+          "relationship": "Essential-service continuity"
+        },
+        {
+          "id": "44",
+          "relationship": "Sovereign-capacity direction"
+        },
+        {
+          "id": "49",
+          "relationship": "Civic-place energy requirements"
+        }
+      ]
     },
     "36": {
-      "purpose": "The aim is to support local activity and reduce avoidable planning costs and access barriers.",
-      "redlandsAdaptation": "The proposed visitor and resident experiences connect accurate transport and accessibility information, local suppliers, culture, nature, music and chosen learning. Participants would choose how personal Aura supports their interests, records and reflection, while local operators could access useful tourism AI learning.",
+      "purpose": "Residents and visitors could find local activities and plan travel more easily, with clearer transport, access and cost information.",
+      "redlandsAdaptation": "Clear transport and accessibility information could connect residents and visitors with local suppliers, culture, nature, music and learning. Participants could choose how personal Aura supports their interests and travel records. Local tourism operators could also access practical AI learning.",
       "mayoralCouncilLever": "The mayor could convene local tourism, cultural, accessibility and learning partners around visitor resources and experiences, and seek council support through its tourism, public-place and community roles.",
-      "conflictBoundary": "Luke's tourism tools, content or delivery role would be relevant to any council purchase of visitor resources, funding of an experience or provider selection involving him."
+      "conflictBoundary": "Luke's tourism tools, content or delivery role would be relevant to any council purchase of visitor resources, funding of an experience or provider selection involving him.",
+      "route": "Community partnership",
+      "outside": "Operators and cultural hosts choose the experiences they offer; transport providers and the responsible public bodies retain decisions about their services and infrastructure.",
+      "partners": "Local tourism operators, transport providers, accessibility users, cultural custodians and Queensland tourism/education programs.",
+      "connections": [
+        {
+          "id": "47",
+          "relationship": "A person can choose personal Aura support for travel, records and learning."
+        },
+        {
+          "id": "27",
+          "relationship": "Community notices and locally governed information provide current public material."
+        },
+        {
+          "id": "31",
+          "relationship": "Ferry access and service information affect real travel choices."
+        },
+        {
+          "id": "21",
+          "relationship": "Olympics-related capability can connect with local tourism while retaining its own program decisions."
+        },
+        {
+          "id": "26",
+          "relationship": "Arts, music and cultural activities can form chosen experiences."
+        },
+        {
+          "id": "14",
+          "relationship": "Travel and everyday learning may follow a person's optional Genesis journey."
+        }
+      ]
     },
     "37": {
-      "purpose": "The aim is to support local bee resilience, wildlife care and ecological learning through the relevant independent organisations.",
-      "redlandsAdaptation": "The bee-resilience proposal brings local beekeepers, bee people and allies together around hive observations, resilience research, learning and the proposed lab pathway. Wildlife and habitat work would continue through its own existing organisations and separately agreed activities.",
-      "mayoralCouncilLever": "The mayor could bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Council could separately consider proposed support for wildlife and habitat initiatives within its land and programme responsibilities.",
-      "conflictBoundary": "The proposal calls for transparent land-access, grant and service criteria, with independent handling of any specific council benefit to a project or organisation associated with Luke."
+      "purpose": "Local bee-resilience work, wildlife care and ecological learning could receive support through the people and organisations responsible for each activity.",
+      "redlandsAdaptation": "The bee-resilience proposal brings local beekeepers, people working with bees and allies together around hive observations, research, learning and the proposed lab. Wildlife and habitat work would continue through its own organisations and separately agreed activities.",
+      "mayoralCouncilLever": "The mayor could bring council environment teams into the bee-resilience conversation with local participants and invited university or agency partners. Council could separately consider proposed support for wildlife and habitat initiatives within its land and program responsibilities.",
+      "conflictBoundary": "The proposal calls for transparent land-access, grant and service criteria, with independent handling of any specific council benefit to a project or organisation associated with Luke.",
+      "route": "Community partnership",
+      "outside": "Landholders, wildlife carers, custodians and responsible environmental authorities retain their permissions and specialist functions.",
+      "partners": "Local beekeepers, bee people and allies; invited universities and agencies as supporting partners. Wildlife and habitat initiatives have their own licensed carers, custodians, land managers and community participants.",
+      "connections": [
+        {
+          "id": "08",
+          "relationship": "Optional stewardship contributions"
+        }
+      ]
     },
     "38": {
-      "purpose": "The aim is better use of community assets and affordable participation.",
-      "redlandsAdaptation": "Local councillors and existing organisers could review club, sport, outdoor learning, screening and neighbourhood event concepts with willing venues across divisions, identifying adaptations suited to each place.",
-      "mayoralCouncilLever": "The mayor could work with divisional councillors and existing organisers on council venue access, leases, community programmes and transparent support for willing neighbourhood hosts.",
-      "conflictBoundary": "The proposal calls for visible venue, lease, grant and access criteria, with independent handling of any council arrangement benefiting Luke or an organisation he establishes or joins."
+      "purpose": "Community venues and neighbourhood activities could offer more affordable ways to take part and make good use of the facilities already available.",
+      "redlandsAdaptation": "Divisional councillors, existing organisers and willing venues could consider club, sport, outdoor learning, screenings and neighbourhood events together. Each community would help identify what suits its place and people.",
+      "mayoralCouncilLever": "The mayor could work with divisional councillors and existing organisers on council venue access, leases, community programs and transparent support for willing neighbourhood hosts.",
+      "conflictBoundary": "The proposal calls for visible venue, lease, grant and access criteria, with independent handling of any council arrangement benefiting Luke or an organisation he establishes or joins.",
+      "route": "Community partnership",
+      "outside": "Each club, venue owner and community organiser chooses its participation, governance, activities and use of its own assets.",
+      "partners": "Community groups, co-operatives, schools, businesses and external funders as appropriate.",
+      "connections": [
+        {
+          "id": "49",
+          "relationship": "Multipurpose civic establishment model"
+        },
+        {
+          "id": "46",
+          "relationship": "Care, learning and research host sites"
+        },
+        {
+          "id": "26",
+          "relationship": "Creative programs"
+        },
+        {
+          "id": "24",
+          "relationship": "Shared tools and practical activities"
+        },
+        {
+          "id": "08",
+          "relationship": "Optional community contributions"
+        }
+      ]
     },
     "39": {
-      "purpose": "The aim is Australian and locally governed computing and hosting capacity for personal, community, civic and productive workloads.",
-      "redlandsAdaptation": "A Redlands compute and service design would set out the investment case for participating institutions, businesses, communities and regional partners. It would specify workloads, processing and storage needs, power, cooling and network requirements, access terms, service levels, operating responsibility, portability and recovery arrangements.",
+      "purpose": "Australian and locally governed computing could support personal AI, community projects, public services and useful production, with clear choices about where information is kept.",
+      "redlandsAdaptation": "A Redlands computing plan would explain the jobs the equipment needs to do, the case for investment and who could use the service. It would cover processing and storage, electricity, cooling, networks, access, reliability, running costs and responsibility. Plans would also explain how information and services could be moved or recovered if a provider changed.",
       "mayoralCouncilLever": "The mayor could convene prospective public users, hosts, providers and regional partners, bring council service requirements into the design, and seek appropriate council decisions and external investment through the funding route in entry 12.",
-      "conflictBoundary": "Relevant interests include ownership, licence income or a paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council."
+      "conflictBoundary": "Relevant interests include ownership, licence income or a paid role connected to a compute purchase, hosting contract, facility agreement or capacity provider considered by council.",
+      "route": "Advocacy and work with other governments",
+      "outside": "Infrastructure owners and providers decide their facilities and service agreements. Power/network owners and external funding or regulatory bodies retain their responsibilities.",
+      "partners": "Universities, compute and energy providers, neighbouring councils, community hosts and responsible state and federal agencies.",
+      "connections": [
+        {
+          "id": "04",
+          "relationship": "Council workloads and operating policy"
+        },
+        {
+          "id": "07",
+          "relationship": "Public simulation workloads"
+        },
+        {
+          "id": "12",
+          "relationship": "Government investment route"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared strategic direction"
+        },
+        {
+          "id": "45",
+          "relationship": "Experience-environment workloads"
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura requirements"
+        },
+        {
+          "id": "49",
+          "relationship": "Physical access and host places"
+        },
+        {
+          "id": "50",
+          "relationship": "Power and material requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Industry and machinery workloads"
+        },
+        {
+          "id": "52",
+          "relationship": "Local node operation and federation"
+        }
+      ]
     },
     "40": {
-      "purpose": "The aim is to connect Redlands work with reciprocal learning, research and capability exchanges that respect each participant's authority.",
-      "redlandsAdaptation": "The diversification, Vuvale, GAJRA and long-term civilisation papers provide a basis for specific invitations to exchange research, teaching, technical knowledge and practical capability. Each invitation would identify the local project, each party's contribution, information and intellectual-property terms, and the responsible government or institutional interface.",
+      "purpose": "Redlands could exchange research, teaching and practical knowledge with other communities and institutions, with each participant keeping authority over its own choices.",
+      "redlandsAdaptation": "The diversification, Fiji–Australia Vuvale, GAJRA and long-term civilisation papers could inform invitations to exchange research, teaching and practical knowledge. Each invitation would identify the local project, each participant’s contribution, rights over information and creative or technical work, and the government or institution responsible.",
       "mayoralCouncilLever": "The mayor could convene appropriate institutional and regional conversations, seek a council-endorsed position where council participation is proposed, and refer national matters through the responsible government channels.",
-      "conflictBoundary": "Relevant interests include paid research, consulting, travel support, an intellectual-property agreement or a partner role connected to an exchange that council is considering."
+      "conflictBoundary": "Relevant interests include paid research, consulting, travel support, an intellectual-property agreement or a partner role connected to an exchange that council is considering.",
+      "route": "Advocacy and work with other governments",
+      "outside": "Other communities, institutions and governments decide their participation. Treaty, immigration, defence, national trade and other national-policy decisions remain with the responsible governments.",
+      "partners": "Responsible departments, neighbouring councils, MPs, research institutions, community organisations and businesses.",
+      "connections": [
+        {
+          "id": "13",
+          "relationship": "GAJRA reciprocal relationships"
+        },
+        {
+          "id": "20",
+          "relationship": "Leadership and mentoring exchange"
+        },
+        {
+          "id": "36",
+          "relationship": "Tourism and cultural learning"
+        },
+        {
+          "id": "42",
+          "relationship": "Teaching exchange"
+        },
+        {
+          "id": "44",
+          "relationship": "Locally governed capability"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and service knowledge exchange"
+        },
+        {
+          "id": "52",
+          "relationship": "Voluntary node federation"
+        }
+      ]
     },
     "41": {
       "title": "Luke's voluntary P4A leadership practice and radical honesty",
-      "purpose": "Luke proposes to put his P4A principles into practice through the higher personal standard of radical honesty he chooses for himself in office.",
+      "purpose": "Luke proposes to practise the principles in his P4A civic proposal through radical honesty and the higher personal standard he chooses for himself if serving on council.",
       "redlandsAdaptation": "Luke's proposed leadership practice would explain the higher personal standard he chooses for himself in office and how his voluntary Genesis experience could inform reflection, corrections, chosen disclosure and conduct. His P4A principles and creative work provide context for that example, expressed in his own terms.",
       "mayoralCouncilLever": "As a council member, Luke could lead through his own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.",
-      "conflictBoundary": "Luke's personal P4A and Genesis practice would be relevant to any council funding of programme support, facilities or services for his participation.",
+      "conflictBoundary": "Luke's personal P4A and Genesis practice would be relevant to any council funding of program support, facilities or services for his participation.",
       "leadershipExample": "If serving as a council member, Luke would undertake Genesis voluntarily, building on his existing self-examination. His aim is to demonstrate honesty through his own practice, chosen disclosure, corrections and conduct. He chooses a higher standard for himself than he would expect of others; participation remains a personal choice.",
       "connections": [
         {
@@ -59,20 +230,86 @@
           "id": "47",
           "relationship": "Personal record control supports Luke's choices about private reflection and public expression."
         }
+      ],
+      "route": "Voluntary personal leadership practice",
+      "outside": "Participation and personal disclosure are individual choices. Electoral eligibility and formal council disclosures follow their own legal processes.",
+      "partners": "People choosing the conversation, P4A collaborators, mentors and civic-learning partners.",
+      "musicConnections": [
+        {
+          "title": "The Purple Mat That Could",
+          "pages": "20, 21",
+          "connection": "Political integrity through inward reflection, an evidence-linked personal Aura and the connection to memory and dementia support.",
+          "songAnchor": "music-track-15"
+        },
+        {
+          "title": "60 Days Set in Stone",
+          "pages": "5",
+          "connection": "The personal Genesis journey, self-alignment, a developing Aura and renewed purpose carried into everyday life.",
+          "songAnchor": "music-track-2"
+        },
+        {
+          "title": "Kintsugi Protocol",
+          "pages": "6",
+          "connection": "Recognising faults, repair, chosen correction and the human-Aura relationship within community and place.",
+          "songAnchor": "music-track-3"
+        },
+        {
+          "title": "Don’t Throw a Brick / Fill a Form",
+          "pages": "23",
+          "connection": "Lawful participation, useful legal tools, disclosure, overcompliance and community contribution.",
+          "songAnchor": "music-track-17"
+        }
       ]
     },
     "42": {
-      "purpose": "The aim is to develop people who can use, explain and teach personal intelligence across practical, creative, civic and scientific work.",
-      "redlandsAdaptation": "Aura Teacher Training would be a flexible learning pathway with chosen projects, teach-back, useful artefacts and portable portfolios. It would connect with community teaching, C-hour activities and the civic workforce while retaining its own pathway.",
+      "purpose": "Aura teacher development aims to help people use, explain and teach personal intelligence in practical, creative, civic and scientific work.",
+      "redlandsAdaptation": "Aura Teacher Training would offer flexible learning through chosen projects, explaining a topic back to others, completed work and portfolios people can carry with them. It could connect with community teaching, C-hour activities and the civic workforce while keeping its own learning pathway.",
       "mayoralCouncilLever": "The mayor could convene education and community hosts, ask council to consider suitable learning spaces and access arrangements, and invite regional education and business partners.",
-      "conflictBoundary": "Luke's teacher-development materials, training services or intellectual property would be relevant to any council funding, resource licence or training commission involving him."
+      "conflictBoundary": "Luke's teacher-development materials, training services or intellectual property would be relevant to any council funding, resource licence or training commission involving him.",
+      "route": "Learning and education partnerships",
+      "outside": "Learners choose their pacing and projects. Education providers and employers make their own teaching, qualification and workforce decisions.",
+      "partners": "Libraries, community educators, education providers, businesses, mentors, 500 Queens participants and neighbouring councils.",
+      "connections": [
+        {
+          "id": "05",
+          "relationship": "Teachers and facilitators can support the everyday learning offer."
+        },
+        {
+          "id": "25",
+          "relationship": "Host learning can support Verse Box sessions."
+        },
+        {
+          "id": "20",
+          "relationship": "Facilitation can support leadership and enterprise learning."
+        },
+        {
+          "id": "18",
+          "relationship": "Teaching and mentoring can support workplace learning."
+        },
+        {
+          "id": "08",
+          "relationship": "Participants may choose teaching as voluntary community contribution."
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura can carry chosen learning and teaching records."
+        },
+        {
+          "id": "14",
+          "relationship": "Teacher development can connect with a chosen Genesis journey while retaining its own pacing."
+        },
+        {
+          "id": "10",
+          "relationship": "Separately agreed teaching and employment arrangements"
+        }
+      ]
     },
     "43": {
-      "purpose": "The aim is a Redlands network of residents, care providers and researchers working on healthy ageing, reablement and longevity questions.",
-      "redlandsAdaptation": "A shared research agenda would address daily function, cognition, quality of life and longevity. HBOT and other therapies would be examined on their own terms and in proposed combinations with personal Aura, meaningful activity and participant context.",
+      "purpose": "Residents, care providers and researchers could work together on healthy ageing, regaining everyday abilities and questions about living well for longer.",
+      "redlandsAdaptation": "Residents and researchers could shape questions about everyday abilities, thinking and memory, quality of life and longevity. HBOT and other therapies would be studied individually and in proposed combinations with personal Aura, meaningful activity and each participant’s circumstances.",
       "mayoralCouncilLever": "The mayor could connect this work with council age-friendly planning, convene willing care and research partners, and seek state, federal, institutional and business support for the shared public purposes.",
       "conflictBoundary": "Luke's HBOT equipment, research role or provider interest would be relevant to any council funding of a study, support for access or selection of a study partner involving him.",
-      "researchRationale": "HBOT has established clinical uses, including selected wounds and radiation-related injury. Increased oxygen dissolved in plasma provides a physiological basis for investigating further applications. The wider Genesis and longevity research questions include how HBOT, personal Aura, reflection, meaningful activity, expectation and other therapies contribute separately or together. Research would compare outcomes over time and across appropriate study groups, retaining the distinction between established indications, mechanisms and outcomes being investigated.",
+      "researchRationale": "Hyperbaric oxygen therapy (HBOT) involves breathing oxygen in a pressurised chamber. It has established clinical uses, including selected wounds and radiation-related injury. More oxygen dissolving in blood plasma provides a reason to investigate further uses. The wider Genesis and longevity research would examine HBOT, personal Aura, reflection, meaningful activity, expectations and other therapies, individually and together. Studies would compare outcomes over time and between suitable groups, keeping established treatments separate from questions still being investigated.",
       "connections": [
         {
           "id": "14",
@@ -98,64 +335,545 @@
           "id": "47",
           "relationship": "Participant-controlled records can support chosen research information flows."
         }
-      ]
+      ],
+      "route": "Health and research partnerships, with relevant council support",
+      "outside": "Clinical services and studies sit with the responsible providers and research institutions. Individual participation and care choices remain personal.",
+      "partners": "Older residents and carers, Elders’ organisations, care providers, clinicians, universities, research institutions and government funding partners."
     },
     "44": {
-      "purpose": "Joyful Responsible Abundance provides the starting framework for Redlands sovereign capacity: locally governed intelligence, productive capability and public benefit.",
+      "purpose": "Joyful Responsible Abundance provides the starting framework for Redlands sovereign capacity: useful intelligence, skills and productive resources that people can help govern and benefit from.",
       "redlandsAdaptation": "The Redlands sovereign-capacity agenda would be developed with councillors, neighbouring councils, state and federal government, businesses, educators and community organisations. It would define shared public purposes, the connections between independent projects, each participant's responsibilities, and the agreements or investments sought.",
       "mayoralCouncilLever": "The mayor could convene the strategic conversation, build support for relevant council policy and partnerships, and represent an authorised Redlands position with other governments and institutions.",
       "conflictBoundary": "Relevant interests include a proposed governing role, asset interest or named funding allocation for Luke or an associated organisation within the shared capacity agreements.",
       "strategicPurpose": "Joyful Responsible Abundance connects personal agency, health, learning, useful work, public evidence and shared computing with the capacity to shape decisions. The Redlands agenda applies that whole-system direction locally, responding to the proposed 2027/2028 superintelligence horizon with urgency to build capability. The Sovereign Capacity Lab and the 7 November manuscript connect intelligence to industrial buildout and Australian participation. The proposed response is practical capability, local authority and diverse partnerships that reduce dependence on US- or China-centred systems. The different projects remain independently governed.",
-      "firstPrinciples": "Useful work people need provides the starting point, followed by the equipment, people, energy and materials required to deliver it. Physical production, working equipment, available infrastructure, finance, ownership and public outcomes would have separate accounts."
+      "firstPrinciples": "Useful work people need provides the starting point, followed by the equipment, people, energy and materials required to deliver it. Physical production, working equipment, available infrastructure, finance, ownership and public outcomes would have separate accounts.",
+      "route": "Council, regional, state, federal and business cooperation",
+      "outside": "Council governs its own services, assets, plans and spending. National industrial, energy, mining, research, trade and security policy involves other governments; grids, manufacturers, landowners and independent organisations make their own commitments.",
+      "partners": "Redland councillors and staff, neighbouring councils, state and federal departments and MPs, universities, manufacturers, energy/service owners, local businesses, community organisations and relevant cultural custodians.",
+      "localApplications": "Shared capacity can support household bill and legal tools, personal Aura and Verse Box, tourism, C-hour activity, the civic workforce, food growing, care, public simulations, repair, infrastructure and disaster resilience.",
+      "connections": [
+        {
+          "id": "04",
+          "relationship": "Council's own AI adoption"
+        },
+        {
+          "id": "10",
+          "relationship": "Co-operative delivery choices"
+        },
+        {
+          "id": "12",
+          "relationship": "Government investment advocacy"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute and hosting provision"
+        },
+        {
+          "id": "47",
+          "relationship": "Personal agency and data sovereignty"
+        },
+        {
+          "id": "49",
+          "relationship": "Shared civic places"
+        },
+        {
+          "id": "50",
+          "relationship": "Physical resource coordination"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and independent repair"
+        },
+        {
+          "id": "52",
+          "relationship": "Node operation and federation"
+        },
+        {
+          "id": "01",
+          "relationship": "Household bill tools using shared capability"
+        },
+        {
+          "id": "02",
+          "relationship": "Legal navigation using shared capability"
+        },
+        {
+          "id": "22",
+          "relationship": "Food-growing application of shared capability"
+        },
+        {
+          "id": "23",
+          "relationship": "Recovery and repair application of shared capability"
+        },
+        {
+          "id": "28",
+          "relationship": "Resilient public-information application"
+        },
+        {
+          "id": "30",
+          "relationship": "Housing and servicing application"
+        }
+      ]
     },
     "45": {
-      "purpose": "The aim is physical environments and interfaces supporting Genesis, personal Aura and immersive learning.",
-      "redlandsAdaptation": "The Geode hardware paths include integration with seated HBOT, mineral and geopolymer design, crystalline environments, and connections to compute, sensing and accessible interfaces. Each hardware path would remain open to its own collaborators and design decisions.",
+      "purpose": "Geode work develops physical settings, equipment and ways to interact with technology for Genesis, personal Aura and immersive learning.",
+      "redlandsAdaptation": "Geode development includes seated HBOT integration, mineral and geopolymer materials, crystalline settings, computing, sensors and accessible controls. Geopolymers are mineral-based binding materials. Each equipment and design path would have its own collaborators and decisions.",
       "mayoralCouncilLever": "The mayor could convene manufacturers, researchers and education partners, and connect relevant local skills, making, economic-development and funding opportunities through council's normal processes.",
-      "conflictBoundary": "Luke's Geode designs, hardware, software or supplier role would be relevant to any council prototype commission, equipment purchase or development funding involving him."
+      "conflictBoundary": "Luke's Geode designs, hardware, software or supplier role would be relevant to any council prototype commission, equipment purchase or development funding involving him.",
+      "route": "Design, manufacturing and research partnerships",
+      "outside": "Design, manufacture, equipment operation and any required approvals sit with the responsible specialists, providers and regulators.",
+      "partners": "Manufacturers, chamber and interface providers, materials researchers, engineers, makers, universities and accessibility specialists.",
+      "connections": [
+        {
+          "id": "14",
+          "relationship": "Geode environments and interfaces can support a chosen Genesis experience."
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box is a separate public-access station with some related interface work."
+        },
+        {
+          "id": "24",
+          "relationship": "Makerspaces can support selected design and making activities."
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura connects to the experience through chosen interfaces and permissions."
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and independent repair can contribute to physical production and service support."
+        },
+        {
+          "id": "52",
+          "relationship": "A cultural intelligence node can provide shared technical capacity under its own governance."
+        },
+        {
+          "id": "39",
+          "relationship": "Compute requirements for experience environments"
+        }
+      ]
     },
     "46": {
-      "purpose": "The aim is willing places across Redlands for care, learning, personal intelligence and longevity work.",
-      "redlandsAdaptation": "Distinct host and property conversations would include the 82 Claytons Road invitation and other suitable mainland or island settings. Each site agreement would identify the services hosted, operators, access arrangements, ownership and ongoing responsibilities.",
+      "purpose": "Willing hosts across Redlands could provide places for care, learning, personal intelligence and longevity work, with clear agreements for each location.",
+      "redlandsAdaptation": "Conversations with willing hosts would include the 82 Claytons Road invitation and other suitable mainland and island locations. Each agreement would explain the services offered, who runs them, access, ownership and ongoing responsibilities.",
       "mayoralCouncilLever": "The mayor could bring landowners, care providers, community organisations, businesses and funding bodies together. Council could consider its relevant planning, community, access and partnership roles.",
-      "conflictBoundary": "Luke's property, lease, host role or organisation interest would be relevant to any council site funding, provision of premises or hosting agreement involving him."
+      "conflictBoundary": "Luke's property, lease, host role or organisation interest would be relevant to any council site funding, provision of premises or hosting agreement involving him.",
+      "route": "Agreements with willing property owners, hosts and providers",
+      "outside": "Property owners decide what they offer. Hosts and providers decide their services, operations and agreements. Each location has its own decision route.",
+      "partners": "Anglican Church Southern Queensland and Anglicare as possible conversation partners, other willing landowners, care providers, Elders’ organisations, community hosts, researchers and educators.",
+      "connections": [
+        {
+          "id": "49",
+          "relationship": "A civic-establishment model can inform a particular host discussion."
+        },
+        {
+          "id": "15",
+          "relationship": "Shared ownership and access terms may be part of an agreed service arrangement."
+        },
+        {
+          "id": "16",
+          "relationship": "Everyday support is one possible independently agreed use."
+        },
+        {
+          "id": "43",
+          "relationship": "Healthy-ageing or longevity work has its own provider and research arrangements."
+        },
+        {
+          "id": "48",
+          "relationship": "Dementia software research is a distinct potential care/research partnership."
+        },
+        {
+          "id": "25",
+          "relationship": "A willing host can consider a Verse Box station separately."
+        },
+        {
+          "id": "45",
+          "relationship": "Geode development or use has its own equipment and operating needs."
+        },
+        {
+          "id": "13",
+          "relationship": "Any future GAJRA organisation would have a separately agreed role."
+        }
+      ]
     },
     "47": {
-      "purpose": "The aim is practical control for people over their own personal intelligence and representations, as a foundation for Australian and locally governed capability.",
-      "redlandsAdaptation": "Everyday personal Aura access would include Verse Box as a public introduction and Genesis as an optional deeper pathway. People would be able to choose records and purposes, inspect inferences, correct or contest representations, manage permissions, and carry their models and information across suitable systems. This shared capability would support the separately described care, tourism, contribution, workforce and resilience programmes.",
-      "mayoralCouncilLever": "The mayor could seek person-centred requirements for relevant council information systems and partnerships, including transparency, defined purposes, correction, portability and accountable access. Public learning and access could connect with regional and national capability work.",
-      "conflictBoundary": "Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him."
+      "purpose": "Aura of Intelligence is Luke’s approach to personal AI, shaped around a person’s chosen records, purposes and permissions. The aim is practical control over personal intelligence and the assumptions systems make about people.",
+      "redlandsAdaptation": "People could begin with a Verse Box introduction or choose the deeper Genesis pathway. Personal Aura would support choices about records and purposes, inspection of assumptions, correction of mistakes, permissions and moving information between suitable systems. These tools could support the separate care, tourism, contribution, work and resilience proposals.",
+      "mayoralCouncilLever": "The mayor could seek clear requirements for council information systems and partnerships: explain their purposes, make decisions traceable, allow correction, support moving information and account for access. Public learning could connect personal choices with regional and national computing capability.",
+      "conflictBoundary": "Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him.",
+      "route": "Personal choice, council information policy and wider government action",
+      "outside": "Personal choices and archives remain with the person and their chosen arrangements. National privacy, competition, employment and AI settings involve the responsible governments; infrastructure and node operations have their own owners and agreements.",
+      "partners": "Residents, community hosts, local technology and compute providers, education partners, researchers, businesses, neighbouring councils and responsible state and federal agencies.",
+      "connections": [
+        {
+          "id": "25",
+          "relationship": "Public introduction and supported station access."
+        },
+        {
+          "id": "14",
+          "relationship": "Optional deeper Genesis development of the person-Aura relationship."
+        },
+        {
+          "id": "05",
+          "relationship": "Learning about practical AI use and personal data choices."
+        },
+        {
+          "id": "07",
+          "relationship": "Public-data and community simulations are a distinct information layer."
+        },
+        {
+          "id": "39",
+          "relationship": "Compute services can support chosen personal workloads."
+        },
+        {
+          "id": "52",
+          "relationship": "Shared nodes retain separate local and cultural governance."
+        },
+        {
+          "id": "44",
+          "relationship": "The wider sovereign-capacity agenda connects this personal capability to regional and national action."
+        },
+        {
+          "id": "08",
+          "relationship": "Optional personal records and reflection for C-hour participation."
+        },
+        {
+          "id": "18",
+          "relationship": "Chosen skills and work samples for work exploration."
+        },
+        {
+          "id": "16",
+          "relationship": "Everyday support and care coordination application."
+        },
+        {
+          "id": "36",
+          "relationship": "Tourism and travel learning application."
+        },
+        {
+          "id": "28",
+          "relationship": "Chosen personal preparedness and public-information access."
+        },
+        {
+          "id": "29",
+          "relationship": "Recovery coordination retains its own authorised information flows."
+        },
+        {
+          "id": "10",
+          "relationship": "Personal record choices in co-operative services"
+        },
+        {
+          "id": "49",
+          "relationship": "Personal Aura access at civic places"
+        }
+      ]
     },
     "48": {
-      "purpose": "The aim is personal-Aura tools supporting identity, familiar memories, daily choices and relationships for people with dementia and their carers.",
-      "redlandsAdaptation": "The clinical research path for Aura of Dementia would involve willing people, carers and care and research partners. It would develop person-centred records, familiar music and images, reminders and supported choices, alongside research on usability, quality of life, function and carer outcomes.",
+      "purpose": "Personal Aura tools could help people with dementia and their carers preserve familiar memories, express choices and maintain relationships, with research into how well the tools work.",
+      "redlandsAdaptation": "Willing people with dementia, carers and care and research partners could develop familiar music and images, personal records, reminders and support for everyday choices. Research would examine ease of use, quality of life, everyday abilities and outcomes for carers.",
       "mayoralCouncilLever": "The mayor could convene local care and community partners, connect accessible public learning and age-friendly work, and support a funding conversation with the responsible governments and institutions.",
-      "conflictBoundary": "Luke's dementia-support software, research role or provider interest would be relevant to any council study funding, software licence or selection of a research partner involving him."
+      "conflictBoundary": "Luke's dementia-support software, research role or provider interest would be relevant to any council study funding, software licence or selection of a research partner involving him.",
+      "route": "Care and research partnerships",
+      "outside": "Care delivery, clinical research, consent arrangements and health information remain with the responsible participants, providers and research bodies.",
+      "partners": "People with dementia, carers, aged-care and home-care providers, clinicians, researchers, community organisations and suitable technology partners.",
+      "connections": [
+        {
+          "id": "16",
+          "relationship": "Everyday support and service coordination is a distinct application connected to this research."
+        },
+        {
+          "id": "43",
+          "relationship": "Healthy-ageing and longevity research retains its own questions and study arrangements."
+        },
+        {
+          "id": "46",
+          "relationship": "A research or care host needs a separate agreement."
+        },
+        {
+          "id": "47",
+          "relationship": "Person-controlled records and representations support the software's chosen information flows."
+        }
+      ]
     },
     "49": {
-      "purpose": "The aim is shared civic places across Redlands where independent learning, cultural, enterprise, practical-support and community activities can use suitable space and facilities.",
-      "redlandsAdaptation": "The civic-establishment architecture would be adapted with willing mainland and island hosts. Location-specific arrangements would cover rooms, activities, public access, tools, connectivity, support, opening hours, host responsibilities and operating costs, with connections to computing or node services where chosen.",
-      "mayoralCouncilLever": "The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programmes, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.",
-      "conflictBoundary": "Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment."
+      "purpose": "Aura civic establishments are proposed shared places for learning, culture, enterprise, practical help and community activities, with the equipment and support those activities need.",
+      "redlandsAdaptation": "Willing mainland and island hosts could adapt the civic-establishment model to local needs. Agreements would cover rooms, activities, public access, tools, internet connections, support, opening hours, responsibilities and running costs. Computing services could be connected where participants chose.",
+      "mayoralCouncilLever": "The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programs, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.",
+      "conflictBoundary": "Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.",
+      "route": "Council, regional, state, federal and business cooperation",
+      "outside": "Landowners and operators decide use and terms. Each community and cultural authority decides its participation and permissions. Any proposed identity checks would need to suit the actual service and lawful purpose.",
+      "partners": "Residents, Traditional Owners and cultural organisations, community hosts, libraries, educators, 500 Queens mentors/participants, businesses, co-operative participants, care and research partners, and neighbouring councils.",
+      "firstPrinciples": "A civic establishment brings a real place, people, activities and ongoing support together. Space, support hours, equipment, maintenance, access and costs need clear accounts. Several activities can share facilities while keeping their own participation choices and decision-making arrangements.",
+      "localApplications": "Teacher development, creative work, women-led enterprise, Try Everything activities, community assistance, Verse Box access and resilience information can each use the rooms, equipment or support relevant to their purpose.",
+      "connections": [
+        {
+          "id": "10",
+          "relationship": "Possible operating/service agreement"
+        },
+        {
+          "id": "20",
+          "relationship": "Leadership and enterprise activity"
+        },
+        {
+          "id": "24",
+          "relationship": "Shared practical tools"
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box access"
+        },
+        {
+          "id": "26",
+          "relationship": "Creative and cultural activity"
+        },
+        {
+          "id": "38",
+          "relationship": "Neighbourhood venue connections"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute service connection"
+        },
+        {
+          "id": "42",
+          "relationship": "Teaching activity"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared strategic direction"
+        },
+        {
+          "id": "46",
+          "relationship": "Distinct care/research site relationships"
+        },
+        {
+          "id": "52",
+          "relationship": "Node operation and permissions"
+        },
+        {
+          "id": "47",
+          "relationship": "Supported access to personal Aura"
+        },
+        {
+          "id": "05",
+          "relationship": "Possible host for everyday AI learning"
+        },
+        {
+          "id": "14",
+          "relationship": "Possible host for an optional personal Genesis pathway"
+        },
+        {
+          "id": "08",
+          "relationship": "Possible host for voluntary contribution activities"
+        },
+        {
+          "id": "18",
+          "relationship": "Possible host for work exploration"
+        },
+        {
+          "id": "28",
+          "relationship": "Possible resilient information access point"
+        },
+        {
+          "id": "36",
+          "relationship": "Possible host for visitor information and learning"
+        }
+      ]
     },
     "50": {
-      "purpose": "The aim is coordination of physical capacity and circular resource requirements across Redlands intelligence, productive infrastructure and essential-service projects.",
-      "redlandsAdaptation": "The first-principles ledger connects workloads and service needs with equipment, electricity, cooling, water, networks, materials, parts, replacement and recovery. Service owners and suppliers could use it to identify quantities, delivery stages, responsible parties and opportunities for additional capacity and reuse.",
+      "purpose": "Redlands projects could plan the electricity, water, materials, equipment and repair services they need together, with clear accounts of costs, use and recovery.",
+      "redlandsAdaptation": "A resource plan would connect each service’s work with its equipment, electricity, cooling, water, networks, materials, spare parts, replacement and recovery needs. Service owners and suppliers could record quantities, stages, responsibilities and opportunities to share or reuse resources.",
       "conflictBoundary": "Relevant interests include a supplier, asset or financial interest in the energy, materials, equipment, maintenance or recovery arrangements recorded in the resource plan.",
-      "firstPrinciples": "Resource accounts trace finished equipment into net factory feed, manufacturing yield, recycled and primary supply, then ore grade and recovery. They distinguish power rating, annual energy and dependable timed delivery, with storage duration and losses, network connections and actual commissioning recorded separately. The approach preserves electricity needed for the clean-energy transition and essential development, with additional demand shown explicitly. It counts the full operating life, repair and recovery rather than purchase mass alone."
+      "firstPrinciples": "Start with the useful service, then trace its equipment back through factory materials, recycling and mining. Record what reaches the finished product, manufacturing losses, recycled and newly mined supply, ore quality and recovery. Keep the rate of electricity use, total energy over time and reliable supply when needed as separate measures. Record storage duration and losses, network connections and when equipment is actually ready to use. Protect electricity needed for the clean-energy transition and essential development, with extra demand shown clearly. Count operation, maintenance, repair and recovery across the equipment’s working life.",
+      "route": "Council, regional, state, federal and business cooperation",
+      "mayoralCouncilLever": "Council can examine its own facilities, waste/resource recovery, water/services, infrastructure planning and purchasing, and convene utilities, industry, researchers and other governments around the wider requirements.",
+      "outside": "Electricity networks, generation, major mineral extraction/refining, industrial capacity and relevant environmental approvals involve responsible operators and state and federal authorities. Each local use still needs the appropriate land, service and operating arrangements.",
+      "partners": "Council asset, water and waste teams, energy/network providers, material processors, repair/reuse businesses, engineers, researchers, landholders and state and federal infrastructure partners.",
+      "connections": [
+        {
+          "id": "23",
+          "relationship": "Recovered goods and material streams"
+        },
+        {
+          "id": "24",
+          "relationship": "Workshop and shared-tool needs"
+        },
+        {
+          "id": "30",
+          "relationship": "Housing and service requirements"
+        },
+        {
+          "id": "32",
+          "relationship": "Underground-road requirements"
+        },
+        {
+          "id": "33",
+          "relationship": "Island-service requirements"
+        },
+        {
+          "id": "34",
+          "relationship": "Material reuse and coastal destinations"
+        },
+        {
+          "id": "35",
+          "relationship": "Specific energy projects"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute resource requirements"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared capacity direction"
+        },
+        {
+          "id": "49",
+          "relationship": "Civic-place requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing feed and service needs"
+        },
+        {
+          "id": "52",
+          "relationship": "Node resource requirements"
+        }
+      ]
     },
     "51": {
-      "purpose": "The aim is to connect Redlands public-service and business needs with Australian design, manufacture, supply, maintenance and ownership of useful machines and tools for domestic use and export.",
-      "redlandsAdaptation": "A Redlands demand and industry-partnership brief would cover useful equipment for water and stormwater, inspections, solar and land care, food growing, public-space maintenance, materials handling and emergency logistics. It would connect willing businesses, workshops, manufacturers, training providers and regional partners to design, supply, adapt, repair and service the appropriate tools. The proposal includes participation in exports of machines, components, repair modules and service knowledge on terms that preserve the buyer's authority.",
+      "purpose": "Redlands public-service and business needs could connect with Australian design, manufacture, maintenance and ownership of useful machines and tools, for local use and export.",
+      "redlandsAdaptation": "A Redlands industry brief could set out equipment needs for water and stormwater, inspections, solar and land care, food growing, public-space maintenance, moving materials and emergency supplies. Willing businesses, workshops, manufacturers and training providers could work together on design, supply, repair and service. Exports could include machines, components, repair modules and service knowledge, on terms that preserve the buyer’s authority.",
       "conflictBoundary": "Relevant interests include ownership, intellectual-property income or a paid role in a manufacturer, equipment supplier or repair contract connected to a council decision.",
-      "firstPrinciples": "Planning distinguishes annual manufacture from the working fleet after retirements, and production ceilings from demand. It brings components, factories, commissioning, skills, qualified buyers and local service support together. Accounts keep capital costs, production working capital, sales and profit distinct. Documented interfaces, repair access, owner-held control, software continuity and safe isolation or disconnection are design requirements."
+      "firstPrinciples": "Count machines made each year separately from the machines still working after older ones retire. Record both factory capacity and actual demand. Bring together parts, factories, installation and testing, skills, suitable buyers and local service support. Keep setup costs, money needed for day-to-day production, sales and profit in separate accounts. Designs would include documented connections between parts and systems, repair access, owner control, continuing software support and safe ways to isolate or disconnect equipment.",
+      "route": "Council, regional, state, federal and business cooperation",
+      "mayoralCouncilLever": "Council can articulate public-service needs, convene industry and workforce partners, support local capability and undertake authorised purchasing or partnerships. Neighbouring councils can choose to collaborate on demand, skills, service infrastructure and proposals to state and federal government.",
+      "outside": "Manufacturers and customers decide commercial production and sales. State/federal industry, trade and infrastructure settings and relevant safety authorities retain their responsibilities. National factory or export scenarios in the manuscript are distinct from Redlands orders or local production commitments.",
+      "partners": "Manufacturers and component suppliers, independent repairers, makers, employers and unions, education/training providers, researchers, service owners, neighbouring councils and state and federal industry and investment partners.",
+      "connections": [
+        {
+          "id": "10",
+          "relationship": "Possible delivery and shared-asset arrangements"
+        },
+        {
+          "id": "11",
+          "relationship": "Industry application and procurement support"
+        },
+        {
+          "id": "12",
+          "relationship": "Government industry/investment route"
+        },
+        {
+          "id": "18",
+          "relationship": "Workforce exploration and pathways"
+        },
+        {
+          "id": "23",
+          "relationship": "Distinct goods-recovery stream"
+        },
+        {
+          "id": "24",
+          "relationship": "Workshop and shared-tool participation"
+        },
+        {
+          "id": "28",
+          "relationship": "Emergency-logistics applications"
+        },
+        {
+          "id": "35",
+          "relationship": "Energy-related applications"
+        },
+        {
+          "id": "39",
+          "relationship": "Industry computing needs"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared strategic direction"
+        },
+        {
+          "id": "49",
+          "relationship": "Place and enterprise connections"
+        },
+        {
+          "id": "50",
+          "relationship": "Materials, power and lifecycle requirements"
+        },
+        {
+          "id": "52",
+          "relationship": "Local operating and knowledge connections"
+        },
+        {
+          "id": "21",
+          "relationship": "Games-related industry and lasting service capability"
+        }
+      ]
     },
     "52": {
-      "purpose": "The aim is locally governed cultural intelligence operations and voluntary exchanges between nodes, retaining each place's identity and authority.",
-      "redlandsAdaptation": "Node operating arrangements would cover local workloads, personal and community memory, cultural custody, permissions, model and tool services, paid technical operation, teaching and maintenance. The compute, power, cooling and network provision in entry 39 would connect with any chosen host arrangements in entry 49. Nodes could agree selected exchanges while participants retain their keys, identities and decisions.",
+      "purpose": "Cultural intelligence nodes are proposed locally run services for community knowledge, computing and learning. They could share selected resources with other places by agreement, while keeping local authority.",
+      "redlandsAdaptation": "A cultural intelligence node is a locally run service for computing, tools and knowledge. Its agreements would cover personal and community memory, cultural custody, permissions, AI models, paid technical work, teaching and maintenance. It could use the computing services in entry 39 and a host place in entry 49. Nodes could exchange selected resources while participants keep control of their access keys, identities and decisions.",
       "mayoralCouncilLever": "The mayor could bring willing hosts, cultural custodians, technical operators, educators and business partners together, and seek council support for public functions alongside state, federal or regional investment in infrastructure and operating capability.",
       "conflictBoundary": "Relevant interests include an interest in a node operator, hosting agreement, licensed technology, paid technical role or data-service contract proposed for council support.",
-      "firstPrinciples": "Node design matches compute, storage, power, cooling, networks, security, skilled operation and continuity to the work it serves. Personal Aura, cultural knowledge, creative media, public simulations, robotics and research have different permissions and workloads. Local authority and voluntary federation are design requirements; paid technical work and C-hour recognition retain separate accounts."
+      "firstPrinciples": "Match equipment, storage, electricity, cooling, networks, security, skilled operators and backup arrangements to the work being done. Personal Aura, cultural knowledge, creative work, public models, robotics and research each need suitable permissions and resources. Local authority and voluntary sharing between nodes are part of the design. Paid technical work and C-hour recognition would have separate records.",
+      "route": "Council, regional, state, federal and business cooperation",
+      "outside": "Technical operation and cultural permission are distinct responsibilities. Each participating person, organisation and place decides what may be viewed, stored, transcribed, modelled, shared or published within the law. Infrastructure owners, service operators and funding bodies make their own agreements.",
+      "partners": "Local communities and cultural custodians, Quandamooka organisations where they choose to participate, compute/network/energy providers, paid technical operators, educators, co-operative participants, researchers, businesses and neighbouring councils.",
+      "connections": [
+        {
+          "id": "07",
+          "relationship": "Approved public data and simulation services"
+        },
+        {
+          "id": "10",
+          "relationship": "Possible operating/service agreement"
+        },
+        {
+          "id": "18",
+          "relationship": "Workforce pathways"
+        },
+        {
+          "id": "25",
+          "relationship": "Public entry and assisted access"
+        },
+        {
+          "id": "28",
+          "relationship": "Resilience service connections"
+        },
+        {
+          "id": "36",
+          "relationship": "Tourism/cultural service connections"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute and hosting provision"
+        },
+        {
+          "id": "42",
+          "relationship": "Teaching and operator capability"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared strategic direction"
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura and permissions"
+        },
+        {
+          "id": "49",
+          "relationship": "Physical host and access"
+        },
+        {
+          "id": "50",
+          "relationship": "Physical resource requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Industry and service knowledge connections"
+        },
+        {
+          "id": "14",
+          "relationship": "Technical capacity for an optional Genesis pathway"
+        }
+      ]
     }
   }
 }

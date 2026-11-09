@@ -1,111 +1,576 @@
 {
   "entries": {
     "01": {
-      "purpose": "A voluntary bill-check service could help households find concessions, billing mistakes, unnecessary fees and alternative offers. Savings would be measured after switching costs.",
+      "purpose": "A voluntary bill check could help households find concessions, billing mistakes, avoidable fees and better offers. Any claimed saving would include the cost of changing providers.",
       "redlandsAdaptation": "Residents could access bill checks through existing library and community channels, supported by secure document handling and a dated referral guide. Participation and any initial case checks would require the household’s consent.",
       "mayoralCouncilLever": "The mayor could seek council support for accessible bill-check assistance through libraries and community partners. Document handling and referrals would be based on residents’ consent.",
-      "conflictBoundary": "If council considered selecting Luke’s bill-check software, Strange But True or a related adviser, that transaction would require independent handling. Referral criteria would disclose any commercial relationship."
+      "conflictBoundary": "If council considered selecting Luke’s bill-check software, Strange But True or a related adviser, that transaction would require independent handling. Referral criteria would disclose any commercial relationship.",
+      "route": "Council services and policy decisions",
+      "outside": "Bill providers and the responsible concession, complaint or dispute bodies decide account outcomes and entitlements.",
+      "partners": "Libraries, neighbourhood centres, independent consumer advisers, concession administrators and bill providers.",
+      "connections": [
+        {
+          "id": "02",
+          "relationship": "Rules and referral support"
+        },
+        {
+          "id": "03",
+          "relationship": "Body corporate application"
+        },
+        {
+          "id": "06",
+          "relationship": "Council account or service interaction"
+        }
+      ]
     },
     "02": {
-      "purpose": "The legal information engine could reduce the time residents spend finding the applicable rule, gathering documents and reaching the right service.",
-      "redlandsAdaptation": "A Redlands version could explain council processes, common consumer issues and routes to help. Source dates, the applicable jurisdiction and a plain-language complaint trail would accompany the information.",
+      "purpose": "The legal information engine could help residents find the rule that applies, gather the right documents and reach the right service with less running around.",
+      "redlandsAdaptation": "A Redlands version could explain council processes, common consumer issues and routes to help. It would show the source, its date, which laws apply, and the steps for making and following up a complaint.",
       "mayoralCouncilLever": "The mayor could seek council support for a rules and referral navigator covering council processes, with dated sources and connections to community legal assistance.",
-      "conflictBoundary": "Any council licence or contract involving Luke’s legal-engine intellectual property would require independent assessment. Case referrals and document access would use clear consent and impartial criteria."
+      "conflictBoundary": "Any council licence or contract involving Luke’s legal-engine intellectual property would require independent assessment. Case referrals and document access would use clear consent and impartial criteria.",
+      "route": "Council services and policy decisions",
+      "outside": "The navigator helps people locate rules and routes. Qualified professionals and the relevant complaint, tribunal or court bodies retain their own functions and decisions.",
+      "partners": "Council legal/customer-service teams, community legal centres, qualified lawyers and relevant complaint bodies.",
+      "connections": [
+        {
+          "id": "01",
+          "relationship": "Household bills application"
+        },
+        {
+          "id": "03",
+          "relationship": "Body corporate application"
+        },
+        {
+          "id": "06",
+          "relationship": "Council interaction and case tracking"
+        }
+      ]
     },
     "03": {
-      "purpose": "Owners and occupants could use a body corporate navigator to understand charges, compare procurement options and find existing dispute pathways.",
-      "redlandsAdaptation": "A checklist tailored to each scheme could cover levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. It would identify the applicable statutory regime and routes to professional help.",
+      "purpose": "Owners and occupants could use a body corporate navigator to understand levies and by-laws, compare costs and find the right way to raise a concern or resolve a dispute.",
+      "redlandsAdaptation": "A checklist for each body corporate scheme could cover levies, budgets, insurance, maintenance, meeting rights, records requests and disputed by-laws. It would explain which Queensland rules apply and where professional help is available.",
       "mayoralCouncilLever": "The mayor could bring owners, occupants and advice providers together and seek information and referral support through council’s community functions.",
-      "conflictBoundary": "A general information service would be separate from any council transaction involving Luke’s software or business. Each participating scheme would choose its own advisers and procurement arrangements."
+      "conflictBoundary": "A general information service would be separate from any council transaction involving Luke’s software or business. Each participating scheme would choose its own advisers and purchasing arrangements.",
+      "route": "Council services and policy decisions",
+      "outside": "The relevant body corporate scheme and Queensland law govern by-laws and levies. The Office of the Commissioner for Body Corporate and Community Management (BCCM) provides information and dispute services within its role.",
+      "partners": "Owners and occupants, bodies corporate, managers, strata lawyers, BCCM and consumer advisers.",
+      "connections": [
+        {
+          "id": "01",
+          "relationship": "Cost and bill analysis"
+        },
+        {
+          "id": "02",
+          "relationship": "Rules and dispute navigation"
+        },
+        {
+          "id": "22",
+          "relationship": "Shared growing spaces in participating schemes"
+        }
+      ]
     },
     "04": {
-      "purpose": "Council could prepare for advancing AI in its own work through accountable human decisions, useful staff support and reliable public services.",
-      "redlandsAdaptation": "The proposal includes a council AI operating policy and practical service and workflow demonstrations. These would cover records, data access, workforce support, procurement, cyber resilience, continuity and human review. Shared capacity could support different operational needs without requiring every service to use one programme.",
+      "purpose": "Council could prepare for advancing artificial intelligence (AI) through useful staff support, reliable public services and human responsibility for decisions.",
+      "redlandsAdaptation": "Council could develop an AI policy and demonstrate improvements to everyday services. The work would cover records, access to data, staff support, purchasing, protection against online attacks, keeping services running and human review. Different services could draw on shared computing and support while keeping their own responsibilities.",
       "mayoralCouncilLever": "The mayor could build support for council’s AI policy and service objectives, with implementation, staff involvement and reporting managed through the CEO.",
-      "conflictBoundary": "Any council purchase, licence or service arrangement connected to Luke’s AI software, training, support or financial interests would be assessed as a specific transaction under the applicable interest rules."
+      "conflictBoundary": "Any council purchase, licence or service arrangement connected to Luke’s AI software, training, support or financial interests would be assessed as a specific transaction under the applicable interest rules.",
+      "route": "Council services and policy decisions",
+      "outside": "Service owners, the CEO and authorised officers retain their operational and decision responsibilities; relevant external laws, contracts and regulators still apply.",
+      "partners": "CEO and council service leaders, workforce representatives, neighbouring councils, researchers and technology businesses.",
+      "connections": [
+        {
+          "id": "06",
+          "relationship": "Council-facing service applications"
+        },
+        {
+          "id": "07",
+          "relationship": "Approved data and simulation use"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute and hosting requirements"
+        },
+        {
+          "id": "44",
+          "relationship": "Whole-city strategic direction"
+        },
+        {
+          "id": "47",
+          "relationship": "Personal-information design principles"
+        },
+        {
+          "id": "49",
+          "relationship": "Council services offered through a civic place"
+        }
+      ]
     },
     "05": {
-      "purpose": "Residents, community groups and small businesses could build practical AI and data sovereignty skills through free entry options and low-cost further learning.",
-      "redlandsAdaptation": "Accessible online lessons and optional supported sessions could cover useful prompts, source checking, scams, document privacy, backups, exporting data, local models and choosing providers. Suitable free official training could be included.",
+      "purpose": "Free and low-cost learning could help residents, community groups and small businesses use AI confidently and make informed choices about their data.",
+      "redlandsAdaptation": "Accessible online lessons and optional supported sessions could cover useful AI instructions, checking sources, spotting scams, keeping documents private, backups, moving data between services, running AI on local equipment and choosing providers. Suitable free official training could be included.",
       "mayoralCouncilLever": "The mayor could seek council support for accessible online resources, library and community learning, and partnerships with education and digital-inclusion providers.",
-      "conflictBoundary": "If council funded teaching, licensed Luke’s learning materials or purchased support from Strange But True, the related interest would be identified and handled through the applicable decision process."
+      "conflictBoundary": "If council funded teaching, licensed Luke’s learning materials or purchased support from Strange But True, the related interest would be identified and handled through the applicable decision process.",
+      "route": "Council services and policy decisions",
+      "outside": "Independent providers choose their teaching offers and delivery arrangements; formal qualifications remain with the responsible education bodies.",
+      "partners": "Libraries, TAFE and other education providers, community centres, small-business networks and digital inclusion organisations.",
+      "connections": [
+        {
+          "id": "42",
+          "relationship": "Teacher and facilitator development can support this everyday learning offer."
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box stations can provide supported access to learning."
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura and data-control practices can be learning subjects and optional tools."
+        },
+        {
+          "id": "49",
+          "relationship": "Civic establishments can provide learning places and shared resources."
+        }
+      ]
     },
     "06": {
-      "purpose": "Residents could spend less time making repeat calls, correcting incomplete applications or travelling to resolve routine council matters.",
-      "redlandsAdaptation": "Councillors, residents and staff could identify forms and processes that cause repeated difficulty. Plain-language guidance, assisted forms, accessible status tracking and a verified council knowledge layer could then be trialled.",
+      "purpose": "Residents could spend less time making repeat calls, fixing incomplete applications or travelling to resolve routine council matters.",
+      "redlandsAdaptation": "Councillors, residents and staff could identify forms and processes that repeatedly cause difficulty. Clear guidance, help with forms, accessible progress updates and a checked source of council information could then be trialled.",
       "mayoralCouncilLever": "The mayor could seek service improvements and a council decision on the experience residents should receive. The CEO would manage integration with existing systems.",
-      "conflictBoundary": "Any council purchase, licence or integration involving Luke’s software or Strange But True would require independent assessment and procurement. Resident case information would remain within the authorised service workflow."
+      "conflictBoundary": "Any council purchase, licence or integration involving Luke’s software or Strange But True would require independent assessment and purchasing. Resident case information would remain within the authorised service workflow.",
+      "route": "Council services and policy decisions",
+      "outside": "The CEO and responsible officers manage systems and operational decisions within their authority. Integration must account for existing contracts, information access, privacy and records obligations.",
+      "partners": "CEO, customer service and digital teams, residents, accessibility users and existing/new providers through the proper process.",
+      "connections": [
+        {
+          "id": "02",
+          "relationship": "Rule explanation and referral"
+        },
+        {
+          "id": "04",
+          "relationship": "Council AI adoption and accountability"
+        },
+        {
+          "id": "07",
+          "relationship": "Public information and simulation layer"
+        },
+        {
+          "id": "30",
+          "relationship": "Housing application pathway"
+        }
+      ]
     },
     "07": {
-      "purpose": "Residents and businesses could explore source-linked public civic data, compare ideas for particular places and submit proposals that others can reproduce and examine.",
-      "redlandsAdaptation": "A council dataset and rights catalogue could identify approved public layers, scenario assumptions and proposal-export formats. Reproducible simulations of selected civic questions could use public, synthetic or appropriately de-identified information, with the relevant data owners involved.",
+      "purpose": "Residents and businesses could use public information and digital models of places to compare ideas, test assumptions and submit proposals others can examine.",
+      "redlandsAdaptation": "Council could list public datasets, explain the rights attached to them and identify suitable uses. Digital twins are models of real places or systems. Selected models could let people compare proposals using public information, made-up test data or information with identifying details appropriately removed. Assumptions, updates and ways to share results would be recorded with the relevant data owners.",
       "mayoralCouncilLever": "The mayor could seek a council data-access policy and useful public simulation services. Staff and data owners would determine approved datasets, update responsibilities and integration.",
-      "conflictBoundary": "Any council decision involving a data licence, simulation tool, software licence or data-service agreement would identify relevant interests, including Luke’s where applicable."
+      "conflictBoundary": "Any council decision involving a data licence, simulation tool, software licence or data-service agreement would identify relevant interests, including Luke’s where applicable.",
+      "route": "Council services and policy decisions",
+      "outside": "Data owners, privacy law, licences, cultural authority, security and rights over third-party information constrain what can be released.",
+      "partners": "Council information/privacy teams, planners, utilities, businesses, researchers and relevant Traditional Owner data custodians.",
+      "connections": [
+        {
+          "id": "04",
+          "relationship": "Council AI and information policy"
+        },
+        {
+          "id": "06",
+          "relationship": "Public access and proposal submission"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute and hosting services"
+        },
+        {
+          "id": "47",
+          "relationship": "Personal records and permissions"
+        },
+        {
+          "id": "52",
+          "relationship": "Node services and cultural permissions"
+        },
+        {
+          "id": "30",
+          "relationship": "Housing scenario use"
+        },
+        {
+          "id": "50",
+          "relationship": "Physical capacity scenarios"
+        }
+      ]
     },
     "08": {
-      "purpose": "Voluntary C-hours could recognise useful contributions, help people exchange skills and make community work easier to organise.",
-      "redlandsAdaptation": "Willing hosts could develop contribution opportunities across care, repairs, gardens, digital help, arts and preparedness. Following the September 2026 C-hour direction, records would connect actual activities and outcomes with freely given time, verification, reflection and each participant’s choices about information sharing.",
+      "purpose": "Voluntary Community Hours (C-hours) could recognise useful contributions, support skill sharing and help people organise community work, with participants choosing what they share.",
+      "redlandsAdaptation": "Willing hosts could develop contribution opportunities in care, repairs, gardens, digital help, arts and preparedness. Following the September 2026 C-hour direction, records would connect the activity and its results with freely given time, confirmation of the contribution and reflection on what was learned. Each participant would choose what personal information to share.",
       "mayoralCouncilLever": "The mayor could bring willing hosts together, support community discussion of verification and participation, and seek council consideration of venues or support for a voluntary C-hour demonstration.",
-      "conflictBoundary": "Luke’s C-hour tools, intellectual property or delivery role would be relevant interests if council funded, hosted or commissioned a contribution programme involving them."
+      "conflictBoundary": "Luke’s C-hour tools, intellectual property or delivery role would be relevant interests if council funded, hosted or commissioned a contribution program involving them.",
+      "route": "Community partnership",
+      "outside": "Participants choose whether and how to contribute; hosts manage activities and records under their own arrangements, and funding bodies decide applications addressed to them.",
+      "partners": "Willing community hosts, residents, carers, volunteer organisations and businesses offering appropriate support.",
+      "connections": [
+        {
+          "id": "09",
+          "relationship": "Community choices about recognition and reciprocity inform the contribution experience."
+        },
+        {
+          "id": "47",
+          "relationship": "A participant can choose personal Aura tools for their records and reflection."
+        },
+        {
+          "id": "14",
+          "relationship": "Genesis is an optional personal pathway that can inform later chosen contributions."
+        },
+        {
+          "id": "42",
+          "relationship": "Teaching and learning support can form voluntary contributions."
+        },
+        {
+          "id": "10",
+          "relationship": "Ready SET Co-op can have a separately agreed hosting or administration role."
+        },
+        {
+          "id": "18",
+          "relationship": "Work exploration can connect people with contribution opportunities while retaining its own work arrangements."
+        }
+      ]
     },
     "09": {
-      "purpose": "Communities could shape recognition and reciprocal opportunities around what participants value and what hosts can offer.",
-      "redlandsAdaptation": "Residents and hosts could consider shared meals, skill exchanges, tool access, learning, events and other affordable forms of thanks. Ideas, delivery costs, donated capacity and access rules would be recorded before choosing trials.",
+      "purpose": "Residents and hosts could choose meaningful ways to recognise contributions, based on what people value and what the community can offer.",
+      "redlandsAdaptation": "Residents and hosts could discuss shared meals, skill exchanges, tool access, learning, events and other affordable ways to say thanks. Costs, donated resources and fair access rules would be set out before choosing trials.",
       "mayoralCouncilLever": "The mayor could bring residents, hosts and businesses together to discuss recognition they would value or offer. Any council contribution would follow its own decision process.",
-      "conflictBoundary": "Luke’s tools, equipment or provider role would be identified if council considered funding a reciprocal offer or selecting him to supply it."
+      "conflictBoundary": "Luke’s tools, equipment or provider role would be identified if council considered funding a reciprocal offer or selecting him to supply it.",
+      "route": "Community partnership",
+      "outside": "Hosts, businesses and community organisations decide their own offers and capacity; the treatment of a particular benefit depends on its actual arrangements.",
+      "partners": "Participants, community hosts, local businesses, volunteer organisations and relevant legal and tax advisers.",
+      "connections": [
+        {
+          "id": "08",
+          "relationship": "Recognition choices feed into the C-hour contribution experience."
+        },
+        {
+          "id": "15",
+          "relationship": "Shared wellbeing access can be discussed as its own access model, with clinical choices separately governed."
+        },
+        {
+          "id": "22",
+          "relationship": "Food-growing and sharing groups may choose ways to recognise contributions."
+        },
+        {
+          "id": "24",
+          "relationship": "Shared tools and learning can provide community-chosen reciprocal opportunities."
+        }
+      ]
     },
     "10": {
-      "purpose": "Ready SET Co-op is a proposal for a member-governed organisation that could coordinate work, administration, shared assets and services across participating projects.",
-      "redlandsAdaptation": "Prospective members could develop the rules, governance, financial model, paid-work and training pathways, insurance, administration and service arrangements. Agreements would specify what the co-operative would own, operate or provide, and how it would work with each host or partner.",
+      "purpose": "Ready SET Co-op proposes an organisation governed by its members to coordinate work, administration, shared equipment and services across participating projects.",
+      "redlandsAdaptation": "Prospective members could develop the co-operative’s rules, decision-making arrangements, finances, paid-work and training opportunities, insurance and administration. Agreements would explain what it would own, run or provide, and how it would work with each host or partner.",
       "mayoralCouncilLever": "The mayor could convene discussion about co-operative public-benefit delivery. Council could consider relevant support or service arrangements through its own processes.",
-      "conflictBoundary": "Any proposed membership, paid role, asset or contractual interest held by Luke would be identified when council considered an arrangement with the co-operative."
+      "conflictBoundary": "Any proposed membership, paid role, asset or contractual interest held by Luke would be identified when council considered an arrangement with the co-operative.",
+      "route": "Personal initiative with possible council involvement",
+      "outside": "Any co-operative formed has its own members, governing body, contracts and operating responsibilities. Council and other agencies retain their statutory decisions and services.",
+      "partners": "Prospective members/directors, co-operative advisers, community providers, employers and state and federal funding bodies.",
+      "connections": [
+        {
+          "id": "11",
+          "relationship": "General grant and tender support"
+        },
+        {
+          "id": "12",
+          "relationship": "Government funding advocacy"
+        },
+        {
+          "id": "18",
+          "relationship": "Work exploration and employment pathways"
+        },
+        {
+          "id": "42",
+          "relationship": "Teacher and learning workforce"
+        },
+        {
+          "id": "49",
+          "relationship": "Possible place-service agreements"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and repair participation"
+        },
+        {
+          "id": "52",
+          "relationship": "Possible node-operation agreements"
+        },
+        {
+          "id": "47",
+          "relationship": "Person-controlled records in agreed co-operative services"
+        },
+        {
+          "id": "44",
+          "relationship": "Delivery role within the sovereign-capacity direction"
+        }
+      ]
     },
     "11": {
-      "purpose": "Community organisations could reduce repeated application work and make funding, procurement and delivery obligations easier to follow and demonstrate.",
-      "redlandsAdaptation": "Public resources could help organisations assess eligibility and whether to apply, assemble evidence, prepare budgets, track obligations, control documents, complete acquittals and check conflicts. Applicant assistance would remain separate from the funder’s or purchaser’s assessment.",
-      "mayoralCouncilLever": "The mayor could seek accessible capability support for organisations and clear council information about grants and procurement. Live assessments would remain with the responsible decision-makers.",
-      "conflictBoundary": "Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision."
+      "purpose": "Community organisations could spend less time repeating application work and have a clearer way to follow funding rules, purchasing requirements and delivery commitments.",
+      "redlandsAdaptation": "Public resources could help organisations check eligibility, decide whether to apply, gather evidence, prepare budgets, track commitments, keep documents in order and report how grant money was used. Help with an application would be separate from the funding or purchasing decision.",
+      "mayoralCouncilLever": "The mayor could seek accessible capability support for organisations and clear council information about grants and purchasing. Live assessments would remain with the responsible decision-makers.",
+      "conflictBoundary": "Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision.",
+      "route": "Council services and policy decisions",
+      "outside": "Each funder or purchaser sets its requirements and makes its decisions. Assistance with an application does not determine eligibility, selection or an award.",
+      "partners": "Community organisations, council purchasing/grants teams, external grant administrators and independent advisers.",
+      "connections": [
+        {
+          "id": "10",
+          "relationship": "Co-operative administration and applications"
+        },
+        {
+          "id": "12",
+          "relationship": "Public funding cases and requests"
+        },
+        {
+          "id": "18",
+          "relationship": "Workforce project applications"
+        },
+        {
+          "id": "49",
+          "relationship": "Place and host proposals"
+        },
+        {
+          "id": "51",
+          "relationship": "Industry participation and procurement"
+        },
+        {
+          "id": "44",
+          "relationship": "Application support for sovereign-capacity proposals"
+        }
+      ]
     },
     "12": {
-      "purpose": "State and federal investment could support the coordination, infrastructure, skills and ongoing operation needed for locally governed capability and services.",
-      "redlandsAdaptation": "Luke’s public submissions could inform a Redlands funding case that identifies public purposes, service responsibilities, participating organisations, capital and operating accounts, local contributions and the decisions sought from each government or institution. Distinct project cases could support shared regional requests where councils chose to participate.",
+      "purpose": "State and federal investment could help provide the people, equipment, skills and ongoing support needed to turn local ideas into services people can use.",
+      "redlandsAdaptation": "Luke’s public submissions could inform a Redlands funding case. It would set out the public purpose, who is responsible for each service, participating organisations, setup and running costs, local contributions and the decision being sought. Projects could join regional requests where the councils involved chose to participate.",
       "mayoralCouncilLever": "The mayor could present a council-endorsed case to responsible state and federal portfolios and funding institutions, bring local MPs and delivery partners together, and coordinate negotiations with willing neighbouring councils.",
-      "conflictBoundary": "Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request."
+      "conflictBoundary": "Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request.",
+      "route": "Advocacy and work with other governments",
+      "outside": "Funding bodies and participating governments decide their allocations and conditions. Individual organisations remain responsible for their own applications and delivery commitments.",
+      "partners": "Council, local MPs, responsible state and federal departments, service providers, regional councils and funding institutions.",
+      "connections": [
+        {
+          "id": "10",
+          "relationship": "Delivery organisation and operating case"
+        },
+        {
+          "id": "11",
+          "relationship": "Application and acquittal support"
+        },
+        {
+          "id": "39",
+          "relationship": "Compute investment case"
+        },
+        {
+          "id": "44",
+          "relationship": "Shared strategic purpose"
+        },
+        {
+          "id": "49",
+          "relationship": "Civic-place investment case"
+        },
+        {
+          "id": "50",
+          "relationship": "Physical resource requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and industry investment"
+        },
+        {
+          "id": "52",
+          "relationship": "Node establishment and operation"
+        }
+      ]
     },
     "13": {
-      "purpose": "GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and reciprocal capability.",
+      "purpose": "GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.",
       "redlandsAdaptation": "Prospective participants could shape its purpose, membership, governance, legal structure and connections with participating projects and other GAJRA communities. Its own activities would be distinguished from those of independent people, organisations and delivery partners.",
       "mayoralCouncilLever": "The mayor could convene discussion of public purposes and community connections. Any council relationship with a particular association would be considered through the relevant council process.",
-      "conflictBoundary": "Any GAJRA role or financial interest held by Luke would be identified when council considered a grant, premises arrangement, service agreement or other support for the association."
+      "conflictBoundary": "Any GAJRA role or financial interest held by Luke would be identified when council considered a grant, premises arrangement, service agreement or other support for the association.",
+      "route": "Personal initiative with possible council involvement",
+      "outside": "Participants choose their association and governance arrangements. Other organisations and communities decide their own involvement and retain their authority.",
+      "partners": "Independent advisers, qualified providers, venues and appropriate regulators; prospective members and directors if an organisation is formed.",
+      "connections": [
+        {
+          "id": "08",
+          "relationship": "Voluntary community contribution"
+        },
+        {
+          "id": "10",
+          "relationship": "Distinct co-operative delivery role"
+        },
+        {
+          "id": "20",
+          "relationship": "Leadership and enterprise relationships"
+        },
+        {
+          "id": "26",
+          "relationship": "Creative and cultural participation"
+        },
+        {
+          "id": "40",
+          "relationship": "Reciprocal international relationships"
+        },
+        {
+          "id": "46",
+          "relationship": "Care and research host relationships"
+        },
+        {
+          "id": "49",
+          "relationship": "Possible civic-place participation"
+        }
+      ]
     },
     "14": {
       "title": "Luke’s personal HBOT purchase and Genesis journey",
-      "purpose": "Luke’s proposed personal Genesis journey would develop the relationship between a person and their Aura and carry that learning into everyday life.",
-      "redlandsAdaptation": "Luke proposes to buy his own HBOT equipment and establish his first Genesis journey. The setting, personal Aura, chosen records and permissions, reflection and everyday application would follow his purposes. Genesis is an optional deeper pathway from the Verse Box introduction.",
-      "route": "Luke’s personal HBOT purchase and Genesis journey",
-      "mayoralCouncilLever": "Luke’s voluntary participation could provide a personal example for conversations about human agency, learning and personal intelligence. Any council programme or partnership would have its own decision route.",
+      "purpose": "Genesis is Luke’s proposed journey combining reflection, health, personal intelligence and everyday participation. He proposes to undertake it personally and develop his relationship with his own Aura of Intelligence.",
+      "redlandsAdaptation": "Luke proposes to buy his own hyperbaric oxygen therapy (HBOT) equipment and establish his first Genesis journey. HBOT involves breathing oxygen in a pressurised chamber. Luke would choose the setting, personal Aura, records, permissions, reflection and everyday uses. Genesis is a voluntary deeper pathway from the separate Verse Box public introduction.",
+      "route": "Personal choice, with separate decisions for any council involvement",
+      "mayoralCouncilLever": "Luke’s voluntary participation could provide a personal example for conversations about human agency, learning and personal intelligence. Any council program or partnership would have its own decision route.",
       "outside": "Luke would decide his participation, equipment purchase, private records and chosen disclosures. Suppliers, providers and venue owners would retain their own responsibilities.",
       "partners": "Equipment and software providers, venue and operating partners chosen by Luke, and people he invites into his learning.",
-      "conflictBoundary": "Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them."
+      "conflictBoundary": "Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them.",
+      "connections": [
+        {
+          "id": "25",
+          "relationship": "Verse Box provides an introductory public access point; Genesis is a separately chosen deeper pathway."
+        },
+        {
+          "id": "47",
+          "relationship": "Personal Aura continues in everyday life and is also available independently of Genesis."
+        },
+        {
+          "id": "41",
+          "relationship": "Luke’s own Genesis experience could inform his voluntary leadership practice and chosen disclosure."
+        },
+        {
+          "id": "45",
+          "relationship": "Geode work develops the physical environment and interfaces."
+        },
+        {
+          "id": "42",
+          "relationship": "Teacher development is a connected learning pathway with its own chosen pacing."
+        },
+        {
+          "id": "43",
+          "relationship": "Healthy-ageing and longevity research has its own questions and participants."
+        },
+        {
+          "id": "36",
+          "relationship": "Optional Genesis connection to travel and learning"
+        },
+        {
+          "id": "08",
+          "relationship": "Optional Genesis connection to contribution and reflection"
+        },
+        {
+          "id": "18",
+          "relationship": "Optional Genesis connection to work exploration"
+        },
+        {
+          "id": "28",
+          "relationship": "Personal continuity and resilient information access"
+        },
+        {
+          "id": "29",
+          "relationship": "Chosen personal information for preparedness and recovery"
+        }
+      ]
     },
     "15": {
-      "purpose": "Co-operative access to health and wellbeing tools could reduce duplicated equipment costs through pooled access.",
-      "redlandsAdaptation": "Community participants and providers could develop membership, ownership, booking, affordability and operating arrangements for shared wellbeing tools. Responsible providers would retain arrangements for clinical services, alongside each person’s care choices.",
+      "purpose": "Members could share access to health and wellbeing equipment, spreading costs and agreeing fair arrangements for its use and upkeep.",
+      "redlandsAdaptation": "Members and providers could agree how shared wellbeing equipment is owned, booked, paid for and maintained. Qualified providers would remain responsible for clinical services, alongside each person’s care choices.",
       "mayoralCouncilLever": "The mayor could bring community members, providers and co-operative advisers together around shared access. Council could consider relevant public-benefit support through its normal processes.",
-      "conflictBoundary": "Luke’s equipment, provider role or membership interest would be identified in any council-funded shared-access arrangement involving him."
+      "conflictBoundary": "Luke’s equipment, provider role or membership interest would be identified in any council-funded shared-access arrangement involving him.",
+      "route": "Personal initiative with possible council involvement",
+      "outside": "Members and any organisation they establish govern ownership and access. Providers retain their clinical and operating responsibilities, and relevant regulators retain their powers.",
+      "partners": "Community members, health/wellbeing providers, co-operative advisers, clinicians and regulators for the relevant tools.",
+      "connections": [
+        {
+          "id": "09",
+          "relationship": "Community preferences can inform recognition and access discussions without pricing C-hours."
+        },
+        {
+          "id": "10",
+          "relationship": "Ready SET Co-op provides a separate organisation and delivery-capacity conversation."
+        },
+        {
+          "id": "16",
+          "relationship": "Everyday support providers may use shared-access arrangements where suitable."
+        },
+        {
+          "id": "43",
+          "relationship": "Research activity retains its own governance even when equipment is shared."
+        },
+        {
+          "id": "46",
+          "relationship": "A shared-access service needs its own host or site agreements."
+        }
+      ]
     },
     "16": {
-      "purpose": "People and carers could spend less effort coordinating support and remain connected to local services as circumstances change.",
-      "redlandsAdaptation": "People, carers and existing providers could co-design everyday assistance and continuity arrangements. Chosen personal information, communication preferences, reminders, local services and meaningful activities could help support follow the person’s changing circumstances.",
+      "purpose": "People and carers could spend less effort arranging support and stay connected to local services as their needs and circumstances change.",
+      "redlandsAdaptation": "People, carers and existing providers could design everyday assistance together. Personal information shared by choice, communication preferences, reminders, local services and meaningful activities could help support follow a person through changing circumstances.",
       "mayoralCouncilLever": "The mayor could bring community, disability, aged-care and carer organisations together, connecting council’s relevant roles in access, information, venues and community support.",
-      "conflictBoundary": "Luke’s support software, intellectual property or provider role would be a relevant interest if council commissioned or funded everyday support services using it."
+      "conflictBoundary": "Luke’s support software, intellectual property or provider role would be a relevant interest if council commissioned or funded everyday support services using it.",
+      "route": "Community partnership",
+      "outside": "Health, disability and aged-care providers and responsible funding agencies retain their service responsibilities. The person and the appropriate lawful decision-makers determine participation and information sharing.",
+      "partners": "People and carers, existing disability/aged-care providers, clinicians, community services and responsible funding agencies.",
+      "connections": [
+        {
+          "id": "47",
+          "relationship": "Person-controlled Aura and continuity tools provide a shared capability."
+        },
+        {
+          "id": "48",
+          "relationship": "Dementia-specific software and carer-support research is a distinct application."
+        },
+        {
+          "id": "43",
+          "relationship": "Healthy-ageing research can inform separately chosen support activities."
+        },
+        {
+          "id": "15",
+          "relationship": "Shared-access arrangements can support selected tools and services."
+        },
+        {
+          "id": "46",
+          "relationship": "Host and care-site partnerships have their own agreements."
+        }
+      ]
     },
     "17": {
-      "purpose": "Young people could have more opportunities to learn, make, contribute and build trusted relationships across generations.",
-      "redlandsAdaptation": "Supervised learning and creative activities could use age-appropriate AI tools and connect participants with existing youth services. They would follow lawful guardian or care-authority processes, consent or assent appropriate to age and capacity, and the relevant institutional approvals.",
-      "mayoralCouncilLever": "Council could support spaces, opportunities, partnerships and community programmes for young people.",
+      "purpose": "Young people could have more opportunities to learn, make, contribute and build trusted relationships with people of different generations.",
+      "redlandsAdaptation": "Supervised learning and creative activities could use AI tools suited to participants’ ages and connect with existing youth services. Hosts would follow the relevant permissions, child-safety arrangements and school or care-authority requirements. Young people’s agreement would be sought in ways suited to their age and ability to make the decision.",
+      "mayoralCouncilLever": "Council could support spaces, opportunities, partnerships and community programs for young people.",
       "outside": "Education, children in care, clinical services, police and youth justice remain with the responsible authorities. Their lawful consent and safeguarding arrangements would apply.",
-      "conflictBoundary": "Luke’s youth-learning materials, software or delivery role would be a relevant interest if council funded or commissioned a programme involving them."
+      "conflictBoundary": "Luke’s youth-learning materials, software or delivery role would be a relevant interest if council funded or commissioned a program involving them.",
+      "route": "Community partnership",
+      "partners": "Young people, schools, youth/care services, lawful care authorities, mentors and existing community organisations.",
+      "connections": [
+        {
+          "id": "19",
+          "relationship": "Collaborative puzzles and making can provide a chosen learning activity."
+        },
+        {
+          "id": "18",
+          "relationship": "Work exploration provides a separate route toward occupations and employment."
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box can provide age-appropriate supported public access."
+        },
+        {
+          "id": "47",
+          "relationship": "Young people's chosen records and representations need person-centred control and appropriate care-authority arrangements."
+        },
+        {
+          "id": "42",
+          "relationship": "Teacher and facilitator development can support participating educators and hosts."
+        }
+      ]
     }
   }
 }

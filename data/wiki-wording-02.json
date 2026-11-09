@@ -1,104 +1,516 @@
 {
   "entries": {
     "18": {
-      "purpose": "Work exploration aims to help people discover suitable work through direct experience and local networks.",
-      "redlandsAdaptation": "A Redlands programme would offer short tasters across trades, care, arts, technology, food growing and repair. Recognised placement arrangements would connect interested people with paid training or employment pathways.",
-      "conflictBoundary": "Luke's work-exploration tools or host role would be relevant to an interest assessment if council funded placements, procured programme support or selected a delivery partner involving him."
+      "purpose": "Try Everything work exploration could help people discover suitable work through direct experience, local connections and opportunities to learn new skills.",
+      "redlandsAdaptation": "Short experiences in trades, care, arts, technology, food growing and repair could help people discover work that suits them. Schools, employment services and employers would use recognised placement arrangements and connect interested people with paid training or employment opportunities.",
+      "conflictBoundary": "Luke's work-exploration tools or host role would need independent consideration if council funded placements, bought program support or selected a delivery partner involving him.",
+      "route": "Community partnership",
+      "mayoralCouncilLever": "Council can convene employers, offer appropriate opportunities and support school/employment partnerships.",
+      "outside": "Schools, employment providers and employers hold their own placement, employment, training and safeguarding responsibilities.",
+      "partners": "Schools, employers, employment agencies, TAFE and other training providers and community hosts.",
+      "connections": [
+        {
+          "id": "17",
+          "relationship": "Young people can connect through the appropriate school, youth or care-service arrangements."
+        },
+        {
+          "id": "42",
+          "relationship": "Teacher development can support workplace learning and mentoring."
+        },
+        {
+          "id": "10",
+          "relationship": "Ready SET Co-op can help develop separately agreed employment and delivery arrangements."
+        },
+        {
+          "id": "08",
+          "relationship": "Voluntary contribution opportunities retain their own C-hour arrangements."
+        },
+        {
+          "id": "47",
+          "relationship": "A person can choose which skills and work samples to carry through their personal Aura."
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and repair partners can supply occupations, work and training opportunities."
+        }
+      ]
     },
     "19": {
-      "purpose": "Collaborative activities across generations aim to support youth safety and opportunity through trusted relationships and practical learning.",
-      "redlandsAdaptation": "Cooperative puzzles and making challenges could be adapted for libraries, schools and community centres. Optional voice reflection would allow participants and facilitators to explore whether it helps people learn teamwork.",
+      "purpose": "People of different generations could solve puzzles and make things together, building teamwork, trusted relationships and practical learning opportunities for young people.",
+      "redlandsAdaptation": "Cooperative puzzles and making challenges could be adapted for libraries, schools and community centres. Participants who chose to do so could record a spoken reflection afterwards, helping them and the facilitators explore what they learned about teamwork.",
       "mayoralCouncilLever": "Council could consider suitable venues and youth, library or arts partnerships for collaborative escape-room sessions and intergenerational making, with community input into the activities.",
-      "conflictBoundary": "Luke's game design, recording tools or delivery role would be relevant to an interest assessment if council commissioned sessions, licensed the format or funded a host involving him."
+      "conflictBoundary": "Luke's game design, recording tools or delivery role would need independent consideration if council commissioned sessions, licensed the format or funded a host involving him.",
+      "route": "Community partnership",
+      "outside": "Hosts and facilitators manage sessions, recordings and participant permissions; schools and community organisations choose their own involvement.",
+      "partners": "Schools, youth services, libraries, community venues, mentors, makers and participants across generations.",
+      "connections": [
+        {
+          "id": "17",
+          "relationship": "Youth and care-service partners can choose the activity as part of their own program."
+        },
+        {
+          "id": "26",
+          "relationship": "Creative production and performance can contribute to the experience."
+        },
+        {
+          "id": "24",
+          "relationship": "Makerspaces can provide tools, materials and practical collaboration."
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box may support selected interfaces or reflection activities."
+        },
+        {
+          "id": "49",
+          "relationship": "Civic establishments can host group activities under their own access arrangements."
+        }
+      ]
     },
     "20": {
-      "purpose": "500 Queens aims to create opportunities for emerging female leaders to practise long-range civic decision-making and build networks.",
-      "redlandsAdaptation": "Leadership exercises could be adapted to local long-term planning, with human mentors invited through Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other interested councils.",
-      "mayoralCouncilLever": "The mayor could invite neighbouring councils to a shared leadership and mentoring programme, with each council choosing its contribution.",
+      "purpose": "500 Queens is a women’s enterprise and leadership proposal. It aims to give emerging female leaders opportunities to practise decisions that affect the coming decades and learn with experienced human mentors.",
+      "redlandsAdaptation": "Leadership exercises could focus on local decisions with effects well into the future. Human mentors could be invited through Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other interested councils.",
+      "mayoralCouncilLever": "The mayor could invite neighbouring councils to a shared leadership and mentoring program, with each council choosing its contribution.",
       "outside": "Human mentors and other councils agree their own participation; the mayor cannot appoint them or commit their resources.",
-      "conflictBoundary": "Luke's mentoring, programme or partner role would be relevant to an interest assessment if council funded the network, selected its partners or supported an organisation he joined."
+      "conflictBoundary": "Luke's mentoring, program or partner role would need independent consideration if council funded the network, selected its partners or supported an organisation he joined.",
+      "route": "Advocacy and work with other governments",
+      "partners": "Brisbane, Logan, Toowoomba, Gold Coast, Moreton Bay, Sunshine Coast and other willing councils, educators and mentors.",
+      "connections": [
+        {
+          "id": "42",
+          "relationship": "Teacher and facilitator development can support leadership learning."
+        },
+        {
+          "id": "41",
+          "relationship": "Luke's voluntary leadership example is a separate contribution to the wider discussion."
+        },
+        {
+          "id": "18",
+          "relationship": "Work experience and mentoring can connect participants with actual enterprise roles."
+        },
+        {
+          "id": "49",
+          "relationship": "Civic establishments can provide shared places for enterprise and learning."
+        },
+        {
+          "id": "52",
+          "relationship": "Cultural intelligence nodes can provide locally governed tools and shared technical capacity."
+        }
+      ]
     },
     "21": {
-      "purpose": "The proposal aims to connect Redlands people and organisations with Brisbane 2032 opportunities and enduring local benefits.",
-      "redlandsAdaptation": "A Redlands participation and legacy discussion with the responsible Games and state bodies would cover accessible visitor information, volunteer and paid-work pathways, local arts and enterprise, and capabilities useful beyond the event. Each independent project would identify its specific Games-related connections.",
-      "mayoralCouncilLever": "The mayor could represent a council-endorsed Redlands position in regional, state and Games discussions, connect local organisations with the responsible programme owners, and seek clear local-benefit and access arrangements.",
-      "conflictBoundary": "Any personal or business interest Luke has in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity would need to be identified."
+      "purpose": "Brisbane 2032 could create opportunities for Redlands residents and organisations, with skills, connections and local services that remain useful after the Games.",
+      "redlandsAdaptation": "A Redlands discussion with the responsible Games and state bodies could cover accessible visitor information, volunteering, paid work, local arts and business, and skills and services useful beyond 2032. Each independent project would explain its own connection with the Games.",
+      "mayoralCouncilLever": "The mayor could represent a council-endorsed Redlands position in regional, state and Games discussions, connect local organisations with the responsible program owners, and seek clear local-benefit and access arrangements.",
+      "conflictBoundary": "Any personal or business interest Luke has in a Games-related sponsorship, paid role, supplier arrangement or council-supported activity would need to be identified.",
+      "route": "Advocacy and work with other governments",
+      "outside": "Games and state program owners determine their activities, recruitment, branding, purchasing and funding. Local partners choose their contributions through the relevant arrangements.",
+      "partners": "State/Games program owners, neighbouring councils, volunteer organisations, tourism businesses and arts/community hosts.",
+      "connections": [
+        {
+          "id": "08",
+          "relationship": "Volunteering and contribution"
+        },
+        {
+          "id": "18",
+          "relationship": "Work exploration and paid pathways"
+        },
+        {
+          "id": "20",
+          "relationship": "Regional leadership"
+        },
+        {
+          "id": "26",
+          "relationship": "Arts and cultural activity"
+        },
+        {
+          "id": "36",
+          "relationship": "Tourism and visitor access"
+        },
+        {
+          "id": "42",
+          "relationship": "Transferable teaching capability"
+        },
+        {
+          "id": "44",
+          "relationship": "Long-term public capability"
+        },
+        {
+          "id": "49",
+          "relationship": "Shared civic places"
+        },
+        {
+          "id": "51",
+          "relationship": "Industry and service capability"
+        }
+      ]
     },
     "22": {
-      "purpose": "Dig for Redlands and Shared Table aim to increase access to healthy local produce and test reductions in household food costs.",
+      "purpose": "Dig for Redlands and Shared Table aim to help people grow and share healthy local produce, with the practical goal of easing household food costs.",
       "redlandsAdaptation": "Dig for Australia-style growing could be adapted to sunny balconies, fences, yards, schools and suitable shared land in Redlands. Local crop guidance, seed and seedling swaps, and optional produce-sharing circles would support participation.",
       "mayoralCouncilLever": "The mayor could convene growers and willing hosts and seek council support for food-growing information, suitable access to council land or venues, and transparent community grant opportunities.",
-      "conflictBoundary": "Seed, equipment, land-access and grant decisions would need transparent processes. Any specific council benefit to Luke, Strange But True or an organisation he joined would require independent handling."
+      "conflictBoundary": "Seed, equipment, land-access and grant decisions would need transparent processes. Any specific council benefit to Luke, Strange But True or an organisation he joined would require independent handling.",
+      "route": "Community partnership",
+      "outside": "Landholders and participating bodies corporate choose access to their spaces. Food-sharing hosts and growers retain responsibility for their own activities and applicable requirements.",
+      "partners": "Residents, renters/owners, bodies corporate, schools, growers, garden groups and suitable landholders.",
+      "connections": [
+        {
+          "id": "24",
+          "relationship": "Shared growing tools and practical learning"
+        },
+        {
+          "id": "08",
+          "relationship": "Optional contribution activity"
+        },
+        {
+          "id": "03",
+          "relationship": "Participating body corporate spaces"
+        }
+      ]
     },
     "23": {
-      "purpose": "Tip Loop aims to keep useful goods in circulation and reduce replacement costs and waste.",
-      "redlandsAdaptation": "A safe collection route before disposal would include sorting, storage, repair triage and affordable distribution. Interested sheds, makers and existing reuse operators could participate in developing the arrangements.",
+      "purpose": "Tip Loop aims to keep useful goods in circulation through collection, repair and affordable distribution, reducing replacement costs and waste.",
+      "redlandsAdaptation": "A safe collection route before disposal would need sorting, storage, checks on what can be repaired and affordable distribution. Interested sheds, makers and existing reuse operators could help develop the arrangements.",
       "mayoralCouncilLever": "The mayor could bring council waste teams, existing reuse operators, sheds and repairers together around pre-disposal collection, space, storage and distribution arrangements.",
-      "conflictBoundary": "Access to council waste streams, land, grants or contracts would need independent assessment where Luke or a future co-operative had an interest. Allocation and redistribution arrangements would be published."
+      "conflictBoundary": "Access to council waste streams, land, grants or contracts would need independent assessment where Luke or a future co-operative had an interest. Allocation and redistribution arrangements would be published.",
+      "route": "Community partnership",
+      "outside": "Waste-site operators, goods owners and repair/distribution hosts retain their operational roles. Specialist repair work belongs with appropriately qualified providers.",
+      "partners": "Council waste team and existing operators, men’s sheds, makers, licensed repairers and community distribution partners.",
+      "connections": [
+        {
+          "id": "24",
+          "relationship": "Workshop and tool capacity"
+        },
+        {
+          "id": "51",
+          "relationship": "Independent repair industry"
+        },
+        {
+          "id": "50",
+          "relationship": "Recovered materials and circular flows"
+        },
+        {
+          "id": "08",
+          "relationship": "Optional repair and redistribution contributions"
+        }
+      ]
     },
     "24": {
-      "purpose": "Shared practical tools and facilities aim to avoid unnecessary individual purchases and connect practical skills with repairs, gardens and learning.",
-      "redlandsAdaptation": "A map of existing makerspaces, sheds and community equipment would inform shared access, maintenance and skills sessions developed with willing hosts across divisions.",
+      "purpose": "Shared workshops, tools and practical learning could make repairs, gardening and making more affordable and accessible.",
+      "redlandsAdaptation": "A map of existing workshops, sheds and community equipment could show what is available across council divisions. Willing hosts could then develop access, maintenance and practical learning sessions together.",
       "mayoralCouncilLever": "The mayor could seek council support for shared facilities, equipment access and practical learning through libraries, venues and community partnerships.",
-      "conflictBoundary": "Access and equipment purchases would need transparent arrangements. Council support involving Luke's equipment, designs, business or an organisation he joined would require independent handling."
+      "conflictBoundary": "Access and equipment purchases would need transparent arrangements. Council support involving Luke's equipment, designs, business or an organisation he joined would require independent handling.",
+      "route": "Council services and policy decisions",
+      "outside": "Tool hosts manage their equipment and access arrangements; specialist electrical, trade and other regulated work retains its relevant professional responsibilities.",
+      "partners": "Libraries, men’s sheds, makerspaces, clubs, trainers and shared-equipment hosts.",
+      "connections": [
+        {
+          "id": "23",
+          "relationship": "Goods-recovery stream"
+        },
+        {
+          "id": "45",
+          "relationship": "Geode making and maintenance"
+        },
+        {
+          "id": "51",
+          "relationship": "Manufacturing and repair network"
+        },
+        {
+          "id": "38",
+          "relationship": "Club and neighbourhood hosts"
+        },
+        {
+          "id": "08",
+          "relationship": "Optional practical contribution activities"
+        }
+      ]
     },
     "25": {
-      "purpose": "Verse Box stations and supported sessions would provide accessible public access for useful personal, creative and community work.",
-      "redlandsAdaptation": "Verse Box stations could be installed and operated with willing libraries and community hosts, with agreed purposes, equipment, accessibility, support, maintenance and session arrangements. Demonstrations would use sample records; personal sessions would provide private handover, export and deletion.",
-      "mayoralCouncilLever": "The mayor could convene suitable hosts and support council consideration of stations, public access and assistance within its venues or programmes.",
-      "conflictBoundary": "Luke's station design, software or Strange But True would be relevant to an interest assessment if council purchased, licensed, hosted or funded a Verse Box installation."
+      "purpose": "Verse Box is a proposed public introduction to personal Aura of Intelligence, learning, creativity and community participation, through supported stations and sessions.",
+      "redlandsAdaptation": "Willing libraries and community hosts could provide Verse Box stations with suitable equipment, access, support and maintenance. Demonstrations would use sample records. Personal sessions would include a private handover and clear ways to take away or delete personal information.",
+      "mayoralCouncilLever": "The mayor could convene suitable hosts and support council consideration of stations, public access and assistance within its venues or programs.",
+      "conflictBoundary": "Luke's station design, software or Strange But True would need independent consideration if council purchased, licensed, hosted or funded a Verse Box installation.",
+      "route": "Community partnership",
+      "outside": "Hosts and providers agree the station's operation and responsibilities. Each participant chooses their personal records and any further Aura or Genesis pathway.",
+      "partners": "Libraries, community venues, learning/accessibility partners, equipment providers and willing participants.",
+      "connections": [
+        {
+          "id": "47",
+          "relationship": "Public introduction and supported access to a person's own Aura."
+        },
+        {
+          "id": "14",
+          "relationship": "Genesis is an optional deeper pathway selected separately by the person."
+        },
+        {
+          "id": "05",
+          "relationship": "Stations can support everyday AI and data-skills learning."
+        },
+        {
+          "id": "42",
+          "relationship": "Teacher and facilitator development can support station hosts."
+        },
+        {
+          "id": "49",
+          "relationship": "A civic establishment is one possible host place."
+        },
+        {
+          "id": "45",
+          "relationship": "Geode hardware is a distinct development path for different experience environments."
+        }
+      ]
     },
     "26": {
-      "purpose": "Local arts, music and cinema participation would create learning and creative opportunities and test affordable cultural activities.",
-      "redlandsAdaptation": "Music, film, making and cultural events could be adapted for willing mainland and island venues, with clear rights, cultural governance and accessible participation.",
+      "purpose": "Affordable local arts, music and cinema activities could give people more ways to learn, create, enjoy themselves and connect with others.",
+      "redlandsAdaptation": "Willing mainland and island venues could host music, film, making and cultural events. Organisers would agree accessible participation, rights to use the work and the authority of the relevant cultural custodians.",
       "mayoralCouncilLever": "Council could support access to its arts venues, libraries, events and relevant community funding pathways for local music, cinema and creative participation.",
-      "conflictBoundary": "Luke's music, creative work or production role would be relevant to an interest assessment if council funded an event, licensed content or commissioned work involving him."
+      "conflictBoundary": "Luke's music, creative work or production role would need independent consideration if council funded an event, licensed content or commissioned work involving him.",
+      "route": "Community partnership",
+      "outside": "Artists, venues and event organisers choose their programs and participation arrangements; content owners retain control of licensing and use.",
+      "partners": "Community groups, co-operatives, schools, businesses and external funders as appropriate.",
+      "connections": [
+        {
+          "id": "19",
+          "relationship": "Creative work can contribute to collaborative puzzles, stories and making."
+        },
+        {
+          "id": "25",
+          "relationship": "Verse Box stations can provide selected creative tools and public introductions."
+        },
+        {
+          "id": "36",
+          "relationship": "Local culture, music and film can connect with chosen visitor and resident experiences."
+        },
+        {
+          "id": "49",
+          "relationship": "Shared civic places can host creative activity alongside other independent uses."
+        },
+        {
+          "id": "41",
+          "relationship": "The four named songs provide a creative expression of leadership, reflection and civic participation."
+        }
+      ]
     },
     "27": {
-      "purpose": "Community noticeboards and locally governed websites aim to make local information easier to find and reduce reliance on commercial social platforms.",
-      "redlandsAdaptation": "A pilot would combine accessible public digital noticeboards with a low-bandwidth website and optional subscriptions for local activities, services and preparedness information.",
+      "purpose": "Community noticeboards and locally run websites could make local information easier to find and give communities more control over how it is shared.",
+      "redlandsAdaptation": "A trial could combine accessible public digital noticeboards with a website that works on slower connections. Optional subscriptions could help people follow local activities, services and preparedness information.",
       "mayoralCouncilLever": "The mayor could seek council support for accessible public information channels and community publishing partnerships, with clear editorial and moderation responsibilities.",
-      "conflictBoundary": "Publishing, moderation and venue access would operate under transparent terms. Any council purchase of Luke's website or noticeboard systems would require independent handling."
+      "conflictBoundary": "Publishing, moderation and venue access would operate under transparent terms. Any council purchase of Luke's website or noticeboard systems would require independent handling.",
+      "route": "Council services and policy decisions",
+      "outside": "Community publishers remain responsible for their notices and editorial choices. Council and authorised agencies control their own official information and updates.",
+      "partners": "Community publishers, neighbourhood organisations, council communications/disaster teams, local businesses and venue hosts.",
+      "connections": [
+        {
+          "id": "28",
+          "relationship": "Resilient information access"
+        },
+        {
+          "id": "29",
+          "relationship": "Preparedness and recovery content"
+        },
+        {
+          "id": "36",
+          "relationship": "Visitor and local activity information"
+        },
+        {
+          "id": "52",
+          "relationship": "Local knowledge permissions and governance"
+        }
+      ]
     },
     "28": {
-      "purpose": "Disaster-ready kiosks aim to improve access to reliable information during outages and everyday preparedness.",
-      "redlandsAdaptation": "Site assessment and a pilot would cover offline-capable information, backup power and connectivity, and accessible preparedness material connected to authorised warning and update workflows.",
+      "purpose": "Disaster-ready kiosks aim to help people find reliable local information, including during power or internet outages.",
+      "redlandsAdaptation": "Site assessment and a trial would cover information that remains available without the internet, backup power and communications, and accessible preparedness material. Official warnings and updates would come through the authorised agencies and publishing arrangements.",
       "mayoralCouncilLever": "Council's disaster responsibilities and the Local Disaster Management Group provide the route for integrating kiosks with approved information workflows.",
-      "conflictBoundary": "Kiosk sites, equipment and support contracts would need independent assessment where Luke's designs or equipment could benefit. Responsibilities for publishing authorised warnings would remain clear."
+      "conflictBoundary": "Kiosk sites, equipment and support contracts would need independent assessment where Luke's designs or equipment could benefit. Responsibilities for publishing authorised warnings would remain clear.",
+      "route": "Council services and policy decisions",
+      "outside": "Warning agencies, emergency responders, utilities and the other members of the Local Disaster Management Group retain their operational responsibilities.",
+      "partners": "The Local Disaster Management Group, council’s disaster team, authorised warning agencies, utilities, venue hosts and community and accessibility representatives.",
+      "connections": [
+        {
+          "id": "27",
+          "relationship": "Everyday publishing and content"
+        },
+        {
+          "id": "29",
+          "relationship": "Preparedness and recovery operations"
+        },
+        {
+          "id": "25",
+          "relationship": "Public station access and accessibility"
+        },
+        {
+          "id": "35",
+          "relationship": "Backup energy and essential-service resilience"
+        },
+        {
+          "id": "47",
+          "relationship": "Optional personal Aura continuity"
+        }
+      ]
     },
     "29": {
-      "purpose": "Preparedness and recovery coordination aims to help communities prepare for outages, disrupted transport, heat and recovery needs.",
-      "redlandsAdaptation": "A map of existing resilience assets and gaps would support consented household preparedness assistance, exercises and a register of recovery obligations and resources.",
+      "purpose": "Communities could strengthen their preparations for outages, disrupted transport and heat, and make support easier to coordinate during recovery.",
+      "redlandsAdaptation": "A map of existing equipment, facilities, services and gaps could support household preparedness assistance agreed with each household, practice exercises and clear records of recovery tasks and available resources.",
       "mayoralCouncilLever": "Existing Local Disaster Management Group and recovery arrangements provide the route for strengthening preparedness, information and handovers.",
-      "conflictBoundary": "Community participation and support records would remain within consented operational arrangements. Any council recovery contract involving Luke or an organisation he joined would require independent assessment."
+      "conflictBoundary": "Community participation and support records would remain within arrangements agreed with the people involved. Any council recovery contract involving Luke or an organisation he joined would require independent assessment.",
+      "route": "Council services and policy decisions",
+      "outside": "Other agencies remain responsible for their services and any protected health or support information.",
+      "partners": "Local Disaster Management Group and recovery partners, existing service providers, community organisations, utilities and households choosing to participate.",
+      "connections": [
+        {
+          "id": "27",
+          "relationship": "Local information channels"
+        },
+        {
+          "id": "28",
+          "relationship": "Resilient information equipment"
+        },
+        {
+          "id": "31",
+          "relationship": "Transport continuity"
+        },
+        {
+          "id": "35",
+          "relationship": "Essential-service energy resilience"
+        },
+        {
+          "id": "47",
+          "relationship": "Consented personal continuity information"
+        }
+      ]
     },
     "30": {
-      "purpose": "The proposal explores safe additional housing while permanent construction proceeds.",
-      "redlandsAdaptation": "A review of zoning and existing pathways would compare secondary dwellings, approved temporary homes and serviced modular or kit options. It would identify candidate sites, servicing requirements, costs and pathways for demonstrations or rule changes."
+      "purpose": "The proposal explores safe additional housing while permanent homes are being built and services are being added.",
+      "redlandsAdaptation": "A review of zoning and existing rules would compare secondary dwellings, approved temporary homes and modular or kit homes with the services they need. It would identify possible sites, water and sewerage needs, costs and the steps for trials or proposed rule changes.",
+      "route": "Council infrastructure and decisions by other authorities",
+      "mayoralCouncilLever": "Council has planning, local-law, building/plumbing and local infrastructure roles, exercised through lawful decisions and delegations.",
+      "outside": "State frameworks, certifiers, utilities, landowners and tenancy requirements also apply. Existing Redland temporary-home rules are tied to works on a permanent residence; wider interim use needs the correct legal pathway.",
+      "partners": "Council planners, Queensland planning/housing authorities, certifiers, utilities, landowners, developers and housing providers.",
+      "conflictBoundary": "A particular planning, land-access, housing-supply or servicing decision needs independent interest assessment if Luke, Strange But True or an organisation he joins has an interest in the site, design or delivery arrangement.",
+      "connections": [
+        {
+          "id": "06",
+          "relationship": "Application guidance and status tracking"
+        },
+        {
+          "id": "07",
+          "relationship": "Planning data and simulations"
+        },
+        {
+          "id": "50",
+          "relationship": "Servicing and material requirements"
+        },
+        {
+          "id": "46",
+          "relationship": "Separate care and learning host-site pathway"
+        }
+      ]
     },
     "31": {
-      "purpose": "The proposal aims to protect transport choice and examine effects on affordability, frequency and reliability.",
-      "redlandsAdaptation": "The council position, state project documents and access proposals would inform advocacy for transparent multi-operator access, disability access, resilience and consultation on service changes.",
+      "purpose": "The proposal aims to protect independent ferry access and transport choice, with close attention to fares, service frequency, accessibility and reliability.",
+      "redlandsAdaptation": "Council’s position, state project documents and proposed terminal access arrangements would inform advocacy for independent operators to retain access. The discussion would cover disability access, reliable services during disruptions and genuine consultation on changes.",
       "mayoralCouncilLever": "The mayor could seek and advocate a council position protecting independent operator access, choice, accessibility and service continuity.",
-      "conflictBoundary": "Luke's personal advocacy would remain distinct from the council position. Any council decision involving a transport operator, supplier or property interest connected to him would require independent handling."
+      "conflictBoundary": "Luke's personal advocacy would remain distinct from the council position. Any council decision involving a transport operator, supplier or property interest connected to him would require independent handling.",
+      "route": "Advocacy and work with other governments",
+      "outside": "The Dunwich/Gumpi upgrade is led by the state government. Council can make submissions and negotiate within its responsibilities. The state and ferry operators make their own decisions.",
+      "partners": "The Department of Transport and Main Roads (TMR), council, independent ferry operators, passengers, accessibility representatives and local businesses.",
+      "connections": [
+        {
+          "id": "36",
+          "relationship": "Visitor and domestic travel access"
+        },
+        {
+          "id": "29",
+          "relationship": "Transport disruption and continuity"
+        },
+        {
+          "id": "27",
+          "relationship": "Public project information"
+        }
+      ]
     },
     "32": {
-      "purpose": "The proposal examines whether underground roads could reduce surface impacts and improve access.",
-      "redlandsAdaptation": "A scoped options study for Minjerribah underground roads would compare them with surface improvements, public transport and a lower level of infrastructure development.",
+      "purpose": "The proposal examines underground roads on Minjerribah as a way to improve access and reduce impacts at the surface.",
+      "redlandsAdaptation": "An options study for underground roads on Minjerribah would compare routes and requirements with surface improvements, public transport and options involving less new infrastructure.",
       "mayoralCouncilLever": "The mayor could seek a council position and scoped engineering work on Minjerribah road access, council road responsibilities and land interfaces, and convene the responsible landholders and transport authorities.",
-      "conflictBoundary": "Any council-funded road study, design licence, land arrangement or tunnelling contract involving Luke's Sandworm intellectual property, business or future delivery interest would require independent handling."
+      "conflictBoundary": "Any council-funded road study, design licence, land arrangement or tunnelling contract involving Luke's Sandworm intellectual property, business or future delivery interest would require independent handling.",
+      "route": "Council infrastructure and decisions by other authorities",
+      "outside": "The relevant road and land owners, Traditional Owners and state/environmental authorities retain their decisions. Technical delivery and permissions depend on the particular alignment.",
+      "partners": "Council roads/planning teams, landholders, Traditional Owners, geotechnical/tunnelling engineers, universities and regulators.",
+      "connections": [
+        {
+          "id": "33",
+          "relationship": "Related tunnelling systems for a different service"
+        },
+        {
+          "id": "34",
+          "relationship": "Potential excavated-material stream"
+        },
+        {
+          "id": "50",
+          "relationship": "Power, equipment and material requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Tunnelling machinery and servicing capability"
+        }
+      ]
     },
     "33": {
-      "purpose": "The proposal investigates less disruptive and potentially useful ways to add services without joining the Southern Moreton Bay Islands.",
-      "redlandsAdaptation": "Assessment of smaller tunnelling systems would consider particular sewerage or service alignments on individual islands, alongside trenchless alternatives, conventional works and decentralised services.",
-      "mayoralCouncilLever": "The mayor could seek council water, wastewater and infrastructure input on specific island service needs and alignments, and convene the responsible service owners and tunnelling partners."
+      "purpose": "Smaller tunnel-boring machines could provide another way to install sewerage and other services on individual Southern Moreton Bay Islands, without joining the islands.",
+      "redlandsAdaptation": "Smaller tunnel-boring machines (TBMs) designed for wet sand would be considered for particular sewerage or other service routes on individual islands. Comparisons would include other methods of installing services below ground, conventional works and local standalone services.",
+      "mayoralCouncilLever": "The mayor could seek council water, wastewater and infrastructure input on specific island service needs and alignments, and convene the responsible service owners and tunnelling partners.",
+      "route": "Council infrastructure and decisions by other authorities",
+      "outside": "Each utility and landholder retains its asset and access decisions. Relevant environmental and marine authorities retain their approval roles for the chosen works.",
+      "partners": "Council water/wastewater teams and other service owners, island communities, tunnelling researchers and relevant regulators.",
+      "conflictBoundary": "A council utility study, TBM purchase, service-design licence or works contract connected to Luke’s designs or a future co-operative needs its own independent interest and selection process.",
+      "connections": [
+        {
+          "id": "32",
+          "relationship": "Related tunnelling systems for road access"
+        },
+        {
+          "id": "34",
+          "relationship": "Potential excavated-material stream"
+        },
+        {
+          "id": "50",
+          "relationship": "Service, energy and material requirements"
+        },
+        {
+          "id": "51",
+          "relationship": "Small TBM manufacturing and maintenance"
+        }
+      ]
     },
     "34": {
       "title": "Spoil reuse, erosion protection and reefs",
-      "purpose": "The proposal explores beneficial reuse and ecological and coastal outcomes where materials and sites are suitable.",
-      "redlandsAdaptation": "Excavated materials and each proposed destination would be assessed separately for lawful reuse, coastal protection and engineered artificial reefs, with nature-based and other options included in the comparison.",
+      "purpose": "Sand and other material excavated during works could have further uses in suitable coastal protection and artificial reef projects.",
+      "redlandsAdaptation": "Each batch of excavated material and each proposed receiving site would be assessed for suitable reuse. Possible coastal protection and engineered artificial reef uses would be compared with approaches that work with natural coastal processes and other available options.",
       "mayoralCouncilLever": "The mayor could convene council coastal and environment teams, custodians and research partners around material testing and identified coastal or reef applications within the relevant council responsibilities.",
-      "conflictBoundary": "Any council material-transfer, testing, coastal-work or reef contract would need independent assessment where Luke had an interest in the excavated material, design or receiving project."
+      "conflictBoundary": "Any council material-transfer, testing, coastal-work or reef contract would need independent assessment where Luke had an interest in the excavated material, design or receiving project.",
+      "route": "Council infrastructure and decisions by other authorities",
+      "outside": "Material owners, receiving-site managers and relevant coastal, marine and environmental authorities decide the applicable material and site requirements.",
+      "partners": "Council coastal/environment teams, material-testing specialists, marine/coastal researchers, custodians and regulators.",
+      "connections": [
+        {
+          "id": "32",
+          "relationship": "Potential road-tunnel material source"
+        },
+        {
+          "id": "33",
+          "relationship": "Potential utility-tunnel material source"
+        },
+        {
+          "id": "35",
+          "relationship": "Clean-energy and coastal infrastructure connection"
+        },
+        {
+          "id": "50",
+          "relationship": "Material characterisation and circular flows"
+        }
+      ]
     }
   }
 }

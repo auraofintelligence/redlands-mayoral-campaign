@@ -1,49 +1,54 @@
 # 35 Clean energy and local resilience options
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Infrastructure, energy and coasts
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Infrastructure, energy and coasts
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The aim is lower whole-life energy costs and resilient essential services where evidence supports investment.
+## The idea
+
+Clean-energy options could lower costs across equipment’s working life and help essential services keep running during disruptions.
 
 ## What this could mean for Redlands
 
-The Redlands adaptation combines local efficiency, generation, storage and resilience options with the wider clean-energy concepts. Each project would identify its grid, land, operating, energy-delivery and material requirements.
+Local energy-saving measures, generation, storage and backup systems could connect with the wider clean-energy concepts. Each project would set out its land, grid connection, operating, energy-delivery and material needs, including purchase, running and maintenance costs.
 
-## Decision route
+## Projects behind this idea
 
-Council infrastructure and external approvals
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/)**. A clean-energy research atlas for Minjerribah, covering solar and batteries, solar thermal, heat storage, hydrogen, desalination, power sharing, pumped hydro, wave and tidal energy, and wind. Its topic pages and Markdown builders help develop source-linked questions and energy scenarios.
+
+- **[Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)**. A browser-based research and scenario laboratory for mining, materials, power, repairable robots and locally governed infrastructure. Its workbenches connect physical resource accounts, distributed compute, manufacturing, Australian industry and a 2032 planning horizon.
+
+## How this could move forward
+
+Council infrastructure and decisions by other authorities
 
 ## What the mayor and council could do
 
 The mayor could seek council decisions on its own facilities and energy use, convene community-energy partners and advocate to responsible energy bodies for local projects and resilient essential services.
 
-## Other decision-makers
+## Who else makes decisions
 
 Energy networks, generators, retailers, landholders and relevant regulators retain their connection, commercial and approval responsibilities.
 
-## Possible partners
+## People and organisations who could be involved
 
 Council facilities teams, energy networks/providers, community energy groups, researchers and external funding bodies.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 A council energy purchase, site agreement, equipment trial or resilience contract involving Luke’s clean-energy designs or business needs independent assessment and documented ownership and operating terms.
 
-## Project sources
+## Official information
 
-- [Straddie Clean Energy Superpower](https://auraofintelligence.github.io/straddie-clean-energy-superpower/)
-- [Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)
+- [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
 
-## Official references
+## Documents behind the idea
 
-- [A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
+See the related public project introductions above.
 
-## Supplied source documents
-
-No supplied document is specifically attached to this entry.
-
-## Connected entries
+## Related ideas
 
 - [50 Power, materials and circular capacity for Redlands](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/50-power-materials-and-circular-capacity-for-redlands): Cross-project power and resource accounting
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute power and cooling demand
@@ -51,3 +56,9 @@ No supplied document is specifically attached to this entry.
 - [29 Preparedness and recovery coordination](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/29-preparedness-and-recovery-coordination): Essential-service continuity
 - [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence): Sovereign-capacity direction
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Civic-place energy requirements
+
+---
+
+**Previous:** [34 Spoil reuse, erosion protection and reefs](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/34-spoil-reuse-erosion-protection-and-reefs) · **Next:** [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

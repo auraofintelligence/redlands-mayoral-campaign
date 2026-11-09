@@ -55,6 +55,10 @@ for number in range(1,4):
         worded_ids.add(option_id)
 assert worded_ids==set(by_id)
 raw=json.loads((ROOT/'private/redlands-policy-options/policy-options.json').read_text(encoding='utf-8'))
+reading_guide=json.loads((ROOT/'data/wiki-reading-guide.json').read_text(encoding='utf-8'))
+for official_source in raw['officialSources']:
+    if official_source['id'] in reading_guide['verifiedSourceChecks']:
+        official_source['checkedOn']=reading_guide['verifiedSourceChecks'][official_source['id']]
 documents=[{'number':d['number'],'title':Path(d['source'].replace('\\','/')).name} for d in raw['documents']]
 context=(ROOT/'private/policy-role-context.html').read_text(encoding='utf-8')
 role_context=[{'title':title,'html':body} for title,body in re.findall(r'<section[^>]*><h2>(.*?)</h2>(.*?)</section>',context,re.S)]

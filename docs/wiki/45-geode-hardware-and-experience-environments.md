@@ -1,53 +1,67 @@
 # 45 Geode hardware and experience environments
 
-[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · Infrastructure, energy and coasts
+[Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Infrastructure, energy and coasts
 
-## Purpose
+An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
-The aim is physical environments and interfaces supporting Genesis, personal Aura and immersive learning.
+## The idea
+
+Geode work develops physical settings, equipment and ways to interact with technology for Genesis, personal Aura and immersive learning.
+
+## Words and project names
+
+- **Aura of Intelligence / personal Aura**: Luke’s approach to personal AI, built around a person’s chosen records, purposes, permissions and relationship with the system.
+- **Genesis**: Luke’s proposed person–Aura development journey, connecting reflection, health, chosen records, personal intelligence and everyday participation. The source journey is organised around sixty sessions.
+- **Verse Box**: A proposed portable public introduction to personal Aura, learning and community participation, with supported sessions and clear handling of personal records.
+- **Geode**: The proposed physical equipment and experience settings for Genesis, personal Aura and learning. The source guide describes several HBOT and Geode hardware paths.
+- **Hyperbaric oxygen therapy (HBOT)**: Breathing oxygen in a pressurised chamber. Clinical services and proposed research have their own providers, participation choices and responsibilities.
 
 ## What this could mean for Redlands
 
-The Geode hardware paths include integration with seated HBOT, mineral and geopolymer design, crystalline environments, and connections to compute, sensing and accessible interfaces. Each hardware path would remain open to its own collaborators and design decisions.
+Geode development includes seated HBOT integration, mineral and geopolymer materials, crystalline settings, computing, sensors and accessible controls. Geopolymers are mineral-based binding materials. Each equipment and design path would have its own collaborators and decisions.
 
-## Decision route
+## Projects behind this idea
 
-Geode hardware and experience environments
+These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
+
+- **[Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)**. A guide to the Aura Genesis person-Aura development pathway, Truth Engine research, sixty-day teacher development and four HBOT/Geode hardware pathways. It includes course readings, materials research and experience-environment design.
+
+- **[Aura Geode](https://auraofintelligence.github.io/aura-geode/)**. A six-page design exploration of the Aura Geode capsule, a sixty-day lifestyle pathway and personal digital twins. Its pages also develop sensing interfaces, cooperative economics and GAJRA Earth governance concepts.
+
+- **[Straddie Maker-Space Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)**. A proposal for a light-industrial maker-space in Dunwich / Goompi. It explores useful making, repair and right-to-repair, shared tools, compact workshop design, recycling, upcycling and local material knowledge.
+
+## How this could move forward
+
+Design, manufacturing and research partnerships
 
 ## What the mayor and council could do
 
 The mayor could convene manufacturers, researchers and education partners, and connect relevant local skills, making, economic-development and funding opportunities through council's normal processes.
 
-## Other decision-makers
+## Who else makes decisions
 
 Design, manufacture, equipment operation and any required approvals sit with the responsible specialists, providers and regulators.
 
-## Possible partners
+## People and organisations who could be involved
 
 Manufacturers, chamber and interface providers, materials researchers, engineers, makers, universities and accessibility specialists.
 
-## Interests and independent decisions
+## How related interests would be handled
 
 Luke's Geode designs, hardware, software or supplier role would be relevant to any council prototype commission, equipment purchase or development funding involving him.
 
-## Project sources
+## Official information
 
-- [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/)
-- [Aura Geode](https://auraofintelligence.github.io/aura-geode/)
-- [Straddie Maker-Space Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)
+- [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
+- [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
+- [Queensland Health private health regulation and service guidance](https://www.health.qld.gov.au/system-governance/licences/private-health/private-health-regulation-search) · [Source note A20](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a20)
 
-## Official references
+## Documents behind the idea
 
-- [A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
-- [A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
-- [A20](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a20)
+- [Aura Genesis Geode development, edition 3](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
+- [Aura Genesis Protocol game-design document, version 2](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-18)
 
-## Supplied source documents
-
-- [Document 16: Aura_Genesis_Geode_Development_Edition_3.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-16)
-- [Document 18: Aura_Genesis_Protocol_Game_Design_Document_V2.pdf](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Supplied-documents#document-18)
-
-## Connected entries
+## Related ideas
 
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Geode environments and interfaces can support a chosen Genesis experience.
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Verse Box is a separate public-access station with some related interface work.
@@ -56,3 +70,9 @@ Luke's Geode designs, hardware, software or supplier role would be relevant to a
 - [51 Australian manufacturing, civic robotics and independent repair](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/51-australian-manufacturing-civic-robotics-and-independent-repair): Manufacturing and independent repair can contribute to physical production and service support.
 - [52 Cultural intelligence nodes and locally governed federation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/52-cultural-intelligence-nodes-and-locally-governed-federation): A cultural intelligence node can provide shared technical capacity under its own governance.
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute requirements for experience environments
+
+---
+
+**Previous:** [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence) · **Next:** [46 Care, learning and research site partnerships](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/46-care-learning-and-research-site-partnerships)
+
+[Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)
