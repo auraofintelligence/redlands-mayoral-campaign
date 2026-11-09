@@ -18,6 +18,7 @@ jobs:
         with:
           node-version: '22'
       - run: npm run check
+      - run: python scripts/build-media-kit.py --check
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request'
         with:

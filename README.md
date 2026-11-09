@@ -47,6 +47,8 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 [Listen and read on this site](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [Published album](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/a-protopian-gambit/) · [Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
 
+The media kit includes a music-during-the-campaign note and a blank airplay-log template. Broadcasters are asked for track-level dates, times, time zones, repeats and evidence. Airplay records and financial classification remain separate. To refresh the ZIP after an approved resource edit, run `python scripts/build-media-kit.py`, then verify it with `python scripts/build-media-kit.py --check`.
+
 ## Private command centre
 
 The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public campaign pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.

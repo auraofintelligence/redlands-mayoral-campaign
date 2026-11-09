@@ -203,3 +203,17 @@ test('organisation names are expanded without changing Wiki filenames or inventi
  const civic=await read('docs/wiki/49-redlands-aura-civic-establishments-and-shared-places.md');
  assert.match(civic,/9 Ballow Road/);assert.match(civic,/still vacant/);assert.match(civic,/433 Logan Road/);assert.match(civic,/remain unspecified/);
 });
+
+
+test('music broadcasting resources request evidenced track-level logs without claiming plays',async()=>{
+ const media=await read('dist/media.html'),music=await read('dist/music.html');
+ const note=await read('dist/assets/press/Luke-Nathan-Hayes-music-during-campaign.txt');
+ const csv=await read('dist/assets/press/airplay-log-template.csv');
+ assert.match(media,/id="music-during-campaign"/);assert.match(media,/topic=media&amp;reason=music-airplay/);
+ assert.match(music,/media.html#music-during-campaign/);
+ assert.match(note,/each track actually played/);assert.match(note,/Every repeat or later replay/);assert.match(note,/time zone/);
+ assert.match(note,/No automatic monitoring/);assert.match(note,/not automatically entered as a campaign donation/);
+ assert.equal(csv.trim().split(/\r?\n/).length,1,'Template must not invent broadcasts');
+ for(const field of ['title','broadcastDate','localTime','timeZone','evidenceReference','arrangement'])assert.ok(csv.includes(field));
+ assert.match(await read('public/assets/visual.js'),/reason==='music-airplay'/);
+});
