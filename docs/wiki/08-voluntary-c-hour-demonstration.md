@@ -45,6 +45,15 @@ Willing community hosts, residents, carers, volunteer organisations and business
 
 Luke’s C-hour tools, intellectual property or delivery role would be relevant interests if council funded, hosted or commissioned a contribution program involving them.
 
+## In the music
+
+> A mother’s care, a hacker’s code
+> To lift the unacknowledged load
+> With C-Hours earned for time we give
+> A new design for how we live
+
+[A Protopian Gambit · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-5). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Queensland Volunteering Plan 2026-2036](https://www.dlgwv.qld.gov.au/volunteers) · [Source note A16](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a16)

@@ -54,6 +54,13 @@ People choosing the conversation, P4A collaborators, mentors and civic-learning 
 
 Luke's personal P4A and Genesis practice would be relevant to any council funding of program support, facilities or services for his participation.
 
+## In the music
+
+> What if we made leaders go inward
+> before we empower them to represent us?
+
+[The Purple Mat that Could · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-15). Lyrics by Luke Nathan Hayes.
+
 ## Music connections
 
 - **[The Purple Mat that Could](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-15)**: Political integrity through inward reflection, an evidence-linked personal Aura and the connection to memory and dementia support. Current lyric-sheet pages: 20, 21.

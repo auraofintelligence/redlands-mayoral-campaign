@@ -50,6 +50,13 @@ Council information/privacy teams, planners, utilities, businesses, researchers 
 
 Any council decision involving a data licence, simulation tool, software licence or data-service agreement would identify relevant interests, including Luke’s where applicable.
 
+## In the music
+
+> No closed doors where the future is made.
+> Bring it to sunlight out of the shade.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Queensland Privacy Principles](https://www.oic.qld.gov.au/government/privacy/queensland-privacy-principles) · [Source note A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)

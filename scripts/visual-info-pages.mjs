@@ -1,4 +1,5 @@
 import {readFileSync} from 'node:fs';
+import {lyricQuote} from './lyric-excerpts.mjs';
 
 const profile = JSON.parse(readFileSync(new URL('../data/visual-profile.json', import.meta.url), 'utf8'));
 const workHistory = JSON.parse(readFileSync(new URL('../data/visual-work-history.json', import.meta.url), 'utf8'));
@@ -8,7 +9,7 @@ const makeLink = (e, href, label, className = '') => `<a${className ? ` class="$
 const sourceCards = (e, links) => links.map(item => `<article class="card"><p class="eyebrow">Source collection</p><h3>${e(item.title)}</h3><p>${e(item.description)}</p>${makeLink(e, item.url, `Open ${item.title}`)}</article>`).join('');
 
 export function renderAbout({e = escape, base = ''} = {}) {
-  return `<section class="section prose"><div class="section-head"><p class="eyebrow">About Luke</p><h2>The person behind the work</h2></div>
+  return `<section class="section prose"><div class="section-head"><p class="eyebrow">About Luke</p><h2>The person behind the work</h2></div>${lyricQuote('about',base)}
     <p class="lede">${e(profile.longBio[0])}</p>
     <p>${e(profile.longBio[1])}</p>
     <p>${e(profile.longBio[2])}</p>
@@ -67,6 +68,6 @@ export function renderContact({e = escape, base = '', contactFormUrl = ''} = {})
         <p class="small">${ready ? 'Your' : 'When delivery is connected, your'} name, reply address, topic and message are sent to Luke’s contact inbox. Include only the information needed for your enquiry. This form does not subscribe you to updates.</p>
         <button class="button" type="submit"${ready ? '' : ' disabled'}>Send message</button>
       </fieldset>
-    </form><p class="small">${makeLink(e, local(base,'privacy.html'),'Read the privacy notice')}</p>
+    </form><p class="small">${makeLink(e, local(base,'privacy.html'),'Read the privacy notice')}</p>${lyricQuote('contact',base)}
   </section>`;
 }

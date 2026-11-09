@@ -16,6 +16,13 @@ Joyful Responsible Abundance is the shared aim: more room to live well, take par
 
 [Read the introduction to Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html)
 
+## In the music
+
+> Plenty means nothing if somebody falls.
+> So build it together. Abundance for all.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Choose a place to start
 
 Start with an everyday concern or follow a wider question. Each page introduces the relevant work, so the ideas can be read in any order.

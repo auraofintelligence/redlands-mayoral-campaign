@@ -52,6 +52,12 @@ Equipment and software providers, venue and operating partners chosen by Luke, a
 
 Luke’s personally purchased HBOT equipment and Genesis intellectual property would be relevant interests if council funded, hosted, purchased or arranged access to them.
 
+## In the music
+
+> The future’s a garden, I’ve planted the how.
+
+[60 Days Set in Stone · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-2). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)

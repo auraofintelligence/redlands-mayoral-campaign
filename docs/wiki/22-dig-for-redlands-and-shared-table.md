@@ -44,6 +44,12 @@ Residents, renters/owners, bodies corporate, schools, growers, garden groups and
 
 Seed, equipment, land-access and grant decisions would need transparent processes. Any specific council benefit to Luke, Strange But True or an organisation he joined would require independent handling.
 
+## In the music
+
+> Share what we grow. Let it flow in abundance.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)

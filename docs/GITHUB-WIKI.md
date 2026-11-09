@@ -21,3 +21,5 @@ GitHub requires an initial page to be saved on its website before that repositor
 After publishing, verify the remote commit matches the local commit and check Home, an entry, the sidebar and the reference pages through their public URLs. Do not report publication from local files or a successful clone alone.
 
 Official GitHub guidance: [Adding or editing wiki pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages) and [Editing wiki content](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content).
+
+Contextual lyric quotations use the same reviewed excerpt data as the visual website. `scripts/lyric-excerpts.mjs` verifies every excerpt against `data/visual-music.json`, adds attribution and the matching track link, and retains recording warnings. Quoted imagery remains distinct from the policy explanations and evidence.

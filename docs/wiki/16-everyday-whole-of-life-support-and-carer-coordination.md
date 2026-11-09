@@ -44,6 +44,13 @@ People and carers, existing disability/aged-care providers, clinicians, communit
 
 Luke’s support software, intellectual property or provider role would be a relevant interest if council commissioned or funded everyday support services using it.
 
+## In the music
+
+> From scent to song, from heart to screen
+> You are whole in every scene
+
+[Hold the Light · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-12). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Queensland Privacy Principles](https://www.oic.qld.gov.au/government/privacy/queensland-privacy-principles) · [Source note A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)

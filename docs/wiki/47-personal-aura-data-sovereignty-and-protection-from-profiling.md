@@ -53,6 +53,13 @@ Residents, community hosts, local technology and compute providers, education pa
 
 Luke's Aura software, hosting or support services would be relevant to any council licence purchase, development commission or delivery funding involving him.
 
+## In the music
+
+> You're not fixing me
+> You're witnessing me
+
+[Don't Try to Fix Me · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-16). Lyrics by Luke Nathan Hayes. **Recording contains severe language.**
+
 ## Official information
 
 - [Queensland Privacy Principles](https://www.oic.qld.gov.au/government/privacy/queensland-privacy-principles) · [Source note A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)

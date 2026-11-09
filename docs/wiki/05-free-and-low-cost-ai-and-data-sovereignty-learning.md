@@ -48,6 +48,13 @@ Libraries, TAFE and other education providers, community centres, small-business
 
 If council funded teaching, licensed Luke’s learning materials or purchased support from Strange But True, the related interest would be identified and handled through the applicable decision process.
 
+## In the music
+
+> There's so much more
+> to learn and explore.
+
+[A Conversations Review · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-22). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Cleveland Library Makerspace](https://www.redland.qld.gov.au/Libraries/Library-services/Makerspace-at-Cleveland-Library) · [Source note A05](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a05)

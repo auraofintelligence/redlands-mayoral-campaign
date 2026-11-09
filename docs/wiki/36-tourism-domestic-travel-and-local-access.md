@@ -45,6 +45,13 @@ Local tourism operators, transport providers, accessibility users, cultural cust
 
 Luke's tourism tools, content or delivery role would be relevant to any council purchase of visitor resources, funding of an experience or provider selection involving him.
 
+## In the music
+
+> Sip the tea, share the bread
+> Hear the hopes the elders said
+
+[Every Border a Bridge · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-9). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Queensland tourism AI skills resources](https://www.detsi.qld.gov.au/tourism/tourism-development/tourism-innovation-platform) · [Source note A28](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a28)

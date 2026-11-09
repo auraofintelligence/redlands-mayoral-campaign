@@ -50,6 +50,13 @@ CEO, customer service and digital teams, residents, accessibility users and exis
 
 Any council purchase, licence or integration involving Luke’s software or Strange But True would require independent assessment and purchasing. Resident case information would remain within the authorised service workflow.
 
+## In the music
+
+> Not a system out of reach
+> But rooted in the bay and beach
+
+[Shifting Sands of Timeless Redlands · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-8). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Digital Transformation Portfolio](https://www.redland.qld.gov.au/About-Council/Digital-Transformation-Portfolio) · [Source note A04](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a04)

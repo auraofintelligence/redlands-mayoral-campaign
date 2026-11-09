@@ -73,6 +73,13 @@ Residents, Traditional Owners and cultural organisations, community hosts, libra
 
 Relevant interests include an interest in the host property, lease, equipment, paid operation or council funding of a civic establishment.
 
+## In the music
+
+> So build with care, design with grace
+> This Country’s not a vacant place
+
+[Shifting Sands of Timeless Redlands · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-8). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Current Local Government Act 2009, 22 October 2026](https://www.legislation.qld.gov.au/view/whole/html/inforce/2026-10-22/act-2009-017) · [Source note A01](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a01)

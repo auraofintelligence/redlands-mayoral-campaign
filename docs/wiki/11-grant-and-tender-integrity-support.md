@@ -46,6 +46,13 @@ Community organisations, council purchasing/grants teams, external grant adminis
 
 Any connection between Luke and an applicant, a paid application-support service or a tender would be identified where council was providing assistance or making a decision.
 
+## In the music
+
+> We declare every donor, we declare every lunch.
+> We check the Federal, State, and Local laws in a bunch.
+
+[Don't Throw a Brick · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-17). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Council tender advice](https://www.redland.qld.gov.au/Business-and-investment/Doing-business-with-Council/Advice-on-submitting-tenders) · [Source note A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)

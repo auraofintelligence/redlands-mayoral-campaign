@@ -4,6 +4,15 @@
 
 [Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html) is the shared direction. These ideas address connected needs while keeping their own purposes, participants and decisions. A shared building, tool or service can support several activities without combining them into one program. Follow any link below for an introduction to that idea and its source projects.
 
+
+
+## In the music
+
+> Ocean and forest, machine and soul.
+> Different voices making one whole.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Sovereign direction, compute, places and nodes
 
 Joyful Responsible Abundance supplies the whole-system direction for the Redlands sovereign-capacity proposal. Computing and hosting, shared civic places, and locally governed cultural intelligence nodes each have their own purpose. Power and material accounts, energy projects, manufacturing and repair provide distinct parts of the physical capability behind them.

@@ -45,6 +45,15 @@ Council, local MPs, responsible state and federal departments, service providers
 
 Any proposed allocation, funded role or agreement directly benefiting Luke’s project, business or associated organisation would be identified within the funding request.
 
+## In the music
+
+> We don’t revolt;
+> we recompose.
+> The old pattern breaks;
+> the new spiral grows.
+
+[Choose Your Own Protopia · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-4). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)

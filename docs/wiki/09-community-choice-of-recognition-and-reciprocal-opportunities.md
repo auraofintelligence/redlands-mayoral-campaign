@@ -44,6 +44,13 @@ Participants, community hosts, local businesses, volunteer organisations and rel
 
 Luke’s tools, equipment or provider role would be identified if council considered funding a reciprocal offer or selecting him to supply it.
 
+## In the music
+
+> Culture to culture, we listen and learn.
+> Give what we carry and take our turn.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Fair Work unpaid work and volunteering](https://www.fairwork.gov.au/tools-and-resources/fact-sheets/unpaid-work/unpaid-work-unpaid-work) · [Source note A17](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a17)

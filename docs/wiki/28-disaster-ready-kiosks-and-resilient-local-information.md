@@ -40,6 +40,13 @@ The Local Disaster Management Group, council’s disaster team, authorised warni
 
 Kiosk sites, equipment and support contracts would need independent assessment where Luke's designs or equipment could benefit. Responsibilities for publishing authorised warnings would remain clear.
 
+## In the music
+
+> But while our pulses count the thunder’s creed,
+> no heart is a stranded thing.
+
+[Eye of the Ancestors · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-10). Lyrics by Luke Nathan Hayes. From the dirge for Constance, Luke’s gran, and TC Alfred.
+
 ## Official information
 
 - [Local Disaster Management Plan](https://www.redland.qld.gov.au/Community-safety-and-health/Disasters-and-emergencies/Local-Disaster-Management-Plan) · [Source note A12](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a12)

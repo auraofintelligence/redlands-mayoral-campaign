@@ -44,6 +44,13 @@ Libraries, community venues, learning/accessibility partners, equipment provider
 
 Luke's station design, software or Strange But True would need independent consideration if council purchased, licensed, hosted or funded a Verse Box installation.
 
+## In the music
+
+> Each question builds a feedback sphere
+> Each answer codes what we hold dear
+
+[Kintsugi Protocol · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-3). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Queensland Privacy Principles](https://www.oic.qld.gov.au/government/privacy/queensland-privacy-principles) · [Source note A13](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a13)

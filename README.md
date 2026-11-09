@@ -95,3 +95,7 @@ The current publication mode is **campaign preparation preview**. The authoriser
 Original work follows the [Strange But True Public Source Licence](LICENCE.md). Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [host-root robots notes](docs/HOST-ROBOTS.md) explain crawler preferences on the shared GitHub Pages hostname.
 
 Updated **10 November 2026**, Australia/Brisbane.
+
+## Lyrics alongside the ideas
+
+Short excerpts from A Protopian Gambit connect the website and GitHub Wiki with the songs carrying the ideas. The reviewed excerpts and their intended placements are in `data/lyric-excerpts.json`. The shared renderer verifies the wording against the current lyric sheet and links each quotation to the matching track, with recording warnings where relevant.

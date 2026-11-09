@@ -22,6 +22,13 @@ The mayor, councillors, council administration and other governments have differ
 <p>Personal AI, community learning, Verse Box, C-hours and public digital models connect with council’s responsibilities for services, information and privacy. The project introductions and names guide explain these terms. Council already has a Digital Transformation Portfolio, with existing systems, contracts and service responsibilities to take into account. <a href="https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a04">Council’s digital program</a>.</p>
 <p><a href="https://auraofintelligence.github.io/joyful-responsible-abundance/index.html">Joyful Responsible Abundance</a> explains the wider goal: more people with the means to act and benefit. Preparing for possible superintelligence in 2027 or 2028 involves skills, privacy, reliable services, purchasing, access and partnerships. The timing is uncertain. The <a href="https://auraofintelligence.github.io/sovereign-capacity-lab/index.html">Sovereign Capacity Lab</a> develops the related scenarios. Announced investment plans and money already spent remain different measures.</p>
 
+## In the music
+
+> No closed doors where the future is made.
+> Bring it to sunlight out of the shade.
+
+[Joyful Responsible Abundance · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-7). Lyrics by Luke Nathan Hayes.
+
 ## Follow a proposal
 
 [Explore the ideas](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#choose-a-place-to-start) · [Read the official information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources) · [Follow council records](https://auraofintelligence.github.io/Redlands_draft_ES2026-2031/)

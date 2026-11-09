@@ -44,6 +44,13 @@ Council waste team and existing operators, men’s sheds, makers, licensed repai
 
 Access to council waste streams, land, grants or contracts would need independent assessment where Luke or a future co-operative had an interest. Allocation and redistribution arrangements would be published.
 
+## In the music
+
+> No saviour needed, just resolve
+> Where each crack maps the route we solve
+
+[Kintsugi Protocol · i C. infinity](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html#music-track-3). Lyrics by Luke Nathan Hayes.
+
 ## Official information
 
 - [Second-hand electrical equipment safety](https://www.worksafe.qld.gov.au/safety-and-prevention/hazards/electricity/electrical-products-and-equipment/selling-electrical-equipment/selling-second-hand) · [Source note A22](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a22)
