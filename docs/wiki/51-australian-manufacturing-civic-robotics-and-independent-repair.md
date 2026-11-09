@@ -27,7 +27,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Straddie Tip Loop Lab](https://auraofintelligence.github.io/straddie-tip-loop-lab/)**. A local materials-recovery and recycling planning lab for Minjerribah. It explores material streams, pre-disposal recovery, reuse, repair, microfactory tools and governance for keeping useful material and practical skills on the island.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 - **[Luke’s World of Work](https://auraofintelligence.github.io/Lukes-world-of-work-experience/)**. An illustrated harbour town built from Luke Hayes's work, education and volunteering history. Buildings and vehicles open individual source-backed records within one continuous fictional map.
 
@@ -70,7 +70,7 @@ Relevant interests include ownership, intellectual-property income or a paid rol
 
 ## Related ideas
 
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible delivery and shared-asset arrangements
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible delivery and shared-asset arrangements
 - [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support): Industry application and procurement support
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy): Government industry/investment route
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Workforce exploration and pathways

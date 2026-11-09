@@ -60,7 +60,7 @@ Luke’s C-hour tools, intellectual property or delivery role would be relevant 
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): A participant can choose personal Aura tools for their records and reflection.
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Genesis is an optional personal pathway that can inform later chosen contributions.
 - [42 Aura teacher development](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/42-aura-teacher-development): Teaching and learning support can form voluntary contributions.
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Ready SET Co-op can have a separately agreed hosting or administration role.
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) can have a separately agreed hosting or administration role.
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Work exploration can connect people with contribution opportunities while retaining its own work arrangements.
 
 ---

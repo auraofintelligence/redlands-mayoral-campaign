@@ -23,3 +23,7 @@ Build only allowlisted public files. Run appropriate checks after substantive ed
 ## Wiki readers
 
 Assume a reader has never met Luke and has no prior knowledge of his projects. Each idea needs an introduction to its purpose and source projects, with unfamiliar names and abbreviations explained. Use clear Australian English for people of all ages, ordinary practical examples where they help, and a respectful tone without minimising or aggrandising the work or the reader. Joyful Responsible Abundance is the shared goal. Preserve each project’s purpose, voluntary choices, evidence and decision responsibilities. Keep the public wording, reading guide and generated native GitHub Wiki in agreement.
+
+Do not research or identify additional Redlands civic-establishment sites. Use only the specified 9 Ballow Road concept and 433 Logan Road comparison; other potential Redlands premises remain unnamed and unspecified.
+
+Every accepted campaign donation is to be publicly named, including below statutory disclosure thresholds, with informed agreement before acceptance. The public finance snapshot contains only reviewed allowlisted fields. Private donor addresses, banking details, eligibility evidence and receipts remain in the private command centre. Keep payment collection off until Luke confirms the dedicated account and relevant ECQ steps are ready. Volunteer offers are not automatic subscriptions or permission to spend or send messages.

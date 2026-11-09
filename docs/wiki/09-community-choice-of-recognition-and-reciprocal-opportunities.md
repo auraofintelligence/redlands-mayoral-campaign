@@ -62,6 +62,6 @@ Luke’s tools, equipment or provider role would be identified if council consid
 
 ---
 
-**Previous:** [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration) · **Next:** [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
+**Previous:** [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration) · **Next:** [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
 
 [Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

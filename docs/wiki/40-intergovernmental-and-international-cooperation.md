@@ -10,7 +10,7 @@ Redlands could exchange research, teaching and practical knowledge with other co
 
 ## Words and project names
 
-- **GAJRA Earth**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
+- **Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth)**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
 
 ## What this could mean for Redlands
 
@@ -20,7 +20,7 @@ The diversification, Fiji–Australia Vuvale, GAJRA and long-term civilisation p
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[A Fair Go in the Age of Intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and GAJRA Earth.
+- **[A Fair Go in the Age of Intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth).
 
 - **[AUKUS Space Gambit](https://auraofintelligence.github.io/aukus-space-gambit/)**. A research hypothesis exploring preservation, reboosting or repurposing of the International Space Station before deorbit. The site brings together the baseline, the proposed gambit, review questions, a source trail and a support-note builder.
 
@@ -63,7 +63,7 @@ Relevant interests include paid research, consulting, travel support, an intelle
 
 ## Related ideas
 
-- [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option): GAJRA reciprocal relationships
+- [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option): GAJRA reciprocal relationships
 - [20 500 Queens regional leadership and human mentoring](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/20-500-queens-regional-leadership-and-human-mentoring): Leadership and mentoring exchange
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access): Tourism and cultural learning
 - [42 Aura teacher development](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/42-aura-teacher-development): Teaching exchange

@@ -28,15 +28,15 @@ A cultural intelligence node is a locally run service for computing, tools and k
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
 
-- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.
+- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A developing civic-use offering for 433 Logan Road, Stones Corner, Brisbane, responding to the QPS vacant-premises lease controversy. Its purpose is to support public safety and crime prevention through learning, mentoring, culture, enterprise, practical help and community participation. Adjacent project: the proposed Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub at the still-vacant 9 Ballow Road building on Minjerribah. Other potential Redlands sites remain unspecified.
 
 - **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
 
 - **[Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)**. A browser-based research and scenario laboratory for mining, materials, power, repairable robots and locally governed infrastructure. Its workbenches connect physical resource accounts, distributed compute, manufacturing, Australian industry and a 2032 planning horizon.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 - **[Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)**. A personal interface for everyday context such as life records, relationships, reminders, learning, skills and travel, organised through a 12 by 24 matrix. It collects a minimum viable self as a foundation for later personal-model development.
 
@@ -80,7 +80,7 @@ Relevant interests include an interest in a node operator, hosting agreement, li
 ## Related ideas
 
 - [07 Open data and public digital twin sandbox](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/07-open-data-and-public-digital-twin-sandbox): Approved public data and simulation services
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible operating/service agreement
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible operating/service agreement
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Workforce pathways
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Public entry and assisted access
 - [28 Disaster-ready kiosks and resilient local information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/28-disaster-ready-kiosks-and-resilient-local-information): Resilience service connections

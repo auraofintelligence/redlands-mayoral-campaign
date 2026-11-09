@@ -17,3 +17,9 @@ if(contactMessage&&!contactMessage.value){
   const parameters=new URLSearchParams(location.search),idea=parameters.get('idea'),title=(parameters.get('ideaTitle')||'').replace(/[\r\n]/g,' ').slice(0,200);
   if(/^(?:0[1-9]|[1-4][0-9]|5[0-2])$/.test(idea||''))contactMessage.value=`About Redlands idea ${idea}${title?': '+title:''}\n\nMy question, experience or source:\n`;
 }
+
+if(contactMessage&&!contactMessage.value){
+ const parameters=new URLSearchParams(location.search),reason=parameters.get('reason')||'',request=(parameters.get('request')||'').replace(/[\r\n]/g,' ').slice(0,180);
+ if(/^volunteer-(?:check-page|website-access|share-question|offer-skill|local-conversation|own-idea)$/.test(reason))contactMessage.value=`Campaign volunteering: ${request}\n\nHow I would like to help, and any limits on my availability:\n`;
+ else if(reason==='donation-enquiry')contactMessage.value='Donation enquiry under the all-named publication policy.\n\nMy question or proposed contribution:\n';
+}

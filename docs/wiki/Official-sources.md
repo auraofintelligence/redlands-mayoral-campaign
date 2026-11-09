@@ -189,3 +189,9 @@ Recorded source check: 2026-11-08.
 [RCC Open Data portal](https://opendata.redland.qld.gov.au/)
 
 Recorded source check: 2026-11-08.
+
+## A32
+
+[CCC Investigation Sphynx: QPS Stones Corner lease, 5 November 2026](https://www.ccc.qld.gov.au/publications/investigation-sphynx)
+
+Recorded source check: 2026-11-10.

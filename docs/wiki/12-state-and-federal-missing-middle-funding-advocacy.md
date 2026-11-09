@@ -10,7 +10,7 @@ State and federal investment could help provide the people, equipment, skills an
 
 ## Words and project names
 
-- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
+- **Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 - **The missing middle**: The people, places, equipment and ongoing work needed between an idea and a service people can actually use. The linked project develops a plan for locally owned community computing.
 
 ## What this could mean for Redlands
@@ -58,7 +58,7 @@ Any proposed allocation, funded role or agreement directly benefiting Luke’s p
 
 ## Related ideas
 
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Delivery organisation and operating case
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Delivery organisation and operating case
 - [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support): Application and acquittal support
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute investment case
 - [44 Redlands sovereign capacity for the age of superintelligence](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/44-redlands-sovereign-capacity-for-the-age-of-superintelligence): Shared strategic purpose
@@ -69,6 +69,6 @@ Any proposed allocation, funded role or agreement directly benefiting Luke’s p
 
 ---
 
-**Previous:** [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support) · **Next:** [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
+**Previous:** [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support) · **Next:** [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
 
 [Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

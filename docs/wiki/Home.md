@@ -61,10 +61,10 @@ Each page introduces an idea and the projects behind it, explains what it could 
 
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration)
 - [09 Community choice of recognition and reciprocal opportunities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/09-community-choice-of-recognition-and-reciprocal-opportunities)
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
 - [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support)
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy)
-- [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
+- [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
 
 ### Personal Genesis and leadership
 
@@ -169,11 +169,11 @@ The proposed physical equipment and experience settings for Genesis, personal Au
 
 Breathing oxygen in a pressurised chamber. Clinical services and proposed research have their own providers, participation choices and responsibilities.
 
-### Ready SET Co-op
+### Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)
 
 A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 
-### GAJRA Earth
+### Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth)
 
 Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
 

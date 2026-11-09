@@ -81,6 +81,6 @@ Luke’s personally purchased HBOT equipment and Genesis intellectual property w
 
 ---
 
-**Previous:** [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option) · **Next:** [15 Co-operative access to health and wellbeing tools](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/15-co-operative-access-to-health-and-wellbeing-tools)
+**Previous:** [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option) · **Next:** [15 Co-operative access to health and wellbeing tools](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/15-co-operative-access-to-health-and-wellbeing-tools)
 
 [Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

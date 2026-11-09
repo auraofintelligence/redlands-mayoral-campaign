@@ -18,7 +18,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Straddie Noticeboard Network](https://auraofintelligence.github.io/straddie-noticeboard-network/)**. A public-noticeboard network design for Minjerribah, with publisher categories, sample notices, device manifests and a shared publishing pipeline. Each publisher keeps its own identity while public display information stays separate from private context.
 
-- **[Ready SET Co-op Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. A local-first mixed-media production-network proposal for Minjerribah, connecting stories, practical media skills, tools and employment pathways. It includes contributor route finding, production-system design and examples of human-reviewed publishing.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. A local-first mixed-media production-network proposal for Minjerribah, connecting stories, practical media skills, tools and employment pathways. It includes contributor route finding, production-system design and examples of human-reviewed publishing.
 
 - **[Quandamooka Country Events Engine](https://auraofintelligence.github.io/quandamooka-country-events-engine/)**. An event atlas and planning toolkit for Quandamooka Country, covering places, suppliers, permissions, transport, run sheets, public notices and aftercare. Its browser builders produce portable Markdown briefs for organisers.
 

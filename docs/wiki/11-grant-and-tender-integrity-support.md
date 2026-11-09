@@ -10,7 +10,7 @@ Community organisations could spend less time repeating application work and hav
 
 ## Words and project names
 
-- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
+- **Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 
 ## What this could mean for Redlands
 
@@ -24,7 +24,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)**. A government-procurement and tender-preparation workbench for Minjerribah. It covers opportunity sources, supplier and business setup, partnering, requirements, evidence, bid control and human-reviewed AI drafting.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 ## How this could move forward
 
@@ -57,7 +57,7 @@ See the related public project introductions above.
 
 ## Related ideas
 
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Co-operative administration and applications
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Co-operative administration and applications
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy): Public funding cases and requests
 - [18 Try Everything work exploration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/18-try-everything-work-exploration): Workforce project applications
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Place and host proposals
@@ -66,6 +66,6 @@ See the related public project introductions above.
 
 ---
 
-**Previous:** [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity) · **Next:** [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy)
+**Previous:** [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity) · **Next:** [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy)
 
 [Back to the idea](#the-idea) · [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Share a question or local experience](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)

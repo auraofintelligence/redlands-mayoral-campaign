@@ -86,7 +86,7 @@ Luke's Aura software, hosting or support services would be relevant to any counc
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access): Tourism and travel learning application.
 - [28 Disaster-ready kiosks and resilient local information](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/28-disaster-ready-kiosks-and-resilient-local-information): Chosen personal preparedness and public-information access.
 - [29 Preparedness and recovery coordination](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/29-preparedness-and-recovery-coordination): Recovery coordination retains its own authorised information flows.
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Personal record choices in co-operative services
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Personal record choices in co-operative services
 - [49 Redlands Aura civic establishments and shared places](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/49-redlands-aura-civic-establishments-and-shared-places): Personal Aura access at civic places
 
 ---

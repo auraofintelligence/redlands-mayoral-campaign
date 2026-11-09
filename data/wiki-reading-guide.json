@@ -74,16 +74,16 @@
   ],
   "howToRead": "Each page introduces an idea and the projects behind it, explains what it could mean locally, and sets out who makes the relevant decisions. Examples illustrate possible uses. They do not announce a service, partnership or personal commitment. Related ideas stay separate so their different purposes, choices and responsibilities remain clear.",
   "examples": {
-    "01": "A bill check works like checking a shopping receipt: compare the charge with what was agreed, then follow up a difference with the right provider.",
-    "06": "A resident could see which documents an application needs and what happens next, instead of retelling the same story at each step.",
-    "07": "Like a model used before a building project, a digital twin lets people compare options before work starts. The usefulness of the result depends on its information and assumptions.",
     "23": "A repairable appliance could be collected before disposal, checked by the appropriate repairer and made available at an affordable cost.",
     "24": "A shared workshop can give several households access to a tool and the skills to use it, with agreed bookings, upkeep and costs.",
     "39": "Like a shared workshop, a computing service needs suitable equipment, reliable power, people who can maintain it and clear access arrangements.",
     "47": "A person could check what an AI assistant has inferred from their records, correct a mistake and choose what another service is allowed to receive.",
     "49": "One community building could host different activities at different times. Each activity would still have its own organisers, permissions and costs.",
     "50": "A resource plan is like a project’s working list of supplies and running costs: what is needed, how much, when it is available, who maintains it and what happens at the end of its working life.",
-    "52": "Neighbouring libraries can share selected resources while each remains responsible for its own collection. Cultural intelligence nodes could cooperate in a similar way, under agreed permissions."
+    "52": "Neighbouring libraries can share selected resources while each remains responsible for its own collection. Cultural intelligence nodes could cooperate in a similar way, under agreed permissions.",
+    "01": "A bill check works like checking a shopping receipt: compare the charge with what was agreed, then follow up a difference with the right provider.",
+    "06": "A resident could see which documents an application needs and what happens next, instead of retelling the same story at each step.",
+    "07": "Like a model used before a building project, a digital twin lets people compare options before work starts. The usefulness of the result depends on its information and assumptions."
   },
   "terms": [
     {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "Ready SET Co-op",
+      "name": "Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)",
       "meaning": "A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.",
       "entries": [
         "10",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "GAJRA Earth",
+      "name": "Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth)",
       "meaning": "Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.",
       "entries": [
         "13",
@@ -419,6 +419,7 @@
     "A11": "2026-11-09",
     "A13": "2026-11-09",
     "A14": "2026-11-09",
-    "A21": "2026-11-09"
+    "A21": "2026-11-09",
+    "A32": "2026-11-10"
   }
 }

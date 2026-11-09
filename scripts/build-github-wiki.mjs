@@ -1,6 +1,7 @@
 import {readFile,writeFile,mkdir,readdir,rm} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {fullProjectNames} from './project-names.mjs';
 import {projectDestination,publishedProjectUrl,publishedProjectLinks,sourceRepoName} from './project-destinations.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -11,7 +12,7 @@ const [content,config,exclusions,guide,music]=await Promise.all([
 const wiki='https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki',site=config.baseUrl;
 const slug=value=>String(value).toLowerCase().replace(/['’]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const pageName=entry=>`${entry.id}-${slug(entry.title)}`,pageUrl=name=>`${wiki}/${name}`;
-const link=(label,url)=>`[${label}](${url})`,entryLink=entry=>link(`${entry.id} ${entry.title}`,pageUrl(pageName(entry)));
+const link=(label,url)=>`[${label}](${url})`,entryLink=entry=>link(`${entry.id} ${fullProjectNames(entry.title)}`,pageUrl(pageName(entry)));
 const entries=new Map(content.options.map(entry=>[entry.id,entry]));
 const projects=content.groups.flatMap(group=>group.projects),projectsByRepo=new Map(projects.map(p=>[p.repoName.toLowerCase(),p]));
 const officialById=new Map(content.officialSources.map(source=>[source.id,source]));
@@ -26,13 +27,13 @@ const sections=[
 ];
 const sourceLink=source=>{
  const repo=sourceRepoName(source.url),destination=projectDestination(repo);
- if(destination?.kind==='local-overview')return link(`${source.title} (project introduction)`,new URL(`projects/${slug(repo)}.html`,site).href);
- const label=destination?.label?`${source.title}: ${destination.label}`:source.title+(destination?.kind==='source'?' (project source on GitHub)':destination?.kind==='document'?' (public document)':'');
+ if(destination?.kind==='local-overview')return link(`${fullProjectNames(source.title)} (project introduction)`,new URL(`projects/${slug(repo)}.html`,site).href);
+ const label=destination?.label?`${fullProjectNames(source.title)}: ${destination.label}`:fullProjectNames(source.title)+(destination?.kind==='source'?' (project source on GitHub)':destination?.kind==='document'?' (public document)':'');
  return link(label,publishedProjectUrl(source.url));
 };
 const projectIntroduction=source=>{
  const project=projectsByRepo.get(sourceRepoName(source.url).toLowerCase());
- if(!project)throw new Error(`Missing public introduction for ${source.title}`);
+ if(!project)throw new Error(`Missing public introduction for ${fullProjectNames(source.title)}`);
  return `- **${sourceLink(source)}**. ${project.description.replace(/\bprogramme(s?)\b/g,'program$1')}`;
 };
 const termsFor=entry=>guide.terms.filter(term=>term.entries.includes(entry.id));
@@ -101,13 +102,13 @@ for(const [position,entry] of content.options.entries()){
  }).join('\n')}\n\n${link('Read the current 22-song lyric sheet',new URL('music.html#music-lyric-sheet',site).href)}`:'';
  const official=(entry.officialSources||[]).map(id=>{
   const source=officialById.get(id);if(!source)throw new Error(`Missing official source ${id}`);
-  return `- ${link(source.title,source.url)} · ${link(`Source note ${id}`,`${pageUrl('Official-sources')}#${id.toLowerCase()}`)}`;
+  return `- ${link(fullProjectNames(source.title),source.url)} · ${link(`Source note ${id}`,`${pageUrl('Official-sources')}#${id.toLowerCase()}`)}`;
  }).join('\n');
  const documents=(entry.documentSources||[]).map(number=>`- ${link(documentLabel(number),`${pageUrl('Supplied-documents')}#document-${number}`)}`).join('\n');
  const connections=(entry.connections||[]).map(connection=>`- ${entryLink(entries.get(connection.id))}: ${connection.relationship}`).join('\n');
  const previous=position?entryLink(content.options[position-1]):link('Wiki home',pageUrl('Home'));
  const next=position+1<content.options.length?entryLink(content.options[position+1]):link('Wiki home',pageUrl('Home'));
- files.set(pageName(entry),`# ${entry.id} ${entry.title}\n\n${link('Wiki home',pageUrl('Home'))} · ${link('Words and names',`${pageUrl('Home')}#words-and-names`)} · ${entry.theme}\n\nAn idea by ${link('Luke Nathan Hayes',new URL('about.html',site).href)}, an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.${opening}\n\n${fields}${musicSection}\n\n## Official information\n\n${official||'See the shared official source register.'}\n\n## Documents behind the idea\n\n${documents||'See the related public project introductions above.'}\n\n## Related ideas\n\n${connections||link('How the ideas connect',pageUrl('Connections'))}\n\n---\n\n**Previous:** ${previous} · **Next:** ${next}\n\n${link('Back to the idea','#the-idea')} · ${link('Wiki home',pageUrl('Home'))} · ${link('Share a question or local experience',new URL('contact.html?topic=project',site).href)}\n`);
+ files.set(pageName(entry),`# ${entry.id} ${fullProjectNames(entry.title)}\n\n${link('Wiki home',pageUrl('Home'))} · ${link('Words and names',`${pageUrl('Home')}#words-and-names`)} · ${entry.theme}\n\nAn idea by ${link('Luke Nathan Hayes',new URL('about.html',site).href)}, an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.${opening}\n\n${fields}${musicSection}\n\n## Official information\n\n${official||'See the shared official source register.'}\n\n## Documents behind the idea\n\n${documents||'See the related public project introductions above.'}\n\n## Related ideas\n\n${connections||link('How the ideas connect',pageUrl('Connections'))}\n\n---\n\n**Previous:** ${previous} · **Next:** ${next}\n\n${link('Back to the idea','#the-idea')} · ${link('Wiki home',pageUrl('Home'))} · ${link('Share a question or local experience',new URL('contact.html?topic=project',site).href)}\n`);
 }
 
 const roleContext=content.roleContext.map(section=>{
@@ -116,7 +117,7 @@ const roleContext=content.roleContext.map(section=>{
 }).join('\n\n');
 files.set('Mayoral-role',`# Mayoral role and responsibilities\n\n${link('Wiki home',pageUrl('Home'))} · ${link('Words and names',`${pageUrl('Home')}#words-and-names`)}\n\nThe mayor, councillors, council administration and other governments have different jobs. Understanding those roles helps explain how a local idea can move towards a decision.\n\n${roleContext}\n\n## Follow a proposal\n\n${link('Explore the ideas',`${pageUrl('Home')}#choose-a-place-to-start`)} · ${link('Read the official information',pageUrl('Official-sources'))} · ${link('Follow council records','https://auraofintelligence.github.io/Redlands_draft_ES2026-2031/')}\n`);
 files.set('Connections',`# How the ideas connect\n\n${link('Wiki home',pageUrl('Home'))} · ${link('Words and names',`${pageUrl('Home')}#words-and-names`)}\n\n${link('Joyful Responsible Abundance',jra)} is the shared direction. These ideas address connected needs while keeping their own purposes, participants and decisions. A shared building, tool or service can support several activities without combining them into one program. Follow any link below for an introduction to that idea and its source projects.\n\n${content.overlapGuide.map(group=>`## ${group.title}\n\n${group.explanation}\n\n${group.options.map(id=>`- ${entryLink(entries.get(id))}`).join('\n')}`).join('\n\n')}\n`);
-files.set('Official-sources',`# Official source references\n\n${link('Wiki home',pageUrl('Home'))}\n\nThese links support the explanations of council responsibilities, decisions and other authorities. Each source keeps its own recorded check date. Laws, services and guidance can change; the official page provides the relevant current detail. Investment announcements retain their original dates and describe what was announced at that time.\n\n${content.officialSources.map(source=>`## ${source.id}\n\n${link(source.title,source.url)}${source.checkedOn?`\n\nRecorded source check: ${source.checkedOn}.`:''}`).join('\n\n')}\n`);
+files.set('Official-sources',`# Official source references\n\n${link('Wiki home',pageUrl('Home'))}\n\nThese links support the explanations of council responsibilities, decisions and other authorities. Each source keeps its own recorded check date. Laws, services and guidance can change; the official page provides the relevant current detail. Investment announcements retain their original dates and describe what was announced at that time.\n\n${content.officialSources.map(source=>`## ${source.id}\n\n${link(fullProjectNames(source.title),source.url)}${source.checkedOn?`\n\nRecorded source check: ${source.checkedOn}.`:''}`).join('\n\n')}\n`);
 files.set('Supplied-documents',`# Documents behind the ideas\n\n${link('Wiki home',pageUrl('Home'))}\n\nThese entries identify the original background documents and link to related public projects. Each project is introduced on its own page. Current public reading is linked where available, alongside the historical document title.\n\n${content.documents.map(document=>{
  const info=guide.documents[String(document.number)];if(!info)throw new Error(`Missing document introduction ${document.number}`);
  const related=info.repos.map(repo=>{const p=projectsByRepo.get(repo.toLowerCase());if(!p)throw new Error(`Missing related project ${repo}`);return sourceLink(p);});

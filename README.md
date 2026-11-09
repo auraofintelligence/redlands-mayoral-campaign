@@ -18,6 +18,9 @@ Luke is exploring a possible Redlands mayoral campaign as one person supported b
 | [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) | 52 introduced ideas, a first-visit guide, words and names, practical examples, council responsibilities, related projects and source references |
 | [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) | Background and links to the Open Record, work history, Project Atlas and Strange But True |
 | [Music](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) | A Protopian Gambit: 22 songs, topic summaries, project connections, landscape and portrait players, and lyrics |
+| [Volunteer](https://auraofintelligence.github.io/redlands-mayoral-campaign/volunteer.html) | Six optional ways to offer time, skills, questions or practical help |
+| [Donations](https://auraofintelligence.github.io/redlands-mayoral-campaign/donations.html) | Enquiries and the all-named donation policy; payment collection is not open |
+| [Reporting](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | Reviewed contributions, budget and expenses, kept separate from private records |
 | [Media](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) | Downloadable media kit, portrait, factual biographies, press notes and interview topics |
 | [Contact](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html) | Public enquiry form with a mail-only handler and verified inbox delivery; the destination address stays private |
 | [Site map](https://auraofintelligence.github.io/redlands-mayoral-campaign/sitemap.html) | Routes through the public pages and project collection |
@@ -49,6 +52,8 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public campaign pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
 
 The [migration review](docs/PUBLIC-PRIVATE-MIGRATION-REVIEW.md) records the cleanup of old pages, bookmark redirects, press downloads, integration documentation and build inputs. [Publication notes](https://auraofintelligence.github.io/redlands-mayoral-campaign/updates.html) explain the public website's current role.
+
+Participation and finance are described in the [campaign finance and participation notes](docs/CAMPAIGN-FINANCE-AND-PARTICIPATION.md). The public register begins unpopulated and asserts no financial total. Accepted donations require named publication; private addresses, receipts and account details remain in the private command centre.
 
 ## Build and preview
 

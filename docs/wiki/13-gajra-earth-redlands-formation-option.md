@@ -1,4 +1,4 @@
-# 13 GAJRA Earth Redlands formation option
+# 13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Community contribution and reciprocity
 
@@ -6,11 +6,11 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.
+Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.
 
 ## Words and project names
 
-- **GAJRA Earth**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
+- **Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth)**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
 
 ## What this could mean for Redlands
 
@@ -20,7 +20,7 @@ Prospective participants could shape its purpose, membership, governance, legal 
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[GAJRA Earth Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)**. A GAJRA Earth public-build commons connecting contribution, events, travel, research and the wider project ecosystem. Its pages include action pathways and a Markdown public-trace builder.
+- **[Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Public Hub](https://auraofintelligence.github.io/gajra-earth-public-hub/)**. A Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) public-build commons connecting contribution, events, travel, research and the wider project ecosystem. Its pages include action pathways and a Markdown public-trace builder.
 
 ## How this could move forward
 
@@ -54,7 +54,7 @@ See the related public project introductions above.
 ## Related ideas
 
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Voluntary community contribution
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Distinct co-operative delivery role
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Distinct co-operative delivery role
 - [20 500 Queens regional leadership and human mentoring](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/20-500-queens-regional-leadership-and-human-mentoring): Leadership and enterprise relationships
 - [26 Local arts, music and cinema participation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/26-local-arts-music-and-cinema-participation): Creative and cultural participation
 - [40 Intergovernmental and international cooperation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/40-intergovernmental-and-international-cooperation): Reciprocal international relationships

@@ -4,13 +4,14 @@ import {readFile,readdir,stat} from 'node:fs/promises';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import vm from 'node:vm';
+import {validatePublicFinance} from '../scripts/campaign-participation.mjs';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','index.html','projects.html','ideas.html','about.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
+ const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
  for(const name of await readdir(dist)) assert.ok(allowed.has(name),`Unexpected public file: ${name}`);
  assert.ok(!(await readdir(dist)).includes('data'),'Obsolete project register was published alongside the current catalogue');
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
@@ -168,4 +169,37 @@ test('Aura descriptions retain self-reflection and the optional adult Genesis ad
  for(const term of [/optional adult/,/healing intent/,/time-stamped biometric/,/pattern recognition/,/Truth Engine.*optional/])assert.match(genesis.purpose,term);
  assert.match(await read('docs/wiki/25-verse-box-public-access-and-installations.md'),/personal digital twin/);
  assert.match(await read('docs/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey.md'),/time-stamped biometric/);
+});
+
+test('volunteering, donation enquiries and reporting are public pages with no payment collection',async()=>{
+ for(const file of ['volunteer.html','donations.html','reporting.html']){
+  const html=await read('dist/'+file);assert.match(html,/page-sequence/);assert.match(html,/floating-nav/);
+  for(const listing of ['dist/sitemap.html','dist/sitemap.xml'])assert.ok((await read(listing)).includes(file),listing);
+ }
+ const donations=await read('dist/donations.html');
+ assert.match(donations,/Payment collection is not/);assert.match(donations,/every accepted donation/);
+ assert.doesNotMatch(donations,/<form|paypal|stripe|bank account number|BSB|mailto:/i);
+ assert.equal((await read('dist/volunteer.html')).match(/>Offer to help/g).length,6);
+ const reporting=await read('dist/reporting.html');assert.match(reporting,/No financial total is asserted/);assert.match(reporting,/campaign-contributions.csv/);
+});
+
+test('public finance data rejects private fields and unreviewed donor records',()=>{
+ const empty={version:1,updated:null,coverage:'not-yet-published',contributions:[],expenses:[],budget:[]};
+ assert.doesNotThrow(()=>validatePublicFinance(empty));
+ assert.throws(()=>validatePublicFinance({...empty,bankAccount:'private'}),/Unexpected/);
+ const row={id:'example',name:'Example Donor',kind:'donation',date:'2026-11-10',amount:'5.00',status:'accepted',note:''};
+ const report={...empty,updated:'2026-11-10T00:00:00Z',coverage:'reviewed-records',contributions:[row]};
+ assert.doesNotThrow(()=>validatePublicFinance(report));
+ for(const change of [{address:'private'},{receiptReference:'private'},{notes:'private'},{status:'pledged'},{name:'person@example.org'}])assert.throws(()=>validatePublicFinance({...report,contributions:[{...row,...change}]}));
+});
+
+test('organisation names are expanded without changing Wiki filenames or inventing civic premises',async()=>{
+ const html=await read('dist/ideas.html');
+ assert.match(html,/Ready Sustainable Employment and Training Cooperative \(Ready SET Co-op\)/);
+ assert.match(html,/Global Association for Joyful Responsible Abundance on Earth \(GAJRA Earth\)/);
+ assert.ok(html.includes('/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity'));
+ assert.ok(html.includes('/wiki/13-gajra-earth-redlands-formation-option'));
+ assert.match(html,/Wiki reference 10/);
+ const civic=await read('docs/wiki/49-redlands-aura-civic-establishments-and-shared-places.md');
+ assert.match(civic,/9 Ballow Road/);assert.match(civic,/still vacant/);assert.match(civic,/433 Logan Road/);assert.match(civic,/remain unspecified/);
 });

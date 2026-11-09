@@ -11,7 +11,7 @@ Willing hosts across Redlands could provide places for care, learning, personal 
 ## Words and project names
 
 - **Geode**: The proposed physical equipment and experience settings for Genesis, personal Aura and learning. The source guide describes several HBOT and Geode hardware paths.
-- **GAJRA Earth**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
+- **Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth)**: Luke’s proposed network connecting contribution, learning, events, travel, research and shared capability. A Redlands organisation would have its own members and agreed rules.
 
 ## What this could mean for Redlands
 
@@ -67,7 +67,7 @@ Luke's property, lease, host role or organisation interest would be relevant to 
 - [48 Aura dementia and carer-support research](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/48-aura-dementia-and-carer-support-research): Dementia software research is a distinct potential care/research partnership.
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): A willing host can consider a Verse Box station separately.
 - [45 Geode hardware and experience environments](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/45-geode-hardware-and-experience-environments): Geode development or use has its own equipment and operating needs.
-- [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option): Any future GAJRA organisation would have a separately agreed role.
+- [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option): Any future GAJRA organisation would have a separately agreed role.
 
 ---
 

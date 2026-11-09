@@ -26,7 +26,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
 
-- **[A Fair Go in the Age of Intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and GAJRA Earth.
+- **[A Fair Go in the Age of Intelligence](https://auraofintelligence.github.io/UNGA81-Luke-Hayes/)**. Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth).
 
 ## How this could move forward
 

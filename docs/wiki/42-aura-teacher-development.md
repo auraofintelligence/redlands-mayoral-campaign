@@ -30,7 +30,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[C-Hour Introduction](https://auraofintelligence.github.io/C-Hour-introduction/)**. An introduction and reference library for Community Hours: one verified hour of voluntary human contribution, with no monetary equivalent. It explores locally chosen recognition, reciprocity, personal intelligence and shared capability.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 ## How this could move forward
 
@@ -74,7 +74,7 @@ Luke's teacher-development materials, training services or intellectual property
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Participants may choose teaching as voluntary community contribution.
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal Aura can carry chosen learning and teaching records.
 - [14 Luke’s personal HBOT purchase and Genesis journey](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey): Teacher development can connect with a chosen Genesis journey while retaining its own pacing.
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Separately agreed teaching and employment arrangements
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Separately agreed teaching and employment arrangements
 
 ---
 

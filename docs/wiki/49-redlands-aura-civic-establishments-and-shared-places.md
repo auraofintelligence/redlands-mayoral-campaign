@@ -21,17 +21,21 @@ One community building could host different activities at different times. Each 
 
 ## What this could mean for Redlands
 
-Willing mainland and island hosts could adapt the civic-establishment model to local needs. Agreements would cover rooms, activities, public access, tools, internet connections, support, opening hours, responsibilities and running costs. Computing services could be connected where participants chose.
+The 9 Ballow Road, Dunwich (Gumpi), Minjerribah / North Stradbroke Island Trust Hub is a concept for a building Luke identifies as still vacant, not an established hub. It provides a local connection to Ready Sustainable Employment and Training Cooperative (Ready SET Co-op). The separate Aura Civic Establishment concept explores 433 Logan Road, Stones Corner, in the Brisbane City Council area. Other potential vacant or underused Redlands locations remain unspecified. Each site would have its own purposes, hosts, access arrangements, costs and agreements.
+
+The Logan Road proposal responds to the controversy over QPS paying for unoccupied premises. The CCC’s Investigation Sphynx report, tabled on 5 November 2026, records an approximately $116 million lease commitment over 15 years for Stones Corner premises that were not occupied. It identified governance and control failures, without identifying dishonesty, improper relationships or personal benefit. Luke offers civic use as a response directed towards public safety and crime prevention through learning, mentoring, community connection and useful participation. Any use would involve QPS, the Queensland Government, the property parties and Brisbane City Council where its functions apply.
+
+Redland City Council and Brisbane City Council could explore a collaboration, with QPS, the state and the property parties, to share learning, mentoring and civic services that support public safety and crime prevention. This is an invitation to investigate a partnership, with no agreement or access to premises assumed.
 
 ## Projects behind this idea
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.
+- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A developing civic-use offering for 433 Logan Road, Stones Corner, Brisbane, responding to the QPS vacant-premises lease controversy. Its purpose is to support public safety and crime prevention through learning, mentoring, culture, enterprise, practical help and community participation. Adjacent project: the proposed Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub at the still-vacant 9 Ballow Road building on Minjerribah. Other potential Redlands sites remain unspecified.
 
-- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 - **[500 Queens Venture Capital](https://auraofintelligence.github.io/500-Queens-VC-2026/)**. A women’s enterprise and leadership proposal for developing CEOs and decision-makers. It brings together AI Queen profiles, enterprise guides, startup suggestions, source readers and private planning tools.
 
@@ -47,7 +51,7 @@ A civic establishment brings a real place, people, activities and ongoing suppor
 
 ## Everyday uses
 
-Teacher development, creative work, women-led enterprise, Try Everything activities, community assistance, Verse Box access and resilience information can each use the rooms, equipment or support relevant to their purpose.
+The vacant 9 Ballow Road Trust Hub concept on Minjerribah and the Logan Road public-safety offering in Brisbane are separate proposals. Learning, mentoring, culture, practical help, personal Aura and community participation could contribute to civic safety and community life. Each place would retain its own purpose, hosts, permissions, costs and agreements. Other potential Redlands locations remain unspecified.
 
 ## How this could move forward
 
@@ -75,6 +79,7 @@ Relevant interests include an interest in the host property, lease, equipment, p
 - [Corporate Plan 2026-2031](https://www.redland.qld.gov.au/About-Council/Strategy-Planning-and-Policy/Council-plans-and-financial-information/Corporate-Plan) · [Source note A03](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a03)
 - [Council tender advice](https://www.redland.qld.gov.au/Business-and-investment/Doing-business-with-Council/Advice-on-submitting-tenders) · [Source note A06](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a06)
 - [Councillor registers of interests](https://www.dlgwv.qld.gov.au/local-government/for-councillors/councillor-information/registers-of-interests) · [Source note A07](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a07)
+- [CCC Investigation Sphynx: QPS Stones Corner lease, 5 November 2026](https://www.ccc.qld.gov.au/publications/investigation-sphynx) · [Source note A32](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources#a32)
 
 ## Documents behind the idea
 
@@ -84,7 +89,7 @@ Relevant interests include an interest in the host property, lease, equipment, p
 
 ## Related ideas
 
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible operating/service agreement
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Possible operating/service agreement
 - [20 500 Queens regional leadership and human mentoring](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/20-500-queens-regional-leadership-and-human-mentoring): Leadership and enterprise activity
 - [24 Makerspaces and shared practical tools](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/24-makerspaces-and-shared-practical-tools): Shared practical tools
 - [25 Verse Box public access and installations](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/25-verse-box-public-access-and-installations): Verse Box access

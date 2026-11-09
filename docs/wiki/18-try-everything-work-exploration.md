@@ -11,7 +11,7 @@ Try Everything work exploration could help people discover suitable work through
 ## Words and project names
 
 - **Community Hours (C-hours)**: A way to recognise verified voluntary human contribution and its outcomes. The source introduction describes one verified hour of contribution with no monetary equivalent. Participation and information sharing are choices.
-- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
+- **Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 
 ## What this could mean for Redlands
 
@@ -23,7 +23,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Luke’s World of Work](https://auraofintelligence.github.io/Lukes-world-of-work-experience/)**. An illustrated harbour town built from Luke Hayes's work, education and volunteering history. Buildings and vehicles open individual source-backed records within one continuous fictional map.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
 ## How this could move forward
 
@@ -60,7 +60,7 @@ Luke's work-exploration tools or host role would need independent consideration 
 
 - [17 Children and youth learning and connection](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/17-children-and-youth-learning-and-connection): Young people can connect through the appropriate school, youth or care-service arrangements.
 - [42 Aura teacher development](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/42-aura-teacher-development): Teacher development can support workplace learning and mentoring.
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Ready SET Co-op can help develop separately agreed employment and delivery arrangements.
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) can help develop separately agreed employment and delivery arrangements.
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration): Voluntary contribution opportunities retain their own C-hour arrangements.
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): A person can choose which skills and work samples to carry through their personal Aura.
 - [51 Australian manufacturing, civic robotics and independent repair](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/51-australian-manufacturing-civic-robotics-and-independent-repair): Manufacturing and repair partners can supply occupations, work and training opportunities.

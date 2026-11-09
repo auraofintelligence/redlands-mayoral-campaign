@@ -26,11 +26,11 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Sovereign Capacity Lab](https://auraofintelligence.github.io/sovereign-capacity-lab/)**. A browser-based research and scenario laboratory for mining, materials, power, repairable robots and locally governed infrastructure. Its workbenches connect physical resource accounts, distributed compute, manufacturing, Australian industry and a 2032 planning horizon.
 
-- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.
+- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A developing civic-use offering for 433 Logan Road, Stones Corner, Brisbane, responding to the QPS vacant-premises lease controversy. Its purpose is to support public safety and crime prevention through learning, mentoring, culture, enterprise, practical help and community participation. Adjacent project: the proposed Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub at the still-vacant 9 Ballow Road building on Minjerribah. Other potential Redlands sites remain unspecified.
 
 - **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
 
-- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
 
 - **[Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/)**. An educational website introducing Luke's whole-system proposal and his paper on superintelligence and Australian sovereignty. Reading paths, source documents and calculators connect people, productive capacity, civic institutions and wider world questions.
 
@@ -82,7 +82,7 @@ Relevant interests include a proposed governing role, asset interest or named fu
 ## Related ideas
 
 - [04 AI and superintelligence readiness](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/04-ai-and-superintelligence-readiness): Council's own AI adoption
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Co-operative delivery choices
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity): Co-operative delivery choices
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy): Government investment advocacy
 - [39 Sovereign compute and distributed national capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/39-sovereign-compute-and-distributed-national-capacity): Compute and hosting provision
 - [47 Personal Aura, data sovereignty and protection from profiling](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/47-personal-aura-data-sovereignty-and-protection-from-profiling): Personal agency and data sovereignty

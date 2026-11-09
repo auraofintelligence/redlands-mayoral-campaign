@@ -26,7 +26,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 - **[Agent Markdown Form Navigator](https://auraofintelligence.github.io/agent-md-form-navigator/)**. A searchable directory of project-family pages that collect structured inputs and produce agent-ready Markdown. Records identify each page's outputs, scripts, hosting route and connections to other pages.
 
-- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.
+- **[Aura Civic Establishment](https://auraofintelligence.github.io/aura-civic-establishment/)**. A developing civic-use offering for 433 Logan Road, Stones Corner, Brisbane, responding to the QPS vacant-premises lease controversy. Its purpose is to support public safety and crime prevention through learning, mentoring, culture, enterprise, practical help and community participation. Adjacent project: the proposed Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub at the still-vacant 9 Ballow Road building on Minjerribah. Other potential Redlands sites remain unspecified.
 
 - **[Fishing Club AI Helper Forms](https://auraofintelligence.github.io/plfc-ai-agent-md-forms/)**. A set of Point Lookout Fishing Club forms that generate AI-ready Markdown files. The forms cover meetings, members and volunteers, events, social content, source notes, grants, education and visitors.
 

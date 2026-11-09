@@ -1,4 +1,4 @@
-# 10 Ready SET Co-op and missing-middle delivery capacity
+# 10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity
 
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Words and names](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home#words-and-names) · Community contribution and reciprocity
 
@@ -6,11 +6,11 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 ## The idea
 
-Ready SET Co-op proposes an organisation governed by its members to coordinate work, administration, shared equipment and services across participating projects.
+Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) proposes an organisation governed by its members to coordinate work, administration, shared equipment and services across participating projects.
 
 ## Words and project names
 
-- **Ready SET Co-op**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
+- **Ready Sustainable Employment and Training Cooperative (Ready SET Co-op)**: A proposed member-governed organisation for shared work, assets, administration and services. Its members would agree its rules and responsibilities.
 - **The missing middle**: The people, places, equipment and ongoing work needed between an idea and a service people can actually use. The linked project develops a plan for locally owned community computing.
 
 ## What this could mean for Redlands
@@ -21,11 +21,11 @@ Prospective members could develop the co-operative’s rules, decision-making ar
 
 These introductions describe the source projects. The Redlands proposal above explains the possible local adaptation.
 
-- **[Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)**. A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.
 
-- **[Ready SET Co-op Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Cultural Intelligence Node](https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/)**. A proposal for one cultural intelligence compute node in Dunwich, using a GB200 NVL72-class rack to explore workloads, power, cooling, skills and place. It develops cultural custody and permissions, local project uses, co-operative services, place modelling and selected node-to-node exchange.
 
-- **[Ready SET Co-op Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. A local-first mixed-media production-network proposal for Minjerribah, connecting stories, practical media skills, tools and employment pathways. It includes contributor route finding, production-system design and examples of human-reviewed publishing.
+- **[Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)**. A local-first mixed-media production-network proposal for Minjerribah, connecting stories, practical media skills, tools and employment pathways. It includes contributor route finding, production-system design and examples of human-reviewed publishing.
 
 - **[Installing the Missing Middle](https://auraofintelligence.github.io/installing-the-missing-middle/)**. A national installation-business plan for a federation of locally owned community-compute nodes. It combines computing, useful heat, backup power, installation learning, shared ownership, finance and hardware renewal.
 

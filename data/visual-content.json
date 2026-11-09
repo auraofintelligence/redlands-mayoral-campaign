@@ -192,7 +192,7 @@
           "repoName": "ready-set-co-op-trust-hub",
           "title": "Ready SET Co-op Trust Hub",
           "url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub",
-          "description": "A trust-building, co-working and asset-sharing pathway toward Ready S.E.T. Co-op on Minjerribah. It explores local support work, training and paid roles, grant preparation and a possible community base at 9 Ballow Road.",
+          "description": "A public concept for Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) covering co-working, shared equipment, training, local media and trust-building. Its 9 Ballow Road proposal at Dunwich / Gumpi concerns a building Luke identifies as still vacant. The Trust Hub has not been established.",
           "adjacentProjects": []
         },
         {
@@ -571,7 +571,7 @@
           "repoName": "aura-geode",
           "title": "Aura Geode",
           "url": "https://github.com/auraofintelligence/aura-geode",
-          "description": "A six-page design exploration of the Aura Geode capsule, a sixty-day lifestyle pathway and personal digital twins. Its pages also develop sensing interfaces, cooperative economics and GAJRA Earth governance concepts.",
+          "description": "A six-page design exploration of the Aura Geode capsule, a sixty-day lifestyle pathway and personal digital twins. Its pages also develop sensing interfaces, cooperative economics and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) governance concepts.",
           "adjacentProjects": []
         },
         {
@@ -870,7 +870,7 @@
           "repoName": "UNGA81-Luke-Hayes",
           "title": "A Fair Go in the Age of Intelligence",
           "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
-          "description": "Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and GAJRA Earth.",
+          "description": "Luke’s independent UNGA81 contribution, A Fair Go in the Age of Intelligence. It connects Joyful Responsible Abundance with shared capability, livelihoods and time, personal and civic intelligence, and Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth).",
           "adjacentProjects": []
         }
       ]
@@ -885,7 +885,7 @@
           "repoName": "aura-civic-establishment",
           "title": "Aura Civic Establishment",
           "url": "https://github.com/auraofintelligence/aura-civic-establishment",
-          "description": "A shared civic-place proposal exploring a round-the-clock mix of activities, rooms, public access, KYC, computing and operating arrangements. It includes overlap tools, capacity calculators and a Brisbane candidate-site study.",
+          "description": "A developing civic-use offering for 433 Logan Road, Stones Corner, Brisbane, responding to the QPS vacant-premises lease controversy. Its purpose is to support public safety and crime prevention through learning, mentoring, culture, enterprise, practical help and community participation. Adjacent project: the proposed Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub at the still-vacant 9 Ballow Road building on Minjerribah. Other potential Redlands sites remain unspecified.",
           "adjacentProjects": []
         },
         {
@@ -940,7 +940,7 @@
           "repoName": "GAJRA-earth-infinity",
           "title": "GAJRA Earth Infinity",
           "url": "https://github.com/auraofintelligence/GAJRA-earth-infinity",
-          "description": "A public GAJRA Earth concept and participatory alignment framework for Joyful Responsible Abundance. It includes an Alignment Lab, world atlas, Meeting Circle and Field Kit builders, and a source-led Future Watch.",
+          "description": "A public Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) concept and participatory alignment framework for Joyful Responsible Abundance. It includes an Alignment Lab, world atlas, Meeting Circle and Field Kit builders, and a source-led Future Watch.",
           "adjacentProjects": []
         },
         {
@@ -948,7 +948,7 @@
           "repoName": "gajra-earth-public-hub",
           "title": "GAJRA Earth Public Hub",
           "url": "https://github.com/auraofintelligence/gajra-earth-public-hub",
-          "description": "A GAJRA Earth public-build commons connecting contribution, events, travel, research and the wider project ecosystem. Its pages include action pathways and a Markdown public-trace builder.",
+          "description": "A Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) public-build commons connecting contribution, events, travel, research and the wider project ecosystem. Its pages include action pathways and a Markdown public-trace builder.",
           "adjacentProjects": []
         },
         {
@@ -956,7 +956,7 @@
           "repoName": "gajra-earth-claude-build",
           "title": "GAJRA Earth: Claude Build",
           "url": "https://github.com/auraofintelligence/gajra-earth-claude-build",
-          "description": "The separate Claude-built GAJRA Earth concept site, inviting people working with intelligent systems to help define what AI alignment is for. It explores joyful responsible abundance across different scales, time horizons, open questions and public participation.",
+          "description": "The separate Claude-built Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) concept site, inviting people working with intelligent systems to help define what AI alignment is for. It explores joyful responsible abundance across different scales, time horizons, open questions and public participation.",
           "adjacentProjects": []
         },
         {
@@ -1469,7 +1469,7 @@
         },
         {
           "id": "10",
-          "relationship": "Ready SET Co-op can have a separately agreed hosting or administration role."
+          "relationship": "Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) can have a separately agreed hosting or administration role."
         },
         {
           "id": "18",
@@ -1528,7 +1528,7 @@
       "id": "10",
       "theme": "Community contribution and reciprocity",
       "title": "Ready SET Co-op and missing-middle delivery capacity",
-      "purpose": "Ready SET Co-op proposes an organisation governed by its members to coordinate work, administration, shared equipment and services across participating projects.",
+      "purpose": "Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) proposes an organisation governed by its members to coordinate work, administration, shared equipment and services across participating projects.",
       "redlandsAdaptation": "Prospective members could develop the co-operative’s rules, decision-making arrangements, finances, paid-work and training opportunities, insurance and administration. Agreements would explain what it would own, run or provide, and how it would work with each host or partner.",
       "route": "Personal initiative with possible council involvement",
       "mayoralCouncilLever": "The mayor could convene discussion about co-operative public-benefit delivery. Council could consider relevant support or service arrangements through its own processes.",
@@ -1726,7 +1726,7 @@
       "id": "13",
       "theme": "Community contribution and reciprocity",
       "title": "GAJRA Earth Redlands formation option",
-      "purpose": "GAJRA Earth Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.",
+      "purpose": "Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.",
       "redlandsAdaptation": "Prospective participants could shape its purpose, membership, governance, legal structure and connections with participating projects and other GAJRA communities. Its own activities would be distinguished from those of independent people, organisations and delivery partners.",
       "route": "Personal initiative with possible council involvement",
       "mayoralCouncilLever": "The mayor could convene discussion of public purposes and community connections. Any council relationship with a particular association would be considered through the relevant council process.",
@@ -1898,7 +1898,7 @@
         },
         {
           "id": "10",
-          "relationship": "Ready SET Co-op provides a separate organisation and delivery-capacity conversation."
+          "relationship": "Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) provides a separate organisation and delivery-capacity conversation."
         },
         {
           "id": "16",
@@ -2061,7 +2061,7 @@
         },
         {
           "id": "10",
-          "relationship": "Ready SET Co-op can help develop separately agreed employment and delivery arrangements."
+          "relationship": "Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) can help develop separately agreed employment and delivery arrangements."
         },
         {
           "id": "08",
@@ -3838,7 +3838,7 @@
       "theme": "Redlands sovereign capacity and civic establishments",
       "title": "Redlands Aura civic establishments and shared places",
       "purpose": "Aura civic establishments are proposed shared places for learning, culture, enterprise, practical help and community activities, with the equipment and support those activities need.",
-      "redlandsAdaptation": "Willing mainland and island hosts could adapt the civic-establishment model to local needs. Agreements would cover rooms, activities, public access, tools, internet connections, support, opening hours, responsibilities and running costs. Computing services could be connected where participants chose.",
+      "redlandsAdaptation": "The 9 Ballow Road, Dunwich (Gumpi), Minjerribah / North Stradbroke Island Trust Hub is a concept for a building Luke identifies as still vacant, not an established hub. It provides a local connection to Ready Sustainable Employment and Training Cooperative (Ready SET Co-op). The separate Aura Civic Establishment concept explores 433 Logan Road, Stones Corner, in the Brisbane City Council area. Other potential vacant or underused Redlands locations remain unspecified. Each site would have its own purposes, hosts, access arrangements, costs and agreements.\n\nThe Logan Road proposal responds to the controversy over QPS paying for unoccupied premises. The CCC’s Investigation Sphynx report, tabled on 5 November 2026, records an approximately $116 million lease commitment over 15 years for Stones Corner premises that were not occupied. It identified governance and control failures, without identifying dishonesty, improper relationships or personal benefit. Luke offers civic use as a response directed towards public safety and crime prevention through learning, mentoring, community connection and useful participation. Any use would involve QPS, the Queensland Government, the property parties and Brisbane City Council where its functions apply.\n\nRedland City Council and Brisbane City Council could explore a collaboration, with QPS, the state and the property parties, to share learning, mentoring and civic services that support public safety and crime prevention. This is an invitation to investigate a partnership, with no agreement or access to premises assumed.",
       "route": "Council, regional, state, federal and business cooperation",
       "mayoralCouncilLever": "The mayor could convene hosts and users, connect relevant council libraries, community spaces, economic development and cultural programs, and seek shared investment and regional, state and federal participation. Council would consider any particular asset, lease, grant or service arrangement through its own process.",
       "outside": "Landowners and operators decide use and terms. Each community and cultural authority decides its participation and permissions. Any proposed identity checks would need to suit the actual service and lawful purpose.",
@@ -3878,7 +3878,8 @@
         "A01",
         "A03",
         "A06",
-        "A07"
+        "A07",
+        "A32"
       ],
       "documentSources": [
         8,
@@ -3960,7 +3961,7 @@
         }
       ],
       "firstPrinciples": "A civic establishment brings a real place, people, activities and ongoing support together. Space, support hours, equipment, maintenance, access and costs need clear accounts. Several activities can share facilities while keeping their own participation choices and decision-making arrangements.",
-      "localApplications": "Teacher development, creative work, women-led enterprise, Try Everything activities, community assistance, Verse Box access and resilience information can each use the rooms, equipment or support relevant to their purpose."
+      "localApplications": "The vacant 9 Ballow Road Trust Hub concept on Minjerribah and the Logan Road public-safety offering in Brisbane are separate proposals. Learning, mentoring, culture, practical help, personal Aura and community participation could contribute to civic safety and community life. Each place would retain its own purpose, hosts, permissions, costs and agreements. Other potential Redlands locations remain unspecified."
     },
     {
       "id": "50",
@@ -4321,7 +4322,7 @@
         "11",
         "12"
       ],
-      "explanation": "C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready SET Co-op and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy."
+      "explanation": "C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy."
     },
     {
       "title": "Genesis, public access, personal Aura and Geode",
@@ -4623,6 +4624,12 @@
       "title": "RCC Open Data portal",
       "url": "https://opendata.redland.qld.gov.au/",
       "checkedOn": "2026-11-08"
+    },
+    {
+      "id": "A32",
+      "title": "CCC Investigation Sphynx: QPS Stones Corner lease, 5 November 2026",
+      "url": "https://www.ccc.qld.gov.au/publications/investigation-sphynx",
+      "checkedOn": "2026-11-10"
     }
   ],
   "documents": [

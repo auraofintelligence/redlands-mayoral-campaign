@@ -106,7 +106,7 @@ Related public reading: [Straddie Disaster Kiosks](https://auraofintelligence.gi
 
 Original source title: SETCo 2026 Pitch Plan Revision.pdf
 
-Related public reading: [Ready SET Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/).
+Related public reading: [Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/).
 
 ## Document 14
 

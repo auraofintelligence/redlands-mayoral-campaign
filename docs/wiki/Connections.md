@@ -38,12 +38,12 @@ Everyday AI and data learning, teacher development and Try Everything work exper
 
 ## Contribution, reciprocity and delivery organisations
 
-C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready SET Co-op and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy.
+C-hours recognise voluntary contributions and their outcomes. Communities could choose the recognition and reciprocal opportunities they value. Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and GAJRA offer different organisational possibilities, while grant support and intergovernmental advocacy address applications, obligations, funding and policy.
 
 - [08 Voluntary C-hour demonstration](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/08-voluntary-c-hour-demonstration)
 - [09 Community choice of recognition and reciprocal opportunities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/09-community-choice-of-recognition-and-reciprocal-opportunities)
-- [10 Ready SET Co-op and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
-- [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
+- [10 Ready Sustainable Employment and Training Cooperative (Ready SET Co-op) and missing-middle delivery capacity](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/10-ready-set-co-op-and-missing-middle-delivery-capacity)
+- [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
 - [11 Grant and tender integrity support](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/11-grant-and-tender-integrity-support)
 - [12 State and federal missing-middle funding advocacy](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/12-state-and-federal-missing-middle-funding-advocacy)
 
@@ -134,4 +134,4 @@ Independent ferry access and Gumpi scrutiny, tourism and domestic travel, and Ga
 - [36 Tourism, domestic travel and local access](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/36-tourism-domestic-travel-and-local-access)
 - [21 Olympics community capability and lasting benefit](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/21-olympics-community-capability-and-lasting-benefit)
 - [40 Intergovernmental and international cooperation](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/40-intergovernmental-and-international-cooperation)
-- [13 GAJRA Earth Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
+- [13 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands formation option](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/13-gajra-earth-redlands-formation-option)
