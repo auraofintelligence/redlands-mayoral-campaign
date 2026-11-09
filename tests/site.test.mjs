@@ -39,7 +39,7 @@ test('pages have unique titles, language, accessible landmarks and preview statu
  const home=await read('dist/index.html');assert.match(home,/<main id="main"/);assert.match(home,/Ideas into practice/);assert.match(home,/assets\/visual.js/);
  const publicNames=await readdir(dist);
  for(const forbidden of ['outreach.html','app.js','model.js','control.css'])assert.ok(!publicNames.includes(forbidden),'Private workspace published: '+forbidden);
- assert.deepEqual(await readdir(path.join(dist,'assets/data')),['visual-content.json']);
+ for(const forbidden of ['media.json','projects.json','campaign.json'])assert.ok(!(await readdir(path.join(dist,'assets/data'))).includes(forbidden),'Private workspace data published: '+forbidden);
  for(const file of (await files(dist)).filter(v=>v.endsWith('.html'))){const html=await readFile(file,'utf8');assert.ok(!html.includes('href="outreach.html')&&!html.includes('href="../outreach.html'),'Public command-centre link: '+file);}
  assert.ok(!(await read('dist/sitemap.xml')).includes('outreach.html'));
 });
