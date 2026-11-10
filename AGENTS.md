@@ -43,3 +43,5 @@ Most of Luke’s projects were developed for Straddie while he was setting up St
 The music page starts with both supplied full-album YouTube playlists embedded, with initial autoplay disabled and the severe-language warning visible before the players. Keep listening choices and privacy wording consistent with that behaviour. Each song has Facebook and X draft links plus Instagram and TikTok caption-preparation controls; these controls do not publish posts.
 
 Selecting a song should start playback immediately in the chosen player. Keep initial page-load playback disabled. Retain the severe-language acknowledgement before starting that individual song.
+
+Public pricing instruction, 10 November 2026: Do not assign or publish tool prices. Luke charges for his time, using the existing Strange But True advisory rates. Rights and permissions remain distinct from a price list. Any ecosystem valuation theory is private and must not be copied into the public website, Wiki, press kit or licence.
