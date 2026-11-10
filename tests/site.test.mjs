@@ -4,7 +4,6 @@ import {readFile,readdir,stat} from 'node:fs/promises';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import vm from 'node:vm';
-import {validatePublicFinance} from '../scripts/campaign-participation.mjs';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dist=path.join(root,'dist');
@@ -180,7 +179,9 @@ test('civic collaboration replaces election appeals and licensing retains owners
  assert.match(licensing,/non-exclusive licence/);assert.match(licensing,/retain ownership/);
  for(const file of ['collaborate.html','licensing.html'])assert.ok((await read('dist/sitemap.xml')).includes(file));
  const donations=await read('dist/donations.html');assert.match(donations,/not seeking election donations/);assert.doesNotMatch(donations,/<form|paypal|stripe|BSB|mailto:/i);
- const record=await read('dist/reporting.html');assert.match(record,/19 November 2026/);assert.match(record,/12 noon/);assert.match(record,/campaign-contributions.csv/);
+ const record=await read('dist/reporting.html');assert.match(record,/19 November 2026/);assert.match(record,/12 noon/);assert.match(record,/no campaign bank account/);assert.match(record,/no campaign financial transactions/);assert.doesNotMatch(record,/Earlier financial records|Earlier contributions snapshot|Earlier expenses snapshot|Earlier budget snapshot|Public snapshot/);
+ const outputFiles=(await files(dist)).map(file=>path.relative(dist,file).replaceAll('\\','/'));
+ for(const retired of ['downloads/campaign-contributions.csv','downloads/campaign-expenses.csv','downloads/campaign-budget.csv','assets/data/campaign-finance-public.json'])assert.ok(!outputFiles.includes(retired),'Retired empty financial export: '+retired);
 });
 
 test('old campaign enquiry links lead to current collaboration or historical questions',async()=>{
@@ -193,16 +194,6 @@ test('old campaign enquiry links lead to current collaboration or historical que
   assert.doesNotMatch(message.value,/Campaign volunteering:|Donation enquiry under the all-named/);
   assert.match(message.value,reason==='donation-enquiry'?/not seeking election donations/:/Independent project collaboration/);
  }
-});
-
-test('public finance data rejects private fields and unreviewed donor records',()=>{
- const empty={version:1,updated:null,coverage:'not-yet-published',contributions:[],expenses:[],budget:[]};
- assert.doesNotThrow(()=>validatePublicFinance(empty));
- assert.throws(()=>validatePublicFinance({...empty,bankAccount:'private'}),/Unexpected/);
- const row={id:'example',name:'Example Donor',kind:'donation',date:'2026-11-10',amount:'5.00',status:'accepted',note:''};
- const report={...empty,updated:'2026-11-10T00:00:00Z',coverage:'reviewed-records',contributions:[row]};
- assert.doesNotThrow(()=>validatePublicFinance(report));
- for(const change of [{address:'private'},{receiptReference:'private'},{notes:'private'},{status:'pledged'},{name:'person@example.org'}])assert.throws(()=>validatePublicFinance({...report,contributions:[{...row,...change}]}));
 });
 
 test('organisation names are expanded without changing Wiki filenames or inventing civic premises',async()=>{

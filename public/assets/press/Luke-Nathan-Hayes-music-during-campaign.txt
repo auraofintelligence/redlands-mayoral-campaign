@@ -34,7 +34,7 @@ Scheduled appearances, listener reports and confirmed broadcasts are kept distin
 Send a log or clarification through the private media contact form:
 https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=media&reason=music-airplay
 
-The blank airplay-log CSV supplied with this kit is an optional format. An outlet's existing playlist or transmission log is also useful. Private correspondence and unreviewed records are not automatically published. This recordkeeping request does not replace the outlet's broadcasting obligations or any obligations arising from earlier activity.
+The blank airplay-log CSV supplied with this kit is an optional format. An outlet's existing playlist or transmission log is also useful. Private correspondence and unreviewed records are not automatically published. Stations retain their own broadcasting obligations.
 
 Music and background
 

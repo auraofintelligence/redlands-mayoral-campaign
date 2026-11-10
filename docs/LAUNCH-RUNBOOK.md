@@ -6,6 +6,8 @@ Luke's independent work remains relaxed, serendipitous and self-directed. He cho
 
 The earlier tentative mention of 11 November 2026 was superseded by his decision not to contest. It is retained only as historical context.
 
+No campaign bank account was opened and there was no campaign income, spending or other financial transaction. Luke completed the free [So You Want to Be a Councillor training](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html#councillor-training). Donation-policy ideas and reporting templates were never implemented as campaign financial activity.
+
 ## Public website and private work
 
 The public site introduces Luke, the selected projects, music, ideas for Redlands and their sources. The [Media page](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) contains biographies, a fact sheet and a published portrait. The [contact form](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html) is for enquiries. The [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) explains the ideas and the roles of council, other governments and partners.
@@ -22,7 +24,7 @@ Luke chooses whether and when to act. No record, invitation or suggested date cr
 
 ECQ describes the Redland mayoral by-election as a full postal ballot on **12 December 2026**. The election notice and nominations opened on **10 November 2026**; nominations close at **12 noon, Thursday 19 November 2026 (AEST)**. These dates describe the election Luke has decided not to contest. [Official election timetable](https://www.ecq.qld.gov.au/elections/election-events/redland-city-council-mayoral-by-election).
 
-The initial reference check was on 8 November 2026; the nomination deadline was subsequently recorded on 10 November. Retain the distinction between source dates and Luke's decisions. Do not infer a nomination or any transaction from the earlier preparation.
+The initial reference check was on 8 November 2026; the nomination deadline was subsequently recorded on 10 November. Retain the distinction between source dates and Luke's decisions.
 
 ## Guidance retained for the earlier exploration
 
@@ -31,11 +33,6 @@ These primary-source routes explain requirements relevant to the earlier electio
 - [Local government candidate information](https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates).
 - [Nomination guidance](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-02-Nominating-as-a-candidate-for-local-government-elections-v.-Mar-26.pdf).
 - [Authorisation of election material](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-03-Authorisation-of-election-material-v.-Mar-26.pdf).
-- [Funding and disclosure overview](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-16-Funding-and-disclosure-overview-for-candidates-v.-Mar-26.pdf).
-- [Dedicated campaign accounts](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-17-Dedicated-campaign-bank-accounts-for-candidates-v.-Mar-26.pdf).
-- [Record-keeping guidance](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-08-Record-keeping-requirements.pdf).
-
-Luke's decision not to contest does not itself determine any obligations relating to earlier activity. The relevant official guidance and any necessary advice remain separate from the civic site's current purpose.
 
 The earlier authoriser-name record is Luke Nathan Hayes; the address remains omitted at Luke's request. Do not retrieve it from another project or mark authorisation complete. No accepted nomination or election launch is announced by the current site.
 

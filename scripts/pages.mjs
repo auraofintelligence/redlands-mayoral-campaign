@@ -5,7 +5,7 @@ export function campaignPresentation(c) {
     officeStatus:'Luke Nathan Hayes is not contesting the 2026 Redland City mayoral by-election.',
     authorisationText:'', nominationStatus:c.status, nominationDetail:'Decision recorded 10 November 2026.',
     nominationSummary:c.status, authorisationLabel:'Civic project collection',
-    distributionNote:'This edition presents civic research and licensing enquiries. It does not settle any obligations relating to earlier activity.'
+    distributionNote:'This edition presents independent civic research and licensing enquiries. Luke is not contesting the by-election.'
   };
   const isLive = c.publicationMode === 'live';
   const authoriser = String(c.authorisation?.name || '').trim();

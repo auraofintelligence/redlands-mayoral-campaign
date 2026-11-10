@@ -1,6 +1,6 @@
 import {readFile} from 'node:fs/promises';
 const c=JSON.parse(await readFile(new URL('../data/campaign.json',import.meta.url),'utf8'));
-if(c.publicationMode==='civic-simulation'){console.log('Civic simulation status recorded. This electoral-release check does not determine whether any material or earlier activity has electoral obligations.');process.exit(0);}
+if(c.publicationMode==='civic-simulation'){console.log('Civic simulation status recorded. Luke is not contesting the mayoral by-election.');process.exit(0);}
 const missing=[];
 if(!c.authorisation.name.trim()) missing.push('Authoriser name');
 if(!c.authorisation.address.trim()) missing.push('Contactable public authoriser address, omitted at owner request');

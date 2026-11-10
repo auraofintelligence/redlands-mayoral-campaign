@@ -27,7 +27,7 @@ The [Strange But True Public Source Licence](LICENCE.md) reserves commercial and
 | [Music](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) | A Protopian Gambit: 22 songs, topic summaries, project connections, landscape and portrait players, and lyrics |
 | [Collaborate](https://auraofintelligence.github.io/redlands-mayoral-campaign/collaborate.html) | Local questions, research, project adaptations, music and independent collaboration |
 | [Licensing and advisory](https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html) | Defined project uses, retained ownership and enquiries through Strange But True |
-| [Earlier election exploration](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | The dated change of direction and earlier public financial snapshot |
+| [Earlier election exploration](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | The dated decision not to contest and the change to a civic simulation |
 | [Media](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) | Downloadable media kit, portrait, factual biographies, press notes and interview topics |
 | [Contact](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html) | Public enquiry form with a mail-only handler and verified inbox delivery; the destination address stays private |
 | [Site map](https://auraofintelligence.github.io/redlands-mayoral-campaign/sitemap.html) | Routes through the public pages and project collection |
@@ -62,7 +62,7 @@ The outreach command centre and working records have been separated into the **p
 
 The [migration review](docs/PUBLIC-PRIVATE-MIGRATION-REVIEW.md) records the cleanup of old pages, bookmark redirects, press downloads, integration documentation and build inputs. [Publication notes](https://auraofintelligence.github.io/redlands-mayoral-campaign/updates.html) explain the public website's current role.
 
-The earlier public financial snapshot is retained at reporting.html, without asserting totals from an empty register. Private records remain in the separate private repository. Earlier campaign policies are historical and do not describe current fundraising.
+No campaign bank account was opened, and there was no campaign income, spending or other financial transaction. Luke completed the free [So You Want to Be a Councillor training](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html#councillor-training). The private command centre's budgeting tools are capabilities, not evidence of campaign activity.
 
 ## Build and preview
 
@@ -96,7 +96,7 @@ Only allowlisted public output is published. The original supplied documents and
 
 The site uses P4A's purple and gold palette, full-width local photography, Luke's published portrait, unique project covers and a generated raster favicon. Real photographs, project screenshots and GenAI illustrations are labelled and credited. Navigation includes Previous, Next, a floating Top control, footer links and the site map.
 
-The current publication mode is **civic simulation**. Luke decided on 10 November 2026 not to contest the by-election. Campaign donation and volunteer appeals have been retired. This change does not settle any obligations arising from earlier activity. ECQ lists the candidate nomination deadline as 12 noon on 19 November 2026, separate from bank-account notifications.
+The current publication mode is **civic simulation**. Luke decided on 10 November 2026 not to contest the by-election. Election donation and volunteer appeals have been retired. The earlier named-donation and anonymous-money ideas were never implemented.
 
 Original work follows the [Strange But True Public Source Licence](LICENCE.md), with its existing reuse terms. Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [project robots file](https://auraofintelligence.github.io/redlands-mayoral-campaign/robots.txt) records the crawler preferences, and the [shared host-root robots file](https://auraofintelligence.github.io/robots.txt) applies them to the project path. The [host-root notes](docs/HOST-ROBOTS.md) explain the arrangement.
 
