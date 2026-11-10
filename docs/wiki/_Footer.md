@@ -1,6 +1,8 @@
+Luke Nathan Hayes is not contesting the 2026 Redland City mayoral by-election. This Wiki is part of the Redlands civic simulation.
+
 [Wiki home](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) · [Council responsibilities](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role) · [Connections](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections) · [Official sources](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Official-sources)
 
-[Campaign website](https://auraofintelligence.github.io/redlands-mayoral-campaign/) · [Redlands questions](https://auraofintelligence.github.io/redlands-mayoral-campaign/ideas.html) · [Songs and lyrics](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) · [Full interview](https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html)
+[Redlands civic simulation](https://auraofintelligence.github.io/redlands-mayoral-campaign/) · [Redlands questions](https://auraofintelligence.github.io/redlands-mayoral-campaign/ideas.html) · [Songs and lyrics](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) · [Full interview](https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html)
 
 [Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html) · [Strange But True](https://auraofintelligence.github.io/strange-but-true/) · [Luke’s Open Record (public document)](https://github.com/auraofintelligence/open-record-luke-nathan-hayes/blob/main/README.md)
 

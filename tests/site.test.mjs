@@ -11,7 +11,7 @@ const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','interview.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
+ const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','collaborate.html','licensing.html','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','interview.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
  for(const name of await readdir(dist)) assert.ok(allowed.has(name),`Unexpected public file: ${name}`);
  assert.ok(!(await readdir(dist)).includes('data'),'Obsolete project register was published alongside the current catalogue');
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
@@ -28,14 +28,14 @@ test('every internal page, asset and anchor resolves',async()=>{
   }
  }
 });
-test('pages have unique titles, language, accessible landmarks and preview status',async()=>{
+test('pages have unique titles, language, accessible landmarks and civic status',async()=>{
  const titles=new Set();
  for(const file of (await files(dist)).filter(v=>v.endsWith('.html')&&path.basename(v)!=='404.html')){
   const html=await readFile(file,'utf8'),title=html.match(/<title>(.*?)<\/title>/)?.[1];
   assert.ok(title);assert.ok(!titles.has(title));titles.add(title);
   assert.match(html,/<html lang="en-AU">/);assert.match(html,/<main id="main"/);assert.match(html,/href="#main"/);
   assert.equal((html.match(/<h1>/g)||[]).length,1);assert.match(html,/<link rel="canonical"/);
-  assert.match(html,/Publication authorisation is incomplete/);assert.match(html,/content="noindex, follow"/);
+  assert.match(html,/not contesting the 2026 Redland City mayoral by-election/);assert.match(html,/content="index, follow"/);assert.doesNotMatch(html,/Publication authorisation is incomplete|Self-directed campaign exploration/);
  }
  assert.ok(titles.size>=123);
  const home=await read('dist/index.html');assert.match(home,/<main id="main"/);assert.match(home,/Ideas into practice/);assert.match(home,/assets\/visual.js/);
@@ -171,16 +171,16 @@ test('Aura descriptions retain self-reflection and the optional adult Genesis ad
  assert.match(await read('docs/wiki/14-lukes-personal-hbot-purchase-and-genesis-journey.md'),/time-stamped biometric/);
 });
 
-test('volunteering, donation enquiries and reporting are public pages with no payment collection',async()=>{
- for(const file of ['volunteer.html','donations.html','reporting.html']){
-  const html=await read('dist/'+file);assert.match(html,/page-sequence/);assert.match(html,/floating-nav/);
-  for(const listing of ['dist/sitemap.html','dist/sitemap.xml'])assert.ok((await read(listing)).includes(file),listing);
+test('civic collaboration replaces election appeals and licensing retains ownership',async()=>{
+ const home=await read('dist/index.html'),collaboration=await read('dist/collaborate.html'),licensing=await read('dist/licensing.html');
+ for(const html of [home,collaboration,licensing]){
+  assert.match(html,/page-sequence/);assert.match(html,/floating-nav/);
+  assert.doesNotMatch(html,/Donation enquiries are open|Offer to help|Exploring a run for mayor|Create campaign material/);
  }
- const donations=await read('dist/donations.html');
- assert.match(donations,/Payment collection is not/);assert.match(donations,/every accepted donation/);
- assert.doesNotMatch(donations,/<form|paypal|stripe|bank account number|BSB|mailto:/i);
- assert.equal((await read('dist/volunteer.html')).match(/>Offer to help/g).length,7);
- const reporting=await read('dist/reporting.html');assert.match(reporting,/No financial total is asserted/);assert.match(reporting,/campaign-contributions.csv/);
+ assert.match(licensing,/non-exclusive licence/);assert.match(licensing,/retain ownership/);
+ for(const file of ['collaborate.html','licensing.html'])assert.ok((await read('dist/sitemap.xml')).includes(file));
+ const donations=await read('dist/donations.html');assert.match(donations,/not seeking election donations/);assert.doesNotMatch(donations,/<form|paypal|stripe|BSB|mailto:/i);
+ const record=await read('dist/reporting.html');assert.match(record,/19 November 2026/);assert.match(record,/12 noon/);assert.match(record,/campaign-contributions.csv/);
 });
 
 test('public finance data rejects private fields and unreviewed donor records',()=>{

@@ -1,4 +1,12 @@
 export function campaignPresentation(c) {
+  if(c.publicationMode === 'civic-simulation') return {
+    isLive:false, isCivic:true, authorisationComplete:false, nominationCertified:false,
+    publicationLabel:'Redlands civic simulation', publicationSummary:'A public invitation to explore connected projects and civic possibilities.',
+    officeStatus:'Luke Nathan Hayes is not contesting the 2026 Redland City mayoral by-election.',
+    authorisationText:'', nominationStatus:c.status, nominationDetail:'Decision recorded 10 November 2026.',
+    nominationSummary:c.status, authorisationLabel:'Civic project collection',
+    distributionNote:'This edition presents civic research and licensing enquiries. It does not settle any obligations relating to earlier activity.'
+  };
   const isLive = c.publicationMode === 'live';
   const authoriser = String(c.authorisation?.name || '').trim();
   const address = String(c.authorisation?.address || '').trim();

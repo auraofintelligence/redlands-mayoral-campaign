@@ -1,4 +1,6 @@
-# Volunteering, donations and public reporting
+# Earlier campaign participation and finance
+
+Status change, 10 November 2026: Luke has decided not to contest this by-election. Campaign donation and volunteer appeals have been retired. The material below records the earlier design and is retained as history, not a current fundraising invitation. The public reporting page records the change of direction and preserves the earlier allowlisted snapshot. Do not infer that any transaction occurred or that earlier statutory obligations have ended.
 
 Updated 10 November 2026, Australia/Brisbane.
 

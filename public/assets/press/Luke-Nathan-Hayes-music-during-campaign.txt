@@ -1,12 +1,12 @@
-MUSIC DURING THE CAMPAIGN
+RECORDED MUSIC AND AIRPLAY RECORDS
 Luke Nathan Hayes / i C. infinity
 Prepared 10 November 2026, Australia/Brisbane
 
-Music, ideas and candidacy
+Music, ideas and the public record
 
 As i C. infinity, Luke writes his lyrics and creates his music using generative AI. He has four completed albums and does not currently perform them live. A Protopian Gambit contains 22 songs across EDM and house, pop, rock, cultural, reggae and coastal styles. Don't Try to Fix Me contains severe language and is an angry song about big tech.
 
-The songs carry ideas from Luke's wider body of work. Some of those projects also appear on his public Redlands mayoral campaign website. The music has a commercial catalogue as well as a place in his public discussion of community ideas and a possible candidacy. These connections should be clear to anyone considering a broadcast or interview.
+Luke is not contesting the 2026 Redland City mayoral by-election. The songs carry ideas from his wider body of work, also explored through the Redlands civic simulation. The music has its own commercial catalogue. The filename is retained so earlier download links continue to work.
 
 Editorial decisions and airtime arrangements
 
@@ -16,7 +16,7 @@ Please make clear whether an offer is independently chosen programming, a guest 
 
 Please help keep a complete broadcast record
 
-Luke wants a record of every known song play and appearance during the campaign as part of his ethical overcompliance approach. Please provide a playlist, transmission log or confirmation after broadcast, where available, covering:
+Luke wants a record of every known song play and appearance as part of his approach to accurate, transparent records. Please provide a playlist, transmission log or confirmation after broadcast, where available, covering:
 
 - Station or outlet and programme or presenter.
 - Song title and version or edit, including full song or excerpt.
@@ -38,7 +38,7 @@ The blank airplay-log CSV supplied with this kit is an optional format. An outle
 
 Music and background
 
-Campaign album page and lyrics:
+Album page and lyrics:
 https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html
 
 Music Universe:

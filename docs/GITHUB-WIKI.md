@@ -23,3 +23,5 @@ After publishing, verify the remote commit matches the local commit and check Ho
 Official GitHub guidance: [Adding or editing wiki pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages) and [Editing wiki content](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content).
 
 Contextual lyric quotations use the same reviewed excerpt data as the visual website. `scripts/lyric-excerpts.mjs` verifies every excerpt against `data/visual-music.json`, adds attribution and the matching track link, and retains recording warnings. Quoted imagery remains distinct from the policy explanations and evidence.
+
+Current status, 10 November 2026: Luke is not contesting the mayoral by-election. Home and the shared footer identify the Wiki as part of the Redlands civic simulation. Earlier personal statements remain dated history; the 52 ideas retain their stable references and council-authority analysis.

@@ -1,4 +1,4 @@
-# Luke Hayes for Redlands
+# Redlands Civic Lab
 
 Projects, music, public information and options for Redlands by Luke Nathan Hayes, based at Amity on Minjerribah / North Stradbroke Island.
 
@@ -6,7 +6,7 @@ Projects, music, public information and options for Redlands by Luke Nathan Haye
 
 **[Open the website](https://auraofintelligence.github.io/redlands-mayoral-campaign/)** · [Explore the projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
 
-Luke is exploring a possible Redlands mayoral campaign as one person supported by an AI team. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
+Luke is not contesting the 2026 Redland City mayoral by-election. This site is a civic simulation and invitation to explore connected projects, collaborate, and discuss licensing and advisory. Luke works independently with an AI team. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
 
 ## Explore the site
 
@@ -19,9 +19,9 @@ Luke is exploring a possible Redlands mayoral campaign as one person supported b
 | [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) | Background and links to the Open Record, work history, Project Atlas and Strange But True |
 | [Interview](https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html) | Full conversation about music, self-reflection, Community Hours, GAJRA Earth and the mayoral role |
 | [Music](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) | A Protopian Gambit: 22 songs, topic summaries, project connections, landscape and portrait players, and lyrics |
-| [Volunteer](https://auraofintelligence.github.io/redlands-mayoral-campaign/volunteer.html) | Seven practical ways to share music, hold conversations, create or distribute material, make introductions or offer support |
-| [Donations](https://auraofintelligence.github.io/redlands-mayoral-campaign/donations.html) | Enquiries and the all-named donation policy; payment collection is not open |
-| [Reporting](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | Reviewed contributions, budget and expenses, kept separate from private records |
+| [Collaborate](https://auraofintelligence.github.io/redlands-mayoral-campaign/collaborate.html) | Local questions, research, project adaptations, music and independent collaboration |
+| [Licensing and advisory](https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html) | Defined project uses, retained ownership and enquiries through Strange But True |
+| [Earlier election exploration](https://auraofintelligence.github.io/redlands-mayoral-campaign/reporting.html) | The dated change of direction and earlier public financial snapshot |
 | [Media](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) | Downloadable media kit, portrait, factual biographies, press notes and interview topics |
 | [Contact](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html) | Public enquiry form with a mail-only handler and verified inbox delivery; the destination address stays private |
 | [Site map](https://auraofintelligence.github.io/redlands-mayoral-campaign/sitemap.html) | Routes through the public pages and project collection |
@@ -48,15 +48,15 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 [Listen and read on this site](https://auraofintelligence.github.io/redlands-mayoral-campaign/music.html) · [Published album](https://auraofintelligence.github.io/i-C-infinity-music-universe/albums/a-protopian-gambit/) · [Music Universe](https://auraofintelligence.github.io/i-C-infinity-music-universe/)
 
-The media kit includes a music-during-the-campaign note and a blank airplay-log template. Broadcasters are asked for track-level dates, times, time zones, repeats and evidence. Airplay records and financial classification remain separate. To refresh the ZIP after an approved resource edit, run `python scripts/build-media-kit.py`, then verify it with `python scripts/build-media-kit.py --check`.
+The media kit includes a recorded-music broadcasting note (earlier filename retained) and a blank airplay-log template. Broadcasters are asked for track-level dates, times, time zones, repeats and evidence. Airplay records and financial classification remain separate. To refresh the ZIP after an approved resource edit, run `python scripts/build-media-kit.py`, then verify it with `python scripts/build-media-kit.py --check`.
 
 ## Private command centre
 
-The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public campaign pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
+The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public civic pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
 
 The [migration review](docs/PUBLIC-PRIVATE-MIGRATION-REVIEW.md) records the cleanup of old pages, bookmark redirects, press downloads, integration documentation and build inputs. [Publication notes](https://auraofintelligence.github.io/redlands-mayoral-campaign/updates.html) explain the public website's current role.
 
-Participation and finance are described in the [campaign finance and participation notes](docs/CAMPAIGN-FINANCE-AND-PARTICIPATION.md). The public register begins unpopulated and asserts no financial total. Accepted donations require named publication; private addresses, receipts and account details remain in the private command centre.
+The earlier public financial snapshot is retained at reporting.html, without asserting totals from an empty register. Private records remain in the separate private repository. Earlier campaign policies are historical and do not describe current fundraising.
 
 ## Build and preview
 
@@ -90,7 +90,7 @@ Only allowlisted public output is published. The original supplied documents and
 
 The site uses P4A's purple and gold palette, full-width local photography, Luke's published portrait, unique project covers and a generated raster favicon. Real photographs, project screenshots and GenAI illustrations are labelled and credited. Navigation includes Previous, Next, a floating Top control, footer links and the site map.
 
-The current publication mode is **campaign preparation preview**. The authoriser name is recorded; the address remains omitted at Luke's direction and authorisation is incomplete. Election requirements and official dates can be checked with the [Electoral Commission of Queensland](https://www.ecq.qld.gov.au/). The configuration retains official references separately from Luke's choices.
+The current publication mode is **civic simulation**. Luke decided on 10 November 2026 not to contest the by-election. Campaign donation and volunteer appeals have been retired. This change does not settle any obligations arising from earlier activity. ECQ lists the candidate nomination deadline as 12 noon on 19 November 2026, separate from bank-account notifications.
 
 Original work follows the [Strange But True Public Source Licence](LICENCE.md). Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [host-root robots notes](docs/HOST-ROBOTS.md) explain crawler preferences on the shared GitHub Pages hostname.
 
