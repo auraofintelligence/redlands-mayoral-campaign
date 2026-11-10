@@ -2,7 +2,7 @@
   "name": "redlands-mayoral-campaign",
   "version": "0.1.0",
   "private": true,
-  "description": "Public Redlands mayoral project website and GitHub Wiki",
+  "description": "Redlands Civic Lab: Luke Nathan Hayes' independent project collection, civic simulation and GitHub Wiki",
   "type": "module",
   "engines": {
     "node": ">=20"

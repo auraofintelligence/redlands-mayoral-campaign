@@ -1,14 +1,18 @@
-# Optional directions and election references
+# Independent civic work and earlier election references
 
-This file retains its original path so existing links work. It is a reference menu, not a launch schedule or checklist assigned to Luke.
+Current status, 10 November 2026: Luke Nathan Hayes has decided not to contest the 2026 Redland City mayoral by-election. The public site is [Redlands Civic Lab](https://auraofintelligence.github.io/redlands-mayoral-campaign/), a civic simulation and invitation to explore his existing work. This file retains its original path for earlier links.
 
-Luke is taking a relaxed, serendipitous approach. He can explore media, follow commentary, compare sources, capture an idea or try a draft. He chooses which direction to take and whether to act. There is no default daily review, weekly cycle, countdown or campaign launch date.
+Luke's independent work remains relaxed, serendipitous and self-directed. He chooses which questions, collaborations and conversations to explore. There is no campaign launch, election volunteer recruitment or election donation appeal.
 
-The earlier mention of 11 November 2026 is a tentative option only. It is not a confirmed event, publishing deadline or announcement commitment.
+The earlier tentative mention of 11 November 2026 was superseded by his decision not to contest. It is retained only as historical context.
 
 ## Public website and private work
 
-The public site introduces Luke, the selected projects, music, ideas for Redlands and their sources. The Media page contains biographies, a fact sheet and a published portrait. The contact form is for enquiries. The GitHub Wiki explains the ideas and the roles of council, other governments and partners.
+The public site introduces Luke, the selected projects, music, ideas for Redlands and their sources. The [Media page](https://auraofintelligence.github.io/redlands-mayoral-campaign/media.html) contains biographies, a fact sheet and a published portrait. The [contact form](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html) is for enquiries. The [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) explains the ideas and the roles of council, other governments and partners.
+
+Every existing project except this public website and the separate private command centre was created exclusively by Luke before he ever considered running for mayor. This civic presentation introduces and connects that earlier work. Many projects began with Straddie and Strange But True in mind; their possible applications elsewhere are discussed individually.
+
+Luke's original work remains under the [Strange But True Public Source Licence](../LICENCE.md). Commercial or political use requires successful negotiation with Luke and separate written licence and commercial agreements. [Discuss permissions](https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html). Third-party material retains its own rights.
 
 Planning, media discovery, saved possibilities, outreach drafts and records belong to the separate private command-centre repository. This public repository provides none of those storage or outreach controls. It does not synchronise private records to Google Drive. Keep private working material out of public files and commits.
 
@@ -16,13 +20,13 @@ Luke chooses whether and when to act. No record, invitation or suggested date cr
 
 ## Official reference dates
 
-ECQ's announcement describes the Redland mayoral by-election as a full postal ballot on **12 December 2026**, with the election notice and nominations opening on **10 November 2026**. These are external election dates. They do not prescribe Luke's personal activity. [ECQ announcement](https://www.ecq.qld.gov.au/media/2026-media-statements)
+ECQ describes the Redland mayoral by-election as a full postal ballot on **12 December 2026**. The election notice and nominations opened on **10 November 2026**; nominations close at **12 noon, Thursday 19 November 2026 (AEST)**. These dates describe the election Luke has decided not to contest. [Official election timetable](https://www.ecq.qld.gov.au/elections/election-events/redland-city-council-mayoral-by-election).
 
-The source was checked on 8 November 2026. Nomination closing time, expenditure cap and postal-return deadline remain unfilled until supported by the official notice. Do not guess a date or mark nomination certified from campaign preparation.
+The initial reference check was on 8 November 2026; the nomination deadline was subsequently recorded on 10 November. Retain the distinction between source dates and Luke's decisions. Do not infer a nomination or any transaction from the earlier preparation.
 
-## If Luke chooses an official or public step
+## Guidance retained for the earlier exploration
 
-Current primary sources explain the requirements that may apply to the chosen action:
+These primary-source routes explain requirements relevant to the earlier election exploration. They are retained as references alongside the dated record:
 
 - [Local government candidate information](https://www.ecq.qld.gov.au/election-participants/local-election-participants/candidates).
 - [Nomination guidance](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-02-Nominating-as-a-candidate-for-local-government-elections-v.-Mar-26.pdf).
@@ -31,9 +35,9 @@ Current primary sources explain the requirements that may apply to the chosen ac
 - [Dedicated campaign accounts](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-17-Dedicated-campaign-bank-accounts-for-candidates-v.-Mar-26.pdf).
 - [Record-keeping guidance](https://www.ecq.qld.gov.au/_resource/documents/pdf/election-participants/handbooks,-fact-sheet-and-forms/local/fact-sheets/LG-Fact-sheet-08-Record-keeping-requirements.pdf).
 
-Read the applicable source at the time of the chosen action. This file neither certifies eligibility or compliance nor requires Luke to undertake the action.
+Luke's decision not to contest does not itself determine any obligations relating to earlier activity. The relevant official guidance and any necessary advice remain separate from the civic site's current purpose.
 
-The authoriser name is recorded as Luke Nathan Hayes. The address remains omitted at Luke's request. Do not retrieve it from another project or mark authorisation complete. The preparation-preview label does not replace a statutory requirement where one applies. Nomination certification remains unconfirmed.
+The earlier authoriser-name record is Luke Nathan Hayes; the address remains omitted at Luke's request. Do not retrieve it from another project or mark authorisation complete. No accepted nomination or election launch is announced by the current site.
 
 ## If something changes
 

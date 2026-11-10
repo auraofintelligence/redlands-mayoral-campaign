@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Global Association for Joyful Responsible Abundance on Earth (GAJRA Earth) Redlands could be a locally shaped association and network for shared purpose, learning, community work and exchanging useful skills and resources.

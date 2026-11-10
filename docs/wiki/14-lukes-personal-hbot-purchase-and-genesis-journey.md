@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Luke proposes to develop his own Aura of Intelligence through a personal Genesis journey. The optional adult version combines hyperbaric oxygen therapy (HBOT) with added healing intent and time-stamped biometric records for further pattern recognition. The Truth Engine is an additional optional element.

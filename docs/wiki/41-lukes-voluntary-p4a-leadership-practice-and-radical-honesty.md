@@ -4,9 +4,11 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
-Luke proposes to practise the principles in his P4A civic proposal through radical honesty and the higher personal standard he chooses for himself if serving on council.
+Luke proposes to practise the principles in his P4A civic proposal through radical honesty and the higher personal standard he chooses for himself, independently of holding elected office.
 
 ## Words and project names
 
@@ -16,7 +18,7 @@ Luke proposes to practise the principles in his P4A civic proposal through radic
 
 ## What this could mean for Redlands
 
-Luke's proposed leadership practice would explain the higher personal standard he chooses for himself in office and how his voluntary Genesis experience could inform reflection, corrections, chosen disclosure and conduct. His P4A principles and creative work provide context for that example, expressed in his own terms.
+Luke's voluntary leadership practice explores reflection, corrections, chosen disclosure and conduct. His Genesis pathway, P4A principles and creative work provide context for that example, expressed in his own terms. Other people can consider what voluntary self-reflection means for their own participation and leadership.
 
 ## Projects behind this idea
 
@@ -30,7 +32,7 @@ These introductions describe the source projects. The Redlands proposal above ex
 
 ## Luke’s personal leadership example
 
-If serving as a council member, Luke would undertake Genesis voluntarily, building on his existing self-examination. His aim is to demonstrate honesty through his own practice, chosen disclosure, corrections and conduct. He chooses a higher standard for himself than he would expect of others; participation remains a personal choice.
+Luke's proposed voluntary Genesis practice builds on his existing self-examination. His aim is to demonstrate honesty through his own practice, chosen disclosure, corrections and conduct. He chooses a higher standard for himself than he would expect of others; participation remains a personal choice, independently of elected office.
 
 ## How this could move forward
 
@@ -38,11 +40,11 @@ Voluntary personal leadership practice
 
 ## What the mayor and council could do
 
-As a council member, Luke could lead through his own example and make room for voluntary civic discussion about integrity, personal agency and accountable leadership.
+A mayor and councillors could make room for voluntary civic discussion about integrity, personal agency and accountable leadership, while observing their formal responsibilities. Luke's contribution would be as an independent creator and participant.
 
 ## Who else makes decisions
 
-Participation and personal disclosure are individual choices. Electoral eligibility and formal council disclosures follow their own legal processes.
+Participation and personal disclosure are individual choices. Formal eligibility and disclosure requirements for people holding or seeking public office follow their own legal processes.
 
 ## People and organisations who could be involved
 

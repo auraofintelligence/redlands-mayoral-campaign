@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 500 Queens is a women’s enterprise and leadership proposal. It aims to give emerging female leaders opportunities to practise decisions that affect the coming decades and learn with experienced human mentors.

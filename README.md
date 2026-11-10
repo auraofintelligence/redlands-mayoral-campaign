@@ -8,6 +8,12 @@ Projects, music, public information and options for Redlands by Luke Nathan Haye
 
 Luke is not contesting the 2026 Redland City mayoral by-election. This site is a civic simulation and invitation to explore connected projects, collaborate, and discuss licensing and advisory. Luke works independently with an AI team. The approach remains relaxed, serendipitous and self-directed. The site presents projects and choices for discussion, with each retaining its own purpose and decision-makers.
 
+Luke created every project in the wider collection himself, before he ever considered running for mayor. The mayoral website and its separate private command centre are the only projects created for that temporary exploration. This site organised and introduced the existing work; the election idea did not originate the projects, systems, music or their purpose.
+
+Much of the place-based work began on Straddie while Luke was developing [Strange But True](https://auraofintelligence.github.io/strange-but-true/). Other projects have wider purposes. The collection explores what could be adapted for greater Redlands, elsewhere in Australia and overseas, while keeping each project's original context clear.
+
+The [Strange But True Public Source Licence](LICENCE.md) reserves commercial and political use of Luke's original work. Either use requires successful negotiation directly with Luke and separate written licence and commercial agreements before use begins. Reading or sharing a link grants no such permission. [Read the terms](https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html) or [contact Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html). Linked projects and third-party material retain their own terms.
+
 ## Explore the site
 
 | Page | What it offers |
@@ -92,7 +98,7 @@ The site uses P4A's purple and gold palette, full-width local photography, Luke'
 
 The current publication mode is **civic simulation**. Luke decided on 10 November 2026 not to contest the by-election. Campaign donation and volunteer appeals have been retired. This change does not settle any obligations arising from earlier activity. ECQ lists the candidate nomination deadline as 12 noon on 19 November 2026, separate from bank-account notifications.
 
-Original work follows the [Strange But True Public Source Licence](LICENCE.md). Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [host-root robots notes](docs/HOST-ROBOTS.md) explain crawler preferences on the shared GitHub Pages hostname.
+Original work follows the [Strange But True Public Source Licence](LICENCE.md), with its existing reuse terms. Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [project robots file](https://auraofintelligence.github.io/redlands-mayoral-campaign/robots.txt) records the crawler preferences, and the [shared host-root robots file](https://auraofintelligence.github.io/robots.txt) applies them to the project path. The [host-root notes](docs/HOST-ROBOTS.md) explain the arrangement.
 
 Updated **10 November 2026**, Australia/Brisbane.
 

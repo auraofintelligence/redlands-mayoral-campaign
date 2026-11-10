@@ -12,7 +12,7 @@ Editorial decisions and airtime arrangements
 
 Stations and presenters make their own programming and interview decisions. Supplying music or accepting an interview does not grant Luke editorial control or establish that an outlet endorses him. No airplay, interview, booking or endorsement is asserted in this pack.
 
-Please make clear whether an offer is independently chosen programming, a guest interview, advertising, sponsorship or another arrangement. Any payment, exchange, discount or offered campaign support should be stated separately. An editorial broadcast is not automatically entered as a campaign donation or assigned an advertising value. A record of a broadcast does not itself settle its legal classification.
+Please make clear whether an offer is independently chosen programming, a guest interview, advertising, sponsorship or another arrangement. Any payment, exchange, discount or other offered support should be stated separately. The records describe the arrangement; they do not assign an advertising value to editorial coverage or determine its legal classification.
 
 Please help keep a complete broadcast record
 
@@ -34,7 +34,7 @@ Scheduled appearances, listener reports and confirmed broadcasts are kept distin
 Send a log or clarification through the private media contact form:
 https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=media&reason=music-airplay
 
-The blank airplay-log CSV supplied with this kit is an optional format. An outlet's existing playlist or transmission log is also useful. Private correspondence and unreviewed records are not automatically published. This recordkeeping request does not replace the outlet's broadcasting obligations or any required campaign disclosures.
+The blank airplay-log CSV supplied with this kit is an optional format. An outlet's existing playlist or transmission log is also useful. Private correspondence and unreviewed records are not automatically published. This recordkeeping request does not replace the outlet's broadcasting obligations or any obligations arising from earlier activity.
 
 Music and background
 
@@ -61,3 +61,13 @@ https://www.acma.gov.au/publications/2019-08/guide/guidelines-broadcast-politica
 Rights and credits
 
 See the Strange But True Public Source Licence and each asset's credits. This note does not grant additional music, image or third-party rights. No launch date, nomination, personal schedule or station arrangement is announced here.
+
+Project origin and reuse permissions, clarified 10 November 2026
+
+Every existing project except the Redlands website and the separate private command centre was created exclusively by Luke before he ever considered running for mayor. This site introduces and connects that existing work.
+
+Luke's original work is covered by the existing Strange But True Public Source Licence. Commercial or political use requires successful negotiation with Luke and separate written licence and commercial agreements. Public access does not grant those permissions. Third-party material retains its own rights.
+
+Licence: https://auraofintelligence.github.io/redlands-mayoral-campaign/licence.html
+Permissions and agreements: https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html
+Contact Luke: https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html

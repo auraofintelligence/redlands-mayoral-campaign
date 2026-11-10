@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Brisbane 2032 could create opportunities for Redlands residents and organisations, with skills, connections and local services that remain useful after the Games.

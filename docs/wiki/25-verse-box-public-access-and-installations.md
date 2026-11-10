@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Verse Box is designed as a supported public starting point for creating an Aura of Intelligence: a personal digital twin developed through self-reflection and patterning. The aim is to extend a person’s intelligence so they can learn more, learn faster and act in the world with greater intent towards Joyful Responsible Abundance.

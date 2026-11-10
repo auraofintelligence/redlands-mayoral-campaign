@@ -4,6 +4,8 @@
 
 An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html), an Amity resident on Minjerribah / North Stradbroke Island working on digital tools, community proposals and music.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Aura of Intelligence is Luke’s design for a personal digital twin developed through self-reflection and patterning of chosen records, experiences, knowledge and intentions. Its purpose is to extend a person’s intelligence so they can learn more, learn faster and act with greater intent towards Joyful Responsible Abundance. Personal control includes examining and correcting the assumptions the system makes about them.

@@ -6,6 +6,8 @@ An idea by [Luke Nathan Hayes](https://auraofintelligence.github.io/redlands-may
 
 [Begin with Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html) for the whole-system direction behind this Redlands proposal.
 
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations.
+
 ## The idea
 
 Joyful Responsible Abundance provides the starting framework for Redlands sovereign capacity: useful intelligence, skills and productive resources that people can help govern and benefit from.

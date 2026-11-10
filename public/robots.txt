@@ -1,0 +1,25 @@
+# Project policy copy. The shared host-root file is the effective crawler policy:
+# https://auraofintelligence.github.io/robots.txt
+# Search discovery grants no commercial, political or AI-training permission.
+# Licence: https://auraofintelligence.github.io/redlands-mayoral-campaign/licence.html
+# Permissions: https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html
+
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://auraofintelligence.github.io/redlands-mayoral-campaign/sitemap.xml

@@ -2,9 +2,19 @@
 
 ## Welcome
 
-Luke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. He develops digital tools, community proposals, public submissions and music. Strange But True is his sole-trader business and a public doorway into that work. He works independently with an AI team. Luke is not contesting the 2026 Redland City mayoral by-election. This Wiki supports a civic simulation and independent exploration of the connected work.
+Luke Nathan Hayes lives at Amity on Minjerribah / North Stradbroke Island. He develops digital tools, community proposals, public submissions and music. [Strange But True](https://auraofintelligence.github.io/strange-but-true/) is his sole-trader business and a public doorway into that work. He works independently with an AI team. Luke decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki supports a civic simulation and independent exploration of the connected work.
 
 [About Luke and the original records](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) · [Explore the project collection](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [Ask a question or suggest a correction](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=project)
+
+## Where this work began
+
+Except for this [Redlands website](https://auraofintelligence.github.io/redlands-mayoral-campaign/) and the separate private command centre, every project in the collection was created exclusively by Luke before he ever considered running for mayor. This collection introduces and connects that existing work. [Strange But True](https://auraofintelligence.github.io/strange-but-true/) is a public doorway into the wider projects.
+
+Luke Nathan Hayes decided on 10 November 2026 not to contest the 2026 Redland City mayoral by-election. This Wiki explores civic questions and possible project adaptations. The mayor and council are considered as decision-makers and possible partners; the questions do not announce Luke’s candidacy or a campaign program.
+
+## Using this work
+
+Luke’s original work is covered by the [Strange But True Public Source Licence](https://auraofintelligence.github.io/redlands-mayoral-campaign/licence.html). Commercial or political use requires successful negotiation with Luke and separate written licence and commercial agreements. [Read the permissions information](https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html) or [contact Luke to discuss an agreement](https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html?topic=licensing). Linked and third-party material retains its own rights.
 
 ## The shared aim: Joyful Responsible Abundance
 
@@ -36,7 +46,7 @@ Start with an everyday concern or follow a wider question. Each page introduces 
 
 ## How to read these ideas
 
-Each page introduces an idea and the projects behind it, explains what it could mean locally, and sets out who makes the relevant decisions. Examples illustrate possible uses. They do not announce a service, partnership or personal commitment. Related ideas stay separate so their different purposes, choices and responsibilities remain clear.
+Each page introduces an idea and the projects behind it, explains what it could mean locally, and sets out who makes the relevant decisions. The project work predates Luke's consideration of a mayoral run; this Wiki organises possible local adaptations. Examples illustrate possible uses. They do not announce a service, partnership or personal commitment. References to a mayor or councillors examine those offices and their responsibilities. Related ideas stay separate so their different purposes, choices and responsibilities remain clear.
 
 - [What the mayor and council can do](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Mayoral-role)
 - [How the ideas connect](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Connections)

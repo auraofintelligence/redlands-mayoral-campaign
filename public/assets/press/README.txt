@@ -21,3 +21,13 @@ Biographies were prepared 9 November 2026. Work-history and music wording were c
 Full interview: https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html
 
 Status updated 10 November 2026: Luke is not contesting this by-election. The site is a civic simulation and an invitation to explore, collaborate and discuss licensing.
+
+Project origin and reuse permissions, clarified 10 November 2026
+
+Every existing project except the Redlands website and the separate private command centre was created exclusively by Luke before he ever considered running for mayor. This site introduces and connects that existing work.
+
+Luke's original work is covered by the existing Strange But True Public Source Licence. Commercial or political use requires successful negotiation with Luke and separate written licence and commercial agreements. Public access does not grant those permissions. Third-party material retains its own rights.
+
+Licence: https://auraofintelligence.github.io/redlands-mayoral-campaign/licence.html
+Permissions and agreements: https://auraofintelligence.github.io/redlands-mayoral-campaign/licensing.html
+Contact Luke: https://auraofintelligence.github.io/redlands-mayoral-campaign/contact.html

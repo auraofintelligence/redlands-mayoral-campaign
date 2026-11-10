@@ -183,6 +183,18 @@ test('civic collaboration replaces election appeals and licensing retains owners
  const record=await read('dist/reporting.html');assert.match(record,/19 November 2026/);assert.match(record,/12 noon/);assert.match(record,/campaign-contributions.csv/);
 });
 
+test('old campaign enquiry links lead to current collaboration or historical questions',async()=>{
+ const source=await read('public/assets/visual.js');
+ for(const reason of ['volunteer-share-music','volunteer-own-idea','donation-enquiry']){
+  const message={value:''};
+  const context={URLSearchParams,location:{search:'?reason='+reason},document:{querySelector:selector=>selector==='#contact-message'?message:null,querySelectorAll:()=>[]}};
+  vm.runInNewContext(source,context);
+  assert.match(message.value,/Luke is not contesting the mayoral by-election/);
+  assert.doesNotMatch(message.value,/Campaign volunteering:|Donation enquiry under the all-named/);
+  assert.match(message.value,reason==='donation-enquiry'?/not seeking election donations/:/Independent project collaboration/);
+ }
+});
+
 test('public finance data rejects private fields and unreviewed donor records',()=>{
  const empty={version:1,updated:null,coverage:'not-yet-published',contributions:[],expenses:[],budget:[]};
  assert.doesNotThrow(()=>validatePublicFinance(empty));
@@ -212,7 +224,7 @@ test('music broadcasting resources request evidenced track-level logs without cl
  assert.match(media,/id="music-during-campaign"/);assert.match(media,/topic=media&amp;reason=music-airplay/);
  assert.match(music,/media.html#music-during-campaign/);
  assert.match(note,/each track actually played/);assert.match(note,/Every repeat or later replay/);assert.match(note,/time zone/);
- assert.match(note,/No automatic monitoring/);assert.match(note,/not automatically entered as a campaign donation/);
+ assert.match(note,/No automatic monitoring/);assert.match(note,/do not assign an advertising value to editorial coverage or determine its legal classification/);
  assert.equal(csv.trim().split(/\r?\n/).length,1,'Template must not invent broadcasts');
  for(const field of ['title','broadcastDate','localTime','timeZone','evidenceReference','arrangement'])assert.ok(csv.includes(field));
  assert.match(await read('public/assets/visual.js'),/reason==='music-airplay'/);
