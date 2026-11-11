@@ -57,7 +57,13 @@ async function page({file,title,heading=title,eyebrow='Luke Nathan Hayes · Redl
  if(html.includes('\u2014'))throw new Error('Em dash in '+file);
  await writeFile(path.join(dist,file),publishedProjectLinks(html));allFiles.push({file,title});
 }
-const p4aProjectNames = ['p4a-xyz-cinema', 'p4a-xyz-committees-inquiries', 'p4a-membership'];
+const p4aProjectNames = [
+  'p4a-xyz-cinema',
+  'p4a-xyz-committees-inquiries',
+  'p4a-membership',
+  'p4a-oceania-cinema',
+  'p4a-native-nations-cinema'
+];
 const p4aPreviewNotice = '<p class="notice"><strong>PUBLIC INTERACTIVE PREVIEW</strong><br>Fictional people and records. Changes last only until this page reloads. Uses sample information only. No live membership, payments or ID verification.</p>';
 
 function projectCard(project, openWebsite = false) {
@@ -86,7 +92,7 @@ function projectCard(project, openWebsite = false) {
 }
 
 function renderP4APageLink(base = '') {
-  return `<p class="notice" id="p4a-links"><a href="${base}p4a.html"><strong>Explore P4A</strong></a> · Website, committees and inquiries, and membership preview.</p>`;
+  return `<p class="notice" id="p4a-links"><a href="${base}p4a.html"><strong>Explore P4A</strong></a> · Website, committees and inquiries, membership preview, Oceania Lab and Native Nations of the World.</p>`;
 }
 
 const featured=['household-bill-check','sovereign-capacity-lab','aura-verse-box','shared-table-initiative','straddie-clean-energy-superpower','aura-disaster-resilience'].map(n=>byRepo.get(n));
@@ -97,7 +103,7 @@ await page({
   title: 'Explore P4A',
   heading: 'Explore P4A',
   eyebrow: 'Purple Party for Australia',
-  lead: 'Explore the civic workbench, find committees and inquiries, or try the public membership demo.',
+  lead: 'Explore the civic workbench, committees and inquiries, the public membership preview, and research from Oceania Lab and Native Nations of the World.',
   body: `<section class="section" id="p4a-links" aria-labelledby="p4a-sites-title">
     <h2 id="p4a-sites-title">P4A websites</h2>
     <div class="cards">${p4aProjectNames.map(repo => projectCard(byRepo.get(repo), true)).join('')}</div>
