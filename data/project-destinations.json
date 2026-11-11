@@ -402,6 +402,12 @@
       "kind": "website",
       "verifiedBy": "Project README published website"
     },
+    "p4a-membership": {
+      "url": "https://auraofintelligence.github.io/p4a-membership/#home",
+      "kind": "website",
+      "label": "Open the membership preview",
+      "verifiedBy": "Published P4A People and Possibility public preview"
+    },
     "p4australia": {
       "url": "https://auraofintelligence.github.io/P4Australia/",
       "kind": "website",

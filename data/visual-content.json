@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "groups": [
     {
       "id": "redlands-council-information",
@@ -831,6 +831,14 @@
           "title": "P4A committees and inquiries",
           "url": "https://github.com/auraofintelligence/p4a-xyz-committees-inquiries",
           "description": "A P4A directory of parliamentary committees, inquiries and council participation routes across Australia. Visitors choose a responsible parliament or council and browse current contribution opportunities or its own archive.",
+          "adjacentProjects": []
+        },
+        {
+          "id": "R045",
+          "repoName": "p4a-membership",
+          "title": "P4A membership preview",
+          "url": "https://github.com/auraofintelligence/p4a-membership",
+          "description": "Explore People and Possibility, a fictional workspace for members and organisers. Try the demo views, shared projects, working groups, constitution drafts and contribution records.",
           "adjacentProjects": []
         },
         {

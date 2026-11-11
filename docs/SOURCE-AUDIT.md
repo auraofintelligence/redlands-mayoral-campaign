@@ -2,7 +2,7 @@
 
 Initial source review: 8 November 2026, Australia/Brisbane. Publication context corrected after the command-centre separation on 9 November 2026. Current status and project-origin clarification added 10 November 2026.
 
-This document records the initial source review. Its original directory had 33 entries; the retained pinned register in `data/projects.json` now has 32. The current website uses the separately reviewed `data/visual-content.json`, containing 110 selected projects across 23 subjects as at 10 November 2026. The pinned register is retained as source history, rather than published as a second project catalogue. A linked proposal does not become an adopted council policy or an operating service by appearing here.
+This document records the initial source review. Its original directory had 33 entries; the retained pinned register in `data/projects.json` now has 32. The current website uses the separately reviewed `data/visual-content.json`, containing 111 selected projects across 23 subjects as at 11 November 2026. The pinned register is retained as source history, rather than published as a second project catalogue. A linked proposal does not become an adopted council policy or an operating service by appearing here.
 
 Luke has decided not to contest the 2026 Redland City mayoral by-election. The current [Redlands Civic Lab](https://auraofintelligence.github.io/redlands-mayoral-campaign/) introduces his existing work through a civic simulation, public questions, music and research. Election donation and volunteer appeals have been retired. The initial election-exploration records below remain dated history.
 

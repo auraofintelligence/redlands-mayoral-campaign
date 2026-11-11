@@ -8,7 +8,7 @@ Do not declare his schedule, create a daily routine, assign priorities, invent d
 
 Use Australian English, no em dashes, no minimisation and no aggrandisation. State claims at their evidenced scale. Preserve historical source wording and dates. Do not invent staff, supporters, endorsements, polling, accepted nomination or operating services.
 
-Read `data/campaign.json`, `data/visual-content.json`, `data/visual-profile.json` and `docs/GITHUB-WIKI.md` for current public context. `data/projects.json` retains the initial pinned source audit; it is not the current 110-project catalogue. The authoriser address is intentionally blank at Luke's request. Do not infer it from another repository. Do not publish email addresses or add mailto links to public output.
+Read `data/campaign.json`, `data/visual-content.json`, `data/visual-profile.json` and `docs/GITHUB-WIKI.md` for current public context. `data/projects.json` retains the initial pinned source audit; it is not the current 111-project catalogue. The authoriser address is intentionally blank at Luke's request. Do not infer it from another repository. Do not publish email addresses or add mailto links to public output.
 
 The public website introduces Luke, projects, music and ideas through an independent civic simulation. It provides no planning account, browser-local working records, outreach desk or private server. Those features belong in the separate private command-centre repository. Do not copy contacts, correspondence, receipts, notes, tokens or original private documents here. An enquiry is not permission to publish its sender or contents. Do not send messages without an applicable explicit instruction.
 

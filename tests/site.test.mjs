@@ -10,7 +10,7 @@ const dist=path.join(root,'dist');
 const read=relative=>readFile(path.join(root,relative),'utf8');
 async function files(dir){let found=[];for(const name of await readdir(dir)){const file=path.join(dir,name);found.push(...((await stat(file)).isDirectory()?await files(file):[file]));}return found;}
 test('public output contains only the publication allowlist, never private operations',async()=>{
- const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','collaborate.html','licensing.html','volunteer.html','donations.html','reporting.html','index.html','projects.html','ideas.html','about.html','interview.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
+ const allowed=new Set(['assets','downloads','projects','LICENCE.md','.nojekyll','favicon.ico','sitemap.xml','robots.txt','llms.txt','collaborate.html','licensing.html','volunteer.html','donations.html','reporting.html','index.html','projects.html','p4a.html','ideas.html','about.html','interview.html','music.html','media.html','contact.html','updates.html','sitemap.html','credits.html','privacy.html','licence.html','404.html','campaign.html','calendar.html','transparency.html']);
  for(const name of await readdir(dist)) assert.ok(allowed.has(name),`Unexpected public file: ${name}`);
  assert.ok(!(await readdir(dist)).includes('data'),'Obsolete project register was published alongside the current catalogue');
  for(const file of await files(dist)) assert.doesNotMatch(path.relative(dist,file),/(^|[\\/])(private|operations|integrations|\.env|\.git)([\\/]|$)/);
@@ -71,8 +71,8 @@ test('public copy has no em dashes, exposed campaign email or tracking scripts',
 test('all visual projects have reviewed descriptions and existing credited rasters, with private notes excluded',async()=>{
  const content=JSON.parse(await read('data/visual-content.json')),images=JSON.parse(await read('data/project-images.json'));
  const excluded=JSON.parse(await read('data/public-project-exclusions.json')).excludedRepos;
- const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,110);assert.equal(content.options.length,52);
- assert.equal(new Set(projects.map(p=>p.repoName)).size,110);
+ const projects=content.groups.flatMap(g=>g.projects);assert.equal(projects.length,111);assert.equal(content.options.length,52);
+ assert.equal(new Set(projects.map(p=>p.repoName)).size,111);
  for(const repo of ['straddie-twins','straddie-digital-twin-explainer'])assert.ok(projects.some(p=>p.repoName===repo));
  for(const repo of excluded){assert.ok(!projects.some(p=>p.repoName===repo));for(const p of projects)assert.ok(!p.adjacentProjects.some(a=>a.repoName===repo));}
  for(const p of projects)assert.ok(!excluded.includes(p.repoName));

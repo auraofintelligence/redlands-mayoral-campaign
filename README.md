@@ -20,7 +20,8 @@ The [Strange But True Public Source Licence](LICENCE.md) reserves commercial and
 | --- | --- |
 | [Home](https://auraofintelligence.github.io/redlands-mayoral-campaign/) | Luke's portrait, local photography, featured projects, the Redlands dashboard and album artwork |
 | [Redlands questions](https://auraofintelligence.github.io/redlands-mayoral-campaign/ideas.html) | 52 open questions across 11 topics, searchable introductions, project imagery, Wiki detail and invitations to add questions or experience |
-| [Projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) | 110 selected projects across 23 subjects, beginning with Redlands information and local community work, followed by wider systems and ideas |
+| [Projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) | 111 selected projects across 23 subjects, beginning with Redlands information and local community work, followed by wider systems and ideas |
+| [Explore P4A](https://auraofintelligence.github.io/redlands-mayoral-campaign/p4a.html) | P4A website, committees and inquiries, and the public membership preview |
 | [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home) | 52 introduced ideas, a first-visit guide, words and names, practical examples, council responsibilities, related projects and source references |
 | [About Luke](https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html) | Background and links to the Open Record, work history, Project Atlas and Strange But True |
 | [Interview](https://auraofintelligence.github.io/redlands-mayoral-campaign/interview.html) | Full conversation about music, self-reflection, Community Hours, GAJRA Earth and the mayoral role |
