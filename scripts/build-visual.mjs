@@ -106,6 +106,7 @@ await page({
   lead: 'Explore the civic workbench, committees and inquiries, the public membership preview, and research from Oceania Lab and Native Nations of the World.',
   body: `<section class="section" id="p4a-links" aria-labelledby="p4a-sites-title">
     <h2 id="p4a-sites-title">P4A websites</h2>
+    <p class="notice"><a href="https://auraofintelligence.github.io/p4a-membership/apply/" rel="noreferrer">Membership &amp; participation guide</a>. Optional Australian information and fictional preview. Live enrolment is closed. Local civic research, collaboration and licensing remain independent of membership.</p>
     <div class="cards">${p4aProjectNames.map(repo => projectCard(byRepo.get(repo), true)).join('')}</div>
   </section>`
 });
