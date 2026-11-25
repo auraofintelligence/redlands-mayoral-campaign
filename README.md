@@ -2,6 +2,8 @@
 
 Projects, music, public information and options for Redlands by Luke Nathan Hayes, based at Amity on Minjerribah / North Stradbroke Island.
 
+**README reviewed 25 November 2026.** Current source revision: 11 November 2026 (`798ae86`). The legacy repository name preserves the earlier election exploration; the current identity is Redlands Civic Lab.
+
 <a href="https://auraofintelligence.github.io/redlands-mayoral-campaign/about.html"><img src="public/assets/press/luke-hayes-published-portrait.webp" alt="Luke Nathan Hayes" width="200" height="250" align="right"></a>
 
 **[Open the website](https://auraofintelligence.github.io/redlands-mayoral-campaign/)** · [Explore the projects](https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html) · [GitHub Wiki](https://github.com/auraofintelligence/redlands-mayoral-campaign/wiki/Home)
@@ -35,6 +37,26 @@ The [Strange But True Public Source Licence](LICENCE.md) reserves commercial and
 
 Project descriptions explain the actual work in each source. Related projects have a labelled reason for their connection. Published project websites are the main destinations where available. Owner-requested exclusions keep private, archived and omitted work out of the selected public catalogue.
 
+## Connected P4A ecosystem
+
+| Project | Distinct role |
+| --- | --- |
+| [P4A civic workbench](https://p4a.xyz/) | Australian civic evidence, policies, places and public decision pathways |
+| [Committees and inquiries](https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/) | Australian public participation opportunities and official source routes |
+| [People & possibility](https://auraofintelligence.github.io/p4a-membership/) | Australian membership and civic collaboration development, with a fictional public preview |
+| [P4A Oceania](https://auraofintelligence.github.io/p4a-oceania-cinema/) | Regional civic research, relationships and locally adapted possibilities |
+| [Native Nations of the World](https://auraofintelligence.github.io/p4a-native-nations-cinema/) | Nation-controlled self-description, data sovereignty and optional self-onboarding |
+| [Redlands Civic Lab](https://auraofintelligence.github.io/redlands-mayoral-campaign/) | Local civic simulation and independent project research, not an active candidacy |
+| [Strange But True](https://auraofintelligence.github.io/strange-but-true/) | Independent business, creative and community-project doorway on Minjerribah |
+
+The [P4A onboarding and governance matrix](https://github.com/auraofintelligence/p4a-membership/blob/main/docs/ONBOARDING-GOVERNANCE-MATRIX.md) records development requirements for connecting these public resources. The [membership guide](https://auraofintelligence.github.io/p4a-membership/apply/) is an optional Australian information and preview route, not a live enrolment service or a regional/nation-level affiliation agreement. The sites have separate purposes, authorities, data and hosting. No membership, consent, political endorsement, partnership or right to share private data follows from a link.
+
+### Local civic participation
+
+The dedicated [Explore P4A](https://auraofintelligence.github.io/redlands-mayoral-campaign/p4a.html) page was introduced on 11 November and expanded to include Oceania and Native Nations. It distinguishes the public membership preview from real applications. The membership site's Local nodes already links back to Redlands Civic Lab and Strange But True. The next proposed onboarding bridge is a contextual direct link to the existing membership guide, tracked by the matrix; this README does not activate it in the website.
+
+Redlands Civic Lab's 52 questions and selected 111 projects provide locally grounded starting points for research, public evidence and independent collaboration. They are not a council programme or political campaign platform. Related projects keep their own owner, source status, licensing, decision-makers and jurisdiction. Participation, commercial enquiries and prospective P4A membership remain separate.
+
 ## Redlands sovereign capacity
 
 Begin with **[Joyful Responsible Abundance](https://auraofintelligence.github.io/joyful-responsible-abundance/index.html)**. It connects personal agency, health, learning, useful work, public evidence and shared computing with the means to shape decisions.
@@ -57,9 +79,9 @@ The [9 November 2026 lyric sheet](https://auraofintelligence.github.io/redlands-
 
 The media kit includes a recorded-music broadcasting note (earlier filename retained) and a blank airplay-log template. Broadcasters are asked for track-level dates, times, time zones, repeats and evidence. Airplay records and financial classification remain separate. To refresh the ZIP after an approved resource edit, run `python scripts/build-media-kit.py`, then verify it with `python scripts/build-media-kit.py --check`.
 
-## Private command centre
+## Public and private boundary
 
-The outreach command centre and working records have been separated into the **private** repository `auraofintelligence/redlands-mayoral-command-centre`. This repository publishes only the public civic pages and source Wiki. Running `npm run control` belongs to the separate private repository, not this public site.
+The earlier outreach command centre and working records are held separately in a private repository. This public repository publishes only the civic pages and source Wiki. Do not restore private command-centre pages, contacts, records, credentials or routes to the public build. The private control command belongs to the separate private workspace.
 
 The [migration review](docs/PUBLIC-PRIVATE-MIGRATION-REVIEW.md) records the cleanup of old pages, bookmark redirects, press downloads, integration documentation and build inputs. [Publication notes](https://auraofintelligence.github.io/redlands-mayoral-campaign/updates.html) explain the public website's current role.
 
@@ -101,7 +123,7 @@ The current publication mode is **civic simulation**. Luke decided on 10 Novembe
 
 Original work follows the [Strange But True Public Source Licence](LICENCE.md), with its existing reuse terms. Photographs, fonts and linked work retain their own rights. Read the [image credits](https://auraofintelligence.github.io/redlands-mayoral-campaign/credits.html) before reuse. This is public source. The [project robots file](https://auraofintelligence.github.io/redlands-mayoral-campaign/robots.txt) records the crawler preferences, and the [shared host-root robots file](https://auraofintelligence.github.io/robots.txt) applies them to the project path. The [host-root notes](docs/HOST-ROBOTS.md) explain the arrangement.
 
-Updated **10 November 2026**, Australia/Brisbane.
+Civic simulation transition: **10 November 2026**. Explore P4A expansion: **11 November 2026**. Documentation review: **25 November 2026**, Australia/Brisbane.
 
 ## Lyrics alongside the ideas
 
